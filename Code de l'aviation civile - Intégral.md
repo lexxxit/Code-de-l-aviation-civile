@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1997-10-31
+Version Consolidée au 1997-12-31
 
 # Partie législative
 
@@ -11736,6 +11736,144 @@ il possède un établissement par le soin duquel le contrat a été conclu, soit
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R322-2 (V)
+
+
+###### Article R321-2
+
+Les procédures de sûreté visées à l'article L. 321-7 sont applicables aux expéditions de fret ou de colis postaux destinés à
+être chargés à bord des aéronefs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L321-7
+
+
+###### Article R321-3
+
+La demande présentée par toute entreprise ou organisme sollicitant l'agrément en qualité d'"expéditeur connu" doit comporter
+un programme de sûreté du fret aérien conforme au programme type défini par arrêté du ministre de l'intérieur, du ministre de
+la défense, du ministre chargé des douanes et du ministre chargé des transports.
+
+Le programme de sûreté de l'entreprise ou de l'organisme intéressé comprend obligatoirement les éléments suivants :
+
+description du champ d'activité et de l'organisation de l'entreprise ou organisme, organisation de la sûreté, description des
+mesures de sûreté et moyens mis en oeuvre, modalités de formation des personnels chargés de la sûreté.
+
+L'agrément est délivré par le ministre chargé des transports, après vérification des services compétents, pour une durée de
+cinq ans et pour un ou plusieurs sites sur lesquels l'entreprise ou l'organisme exerce son activité. Au titre de cet
+agrément, l'entreprise ou l'organisme effectue sur les expéditions qui lui sont confiées les vérifications appropriées
+définies aux articles R. 321-6 et R. 321-7 dans le but de s'assurer qu'aucun engin explosif ou objet pouvant porter atteinte
+à la sûreté des vols n'est introduit à bord des aéronefs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 1998 - art. 1 (V)
+	  - Arrêté du 26 octobre 1998 - art. ANNEXE (V)
+	  - Code de l'aviation civile - art. R321-13 (Ab)
+	  - Code de l'aviation civile - art. R321-5 (Ab)
+	  - Code de l'aviation civile - art. R321-6 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R321-7 (M)
+
+
+###### Article R321-4
+
+En cas d'urgence, le ministre chargé des transports peut prononcer la suspension d'agrément prévue à l'article L. 321-7 après
+notification motivée à l'entreprise ou à l'organisme, pour une durée maximale de deux mois.
+
+L'agrément est retiré par le ministre chargé des transports. L'entreprise ou l'organisme est préalablement avisé de la mesure
+envisagée et dispose d'un délai d'un mois pour présenter ses observations.
+
+La suspension ou le retrait peut être prononcé pour un ou plusieurs des sites sur lesquels l'entreprise ou l'organisme exerce
+son activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 1998 - art. 5 (V)
+	  - Code de l'aviation civile - art. R321-12 (Ab)
+	  - Code de l'aviation civile - art. R321-13 (Ab)
+	  - Code de l'aviation civile - art. R321-5 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L321-7 (M)
+
+
+###### Article R321-5
+
+Un "client connu" est une personne morale constituée en conformité avec la législation d'un Etat membre de la Communauté
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ou une collectivité territoriale, qui agit
+en tant qu'expéditeur, qui a établi des relations commerciales régulières avec un "expéditeur connu" et qui, par écrit,
+auprès de celui-ci :
+
+a) S'est engagé à préparer ses expéditions dans des endroits sécurisés ;
+
+b) S'est engagé à employer pour la préparation des expéditions des personnels identifiés présentant les aptitudes requises ;
+
+c) S'est engagé à protéger ou à faire protéger les expéditions de toute intervention illicite pendant leur préparation, leur
+stockage et leur transport vers l'"expéditeur connu" ;
+
+d) Certifie que toutes les dispositions ont été prises pour éviter que ses expéditions contiennent un engin explosif ou un
+objet pouvant porter atteinte à la sûreté des vols ;
+
+e) Accepte que l'emballage et le contenu de ses expéditions soient éventuellement examinés pour des raisons de sûreté.
+
+Les services et établissements publics à caractère administratif de l'Etat, qui agissent en tant qu'expéditeur, qui ont
+établi des relations commerciales régulières avec un "expéditeur connu", et qui ont souscrit aux engagements énoncés aux a, c
+et e du précédent alinéa, sont assimilés à des "clients connus".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 1998 - art. ANNEXE (V)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R321-7 (M)
+	  - Code de l'aviation civile - art. R321-7-2 (Ab)
 
 
 #### CHAPITRE II : TRANSPORT DE PERSONNES.
