@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-11-14
+Version Consolidée au 1973-12-28
 
 # Partie législative
 
@@ -9104,6 +9104,35 @@ l'année à laquelle correspond le traitement retenu pour l'assiette.
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R426-6 (V)
+
+
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL
+
+#### CHAPITRE III : REDEVANCES.
+
+###### Article R433-1
+
+La délivrance des titres aéronautiques aux navigants non professionnels donne lieu au versement de redevances dont les
+modalités d'établissement et de perception ainsi que le montant sont fixés par arrêté conjoint du ministre de l'économie et
+des finances, du ministre chargé de l'aviation civile et du ministre des départements et territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°73-1156 du 20 décembre 1973 - art. 1 () JORF 28 décembre 1973
+
+	**Cité par**:
+
+	  - Décret n°73-1156 du 20 décembre 1973 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1680 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005
 
 
 ## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.
