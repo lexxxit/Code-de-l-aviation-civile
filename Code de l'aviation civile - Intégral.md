@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-04-05
 
 # Partie législative
 
@@ -27821,9 +27821,9 @@ Les dispositions du code du travail relatives à la médecine du travail sont ap
 	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.
+### TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE.
 
-###### Article D360-1
+###### Article D370-1
 
 Un Conseil supérieur de l'aviation marchande est placé auprès du ministre chargé de l'aviation civile.
 
@@ -27846,19 +27846,24 @@ national des transports sont transmis à ce dernier par le ministre chargé de l
 
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de l'aviation civile - art. D370-1 (V)
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-589 du 6 juin 2014 - art. (V)
+	  - Décret n°2015-622 du 5 juin 2015 - art. (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-1 (T)
 
 
-###### Article D360-2
+###### Article D370-2
 
 Le Conseil supérieur de l'aviation marchande peut, lorsqu'il en décide à la majorité des deux tiers de ses membres, présenter
 au ministre chargé de l'aviation civile toutes propositions portant sur des questions intéressant le transport aérien.
@@ -27871,21 +27876,21 @@ au ministre chargé de l'aviation civile toutes propositions portant sur des que
 
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de l'aviation civile - art. D370-2 (V)
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-2 (T)
 
 
-###### Article D360-3
+###### Article D370-3
 
-Le président du conseil supérieur de l'aviation marchande est nommé par décret pris sur le rapport du ministre chargé de
+Le président du Conseil supérieur de l'aviation marchande est nommé par décret pris sur le rapport du ministre chargé de
 l'aviation civile.
 
 Il est assisté d'un vice-président, nommé dans les mêmes conditions et choisi parmi les membres du conseil appartenant au
@@ -27897,21 +27902,21 @@ premier collège.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Nouveaux textes**:
-
-	  - Code de l'aviation civile - art. D370-3 (V)
-
 	**Créé par**:
-
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
 
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
+	**Abrogé par**:
 
-###### Article D360-4
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-3 (T)
+
+
+###### Article D370-4
 
 Outre le président, le conseil supérieur de l'aviation marchande comprend quarante-trois autres membres répartis en deux
 collèges, qui sont nommés par arrêté du ministre chargé de l'aviation civile, dans les conditions suivantes :
@@ -27980,80 +27985,79 @@ membres titulaires.
 
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D360-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'aviation civile - art. D370-4 (M)
-	  - Code de l'aviation civile - art. D370-4 (V)
-
-
-###### Article D360-5
-
-La durée du mandat des membres du conseil supérieur de l'aviation marchande est de trois ans. Le mandat est renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
-	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-	**Nouveaux textes**:
-
-	  - Code de l'aviation civile - art. D370-5 (V)
-
-
-###### Article D360-6
-
-Tout membre ayant perdu la qualité en raison de laquelle il a été désigné cesse de plein droit d'appartenir au conseil
-supérieur de l'aviation marchande. Il est remplacé pour la durée du mandat restant à courir par une personne désignée
-conformément aux dispositions de l'article D. 360-4. Il en est de même en cas de décès ou de démission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Transféré par**:
-
-	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-	**Cite**:
+	**Anciens textes**:
 
 	  - Code de l'aviation civile - art. D360-4 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
 	  - Code de l'aviation civile - art. D370-6 (V)
 
+
+###### Article D370-5
+
+La durée du mandat des membres du Conseil supérieur de l'aviation marchande est de trois ans. Le mandat est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
+	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
+	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-5 (T)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D370-9 (V)
 
 
-###### Article D360-7
+###### Article D370-6
 
-Le conseil supérieur de l'aviation marchande se réunit soit en séance plénière à laquelle participent les membres des deux
+Tout membre ayant perdu la qualité en raison de laquelle il a été désigné cesse de plein droit d'appartenir au Conseil
+supérieur de l'aviation marchande. Il est remplacé pour la durée du mandat restant à courir par une personne désignée
+conformément aux dispositions de l'article D. 370-4. Il en est de même en cas de décès ou de démission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
+	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-6 (T)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D370-4 (M)
+
+
+###### Article D370-7
+
+Le Conseil supérieur de l'aviation marchande se réunit soit en séance plénière à laquelle participent les membres des deux
 collèges, soit en séance ordinaire à laquelle participent les membres du premier collège. Le conseil ne peut valablement
 siéger, selon les cas, que si la moitié au moins des membres composant l'une ou l'autre de ces formations plénière ou
 ordinaire sont présents ou suppléés. Si cette condition n'est pas remplie, les membres sont convoqués pour une nouvelle
@@ -28070,19 +28074,19 @@ prépondérante.
 
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de l'aviation civile - art. D370-7 (V)
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-7 (T)
 
 
-###### Article D360-8
+###### Article D370-8
 
 Les affaires dont le conseil est saisi en application du titre III du livre III de la deuxième partie du présent code donnent
 lieu à une instruction contradictoire en séance plénière et à un rapport écrit communiqué avant chaque séance aux membres du
@@ -28090,8 +28094,8 @@ conseil et aux parties intéressées. Le conseil délibère, en séance ordinair
 
 Les autres affaires soumises au conseil font l'objet de délibérations en séance plénière.
 
-Chaque délibération du conseil supérieur de l'aviation marchande donne lieu à la rédaction d'un avis. Les avis émis par les
-différentes formations du conseil sont transmis par le président au ministre chargé de l'aviation civile. Un procès-verval
+Chaque délibération du Conseil supérieur de l'aviation marchande donne lieu à la rédaction d'un avis. Les avis émis par les
+différentes formations du conseil sont transmis par le président au ministre chargé de l'aviation civile. Un procès-verbal
 des réunions est établi.
 
 **Liens relatifs à cet article**
@@ -28100,21 +28104,21 @@ des réunions est établi.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Nouveaux textes**:
-
-	  - Code de l'aviation civile - art. D370-8 (V)
-
 	**Créé par**:
-
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
 
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
+	**Abrogé par**:
 
-###### Article D360-9
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-8 (T)
+
+
+###### Article D370-9
 
 Le directeur général de l'aviation civile et les directeurs ou chefs de service de la direction générale de l'aviation civile
 peuvent assister, avec voix consultative, à toutes les séances plénières du conseil supérieur de l'aviation marchande.
@@ -28134,21 +28138,21 @@ consultatif, aux séances plénières du conseil.
 
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de l'aviation civile - art. D370-9 (V)
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-9 (T)
 
 
-###### Article D360-10
+###### Article D370-10
 
-Les rapporteurs devant le conseil supérieur de l'aviation marchande sont choisis soit parmi ses membres ou leurs suppléants,
+Les rapporteurs devant le Conseil supérieur de l'aviation marchande sont choisis soit parmi ses membres ou leurs suppléants,
 soit parmi les membres du Conseil d'Etat, de la Cour des comptes, de l'inspection générale des finances ou parmi les
 ingénieurs des corps de l'Etat ou fonctionnaires de l'Etat ayant au moins un grade équivalant à celui d'administrateur civil
 de 2e classe.
@@ -28166,21 +28170,21 @@ Les rapporteurs ont voix délibérative dans les affaires qu'ils rapportent.
 
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de l'aviation civile - art. D370-10 (V)
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-10 (T)
 
 
-###### Article D360-11
+###### Article D370-11
 
-Le secrétariat du conseil supérieur de l'aviation marchande est assuré par un secrétaire permanent recruté, ainsi que les
+Le secrétariat du Conseil supérieur de l'aviation marchande est assuré par un secrétaire permanent recruté, ainsi que les
 autres membres de son personnel, parmi les agents du ministère chargé de l'aviation civile. Les emplois correspondants sont
 tenus à titre d'activité exclusive ou accessoire.
 
@@ -28196,16 +28200,16 @@ avec les rapporteurs, l'instruction des affaires soumises au conseil.
 
 	**Créé par**:
 
-	  - Décret n°85-907 1985-08-09 art. 1 JORF 29 août 1985
-
-	**Transféré par**:
-
 	  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
 	  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de l'aviation civile - art. D370-11 (V)
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-11 (T)
 
 
 ## LIVRE IV : PERSONNEL NAVIGANT
