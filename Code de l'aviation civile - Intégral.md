@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-09-02
+Version Consolidée au 2004-10-05
 
 # Partie législative
 
@@ -14144,6 +14144,8 @@ des nuisances expireront au terme initialement prévu (art. 5).
 
 #### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.
 
+##### Section 1 : Commission nationale de prévention des nuisances
+
 ###### Article R227-1
 
 Les membres de la Commission nationale de prévention des nuisances prévue à l'article L. 227-4, ainsi que leurs suppléants,
@@ -14164,26 +14166,15 @@ dont une au moins au titre des associations de riverains.
 Chacun de ces membres titulaires dispose d'un suppléant nommé dans les mêmes conditions que ci-dessus. En cas
 d'indisponibilité de ce suppléant, il peut être fait appel à un second suppléant nommé dans les mêmes conditions.
 
-**Nota:**
-
-Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
-l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
-transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
-initialement prévu.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
 
 	**Cite**:
 
@@ -14203,26 +14194,15 @@ En cas de vacance survenant plus de six mois avant l'expiration du mandat, il es
 prévues à l'article R. 227-1, d'un nouveau membre dont le mandat expire à la date à laquelle aurait expiré le mandat de la
 personne qu'il remplace.
 
-**Nota:**
-
-[*NOTA : Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur
-lorsque l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à
-titre transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au
-terme initialement prévu.*]
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
 
 	**Cite**:
 
@@ -14234,26 +14214,15 @@ terme initialement prévu.*]
 La Commission nationale de prévention des nuisances se réunit sur convocation de son président. Elle ne peut siéger que si
 huit au moins de ses membres titulaires ou suppléants sont présents.
 
-**Nota:**
-
-Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
-l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
-transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
-initialement prévu.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
 
 
 ###### Article R227-4
@@ -14261,13 +14230,6 @@ initialement prévu.
 Les fonctions de membre de la Commission nationale de prévention des nuisances sont gratuites. Toutefois, les membres de la
 commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements
 temporaires par les décrets n° 89-271 du 12 avril 1989 et n° 90-437 du 28 mai 1990.
-
-**Nota:**
-
-Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
-l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
-transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
-initialement prévu.
 
 **Liens relatifs à cet article**
 
@@ -14280,13 +14242,9 @@ initialement prévu.
 	  - Décret n°89-271 1989-04-12
 	  - Décret n°90-437 1990-05-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
 
 
 ###### Article R227-5
@@ -14295,26 +14253,15 @@ La commission établit son règlement intérieur. Un agent de la direction gén�
 ministre chargé de l'aviation civile pour exercer les fonctions de secrétaire général sous l'autorité du président de la
 commission.
 
-**Nota:**
-
-Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
-l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
-transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
-initialement prévu.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
 
 
 ###### Article R227-6
@@ -14333,27 +14280,22 @@ celle-ci et entendu la personne concernée ou son représentant dans sa défense
 La commission délibère valablement au cas où la personne concernée dûment convoquée et n'ayant pas bénéficié d'une décision
 de report de l'examen du dossier prise par le président néglige de comparaître ou de se faire représenter.
 
-**Nota:**
-
-Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
-l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
-transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
-initialement prévu.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+	  - Décret n°2010-405 du 27 avril 2010 - art. 1
 
+
+##### Section 2 : Modification de la circulation aérienne
 
 ###### Article R227-7
 
@@ -14383,13 +14325,231 @@ L'enquête publique a lieu dans les communes dont le territoire est situé dans 
 	  - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
 	  - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-558 du 15 juin 2004 - art. 1 () JORF 18 juin 2004
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L227-10 (M)
+
+
+##### Section 3 : Restrictions d'exploitation liées au bruit des aéronefs
+
+###### Article R227-8
+
+Sans préjudice de l'application des dispositions de l'article R. 221-3, des restrictions d'exploitation au sens du e de
+l'article 2 de la directive 2002/30/ CE du 26 mars 2002 peuvent être imposées par arrêté du ministre chargé de l'aviation
+civile sur les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts. Ces restrictions sont
+établies aérodrome par aérodrome en prenant en compte les caractéristiques propres de l'aérodrome considéré et les effets
+prévisibles de la réduction à la source du bruit généré par les aéronefs, des mesures d'aménagement du territoire,
+d'urbanisme et de construction et des procédures de navigation aérienne et de conduite de vol visant à limiter le bruit pour
+les riverains, ainsi que des coûts et avantages que sont susceptibles d'entraîner, outre les restrictions envisagées, ces
+différentes mesures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de l'aviation civile - art. R227-10 (V)
+	  - Code de l'aviation civile - art. R227-11 (V)
+	  - Code de l'aviation civile - art. R227-15 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1609 quatervicies A (V)
+	  - Code de l'aviation civile - art. R221-3 (V)
+
+
+###### Article R227-9
+
+L'évaluation des caractéristiques d'un aérodrome et des différentes mesures dont il est susceptible de faire l'objet comporte
+les informations prévues par arrêté du ministre chargé de l'aviation civile portant notamment sur la situation de
+l'aérodrome, les effets sur l'environnement du transport aérien en l'absence de mesures visant à en limiter les nuisances
+sonores et la comparaison des mesures envisagées au regard de leurs conséquences économiques et de leur efficacité
+environnementale. L'évaluation et les projets de mesures qui en tirent les conséquences sont mis à la disposition de toute
+personne intéressée dans les services de la direction générale de l'aviation civile. 
+
+Lorsque des projets aéroportuaires font l'objet d'une étude d'impact en application de l'article L. 122-1 du code de
+l'environnement, celle-ci vaut évaluation au sens de l'alinéa précédent lorsqu'elle comporte les informations fixées par
+l'arrêté prévu à ce même alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1 (V)
+
+
+###### Article R227-10
+
+Celles des restrictions d'exploitation visées à l'article R. 227-8 qui sont définies par référence à des critères de
+performances se fondent sur le bruit émis par l'aéronef, déterminé par la procédure de certification menée conformément à
+l'annexe 16, volume 1, troisième édition (juillet 1993) de la convention relative à l'aviation civile internationale du 7
+décembre 1944.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention 1944-12-07 annexe 16
+	  - Code de l'aviation civile - art. R227-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+
+###### Article R227-11
+
+Lorsqu'une mesure de retrait des aéronefs présentant une faible marge de conformité au sens du d de l'article 2 de la
+directive 2002/30/ CE du 26 mars 2002, sur un aérodrome entrant dans le champ d'application de la présente section, est prise
+conformément à l'article R. 227-8, les règles suivantes s'appliquent :
+
+- six mois après la publication de la mesure, le nombre de mouvements effectués dans l'aéroport avec des aéronefs présentant
+une faible marge de conformité ne peut être supérieur, pour une période donnée, à celui de la période correspondante de
+l'année précédente ;
+
+- six mois au moins après l'expiration du délai de six mois prévu à l'alinéa précédent, chaque exploitant peut être tenu de
+réduire le nombre de mouvements de ses aéronefs présentant une faible marge de conformité qui sont utilisés dans l'aéroport,
+à un rythme annuel qui ne dépasse pas 20 % du nombre annuel de ces mouvements à la date de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R227-13 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R227-8 (V)
+
+
+###### Article R227-12
+
+Les dispositions de la présente section ne s'appliquent pas :
+
+- aux restrictions d'exploitation qui ont été décidées avant la date d'entrée en vigueur de la directive 2002/30/CE du 26
+mars 2002 ;
+
+- aux modifications mineures d'ordre technique apportées aux restrictions d'exploitation partielles qui n'ont pas d'incidence
+significative en termes de coûts pour les entreprises de transport aérien et qui ont été introduites après l'entrée en
+vigueur de la directive 2002/30/CE du 26 mars 2002.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2002-30 CE 2002-03-26
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+
+###### Article R227-13
+
+Les aéronefs présentant une faible marge de conformité immatriculés sur les registres de pays en développement dont la liste
+est fixée par arrêté du ministre chargé de l'aviation civile sont, pendant une période de dix ans à compter du 28 mars 2002,
+exemptés de la mesure visée à l'article R. 227-11, à condition :
+
+- que ces aéronefs, pour lesquels a été délivré un certificat attestant qu'ils répondent aux normes acoustiques définies dans
+le volume 1, deuxième partie, chapitre III, de l'annexe 16 de la convention relative à l'aviation civile internationale,
+aient été utilisés sur l'aérodrome considéré entre le 1er janvier 1996 et le 31 décembre 2001 et ;
+
+- que ces aéronefs aient figuré pendant cette période sur le registre du pays en développement considéré et continuent d'être
+exploités par une personne établie dans ce pays.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention 1944-12-07 annexe 16
+	  - Code de l'aviation civile - art. R227-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+
+###### Article R227-14
+
+Le ministre chargé de l'aviation civile peut accorder des autorisations individuelles pour l'exploitation particulière
+d'aéronefs présentant une faible marge de conformité qui ne pourrait s'exercer sur la base d'autres dispositions de la
+présente section. Cette exemption est limitée :
+
+- aux aéronefs dont l'exploitation revêt un caractère exceptionnel ;
+
+- aux aéronefs effectuant des vols non commerciaux à des fins de modification, de réparation ou d'entretien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+
+###### Article R227-15
+
+La décision du ministre chargé de l'aviation civile prononçant une mesure de restriction d'exploitation en application de
+l'article R. 227-8, accompagnée de l'exposé des motifs ayant présidé à son introduction si elle procède au retrait des
+aéronefs présentant une faible marge de conformité, est publiée au moins deux mois avant la tenue de la conférence
+internationale de planification des mouvements d'aéronefs relative à la période de planification horaire pertinente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R227-8 (V)
 
 
 ### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
