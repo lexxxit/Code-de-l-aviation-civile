@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1992-04-12
+Version Consolidée au 1992-12-19
 
 # Partie législative
 
@@ -11608,58 +11608,65 @@ Une autorisation est requise dans les mêmes formes en cas de cession de partici
 
 ###### Article R342-1
 
-Le conseil d'administration de la Compagnie nationale Air France comprend dix-huit membres :
+"Le conseil d'administration de la Compagnie nationale Air France comprend dix-huit membres :
 
-1° Cinq représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
+" 1° Cinq représentants de l'Etat nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
 
-Un sur proposition du Premier ministre ;
+" - un sur proposition du Premier ministre ;
 
-Deux sur proposition du ministre chargé de l'aviation civile ;
+" - deux sur proposition du ministre chargé de l'aviation civile ;
 
-Un sur proposition du ministre chargé de l'économie ;
+" - un sur proposition du ministre chargé de l'économie ;
 
-Un sur proposition du ministre chargé du budget ;
+" - un sur proposition du ministre chargé du budget ;
 
-Un sur proposition du ministre chargé du tourisme ;
+" 2° Cinq personnalités nommées par décret sur le rapport du ministre chargé de l'aviation civile et choisies soit en raison
+de leur compétence technique, scientifique ou technologique, soit en raison de leur connaissance du transport aérien, soit en
+raison de leur qualité de représentant des usagers.
 
-2° Six personnalités nommées par décret sur le rapport du ministre chargé de l'aviation civile et choisies soit en raison de
-leur compétence technique, scientifique ou technologique, soit en raison de leur connaissance du transport aérien, soit en
-raison de leur qualité de représentant des usagers. Trois de ces personnalités sont choisies :
+" Trois de ces personnalités sont choisies :
 
-L'une parmi les membres des chambres de commerce et d'industrie de la métropole ;
+" - l'une parmi les membres des chambres de commerce et d'industrie de la métropole ;
 
-L'une parmi les membres des chambres de commerce et d'industrie d'outre-mer ou de France à l'étranger ;
+" - l'une parmi les membres des chambres de commerce et d'industrie d'outre-mer ou de France à l'étranger ;
 
-L'une sur proposition du ministre chargé de la défense ;
+" - l'une sur proposition du ministre chargé de la défense ;
 
-3° Six représentants des salariés, élus dans le cadre de trois collèges électoraux distincts à raison de :
+" 3° Un représentant des actionnaires de capital autres que l'Etat, désigné, en son sein, par une section de l'assemblée
+générale ordinaire, composée de ces seuls actionnaires ;
 
-Un élu par le personnel navigant technique ;
+" 4° Un représentant de la société coopérative de main-d'oeuvre, nommé par l'assemblée générale de la compagnie parmi les
+délégués de la société coopérative de main-d'oeuvre ;
 
-Un élu par le personnel navigant commercial ;
+" 5° Six représentants élus par les salariés de la compagnie nationale et les salariés de ses filiales au sens du 4 de
+l'article 1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, dans le cadre de trois
+collèges électoraux distincts à raison de :
 
-Quatre élus, dont un représentant des cadres, par les autres salariés de la compagnie nationale et les salariés de ses
-filiales au sens du 4° de l'article 1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur
-public.
+" - un élu par le personnel navigant technique ;
 
-4° Un représentant des actionnaires autres que l'Etat, désigné, en son sein, par une section de l'assemblée générale
-ordinaire, composée de ces seuls actionnaires.    Les conditions de présentation des listes de candidats, définies à
-l'article 17 de ladite loi, s'apprécient par collège. Sous cette réserve, les élections sont organisées conformément aux
-dispositions du chapitre II du titre II de ladite loi et du décret n° 83-1160 du 26 décembre 1983 pris pour son application.
+" - un élu par le personnel navigant commercial ;
 
-Il peut être mis fin par décret au mandat des représentants de l'Etat et, en cas de faute grave, au mandat des personnalités
-choisies comme membres du conseil au titre du 2° ci-dessus.
+" - quatre élus, dont un représentant des cadres, par les autres salariés.
 
-La durée des mandats des membres du conseil d'administration est de cinq ans. Cependant les membres du conseil doivent être
-remplacés lorsqu'ils ont perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus les
-conditions d'éligibilité. Dans le cas où il y a lieu de procéder au remplacement de membres du conseil, les nouveaux membres
+" Les conditions de présentation des listes de candidats, définies à l'article 17 de ladite loi, s'apprécient par collège.
+Sous cette réserve, les élections sont organisées conformément aux dispositions du chapitre II du titre II de ladite loi et
+du décret n° 83-1160 du 26 décembre 1983 pris pour son application.
+
+" Il peut être mis fin par décret au mandat des représentants de l'Etat et des personnalités choisies comme membres du
+conseil au titre du 2° ci-dessus.
+
+" La durée des mandats des membres du conseil d'administration est de cinq ans. Cependant, les membres du conseil doivent
+être remplacés lorsqu'ils ont perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus les
+conditions d'éligibilité. Dans le cas où il y a lieu de procéder au remplacement des membres du conseil, les nouveaux membres
 restent en fonctions jusqu'à la date de l'expiration normale du mandat des membres du conseil qu'ils remplacent.
 
-Deux censeurs nommés pour cinq ans siègent avec voix consultative au conseil d'administration de la compagnie nationale. L'un
-est nommé par décret sur le rapport du ministre chargé de l'aviation civile sur proposition du ministre chargé du tourisme ;
-l'autre est nommé par l'assemblée générale ordinaire. Il peut être mis fin, à tout moment, à leurs fonctions dans les mêmes
-conditions.    Le secrétaire du comité central d'entreprise siège, avec voix consultative, au conseil d'administration de la
-compagnie nationale.
+" Deux censeurs nommés pour cinq ans siègent avec voix consultative au conseil d'administration de la compagnie nationale.
+L'un est nommé par décret sur le rapport du ministre chargé de l'aviation civile sur proposition du ministre chargé du
+tourisme ; l'autre est nommé par l'assemblée générale ordinaire. Il peut être mis fin, à tout moment, à leurs fonctions dans
+les mêmes conditions.
+
+" Le secrétaire du comité central d'entreprise siège, avec voix consultative, au conseil d'administration de la compagnie
+nationale.
 
 **Liens relatifs à cet article**
 
@@ -11667,16 +11674,19 @@ compagnie nationale.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°84-352 1984-05-11 art. 1 JORF 12 mai 1984
-	  - Décret n°87-843 1987-10-16 art. 1 JORF 17 octobre 1987
-
 	**Cite**:
 
-	  - Loi n°83-675 1983-07-26 art. 1, 17
+	  - Loi n°83-675 1983-07-26 art. 1, art. 17
 	  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
 	  - Décret n°83-1160 1983-12-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-1322 1992-12-18 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1322 du 18 décembre 1992 - art. 3 () JORF 19 décembre 1992
 
 	**Cité par**:
 
@@ -11753,13 +11763,12 @@ proposition par le conseil d'administration.
 
 ###### Article R342-4
 
-Le président, le directeur général et les membres du conseil d'administration, nommés par décret, doivent être de nationalité
-française et jouir de leurs droits civiques. Ils ne peuvent appartenir au Parlement. Les représentants des salariés doivent
-remplir les conditions fixées à l'article 15 de la loi n° 83-675 du 26 juillet 1983. (1)
+Le président, le directeur général et les membres du conseil d'administration nommés par décret doivent jouir de leurs droits
+civiques. Ils ne peuvent appartenir au Parlement. Les représentants des salariés doivent remplir les conditions fixées à
+l'article 15 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
 
-Le directeur général ne peut exercer aucune fonction, rémunérée ou non, dans des entreprises privées, sauf s'il s'agit de
-filiales dans lesquelles la Compagnie nationale Air France a une participation majoritaire et après autorisation du conseil
-d'administration.
+Le directeur général ne peut exercer aucune fonction, rémunérée ou non, dans des entreprises privées sauf s'il s'agit
+d'entreprises dans lesquelles la Compagnie nationale Air France a une participation directe ou indirecte.
 
 Le président du conseil d'administration peut être révoqué par décret pris en conseil des ministres sur le rapport du
 ministre chargé de l'aviation civile.
@@ -11768,12 +11777,10 @@ Le directeur général peut être révoqué par décision du conseil d'administr
 
 Le président, les administrateurs, à l'exception de ceux représentant le personnel, le directeur général ainsi que tout
 mandataire chargé d'un acte de gestion de la compagnie sont responsables civilement dans les mêmes conditions que les
-administrateurs, directeurs généraux et mandataires des sociétés anonymes. (2)
-
-Les incompatibilités légales visant ces derniers leur sont également opposables.
+administrateurs, directeurs généraux et mandataires des sociétés anonymes.
 
 Les administrateurs représentant le personnel sont soumis au statut défini par le chapitre III du titre II de la loi du 26
-juillet 1983 susmentionnée. (3)
+juillet 1983 susmentionnée.
 
 **Liens relatifs à cet article**
 
@@ -11786,13 +11793,21 @@ juillet 1983 susmentionnée. (3)
 
 	  - Décret n°67-334 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°84-352 1984-05-11 art. 3 JORF 12 mai 1984
-
 	**Cite**:
 
 	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-1322 1992-12-18 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°92-1322 du 18 décembre 1992 - art. 3 () JORF 19 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°95-92 du 30 janvier 1995 - art. 2 () JORF 31 janvier 1995
 
 
 ###### Article R342-5
