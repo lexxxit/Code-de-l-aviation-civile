@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1985-07-25
+Version Consolidée au 1985-07-31
 
 # Partie législative
 
@@ -15370,18 +15370,322 @@ d'immatriculation, d'une mention certifiant que la transcription a été effectu
 
 ##### Paragraphe 1 : Définition des types de circulation aérienne.
 
-###### Article D131-2
+###### Article D131-1
 
-La circulation aérienne générale [*définition*] est constituée par l'ensemble des mouvements aériens des aéronefs civils et
-des aéronefs d'Etat lorsque ceux-ci effectuent des vols assimilables aux précédents du fait de leur nature. Elle relève de la
-compétence du ministre chargé de l'aviation civile.
+La circulation aérienne comprend :
+
+- la circulation aérienne générale, qui relève de la compétence du ministre chargé de l'aviation civile ;
+
+- la circulation aérienne militaire comprenant elle-même la circulation opérationnelle militaire et la circulation d'essais
+et de réception, qui relève de la compétence du ministre chargé des armées.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 15 mars 1991
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 4 avril 1996 - art. 24 (V)
+	  - Arrêté du 4 avril 1996 - art. 55 (V)
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Arrêté du 19 juin 2006 - art. 3 (V)
+	  - Arrêté du 1er février 2008 (V)
+	  - Arrêté du 28 janvier 2009 (V)
+	  - Arrêté du 9 février 2009 (V)
+	  - Arrêté du 8 juin 2009 (Ab)
+	  - Code de l'aviation civile - art. Annexe III (V)
+	  - Code de la défense. - art. D3224-17 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+
+###### Article D131-2
+
+La circulation aérienne générale [*définition*] est constituée par l'ensemble des mouvements des aéronefs civils et des
+aéronefs d'Etat soumis à la réglementation propre à ce type de circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30 JORF 9 avril 1967)
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
 
 	**Cité par**:
 
 	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
 	  - Code de l'aviation civile - art. D131-9 (M)
+
+
+###### Article D131-3
+
+La circulation opérationnelle militaire est constituée par l'ensemble des mouvements des aéronefs qui, pour des raisons
+d'ordre technique ou militaire, relèvent de la réglementation propre à ce type de circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+	**Cité par**:
+
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Code de l'aviation civile - art. D131-9 (V)
+
+
+###### Article D131-4
+
+La circulation d'essai et de réception est constituée par l'ensemble des mouvements des aéronefs en essai ou en réception
+soumis, pour des raisons d'ordre technique et avec l'agrément du directeur du centre d'essais en vol, à la réglementation
+propre à ce type de circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+	**Cité par**:
+
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Code de l'aviation civile - art. D131-9 (V)
+
+
+###### Article D131-5
+
+Les règles applicables à chacun des types de circulation aérienne doivent être compatibles avec celles qui régissent les
+autres types de circulation. Le délégué à l'espace aérien, agissant en vertu de la délégation qui lui est conférée par le
+décret n° 71-1007 du 17 décembre 1971, fixe les règles de nature à assurer cette compatibilité dans les conditions prévues
+par la réglementation relative à l'espace aérien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Décret n°71-1007 1971-12-17
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2013 - art. 13 (V)
+	  - Code de l'aviation civile - art. D131-6 (V)
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°95-421 du 20 avril 1995 - art. 2 (V)
+
+
+###### Article D131-6
+
+Dans le cadre fixé par l'article précédent, le ministre chargé de l'aviation civile et le ministre chargé des armées
+établissent la réglementation propre à la circulation aérienne qui relève de leurs compétences respectives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°95-421 du 20 avril 1995 - art. 2 (V)
+
+
+##### Paragraphe 2 : Règles de l'air
+
+##### Attributions et rôles des services civils et des organismes militaires de la circulation aérienne.
+
+###### Article D131-7
+
+Les règles de l'air définies à l'annexe I (1) de la présente section s'imposent à tous les aéronefs compris dans la
+circulation aérienne générale dans l'espace aérien où les services de la circulation aérienne sont assurés par
+l'administration française.
+
+Elles s'imposent, en dehors de cet espace aérien, aux aéronefs portant les marques de nationalité et d'immatriculation
+françaises dans la mesure où elles sont compatibles avec les règles édictées par l'Etat ou l'organisme international qui a
+autorité sur l'espace aérien où se trouvent ces aéronefs.
+
+**Nota:**
+
+: (1) Sous réserve des dispositions des articles D. 131-5 et D. 131-6, les annexes I et II mentionnées aux articles D. 131-7
+et D. 131-9 demeurent celles annexées au décret n° 71-180 du 2 mars 1971 modifiées par les décrets n° 78-1038 du 18 octobre
+1978, n° 79-1059 du 3 décembre 1979 et n° 81-269 du 18 mars 1981. Elles sont publiées au Journal officiel et mises à la
+disposition de toute personne intéressée par le service de l'information aéronautique, rue Champagne,91205 Athis-Mons.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°78-1038 du 18 octobre 1978 - art. 1 (V)
+	  - Décret n°78-1038 du 18 octobre 1978 - art. ANNEXE (V)
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+
+###### Article D131-8
+
+Les règles de la circulation aérienne militaire sont établies en conformité avec les règles de l'air dans la mesure où
+celles-ci sont adaptées aux missions des armées et du centre d'essais en vol.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°78-1038 du 18 octobre 1978 - art. 1 (V)
+	  - Décret n°78-1038 du 18 octobre 1978 - art. ANNEXE (V)
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+
+###### Article D131-9
+
+Le rôle qu'exercent au bénéfice de la circulation aérienne générale les services civils chargés de cette circulation est
+défini à l'annexe II de la présente section.
+
+Le rôle qu'exercent au bénéfice de la circulation aérienne militaire les organismes chargés de cette circulation est défini à
+l'annexe III de la présente section.
+
+Suivant les modalités précisées par des arrêtés conjoints du ministre chargé de l'aviation civile et du ministre chargé de la
+défense, certains organismes de la circulation aérienne militaire peuvent rendre au bénéfice de la circulation aérienne
+générale les services définis à l'annexe II précitée et, réciproquement, certains organismes de la circulation aérienne
+générale peuvent rendre au bénéfice de la circulation aérienne militaire les services définis à l'annexe III précitée pour
+autant que ces derniers soient compatibles avec les conditions habituelles d'exercice du contrôle de la circulation aérienne
+générale.
+
+Ces services sont rendus, en ce qui concerne la circulation aérienne générale, pour le compte du ministre chargé de
+l'aviation civile en application de l'article D. 131-2 de la présente section, et, en ce qui concerne la circulation aérienne
+militaire, pour le compte du ministre chargé des armées, en application des articles D. 131-3 et D. 131-4 de la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°78-1038 du 18 octobre 1978 - art. 1 (V)
+	  - Décret n°78-1038 du 18 octobre 1978 - art. ANNEXE (V)
+	  - Décret n°90-998 du 8 novembre 1990 - art. 3 (M)
+	  - Arrêté du 19 mars 1993 - art. 8 (Ab)
+	  - Décret n°96-319 du 10 avril 1996 - art. 8 (Ab)
+	  - Arrêté du 2 juillet 1998 - art. 3 (V)
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 2 (V)
+	  - Arrêté du 4 juillet 2006 - art. 1 (Ab)
+	  - Arrêté du 30 décembre 2008 (V)
+	  - Arrêté du 8 juin 2009 - art. (VT)
+	  - Arrêté du 23 février 2016 - art. 1 (V)
+	  - Code de l'aviation civile - art. Annexe III (V)
+	  - Décret n°87-34 du 22 janvier 1987 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D131-2 (M)
+	  - Code de l'aviation civile - art. D131-3 (M)
+	  - Code de l'aviation civile - art. D131-4 (M)
+
+
+###### Article D131-10
+
+Le ministre chargé de l'aviation civile assure en accord avec le ministre charge des armées et, dans la limite de ses
+attributions, après avis du délégué à l'espace aérien, la mise à jour et la publication des annexes I et II au présent
+chapitre ainsi que la publication de tous rectificatifs, additifs et textes d'application nécessaires.
+
+Le ministre chargé des armées assure en accord avec le ministre chargé de l'aviation civile et, dans la limite de ses
+attributions, après avis du délégué à l'espace aérien, la mise à jour et la publication de l'annexe III au présent chapitre
+ainsi que la publication de tous rectificatifs, additifs et textes d'application nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°78-1038 du 18 octobre 1978 - art. 1 (V)
+	  - Décret n°78-1038 du 18 octobre 1978 - art. ANNEXE (V)
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 3 (V)
+	  - Arrêté du 4 juillet 2006 - art. 2 (Ab)
+	  - Décret n°2013-366 du 29 avril 2013 - art. 7 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 15 mars 1991
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
 
 
 ##### Paragraphe 3 : Météorologie.
