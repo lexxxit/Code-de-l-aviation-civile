@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1979-06-09
+Version Consolidée au 1979-06-10
 
 # Partie législative
 
@@ -15093,23 +15093,6 @@ de discipline qui doit émettre son avis dans les deux mois.
 	**Créé par**:
 
 	  - Décret n°77-1140 1977-10-05 art. 1 JORF 12 octobre 1977
-
-
-###### Article D435-11
-
-En cas de poursuite devant les tribunaux répressifs à l'occasion des faits qui ont justifié la mise en oeuvre de la procédure
-disciplinaire, celle-ci est suspendue de plein droit. Toutefois les dispositions de l'alinéa 1er de l'article D. 435-10
-demeurent applicables.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°77-1140 du 5 octobre 1977, art 1 v. init.
-
-	**Abrogé par**:
-
-	  - Décret n°79-445 du 1 juin 1979, art 1 v. init.
 
 
 ## LIVRE VI : DISPOSITIONS DIVERSES
