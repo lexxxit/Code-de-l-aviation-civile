@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1980-11-17
+Version Consolidée au 1980-11-21
 
 # Partie législative
 
@@ -1864,6 +1864,89 @@ infractions.
 	  - Code de l'aviation civile L150-17, R150-1
 
 
+###### Article L150-13
+
+Indépendamment des officiers de police judiciaire sont chargés de la constatation des infractions aux dispositions du présent
+livre et des décrets pris pour son application les agents des contributions indirectes, les agents techniques des eaux et
+forêts ou des douanes, les gendarmes, les ingénieurs de l'armement affectés à l'aéronautique et les techniciens d'études et
+de fabrication des constructions aéronautiques, (3) les ingénieurs des ponts et chaussées, les ingénieurs des travaux publics
+de l'Etat (ponts et chaussées) chargés des bases aériennes, les ingénieurs des mines, les ingénieurs des travaux publics de
+l'Etat (mines), les fonctionnaires des corps techniques de l'aviation civile, les militaires, marins et agents de l'autorité
+militaire ou maritime commissionnés à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 55
+	  - Loi n°1924-05-31 art. 77
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-908 1980-11-17 art. 8 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Arrêté du 17 juin 1986 - art. ANNEXE (Ab)
+	  - Code de l'aviation civile - art. L227-4 (VT)
+	  - Code de l'aviation civile - art. L330-10 (VT)
+	  - Code de l'aviation civile - art. R123-9 (V)
+	  - Code de l'aviation civile - art. R151-5 (V)
+	  - Code de l'aviation civile - art. R160-2 (V)
+	  - Code de l'aviation civile - art. R226-2 (V)
+	  - Code de l'aviation civile - art. R330-21 (M)
+
+
+###### Article L150-14
+
+Le procureur de la République, le juge d'instruction, les officiers de police judiciaire désignés à l'article 16 du code de
+procédure pénale, les fonctionnaires des corps techniques de l'aviation civile, les militaires ou marins et les agents de
+l'autorité militaire ou maritime, commissionnés à cet effet, les gendarmes, les ingénieurs de l'armement affectés à
+l'aéronautique, les techniciens d'études et de fabrication des constructions aéronautiques, les agents des contributions
+indirectes, les agents des douanes, les agents techniques des eaux et forêts et les gardes champêtres auront le droit de
+saisir les explosifs, les armes et munitions de guerre, les pigeons voyageurs, les appareils de photographie, les clichés et
+les correspondances postales, ainsi que les appareils radiotélégraphiques et radiotéléphoniques qui se trouveraient à bord
+sans l'autorisation spéciale prévue par les règlements.
+
+Les mêmes autorités pourront saisir les pigeons voyageurs, les appareils photographiques et les clichés qui se trouveront à
+bord d'aéronefs autorisés à transporter ces objets dans le cas où ces aéronefs seraient passés au-dessus de zones interdites.
+
+Elles pourront également saisir les pigeons voyageurs ainsi que les messages dont ils seraient porteurs.
+
+La confiscation des objets et appareils régulièrement saisis sera prononcée par le tribunal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 56
+	  - Loi n°1924-05-31 art. 78
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°80-908 1980-11-17 art. 8 JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6232-9 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 16
+
+
 ###### Article L150-15
 
 Les aéronefs dont les certificats de navigabilité ne pourront être produits ou dont les marques d'immatriculation ne
@@ -1995,6 +2078,38 @@ sur plusieurs départements.
 	**Cite**:
 
 	  - CODE DES COMMUNES. - art. L131-2 (M)
+
+
+#### CHAPITRE V : DISPOSITIONS SANITAIRES.
+
+###### Article L215-1
+
+Conformément à l'article L. 52 du code de la santé publique, le contrôle sanitaire aux frontières est régi sur le territoire
+de la République française par les dispositions des règlements sanitaires pris par l'Organisation mondiale de la santé,
+conformément aux articles 21 et 22 de sa constitution, des arrangements internationaux et des lois et règlements nationaux
+intervenus ou à intervenir en cette matière en vue de prévenir la propagation par voie aérienne des maladies transmissibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 2 JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L52
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L283-1 (VT)
 
 
 ### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE
@@ -2162,6 +2277,40 @@ décret en Conseil d'Etat.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L6311-3 (V)
+
+
+#### CHAPITRE IV : REDEVANCES.
+
+###### Article L224-1
+
+Conformément à l'article 195 bis modifié du code des douanes, aucun droit de port ou redevance sur les produits pétroliers,
+mentionnés au tableau B de l'article 265 de ce code, livrés à l'avitaillement des navires ou des aéronefs ne peut être
+institué ou perçu au profit soit des collectivités ou organismes quelconques (départements, communes, chambres de commerce,
+ports autonomes, aéroports, etc.), soit de concessionnaires d'installations de distribution sans que la création ou de ce
+droit ou de cette redevance ait été autorisée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 3 JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6325-4 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 195 bis
+	  - Code des douanes - art. 265
 
 
 ### TITRE V : AEROPORTS DE PARIS
@@ -3066,6 +3215,50 @@ sous réserve de la compétence des juridictions militaires dans les cas prévus
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
+###### Article L282-14
+
+Dans le cas où les infractions aux dispositions du présent chapitre ont porté atteinte à l'intégrité du domaine public ou à
+sa conservation, les autorités énumérées à l'article L. 282-6 saisissent le tribunal administratif territorialement
+compétent, au besoin, en cas d'urgence, dans les conditions et suivant les procédures prévues par le code des tribunaux
+administratifs.
+
+Le tribunal administratif dispose de tous les pouvoirs reconnus au juge des contraventions de grande voirie pour assurer la
+réparation des atteintes portées au domaine public.
+
+Les personnes condamnées supportent les frais des mesures provisoires et urgentes que l'administration a pu être amenée à
+prendre pour faire cesser le trouble apporté au domaine public par les infractions constatées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Modifié par**:
+
+	  - Décret n°80-908 1980-11-17 art. 8 JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6371-4 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-6
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L2132-13 (V)
+
+
 ###### Article L282-15
 
 Les tribunaux judiciaires de droit commun peuvent condamner à la réparation de l'atteinte portée aux aérodromes ou
@@ -3670,6 +3863,115 @@ titre IV sont déterminés par décret en Conseil d'Etat.
 	  - Code de l'aviation civile - art. L342-3 (M)
 
 
+### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
+
+#### Section 1 : Transports sanitaires.
+
+###### Article L351-1
+
+Conformément à l'article L. 51-1 du code de la santé publique, un agrément est délivré par le préfet, après avis de la
+commission départementale de l'équipement, section sanitaire et sociale, aux personnes physiques ou morales qui exploitent
+une entreprise privée de transports sanitaires, que le transport soit terrestre, aérien ou maritime, dès lors qu'elles se
+conforment aux conditions d'exploitation déterminées par un décret en Conseil d'Etat qui précise les droits qu'il leur
+confère et les obligations qui en découlent.
+
+**Nota:**
+
+L'article L. 51-1 du code de la santé publique a été abrogé et remplacé par la loi n° 86-11 du 6 janvier 1986. Il doit donc
+être retiré du code de l'aviation civile sous sa forme actuelle et réinséré sous sa nouvelle forme. Il est reproduit
+provisoirement pour mémoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L51-1
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R351-1 (V)
+
+
+###### Article L351-2
+
+Ainsi qu'il est dit à l'article L. 51-2 du code de la santé publique : "L'agrément prévu à l'article précédent est retiré par
+le préfet, après avis de la commission départementale d'équipement, section sanitaire et sociale, dès lors que les conditions
+prévues au décret en Conseil d'Etat ne sont plus remplies.
+
+En cas d'urgence, le préfet peut prononcer une mesure de retrait provisoire d'agrément, à charge pour lui d'en saisir pour
+avis la commission visée au premier alinéa de cet article dans le délai d'un mois."
+
+**Nota:**
+
+L'article L. 51-2 du code de la santé publique cité au présent article a été abrogé par l'article 4 I de l'ordonnance n°
+2000-548 du 15 juin 2000 et codifié sous l'article L. 6312-2 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - Rapport
+	  - Code de la santé publique - art. L51-1
+	  - Code de la santé publique - art. L51-2
+	  - Code de la santé publique - art. L6312-2
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L351-3
+
+Conformément à l'article L. 51-3 du code de la santé publique, les droits et obligations définis par le décret en Conseil
+d'Etat mentionné à l'article L. 51-1 de ce code sont applicables aux services publics assurant des transports sanitaires
+aériens.
+
+**Nota:**
+
+Les articles L. 51-1 et L. 51-3 du code de la santé publique ont été abrogés et remplacés par la loi n° 86-11 du 6 janvier
+1986. Il doit donc être retiré du code de l'aviation civile sous sa forme actuelle et réinséré sous sa nouvelle forme. Il est
+reproduit provisoirement pour mémoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L51-1
+	  - Code de la santé publique - art. L51-3
+
+
 ## LIVRE IV : PERSONNEL NAVIGANT
 
 ### TITRE Ier : DISPOSITIONS GENERALES.
@@ -3951,6 +4253,33 @@ qualifications professionnelles spéciales eu égard à l'aéronef, à l'équipe
 	**Abrogé par**:
 
 	  - Loi n°2001-43 du 16 janvier 2001 - art. 18 () JORF 17 janvier 2001
+
+
+###### Article L421-8
+
+Pour l'inscription sur les registres du personnel navigant professionnel des catégories Transport aérien et Travail aérien,
+prévues à l'article L. 421-1, les dispositions des articles L. 421-4 (1°) et L. 421-5 ne sont pas applicables aux
+ressortissants des Etats membres de la Communauté économique européenne, sous réserve de réciprocité de la part de ces Etats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 6 JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L421-1
+	  - Code de l'aviation civile - art. L421-4
+	  - Code de l'aviation civile - art. L421-5
 
 
 #### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.
@@ -4885,6 +5214,32 @@ matière de fonds de concours pour dépenses d'intérêt public.
 
 ## LIVRE VI : DISPOSITIONS DIVERSES.
 
+###### Article L611-1
+
+Les entreprises de transport aérien et les exploitants d'aérodromes supportent la charge des dépenses de personnel et de
+matériel du conseil supérieur de l'aviation marchande. La répartition de ces charges entre les différentes entreprises
+intéressées est effectuée dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°54-1312 1954-12-31 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 7 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D611-2 (V)
+	  - Code de l'aviation civile - art. R611-1 (V)
+
+
 ###### Article L611-2
 
 Donne lieu à rétablissement de crédit : le produit des ventes et abonnements des publications éditées par la section des
@@ -5141,6 +5496,70 @@ habilité, les significations et citations peuvent être délivrées en la perso
 	  - Décret n°67-334 1967-03-30
 
 
+###### Article R123-4
+
+Le procès-verbal de saisie est transcrit au bureau chargé de la tenue du registre d'immatriculation dans le délai de cinq
+jours francs augmenté des délais de distance.
+
+Dans la huitaine, le fonctionnaire chargé de la tenue du registre d'immatriculation délivre sur demande écrite du requérant
+un état des inscriptions et, dans les trois jours qui suivent, la saisie est dénoncée par exploit d'huissier ou par lettre
+recommandée avec accusé de réception aux créanciers inscrits aux domiciles élus dans leurs inscriptions, avec indication du
+jour de la comparution devant le tribunal de grande instance. Le délai de comparution est de huit jours, si le propriétaire
+est domicilié en France. Dans le cas contraire, les délais sont ceux prévus aux articles 644 et 645 du nouveau code de
+procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-29 1966-01-06 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D123-1 (V)
+
+
+###### Article R123-5
+
+Le tribunal de grande instance fixe par son jugement la mise à prix et les conditions de la vente. Si au jour fixé pour la
+vente il n'est pas fait d'offre, le tribunal indique par jugement le jour auquel les enchères auront lieu sur une nouvelle
+mise à prix inférieure à la première et fixée par lui.
+
+La vente sur saisie se fait à l'audience des criées du tribunal de grande instance trois semaines après une apposition
+d'affiches et une insertion de cette affiche :
+
+1° Dans l'un des journaux désignés pour recevoir les annonces judiciaires du ressort du tribunal ;
+
+2° Dans le Bulletin officiel des Annonces commerciales. Néanmoins, le tribunal peut ordonner que la vente soit faite ou
+devant un autre tribunal de grande instance ou en l'étude et par ministère soit d'un notaire, soit d'un autre officier
+public, au lieu où se trouve l'aéronef saisi. Le jugement détermine la publicité locale complémentaire qui doit être faite.
+
+Les affiches sont apposées sur la partie la plus apparente de l'aéronef saisi à la porte principale du tribunal de grande
+instance devant lequel on doit procéder, au lieu où se trouve l'aéronef ainsi qu'à la porte du bureau d'immatriculation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-29 1966-01-06 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+
 ###### Article R123-6
 
 Les annonces et affiches doivent indiquer les nom, prénoms, profession et domicile du poursuivant, les titres en vertu
@@ -5168,6 +5587,46 @@ délai de convocation est de quinzaine sans augmentation à raison de la distanc
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+
+###### Article R123-7
+
+Dans le cas où les créanciers ne s'entendraient pas sur la distribution du prix, il sera dressé procès-verbal de leurs
+prétentions et contredits. Dans la huitaine, chacun des créanciers doit déposer au greffe du tribunal de grande instance une
+demande de collocation contenant constitution d'avoué avec titres à l'appui. A la requête du plus diligent, les créanciers
+sont, par simple acte d'avoué à avoué, appelés devant le tribunal, qui statue à l'égard de tous, même des créanciers
+priviligiés.
+
+Le jugement est signifié dans les trente jours de sa date, à avoué seulement pour les parties présentes et aux domiciles élus
+pour les parties défaillantes ; le jugement n'est pas susceptible d'opposition. Le délai d'appel est de dix jours à compter
+de la signification du jugement sous réserve des dispositions des articles 644 et 645 du nouveau code de procédure civile.
+
+L'acte d'appel contient assignation et énonciation des griefs à peine de nullité. La disposition finale de l'article 762 du
+code de procédure civile est appliquée, ainsi que les articles 761, 763 et 764 du même code. Dans les huit jours qui suivent
+l'expiration du délai d'appel et, s'il y a appel, dans les huit jours de la signification de l'arrêt le juge déjà désigné
+dresse l'état des créances colloquées en principal, intérêt et frais. Les intérêts des créances utilement colloquées cessent
+de courir à l'égard de la partie saisie.
+
+Les dépens des contestations ne peuvent être pris sur les deniers à distribuer, sauf les frais de l'avoué le plus ancien.
+
+Sur l'ordonnance du juge commis, le greffier du tribunal de grande instance délivre les bordereaux de collocation exécutoire
+contre la Caisse des dépôts et consignations dans les termes de l'article 770 du code de procédure civile (ancien). La même
+ordonnance autorisé la radiation par le fonctionnaire chargé de la tenue du registre d'immatriculation des inscriptions des
+créanciers non colloqués. Il est procédé à cette radiation sur la demande de toute partie intéressée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-29 1966-01-06 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
 ###### Article R123-8
@@ -5859,6 +6318,128 @@ déclaration à l'autorité municipale dans les quarante-huit heures de la déco
 	  - Code de l'aviation civile - art. L142-1 (V)
 
 
+###### Article R142-2
+
+Tout accident ou tout incident affectant ou pouvant affecter la sécurité d'un aéronef, survenu au sol ou dans l'espace aérien
+soumis à la souveraineté française, doit être déclaré par le commandant de bord soit au commandant d'aérodrome le plus
+proche, soit au centre de contrôle régional avec lequel il est en liaison. Il est précisé dans la déclaration si l'accident
+ou l'incident a causé des dommages aux personnes ou aux biens.
+
+Si le commandant de bord est hors d'état de faire la déclaration mentionnée à l'alinéa précédent, celle-ci incombe aux
+dirigeants de la compagnie exploitant l'aéronef, au président de l'aéroclub dont dépend cet aéronef ou au propriétaire de
+l'appareil. La déclaration est faite, dans ce cas, au service du ministère chargé de l'aviation civile qui est responsable
+des enquêtes sur les accidents ou incidents d'aéronefs.
+
+Lorsque l'accident ou l'incident est survenu hors du territoire français ou hors de l'espace aérien soumis à la souveraineté
+française, la déclaration prévue aux alinéas ci-dessus est effectuée par les dirigeants de la compagnie exploitant l'aéronef,
+le président de l'aéroclub ou le propriétaire de l'appareil auprès du service ci-dessus mentionné.
+
+Les accidents ou incidents survenus à des aéronefs en cours d'essai ou de reception sont déclarés au centre d'essai en vol du
+ministère de la défense par le propriétaire ou l'exploitant de l'aéronef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 2 () JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
+	  - Code de l'aviation civile - art. R142-3 (Ab)
+	  - Code de l'aviation civile - art. R151-4 (Ab)
+
+
+###### Article R142-3
+
+Les dirigeants des sociétés de construction aéronautique, des ateliers d'entretien ou de révision ou des sociétés de
+classification sont tenus, dans un délai de trente jours à compter de la constatation dans ces sociétés ou ateliers de
+défauts résultant d'un accident ou d'un incident et susceptibles de compromettre la sécurité d'un aéronef, de déclarer ces
+défauts au service mentionné à l'article R. 142-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 2 () JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
+	  - Code de l'aviation civile - art. R151-4 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R142-2 (Ab)
+
+
+###### Article R142-4
+
+Si l'accident ou l'incident entraîne des dommages aux personnes ou aux biens transportés, le procureur de la République est
+tenu informé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 2 () JORF 21 novembre 1980
+
+
+### TITRE V : DISPOSITIONS PENALES.
+
+###### Article R151-3
+
+Toute contravention à l'article R. 142-1 est punie des peines prévues à l'article R. 30 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 41 , alinéa 1 2e phrase
+	  - Loi n°1924-05-31, art. 58, al. 1 2e phrase
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 3 () JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code pénal R30
+	  - Code de l'aviation civile - art. R142-1 (Ab)
+
+
 ## LIVRE II : AERODROMES.
 
 ### TITRE Ier : DISPOSITIONS GENERALES.
@@ -6177,6 +6758,51 @@ l'article L. 282-7.
 
 	  - Code de l'aviation civile - art. L213-2 (M)
 	  - Code de l'aviation civile - art. L282-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+
+###### Article R213-7
+
+L'exécution des arrêtés pris par le préfet en application des articles R. 213-4 (1er alinéa) et R. 213-5 est assurée par les
+fonctionnaires de police, les fonctionnaires et agents de la direction générale à l'aviation civile, ainsi que par la
+gendarmerie et notamment la gendarmerie de l'aviation civile. Le préfet dispose également du concours des agents des
+collectivités et établissements publics chargés d'une exploitation aéroportuaire, dans les limites des fonctions qui sont
+confiées à ces collectivités et établissements.
+
+Des gardes particuliers assermentés, désignés dans les conditions fixées par l'article 29 du code de procédure pénale,
+peuvent également assurer, dans les limites prévues par cet article, des fonctions de police pour le compte :
+
+Soit d'organismes qui exercent une activité industrielle ou commerciale sur l'aérodrome ;
+
+Soit de la personne de droit privé qui a créé l'aérodrome, dans les conditions fixées par la convention passée avec l'Etat en
+application des articles L. 221-1 et R. 221-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Arrêté du 3 mars 1993 - art. 34 (Ab)
+	  - Arrêté du 4 avril 1996 - art. 38 (V)
+	  - Arrêté du 4 avril 1996 - art. 64 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 29 (V)
+	  - Code de l'aviation civile - art. L213-4 (V)
+	  - Code de l'aviation civile - art. L213-5 (V)
+	  - Code de l'aviation civile - art. L221-1 (V)
+	  - Code de l'aviation civile - art. R221-4 (V)
 
 	**Créé par**:
 
@@ -6534,6 +7160,29 @@ travaux aux frais du signataire de la convention.
 	  - Décret n°67-334 1967-03-30
 
 
+###### Article R221-10
+
+Conformément à l'article R. 11-2 du code de l'expropriation pour cause d'utilité publique, les travaux de création et
+d'établissement des aérodromes de catégorie A définis à l'article R. 222-5 du présent code ne peuvent être déclarés d'utilité
+publique que par décret en Conseil d'Etat, même si les conclusions du commissaire-enquêteur ou de la commission d'enquête
+sont favorables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-2 (M)
+	  - Code de l'aviation civile - art. R222-5 (V)
+
+
 #### CHAPITRE II : CLASSIFICATION.
 
 ###### Article R222-1
@@ -6549,6 +7198,30 @@ d'utilisation de ces aérodromes le justifient.
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+
+###### Article R222-2
+
+Les conditions techniques et administratives de la classification, les catégories dans lesquelles sont classés les
+aérodromes, la procédure précédant le classement et les effets du classement sont déterminés par un décret en Conseil d'Etat.
+Celui-ci est pris sur le rapport du ministre chargé de l'aviation civile, du garde des sceaux, ministre de la justice, du
+ministre de l'économie et des finances, du ministre de l'équipement, secrétariat d'Etat au logement, du ministre de
+l'intérieur, du ministre des armées, du ministre des postes et télécommunications, du ministère chargé des départements et
+territoires d'outre-mer et du ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1064 du 4 août 1955 - art. 4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
 ###### Article R222-3
@@ -8777,6 +9450,57 @@ Les mesures prévues aux alinéas qui précèdent sont prises dans les condition
 
 #### CHAPITRE II : FONCTIONNEMENT.
 
+###### Article R342-2
+
+Les dispositions du livre IV, titre III, du code du travail, relatives aux comités d'entreprise, (1) sont applicables à la
+Compagnie nationale Air France, sous réserve des dispositions ci-après.
+
+En vue d'assurer la participation des représentants du personnel navigant professionnel d'Air France aux travaux des comités
+d'établissement et du comité d'entreprise, les représentants du personnel dans ces comités sont élus :
+
+1° Par les ouvriers et employés ;
+
+2° Par les ingénieurs, chefs de service, agents de maîtrise et assimilés ;
+
+3° Par les personnels navigants professionnels,
+
+sur des listes établies par les organisations syndicales les plus représentatives pour chacune de ces catégories de
+personnels.
+
+La répartition des sièges dans les comités d'établissements entre les différentes catégories et la répartition du personnel
+dans les collèges électoraux feront l'objet d'un accord entre la direction et les organisations syndicales intéressées. Dans
+les cas où cet accord s'avérera impossible, la répartition sera faite par décision de l'inspecteur régional du travail et de
+la main-d'oeuvre des transports chargé des transports aériens.
+
+Le comité central d'entreprise sera composé de délégués élus des comités d'établissements à raison de un ou deux délégués et
+d'un nombre égal de suppléants pour chaque établissement. Toutefois, les établissements dans lesquels il existe un collège de
+personnels navigants pourront avoir plus de deux délégués au comité central d'entreprise soit par voie d'accord entre la
+direction et les organisations syndicales intéressées, soit, à défaut, par décision de l'inspecteur régional du travail et de
+la main- d'oeuvre des transports chargé des transports aériens.
+
+Les personnels navigants disposeront de deux sièges au comité central d'entreprise.
+
+Le nombre total des membres titulaires de ce comité central ne pourra excéder quatorze.
+
+La répartition des sièges au comité central d'entreprise entre les différents établissements et les différentes catégories,
+et notamment la répartition entre les différentes spécialités de navigants des deux sièges réservés aux personnels navigants,
+se fera suivant les modalités prévues ci-dessus pour la répartition des sièges dans les comités d'établissements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-411 1960-04-28 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+
 ###### Article R342-5
 
 Le ministre chargé de l'aviation civile exerce sur la Compagnie nationale Air France le contrôle général prévu à l'article L.
@@ -9026,6 +9750,95 @@ acquise de plein droit.
 	**Cité par**:
 
 	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
+
+
+### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
+
+#### Section 1 : Transports sanitaires.
+
+###### Article R351-1
+
+Conformément à l'article 5 du décret n° 73-384 du 27 mars 1973 portant application des articles L. 51-1 à L. 51-3 du code de
+la santé publique relatif aux transports sanitaires privés, repris à l'article L. 351-1 du présent code, l'agrément institué
+par l'article L. 51-1 du code de la santé publique est délivré sur la demande de la personne physique ou morale qui assure
+l'exploitation d'une entreprise privée de transports aériens sanitaires dès lors que :
+
+1° Elle aura préalablement justifié de sa situation régulière vis-à-vis des dispositions du présent code ;
+
+2° Les aéronefs utilisés à ces transports répondront aux normes minimales qui figurent à l'annexe II du décret du 27 mars
+1973 reprise à l'annexe I du présent article ;
+
+3° L'organisation de l'entreprise assure pour tout transport sanitaire la présence d'un médecin ou à défaut d'un infirmier ou
+d'une infirmière.
+
+**Nota:**
+
+(1)  Le décret d'application de la loi n° 86-11 du 6 janvier 1986, abrogeant et remplaçant les articles L. 51-1 à L. 51-3 du
+code de la santé publique cités sous les articles L. 351-1 à L. 351-3 du présent code n'étant pas paru, l'article 5 du décret
+d'application n° 73-384 du 27 mars 1973, cité sous l'article R. 351-1 est maintenu tel, ses dispositions n'étant pas
+contraires au nouveau texte législatif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Décret n°73-384 du 27 mars 1973 - art. 5 (Ab)
+	  - Code de la santé publique - art. L51-1 (M)
+	  - Code de la santé publique - art. L51-2 (M)
+	  - Code de la santé publique - art. L51-3 (M)
+	  - Code de l'aviation civile - art. L351-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 5 () JORF 21 novembre 1980
+
+
+#### Section 2 : Transports par moyens militaires.
+
+###### Article R351-2
+
+Dans le cas exceptionnel où des transports aériens par moyens militaires seraient effectués au profit soit de personnes
+privées, soit de services publics ne relevant pas du ministère chargé de la défense, ces transports donnent lieu à
+remboursement dans des conditions fixées par un arrêté pris par le ministre chargé de la défense et le ministre chargé du
+budget.
+
+Les sommes dues au titre de ces remboursements sont versées à concurrence de 70 % au compte des reversements de fonds sur les
+dépenses des ministères et pour le surplus, soit 30 %, aux produits divers du budget. Les sommes imputées au compte des
+reversements de fonds sur les dépenses des ministères sont rétablies au chapitre intéressé du budget au ministère de la
+défense.
+
+En vue de couvrir la responsabilité civile éventuelle de l'Etat, encourue par le fait ou à l'occasion de ces transports, le
+ministre chargé de la défense est autorisé à contracter toutes assurances nécessaires dans des conditions fixées par un
+arrêté du ministre chargé du budget. Le montant des primes d'assurances est incorporé dans le prix des transports.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-482 1964-05-28 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 5 () JORF 21 novembre 1980
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2001-421 du 14 mai 2001
+	  - TXT_SOURCE: Décret n°2001-421 du 14 mai 2001 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°2001-421 du 14 mai 2001 - art. 1 (V)
+	  - Arrêté du 29 octobre 2012 - art. 1 (V)
+	  - Arrêté du 29 octobre 2012 - art. 4 (V)
 
 
 ## LIVRE IV : PERSONNEL NAVIGANT
@@ -9448,6 +10261,27 @@ au cours desquelles leur rapport est discuté.
 	  - Décret n°67-334 1967-03-30
 
 
+###### Article R421-17
+
+Le secrétariat du conseil du personnel navigant est assuré par le personnel de la direction générale de l'aviation civile. Le
+secrétariat de la section des essais et réceptions est assuré par le personnel de la délégation ministérielle pour l'armée de
+l'air.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-1090 1960-10-06 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+
 #### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.
 
 ###### Article R422-1
@@ -9644,6 +10478,40 @@ prestations familiales viendront en déduction des indemnités dues par l'exploi
 	  - Code de l'aviation civile - art. L424-2 (V)
 
 
+###### Article R424-3
+
+Dans le cas du décès d'un navigant résultant d'un accident aérien survenu en service ou d'une maladie imputable au service et
+reconnue comme telle par le conseil médical de l'aéronautique civile, le conjoint non séparé de corps ni divorcé et les
+enfants à charge au sens de l'article R. 426-20 ont droit ensemble à une indemnité en capital qui ne peut être inférieure à
+trois fois ni supérieure à douze fois le plafond annuel servant de base au calcul des cotisations de sécurité sociale. 
+
+Pour chaque enfant à charge au sens de l'article R. 426-20, cette indemnité est majorée d'une somme égale au plafond annuel
+servant de base au calcul des cotisations de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-1269 1955-09-29 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R424-5 (V)
+	  - Code de l'aviation civile - art. R424-6 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R426-20 (V)
+
+
 ###### Article R424-4
 
 L'indemnité est versée à raison d'un tiers au conjoint non séparé de corps ni divorcé et à raison de deux tiers aux enfants à
@@ -9662,6 +10530,52 @@ répartie entre eux par parts égales.
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+
+###### Article R424-5
+
+Dans les cas prévus à l'article R. 424-3, chaque ascendant du défunt a droit à une indemnité égale au plafond annuel servant
+de base au calcul des cotisations de sécurité sociale s'il justifie : 
+
+1° Qu'il est de nationalité française ou, s'il est étranger, qu'il a sa résidence habituelle en France ; 
+
+2° Qu'il est âgé de plus de soixante ans, s'il s'agit d'un ascendant du sexe masculin, et de plus de cinquante-cinq ans, s'il
+s'agit d'un ascendant du sexe féminin, ou s'il est atteint d'une infirmité ou d'une maladie incurable entraînant une
+invalidité d'au moins 70 % ou que son conjoint est atteint d'une telle infirmité ou maladie incurable. La mère veuve,
+divorcée, séparée de corps ou non mariée est regardée comme remplissant la condition d'âge même si elle a moins de cinquante-
+cinq ans lorsqu'elle a à sa charge un ou plusieurs enfants, infirmes ou âgés de moins de vingt et un ans ou sous les
+drapeaux ; 
+
+3° Qu'il n'est pas soumis à l'impôt général sur le revenu ou qu'il n'est imposé que pour un montant ne dépassant pas celui
+fixé à l'article 5,2° bis du code général des impôts, après application des abattements intervenant pour le calcul de
+l'impôt. Dans le cas où le demandeur est une ascendante mariée ne faisant pas l'objet d'une imposition distincte en
+application de l'article 6,3°, du code général des impôts, cette condition s'apprécie au regard du mari ; 
+
+4° Qu'il n'y a pas, à l'époque de la demande, d'ascendant d'un degré plus rapproché du défunt. Lorsque le défunt ne laisse
+pas d'ayants droit visés à l'article R. 424-3 et qu'un seul ascendant remplit les conditions requises celui-ci a droit à une
+indemnité double de celle visée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-1269 1955-09-29 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R424-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R426-27 (M)
 
 
 ###### Article R424-6
@@ -9708,6 +10622,39 @@ sous quelque forme que ce soit, par les employeurs du personnel navigant ou les 
 
 
 #### CHAPITRE V : DISCIPLINE.
+
+###### Article R425-1
+
+Le commandant de bord est tenu d'établir un rapport circonstancié dans les quarante-huit heures suivant tout accident ou
+incident affectant ou pouvant affecter la sécurité d'un aéronef et survenu soit au sol, soit en vol. Il en est de même pour
+toute infraction aux règlements de la circulation aérienne.
+
+Ce rapport, établi en trois exemplaires, est adressé :
+
+Aux représentants qualifiés de l'aéronautique civile ou du ministre des armées suivant que le commandant de bord appartient
+aux catégories Transport aérien ou Travail aérien ou à la catégorie Essais et réceptions ;
+
+A la direction de l'entreprise intéressée ;
+
+Au conseil du personnel navigant.
+
+Le dépôt du rapport prescrit au premier alinéa du présent article tient lieu de la déclaration prévue à l'article R. 142-2..
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 177
+	  - Loi n°53-285 1953-04-04 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 3 () JORF 21 novembre 1980
+
 
 ###### Article R425-2
 
@@ -9806,6 +10753,30 @@ l'aviation civile et du ministre des armées.
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D435-1 (M)
+
+
+###### Article R425-6
+
+Le conseil de discipline du personnel navigant professionnel de l'aéronautique civile est rattaché à la direction générale de
+l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-406 1962-04-07 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 	**Cité par**:
 
@@ -10050,6 +11021,31 @@ adressé directement au conseil de discipline de l'aéronautique civile.
 	**Cité par**:
 
 	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
+	  - Code de l'aviation civile - art. D435-1 (M)
+
+
+###### Article R425-17
+
+L'intéressé peut récuser les membres du conseil dans les conditions prévues par les articles L. 731-1 et suivants du code de
+l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 183
+	  - Loi n°53-285 1953-04-04 art. 43
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+	**Cité par**:
+
 	  - Code de l'aviation civile - art. D435-1 (M)
 
 
@@ -10398,6 +11394,46 @@ Le montant des frais de toute nature auquel donne lieu le fonctionnement du fond
 	  - Décret n°67-334 1967-03-30
 
 
+###### Article R530-3
+
+Les indemnités sont attribuées aux victimes d'accident ou à leurs ayants droit, par décision du ministre chargé de l'aviation
+civile, après avis d'une commission composée comme suit :
+
+Un conseiller d'Etat, président.
+
+Le directeur général de la caisse des dépôts et consignations ou son délégué.
+
+Le directeur du budget ou son délégué.
+
+Le chef du service des transports aériens, ou son délégué.
+
+Le chef du service de la formation aéronautique et du contrôle technique, ou son délégué.
+
+Le chef du service des personnels et de la gestion à la direction générale de l'aviation civile, ou son délégué.
+
+Le président du conseil médical de l'aviation civile.
+
+Le président de la fédération nationale aéronautique ou son délégué.
+
+Le chef du centre national ou son délégué.
+
+Le secrétariat de la commission est assuré par le service de la formation aéronautique et du contrôle technique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-399 1954-04-05 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+
 ###### Article R530-4
 
 La commission, qui est également consultée sur toutes les questions de principe qui lui sont soumises par le ministre chargé
@@ -10550,6 +11586,29 @@ survenus à compter du 15 février 1973.
 	  - Décret n°73-140 1973-02-13 art. 2 JORF 15 février 1973
 
 
+###### Article R530-9
+
+Le pourcentage définitif d'invalidité des victimes d'accident est fixé en appliquant le barème prescrit aux centres médicaux
+de réforme pour les bénéficiaires des dispositions du code des pensions militaires d'invalidité et des victimes de guerre
+notamment de son article L. 9-1 et des tableaux annexés au livre Ier de ce code. Ce pourcentage est fixé après consolidation
+de la blessure sur la proposition d'un médecin assermenté de l'administration. Ce pourcentage n'est pas susceptible de
+révision ultérieure.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-399 1954-04-05 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+
 ###### Article R530-10
 
 Les indemnités seront attribuées dans les conditions fixées par le présent titre pour tous les accidents aériens survenus au
@@ -10565,6 +11624,98 @@ cours de l'instruction reçue ou de l'entraînement aérien effectué dans les a
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+
+###### Article R530-11
+
+Les indemnités prévues par le présent titre sont incessibles et insaisissables sauf application des dispositions relatives à
+l'obligation alimentaire.
+
+L'incessibilité et l'insaisissabilité ne sont opposables qu'aux cessionnaires ou créanciers dont le titre est antérieur à la
+décision qui attribue l'indemnité.
+
+Si le titre est postérieur à ladite décision, l'incessibilité et l'insaisissabilité sont opposables aux cessionnaires ou
+créanciers jusqu'à concurrence de 75 % du montant de l'allocation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-399 1954-04-05 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+
+## LIVRE VI : DISPOSITIONS DIVERSES.
+
+###### Article R611-1
+
+Le décret fixant conformément à l'article L. 611-1 la répartition entre les diverses entreprises intéressées des frais de
+fonctionnement du Conseil supérieur de l'aviation marchande est pris sur le rapport du ministre chargé de l'aviation civile
+et du ministre chargé du budget.
+
+Les contributions des entreprises intéressées sont rattachées au budget selon la procédure des fonds de concours.
+
+**Nota:**
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Conseil supérieur de l'aviation marchande).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°54-1312 du 31 décembre 1954 - art. 4, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 6 () JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Décret n°2015-1408 du 5 novembre 2015 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L611-1 (M)
+
+
+###### Article R611-2
+
+L'instruction des équipages et des personnels à terre non rémunérés par l'Etat donne lieu au versement des frais de scolarité
+par les sociétés de transports aériens au profit de qui est donnée cette instruction ou par les intéressés eux-mêmes selon
+les modalités fixées par arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget.
+
+Les sommes recueillies sont rattachées au budget du ministère chargé de l'aviation civile selon la procédure prévue en
+matière de fonds de concours pour dépenses d'intérêt public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 6 () JORF 21 novembre 1980
+
+	**Anciens textes**:
+
+	  - Loi n°48-1992 1948-12-31 art. 8
 
 
 # Partie réglementaire - Décrets simples
@@ -10593,6 +11744,29 @@ corrélative d'un numéro d'ordre.
 	**Modifié par**:
 
 	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+
+
+###### Article D121-2
+
+Le registre d'immatriculation est ouvert à la direction générale à l'aviation civile.
+
+Il est tenu, sous l'autorité du ministre chargé de l'aviation civile, par un fonctionnaire désigné par ses soins, sur la
+proposition du directeur général de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D121-16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
 ###### Article D121-3
@@ -12336,6 +13510,63 @@ Les supports utilisés en violation des dispositions de l'article D. 133-10 ne s
 	  - Code de l'aviation civile - art. D133-10 (V)
 
 
+###### Article D133-14
+
+Les dispositions de la présente section ne s'appliquent pas à l'aviation militaire ni aux escadrilles photographiques de
+l'Institut géographique national.
+
+Sont fixées par décision conjointe des ministres intéressés les conditions dans lesquelles font usage d'appareils
+photographiques, cinématographiques et de télédétection les fonctionnaires ou agents de l'Etat à bord d'aéronefs d'Etat ou
+des aéronefs spécialisés de la direction générale de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-1262 du 29 mai 1946 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
+	  - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
+
+
+##### Section 3 : Radiocommunications des services aériens.
+
+###### Article D133-19
+
+L'installation et l'exploitation de stations radioélectriques pour les besoins de l'aéronautique, en application de l'article
+R. 133-3 du code de l'aviation civile sont régis par les dispositions du livre II, titre VI, chapitre IV, du code des postes
+et télécommunications relatives au service aérien (2).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Anciens textes**:
+
+	  - Décret n°67-335 1967-03-30 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Code de l'aviation civile - art. D133-19-6 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-3 (M)
+
+
 ## LIVRE II : AERODROMES.
 
 ### TITRE Ier : DISPOSITIONS GENERALES.
@@ -12558,6 +13789,33 @@ physiques ou morales qui ont créé ou utilisé l'aérodrome.
 	  - Code de l'aviation civile - art. R221-9 (V)
 
 
+###### Article D212-2
+
+Les suspensions, restrictions et retraits des autorisations de créer les aérodromes privés sont prononcés :
+
+Par arrêté préfectoral dans les deux premiers cas visés à l'article précédent ;
+
+Par arrêté du ministre chargé de l'aviation civile aprés avis du ministre de l'intérieur dans les autres cas ;
+
+Dans cette dernière éventualité, et s'il y a urgence, le préfet peut, pour un délai ne dépassant pas quatre-vingt-dix jours,
+prononcer la suspension de l'autorisation ou la restriction de ses effets.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-779 1959-06-22 art. 29
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-408 1973-03-27 art. 1 JORF 4 avril 1973
+	  - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
+
+
 ###### Article D212-3
 
 L'autorisation d'ouverture d'un aérodrome à la circulation aérienne publique ou de mise en service d'un aérodrome à usage
@@ -12778,6 +14036,28 @@ Les aérodromes d'intérêt général des territoires d'outre-mer sont classés 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R222-5 (V)
+
+
+#### CHAPITRE IV : REDEVANCES.
+
+###### Article D224-1
+
+Conformément à l'article 1er du décret du 22 décembre 1967, les exploitants des aérodromes désignés par les arrêtés du 28
+novembre 1956 et du 19 mai 1960 et ceux désignés par les décrets des 1er juin 1970, 17 décembre 1974, 31 juillet 1975, 6
+janvier 1978 et 11 octobre 1979 sont autorisés à percevoir l'élément variable de la redevance pour occupation de terrains et
+d'immeubles par les distributeurs de carburants pour aéronefs. Les conditions d'établissement et de perception ainsi que le
+taux de l'élément variable de cette redevance sont fixés par l'arrêté du 27 novembre 1956, modifié par l'arrêté du 19 mai
+1960.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-910 1980-11-17 art. 1 JORF 21 novembre 1980
 
 
 ### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.
@@ -13411,6 +14691,42 @@ projetées sont conformes aux dispositions du plan de dégagement ou aux mesures
 	  - Code de l'aviation civile - art. D242-9 (V)
 
 
+###### Article D242-8
+
+Dans les mêmes zones et sous réserve des dispositions de l'article D. 242-10, l'établissement de plantations, remblais et
+obstacles de toute nature non soumis au permis de construire et ne relevant pas de la loi du 15 juin 1906 sur les
+distributions d'énergie est soumis à l'autorisation de l'ingénieur en chef du service des bases aériennes compétent.
+
+La demande est adressée au maire qui en délivre récépissé. Elle donne les précisions utiles sur la nature et l'emplacement
+des obstacles ainsi que les hauteurs qu'ils sont susceptibles d'atteindre.
+
+Le maire la transmet sans délai à l'ingénieur en chef.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D242-10 (Ab)
+	  - Loi n°1906-06-15
+
+	**Anciens textes**:
+
+	  - Décret n°60-1059 1960-09-24 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Décret n°2004-1177 du 28 octobre 2004 - art. 4 (V)
+	  - Décret n°2012-1495 du 27 décembre 2012 - art. 3 (V)
+
+
 ###### Article D242-9
 
 La décision sur la demande visée à l'article précédent doit être notifiée par l'intermédiaire du maire dans un délai de
@@ -13651,6 +14967,36 @@ chef du service des bases aériennes compétent par lettre recommandée avec avi
 	  - Décret n°67-335 1967-03-30
 
 
+###### Article D243-3
+
+L'exécution des travaux prévus aux alinéas 1° à 5° de l'article D. 243-1 doit être précédée d'une notification directe aux
+intéressés et, à défaut d'accord amiable, d'une enquête spéciale dans chaque commune. Cette enquête est effectuée dans les
+formes prévues par les articles 11 à 18 du décret n° 70-492 du 11 juin 1970 portant règlement d'administration publique pour
+l'application de l'article 35 de la loi du 8 avril 1946 sur la nationalisation de l'électricité et du gaz, en ce qui concerne
+la procédure de déclaration d'utilité publique en matière d'électricité et de gaz et pour l'établissement des servitudes
+prévues par la loi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-1059 1960-09-24 art. 20
+
+	**Cite**:
+
+	  - Loi n°46-628 du 8 avril 1946 - art. 35 (Ab)
+	  - Décret n°70-492 du 11 juin 1970 - art. 11 (V)
+	  - Code de l'aviation civile - art. D243-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+
 ###### Article D243-4
 
 Dans le cas où il a été procédé à une enquête, l'introduction des agents et ouvriers de l'administration ou de la personne
@@ -13712,6 +15058,32 @@ chargé de l'électricité.
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+
+###### Article D243-7
+
+Les servitudes aéronautiques de dégagement et de balisage instituées par l'article R. 241-1 sont applicables aux aérodromes à
+usage restreint définis par les articles D. 232-1 à D. 232-9 à raison de l'intérêt public qu'ils présentent notamment pour la
+formation aéronautique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-1082 1965-12-07 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D232-1 (V)
+	  - Code de l'aviation civile - art. R241-1 (Ab)
 
 
 ###### Article D243-8
@@ -14027,6 +15399,29 @@ est étendue aux questions de transport des matières dangereuses et infectes pa
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+
+### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
+
+#### CHAPITRE II : FONCTIONNEMENT.
+
+###### Article D342-1
+
+Les dispositions du code du travail relatives à la médecine du travail sont applicables à la Compagnie nationale Air France.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-346 du 18 avril 1964 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
 ## LIVRE IV : PERSONNEL NAVIGANT
@@ -14543,6 +15938,43 @@ supérieur à mille deux cents milles marins.
 	  - Code de l'aviation civile - art. D422-7 (M)
 
 
+###### Article D422-3
+
+I. - Dans les conditions actuelles d'exploitation des entreprises visées à l'article D. 422-1, il est admis qu'à la durée du
+travail effectif prévu par l'article L. 212-1 du code du travail (1), correspond une durée mensuelle moyenne de vol de 85
+heures répartie sur l'année.
+
+II. - Compte tenu du congé annuel du personnel navigant et sauf dérogation dans les conditions prévues à l'article D. 422-7,
+les limitations des heures de vol sont fixées à 255 heures par trimestre, 510 heures par semestre et 935 heures par an.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°51-359 1951-03-23 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D422-1 (M)
+	  - Code de l'aviation civile L212-1, D422-1, D422-7
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-2 (V)
+	  - Code de l'aviation civile - art. D422-7 (M)
+	  - Code de l'aviation civile - art. D422-8 (M)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
+
 ###### Article D422-4
 
 Le personnel navigant affecté aux longs parcours doit bénéficier à sa résidence d'affectation d'un repos au moins égal à
@@ -14571,7 +16003,137 @@ par semaine dont la durée ne peut être inférieure à 36 heures consécutives.
 	  - Code de l'aviation civile - art. R426-12 (M)
 
 
+###### Article D422-5
+
+A. - Personnel navigant autre que le personnel complémentaire de bord :
+
+I. - Membre d'équipage non doublé ou secondé. Par période de vingt-quatre heures, les heures consécutives de vol ne devront
+pas dépasser huit heures pour les pilotes et dix heures pour les autres membres de l'équipage. Ces durées pouvant être
+prolongées de 50 p. 100 si le vol est interrompu par un ou plusieurs arrêts à l'escale.
+
+II. - Membre d'équipage doublé ou secondé ou doublant ou secondant un autre membre de l'équipage. Les périodes de vol ne
+devront pas dépasser pour les pilotes, avec ou sans arrêts à l'escale :
+
+Dix-sept heures consécutives si l'équipage ne dispose pas à bord de postes de repos suffisants ;
+
+Vingt-deux heures consécutives si l'équipage dispose à bord de postes de repos suffisants,
+
+et respectivement vingt et vingt-cinq heures pour les autres membres de l'équipage.
+
+III. - A la fin des périodes de vol visées aux paragraphes A I et A II, le personnel navigant doit bénéficier d'un repos
+d'une durée au moins égale à deux fois le nombre d'heures de vol effectuées depuis le repos précédent, sans que cette durée
+puisse, en aucun cas, être inférieure à huit heures. Si, par suite des exigences de l'exploitation, le personnel navigant
+devait effectuer une nouvelle période de vol sans avoir pu bénéficier d'un repos au moins égal à deux fois le nombre d'heures
+de vol effectuées depuis le repos précédent, la durée du repos qui suivra la deuxième période sera majorée d'un temps égal à
+l'insuffisance de la durée du repos qui a suivi la première période.
+
+Toutefois, la faculté d'effectuer une deuxième période n'est possible que si la durée du repos qui suit la première période
+n'est pas inférieure à la durée des vols accomplis au cours de cette première période et, en aucun cas, à huit heures.
+
+IV. - Dans les cas dûment justifiés, le chef du service de la main-d'oeuvre des transports peut autoriser, en accord avec la
+direction générale de l'aviation civile, après avis des délégués du personnel ou, à défaut, du personnel intéressé, des
+modifications aux règles fixées aux paragraphes A II et A III ci-dessus.
+
+V. - N'est pas considérée comme repos la durée des temps de vol effectués en qualité de passager lorsque le déplacement est
+imposé par des nécessités de service. Lorsque le vol, en qualité de passager service, est effectué sur un long parcours, le
+membre de l'équipage intéressé ne pourra être commandé à l'arrivée pour un nouveau service avant d'avoir bénéficié d'un repos
+à l'escale d'une durée au moins égale à la durée du trajet effectué en qualité de passager service.
+
+B. - Personnel complémentaire de bord :
+
+Les limitations applicables au personnel complémentaire de bord sont celles figurant aux paragraphes A II, A III, A IV et A V
+ci-dessus.
+
+VI. - A la demande d'une organisation patronale ou du personnel de la profession, des arrêtés du ministre compétent pourront,
+après consultation des organisations intéressées et en se référant, là où il en existe, aux accords intervenus entre elles,
+autoriser, par dérogation aux règles fixées aux paragraphes A I, A II, A III, A IV, A V et B, un régime répartissant la durée
+des heures de vol et de repos sur une autre période de temps.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°51-359 1951-03-23 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D422-1 (V)
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-2 (M)
+	  - Code de l'aviation civile - art. D422-5-1 (V)
+	  - Code de l'aviation civile - art. D422-6 (V)
+	  - Code de l'aviation civile - art. D422-7 (M)
+	  - Code de l'aviation civile - art. D422-8 (M)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
+
 ##### Paragraphe 2 : Mesures de contrôle.
+
+###### Article D422-6
+
+A. - Services à horaires préétablis :
+
+I. - L'horaire du travail est établi par lignes, par groupes de lignes ou par tronçons de lignes ou de groupes de lignes
+suivant le cas.
+
+II. - L'horaire du travail dressé en temps universel coordonné indique les heures auxquelles commence et finit chaque période
+de vol. Le total des heures comprises dans ces périodes ne doit pas excéder les limites fixées par la présente section.
+
+III. - Toute modification de la répartition des heures de vol doit donner lieu, avant sa mise en service, à une rectification
+de l'horaire établi.
+
+IV. - Un double de l'horaire et des rectifications qui y seront apportées éventuellement doit préalablement être adressé au
+fonctionnaire chargé de la réglementation du travail.
+
+B. - Tous services :
+
+V. - Les indications relatives aux durées de vol sont transcrites pour chaque membre de l'équipage sur un carnet individuel
+de travail. Le carnet individuel doit accompagner le membre de l'équipage dans ses différentes affectations et être remis par
+ce dernier au commandant de bord à l'occasion de chaque voyage.
+
+Ce carnet individuel de travail sera établi dans des conditions qui seront fixées par un arrêté du ministre chargé de
+l'aviation civile et du ministre des affaires sociales.
+
+VI. - Le carnet individuel de travail sera constamment tenu à la disposition du service chargé de la réglementation du
+travail.
+
+VII. - Des modalités de contrôle différentes complétant ou se substituant aux modalités ci-dessus visées pourront être
+autorisées par arrêté du ministre chargé de l'aviation civile et du ministre des affaires sociales pris après avis des
+organisations patronales et du personnel de la profession.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°51-359 1951-03-23 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de l'aviation civile - art. D422-1 (M)
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-2 (M)
+	  - Code de l'aviation civile - art. D422-5 (V)
+	  - Code de l'aviation civile - art. D422-5-2 (V)
+	  - Code de l'aviation civile - art. D422-7 (M)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
 
 ###### Article D422-7
 
@@ -14736,6 +16298,51 @@ cents milles marins.
 	  - Code de l'aviation civile - art. D422-8 (M)
 
 
+###### Article D422-10
+
+Dans les conditions actuelles d'utilisation des avions à réaction, il est admis qu'à la durée du travail effectif prévue à
+l'article L. 212-1 du code du travail (1) correspond un temps de travail qui, exprimé en heures de vol, ne doit pas dépasser
+dans l'année une durée mensuelle moyenne de 75 heures, la durée de vol effectuée dans un mois considéré isolément ne pouvant
+excéder 95 heures, celle effectuée dans deux mois civils consécutifs 180 heures, ou celle effectuée dans trois mois civils
+consécutifs 265 heures.
+
+Pour l'application de l'alinéa précédent, la limitation mensuelle à 95 heures doit être respectée aussi bien entre le premier
+et le dernier jour de chaque mois civil qu'entre le 16 d'un mois civil et le 15 du mois suivant.
+
+Le ministre chargé de l'aviation civile peut, par voie d'arrêté, fixer des limites inférieures applicables aux navigants
+ayant accompli sur avions à réaction, ou sur un type déterminé d'avion à réaction, un temps de vol total inférieur à 300
+heures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-1153 1960-10-29 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Décret n°2008-76 du 24 janvier 2008 - art. 1 (V)
+	  - Code de l'aviation civile - art. D422-1 (M)
+	  - Code de l'aviation civile - art. D422-12 (V)
+	  - Code de l'aviation civile - art. D422-13 (An)
+	  - Code de l'aviation civile - art. D422-14 (M)
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-9 (M)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile L212-1
+
+
 ###### Article D422-11
 
 La durée d'une période de vol ne peut excéder 10 heures dans une amplitude de 14 heures. (1)
@@ -14839,6 +16446,43 @@ heures consécutives.
 	  - Code de l'aviation civile - art. R426-12 (M)
 
 
+###### Article D422-13
+
+A la demande de la Compagnie nationale Air France, d'une organisation patronale ou du personnel de la profession, des arrêtés
+du ministre compétent pourront, après consultation des organisations intéressées et en se référant, là où il en existe, aux
+accords intervenus entre elles, autoriser nonobstant les règles fixées aux articles D. 422-11 et D. 422-12, un régime
+répartissant les temps de vol et les temps d'arrêt sur une autre période de temps, compte tenu notamment de l'éventuel
+renforcement de l'équipage.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-1153 1960-10-29 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 XV JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de l'aviation civile - art. D422-1 (M)
+	  - Code de l'aviation civile - art. D422-13 (An)
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-9 (M)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D422-11 (M)
+	  - Code de l'aviation civile - art. D422-12 (M)
+
+
 ###### Article D422-14
 
 Il peut être dérogé aux limitations visées à la présente section dans les conditions suivantes :
@@ -14917,6 +16561,35 @@ titre de l'alinéa précédent.
 #### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.
 
 ##### Section 2 : Conseil médical
+
+###### Article D424-1
+
+Un conseil médical de l'aéronautique civile est créé au ministère chargé de l'aviation civile (direction générale de
+l'aviation civile).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-1348 1955-10-05 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Arrêté du 23 septembre 2009 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
+
 
 ###### Article D424-2
 
@@ -15102,6 +16775,27 @@ en médecine et possède une compétence en médecine aéronautique.
 	**Cite**:
 
 	  - Code de l'aviation civile - art. D424-2 (V)
+
+
+###### Article D424-8
+
+Les dépenses de fonctionnement du conseil médical de l'aéronautique civile, ainsi que les frais d'expertises médicales
+effectuées à la demande du président du conseil médical, seront imputées sur les crédits ouverts au ministère chargé de
+l'aviation civile (direction générale de l'aviation civile).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-1348 1955-10-05 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
 ### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL
