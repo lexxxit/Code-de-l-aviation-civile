@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1984-05-12
+Version Consolidée au 1984-05-27
 
 # Partie législative
 
@@ -11225,6 +11225,31 @@ précédent.
 
 	  - Décret n°69-329 1969-04-03 art. 1 JORF 12 avril 1969
 	  - Décret n°75-757 1975-08-04 art. 1 JORF 15 août 1975
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R421-7 (M)
+
+
+###### Article R421-6
+
+La définition des qualifications professionnelles spéciales, les conditions de leur obtention et de leur renouvellement ainsi
+que les programmes et règlements des examens correspondants sont fixés, après avis du conseil du personnel navigant, par
+arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées.
+
+Toufefois, en ce qui concerne les qualifications de type d'aéronef, leur définition et les conditions de leur obtention sont
+seules fixées ainsi qu'il est dit à l'alinéa précédent. Les programmes d'instruction au sol et en vol correspondant à ces
+qualifications sont déposés directement auprès du ministre chargé de l'aviation civile et soumis à son approbation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-397 1984-05-25 art. 1 JORF 27 mai 1984
 
 	**Cité par**:
 
