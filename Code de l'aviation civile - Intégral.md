@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1987-10-17
+Version Consolidée au 1988-03-05
 
 # Partie législative
 
@@ -8526,18 +8526,25 @@ Sur tout aérodrome ouvert à la circulation aérienne publique, les services re
 rémunération, sous la forme de redevances perçues au profit de la personne qui fournit le service, notamment à l'occasion des
 opérations suivantes : 
 
-Atterrissage des aéronefs ;    Usage des dispositifs d'assistance à la navigation aérienne ;
+Atterrissage des aéronefs ;
 
-Stationnement et abri des aéronefs ;    Usage des installations aménagées pour la réception des passagers et des
-marchandises ;    Usage d'installations et d'outillages divers ;    Occupation de terrains et d'immeubles ;    Visite de tout
-ou partie des zones réservées de l'aérodrome.    Mise en place et fonctionnement des dispositifs destinés à assurer la sûreté
-des usagers du transport aérien ; ces dispositifs comprennent exclusivement ceux qui sont nécessaires pour compléter les
-moyens dont disposent normalement les services chargés de la police en vue d'assurer l'ordre public sur les aérodromes. 
+Usage des dispositifs d'assistance à la navigation aérienne ;
 
-Une redevance complémentaire à la redevance d'atterrissage, dite Redevance pour atténuation des nuisances phoniques, est
-perçue sur certains aérodromes désignés par décret en Conseil d'Etat. 
+Stationnement et abri des aéronefs ;
 
-Les redevances doivent être appropriées au service rendu.
+Usage des installations aménagées pour la réception des passagers et des marchandises ;
+
+Usage d'installations et d'outillages divers ;
+
+Occupation de terrains et d'immeubles ;
+
+Visite de tout ou partie des zones réservées de l'aérodrome.
+
+Mise en place et fonctionnement des dispositifs destinés à assurer la sûreté des usagers du transport aérien ; ces
+dispositifs comprennent exclusivement ceux qui sont nécessaires pour compléter les moyens dont disposent normalement les
+services chargés de la police en vue d'assurer l'ordre public sur les aérodromes. 
+
+Les redevances doivent être appropriées aux services rendus.
 
 Les redevances revenant à l'Etat, à des collectivités publiques et établissements publics sont perçues par un comptable
 public. 
@@ -8546,6 +8553,11 @@ Elles sont recouvrées selon les règles propres à la collectivité ou à l'ét
 l'Etat, selon les règles prévues en matière de créances domaniales ou en vertu de titres de perception émis par les préfets. 
 
 Lorsque les redevances sont perçues au comptant leur encaissement peut être assuré par un régisseur.
+
+**Nota:**
+
+: Le Conseil d'Etat, statuant au contentieux, a annulé le décret n° 84-28 du 11 janvier 1984 modifiant les articles R224-1 et
+R224-2 du code de l'aviation civile JORF 5 mars 1988.
 
 **Liens relatifs à cet article**
 
@@ -8577,29 +8589,32 @@ Lorsque les redevances sont perçues au comptant leur encaissement peut être as
 
 	  - Décret n°67-334 1967-03-30 JORF 9 AVRIL 1967
 
-	**Modifié par**:
+	**Annulé par**:
 
-	  - Décret n°81-577 1981-05-12 ART. 1 JORF 17 MAI 1981
-	  - Décret n°84-28 1984-01-11 ART. 1 JORF 15 JANVIER 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-28 1984-01-11 ART. 3 : les modifications apportées par ce décret aux articles R224-1 et R224-2 du code de l'aviation civile sont applicables aux aérodromes de la compétence de l'Etat dans les territoires d'outre-mer et la collectivité terri
+	  - Conseil d'Etat n°57652 et 57653 1987-11-13
 
 
 ###### Article R224-2
 
 A - Les conditions d'établissement et de perception des redevances pour :
 
-Atterrissage des aéronefs de six tonnes et plus ;    Usage des dispositifs d'assistance à la navigation aérienne par les
-aéronefs de six tonnes et plus ;    Stationnement des aéronefs de six tonnes et plus ;    Usage des installations aménagées
-pour la réception des passagers et des marchandises ;    Installations de distribution de carburants d'aviation, sont
-déterminées par arrêté interministériel après avis du conseil supérieur de l'aviation marchande. 
+Atterrissage des aéronefs de six tonnes et plus ;
+
+Usage des dispositifs d'assistance à la navigation aérienne par les aéronefs de six tonnes et plus ;
+
+Stationnement des aéronefs de six tonnes et plus ;
+
+Usage des installations aménagées pour la réception des passagers et des marchandises ;
+
+Installations de distribution de carburants d'aviation, sont déterminées par arrêté interministériel après avis du conseil
+supérieur de l'aviation marchande. 
 
 B - Les taux de ces redevances sont fixés par une décision prise :
 
-Pour Aéroport de Paris par son conseil d'administration ;       Pour les autres aérodromes par l'exploitant ; en ce qui
-concerne les aérodromes dotés d'une commission consultative économique en application des dispositions du décret susvisé   
+Pour Aéroport de Paris par son conseil d'administration ;
+
+Pour les autres aérodromes par l'exploitant ; en ce qui concerne les aérodromes dotés d'une commission consultative
+économique en application des dispositions du décret susvisé
 
 n° 60-652 du 28 juin 1960, modifié par le décret n° 73-287 du 13 mars 1973, la décision est prise après avis de ladite
 commission. 
@@ -8620,15 +8635,12 @@ que les taux de cette redevance sont fixés par arrêté ministériel après avi
 Les taux sont établis pour chaque aérodrome ou catégories d'aérodromes en fonction des dépenses qui y sont exposées pour
 assurer la sûreté. Cet arrêté détermine également les conditions de répartition du produit de la redevance entre l'Etat et
 les collectivités ou établissements gestionnaires en fonction des dépenses qu'ils supportent respectivement au titre des
-dispositifs ci-dessus mentionnés. 
+dispositifs ci-dessus mentionnés.
 
-E - Le décret en Conseil d'Etat autorisant la perception de la redevance pour atténuation des nuisances phoniques détermine
-l'assiette en fonction de la redevance d'atterrissage, et les conditions d'utilisation du produit de cette redevance, et
-notamment son affectation à certaines dépenses. Les règles de liquidation et de recouvrement de cette redevance sont les
-mêmes que pour la redevance d'atterrissage. 
+**Nota:**
 
-Un arrêté conjoint des ministres chargés de l'économie du budget et des transports, pris après avis du Conseil supérieur de
-l'aviation marchande, fixe les taux de la redevance pour atténuation des nuisances phoniques.
+: Le Conseil d'Etat, statuant au contentieux, a annulé le décret n° 84-28 du 11 janvier 1984 modifiant les articles R224-1 et
+R224-2 du code de l'aviation civile JORF 5 mars 1988.
 
 **Liens relatifs à cet article**
 
@@ -8671,17 +8683,13 @@ l'aviation marchande, fixe les taux de la redevance pour atténuation des nuisan
 
 	  - Décret n°67-334 1967-03-30 JORF 9 AVRIL 1967
 
-	**Modifié par**:
-
-	  - Décret n°72-435 1972-05-19 ART. 1 JORF 27 MAI 1972
-	  - Décret n°74-179 1974-02-26 ART. 1 JORF 1 MARS 1974
-	  - Décret n°81-577 1981-05-12 ART. 2 JORF 17 MAI 1981
-	  - Décret n°84-28 1984-01-11 ART. 2 JORF 15 JANVIER 1984
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-28 1984-01-11 ART. 3 : les modifications apportées par ce décret aux articles R224-1 et R224-2 du code de l'aviation civile sont applicables aux aérodromes de la compétence de l'Etat dans les territoires d'outre-mer et la collectivité terri
 	  - TXT_SOURCE: Décret n°84-29 du 11 janvier 1984 - art. 3 (An)
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°57652 et 57653 1987-11-13
 
 
 ###### Article R224-3
