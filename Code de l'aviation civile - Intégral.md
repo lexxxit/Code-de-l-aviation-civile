@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1998-04-07
+Version Consolidée au 1998-07-03
 
 # Partie législative
 
@@ -4360,14 +4360,14 @@ modalités fixées par décret en Conseil d'Etat.
 	  - Code de l'aviation civile - art. R330-18 (V)
 
 
-### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
+### TITRE IV : SOCIETE AIR FRANCE.
 
 #### CHAPITRE Ier : INSTITUTION.
 
 ###### Article L341-1
 
-La société dite Compagnie nationale Air France est régie par le présent code et, dans tout ce qu'elles n'ont pas de contraire
-à celui-ci, par les lois sur les sociétés anonymes.
+La société dite société Air France est régie par le présent code et, dans tout ce qu'elles n'ont pas de contraire à celui-ci,
+par les lois sur les sociétés anonymes.
 
 Elle a pour objet d'assurer l'exploitation de transports aériens dans les conditions fixées par le ministre chargé de
 l'aviation civile après accord, s'il y a lieu, des autres ministres intéressés. Aucune subvention ne peut lui être allouée
@@ -4390,7 +4390,7 @@ fabrication de matériel aéronautique, ni prendre de participation dans de tell
 
 	**Modifié par**:
 
-	  - Décret n°82-381 1982-05-06 art. 1 JORF 8 mai 1982
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Liens**:
 
@@ -4408,8 +4408,18 @@ fabrication de matériel aéronautique, ni prendre de participation dans de tell
 
 ###### Article L342-1
 
-La Compagnie nationale Air France est soumise au contrôle général du ministre chargé de l'aviation civile et à un contrôle
-économique et financier.
+La société Air France est soumise au contrôle général du ministre chargé de l'aviation civile et à un contrôle économique et
+financier.
+
+**Nota:**
+
+Loi 2003-322 art. 6 II : " II. Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
+au secteur privé de la majorité du capital de la société Air France. 
+
+Les articles L. 341-1, L. 342-1 et L. 342-2 sont abrogés à cette même date. "
+
+Par avis publié au Journal officiel du 29 mai 2004, la majorité du capital de la société Air France a été transférée au
+secteur privé le 6 mai 2004.
 
 **Liens relatifs à cet article**
 
@@ -4422,6 +4432,14 @@ La Compagnie nationale Air France est soumise au contrôle général du ministre
 
 	  - Décret n°67-333 1967-03-30
 
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Loi n°2003-322 du 9 avril 2003 - art. 6 II (V)
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. L342-4 (M)
@@ -4430,12 +4448,12 @@ La Compagnie nationale Air France est soumise au contrôle général du ministre
 
 ###### Article L342-2
 
-La Compagnie nationale Air France doit couvrir par ses ressources propres l'ensemble de ses dépenses d'exploitation,
-l'intérêt et l'amortissement des emprunts, l'amortissement du matériel et des installations et les provisions à constituer
-pour couvrir les risques de tout ordre.
+La société Air France doit couvrir par ses ressources propres l'ensemble de ses dépenses d'exploitation, l'intérêt et
+l'amortissement des emprunts, l'amortissement du matériel et des installations et les provisions à constituer pour couvrir
+les risques de tout ordre.
 
 Toutefois, les obligations qui lui sont imposées dans l'intérêt général font l'objet de contrats préalables assortis de
-cahiers des charges, passées entre la Compagnie, d'une part, l'Etat, les collectivités publiques de la métropole et d'outre-
+cahiers des charges, passées entre la société, d'une part, l'Etat, les collectivités publiques de la métropole et d'outre-
 mer, d'autre part.
 
 **Liens relatifs à cet article**
@@ -4447,6 +4465,10 @@ mer, d'autre part.
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Liens**:
 
@@ -4463,8 +4485,8 @@ mer, d'autre part.
 
 ###### Article L342-3
 
-En vue de financer ses immobilisations et d'augmenter son fonds de roulement, la Compagnie nationale Air France est habilitée
-à émettre dans le public des emprunts qui peuvent bénéficier de la garantie de l'Etat.
+En vue de financer ses immobilisations et d'augmenter son fonds de roulement, la société Air France est habilitée à émettre
+dans le public des emprunts qui peuvent bénéficier de la garantie de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4475,6 +4497,10 @@ En vue de financer ses immobilisations et d'augmenter son fonds de roulement, la
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Liens**:
 
@@ -4493,12 +4519,12 @@ En vue de financer ses immobilisations et d'augmenter son fonds de roulement, la
 ###### Article L342-4
 
 Les conditions d'application des articles L. 330-3, L. 330-4, L. 330-6 du titre III et L. 342-1, L. 342-2 et L. 342-3 du
-titre IV sont déterminés par décret en Conseil d'Etat.
+titre IV sont déterminées par décret en Conseil d'Etat.
 
-" Par dérogation aux dispositions des articles L. 433-2 et L. 435-4 du code du travail, les personnels navigants
-professionnels constituent un collège spécial pour l'élection des représentants du personnel au sein des comités
-d'établissement de la Compagnie nationale Air France et disposent d'une représentation spécifique au comité central
-d'entreprise. Un décret en Conseil d'Etat fixe les conditions d'application du présent alinéa. ".
+Par dérogation aux dispositions des articles L. 433-2 et L. 435-4 du code du travail, les personnels navigants professionnels
+constituent un collège spécial pour l'élection des représentants du personnel au sein des comités d'établissement de la
+société Air France et disposent d'une représentation spécifique au comité central d'entreprise. Un décret en Conseil d'Etat
+fixe les conditions d'application du présent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -4514,7 +4540,7 @@ d'entreprise. Un décret en Conseil d'Etat fixe les conditions d'application du 
 
 	**Modifié par**:
 
-	  - Loi n°89-467 du 10 juillet 1989 - art. 19 () JORF 11 juillet 1989
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Cite**:
 
@@ -13448,7 +13474,7 @@ l'article R. 330-16.
 	  - Code de l'aviation civile - art. R330-16 (Ab)
 
 
-### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
+### TITRE IV : SOCIETE AIR FRANCE.
 
 #### CHAPITRE Ier : INSTITUTION.
 
@@ -13465,9 +13491,13 @@ Une autorisation est requise dans les mêmes formes en cas de cession de partici
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-381 1982-05-06 art. 2 JORF 8 mai 1982
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
 
 	**Cité par**:
 
@@ -13482,7 +13512,7 @@ Une autorisation est requise dans les mêmes formes en cas de cession de partici
 
 ###### Article R342-1
 
-Le conseil d'administration de la Compagnie nationale Air France comprend dix-huit membres :
+Le conseil d'administration de la société Air France comprend dix-huit membres :
 
 1° Cinq représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
 
@@ -13501,9 +13531,9 @@ aérien, soit en raison de leur qualité de représentant des usagers ;
 3° Un représentant des salariés actionnaires désigné, parmi ceux-ci, par l'assemblée générale sur proposition d'une section
 de l'assemblée générale composée de ces seuls actionnaires ;
 
-4° Six représentants des salariés élus par les salariés de la Compagnie nationale Air France et de ses filiales au sens du 4
-de l'article 1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, dans le cadre de
-trois collèges électoraux distincts à raison de :
+4° Six représentants des salariés élus par les salariés de la société Air France et de ses filiales au sens du 4 de l'article
+1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, dans le cadre de trois collèges
+électoraux distincts à raison de :
 
 - un élu par le personnel navigant technique ;
 
@@ -13543,35 +13573,37 @@ défense, l'autre sur celle du ministre chargé du tourisme. Le troisième est n
 
 	  - Décret n°92-1322 du 18 décembre 1992 - art. 4 (V)
 
-	**Modifié par**:
-
-	  - Décret n°97-795 du 21 août 1997 - art. 1 () JORF 23 août 1997
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°97-795 du 21 août 1997 - art. 4 (M)
 
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
 
 ###### Article R342-2
 
-Pour leur application à la Compagnie nationale Air France, les dispositions du titre III du livre IV du code du travail font
-l'objet des adaptations ci-dessous :
+Pour leur application à la société Air France, les dispositions du titre III du livre IV du code du travail font l'objet des
+adaptations ci-dessous :
 
-" I. - Les représentants du personnel aux comités d'établissement sont élus dans les conditions fixées par l'article L. 433-2
+I. - Les représentants du personnel aux comités d'établissement sont élus dans les conditions fixées par l'article L. 433-2
 du code du travail :
 
-" 1. Par les ouvriers et employés ;
+1. Par les ouvriers et employés ;
 
-" 2. Par les ingénieurs, chefs de service, techniciens, agents de maîtrise et assimilés ;
+2. Par les ingénieurs, chefs de service, techniciens, agents de maîtrise et assimilés ;
 
-" 3. Par les personnels navigants professionnels.
+3. Par les personnels navigants professionnels.
 
-" II. - Le nombre total des membres du comité central d'entreprise est déterminé comme il est dit à l'article D. 435-1 du
-code du travail. Le collège du personnel navigant professionnel est représenté au sein de ce comité par trois délégués
-titulaires et trois délégués suppléants. La répartition de ces sièges entre les différentes spécialités de navigants fait
-l'objet d'un accord entre la compagnie et les organisations syndicales représentatives ; à défaut, l'inspection du travail
-des transports décide de cette répartition. Pour permettre cette représentation, chaque établissement dans lequel il existe
-un collège de personnels navigants peut être représenté par plus de deux délégués. "
+II. - Le nombre total des membres du comité central d'entreprise est déterminé comme il est dit à l'article D. 435-1 du code
+du travail.
+
+Le collège du personnel navigant professionnel est représenté au sein de ce comité par trois délégués titulaires et trois
+délégués suppléants. La répartition de ces sièges entre les différentes spécialités de navigants fait l'objet d'un accord
+entre la société et les organisations syndicales représentatives ; à défaut, l'inspection du travail des transports décide de
+cette répartition. Pour permettre cette représentation, chaque établissement dans lequel il existe un collège de personnels
+navigants peut être représenté par plus de deux délégués.
 
 **Liens relatifs à cet article**
 
@@ -13585,7 +13617,7 @@ un collège de personnels navigants peut être représenté par plus de deux dé
 
 	**Modifié par**:
 
-	  - Décret n°91-262 du 4 mars 1991 - art. 11 () JORF 9 mars 1991
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Cite**:
 
@@ -13603,19 +13635,28 @@ Le président du conseil d'administration est nommé, parmi les membres du conse
 celui-ci, par décret, pour la durée de son mandat d'administrateur. Il peut être révoqué par décret sur le rapport du
 ministre chargé de l'aviation civile.
 
+**Nota:**
+
+: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
+Air France : article 5 du Décret 2003-571 du 27 juin 2003.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°97-795 du 21 août 1997 - art. 1 () JORF 23 août 1997
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°97-795 du 21 août 1997 - art. 4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
 
 	**Cité par**:
 
@@ -13624,8 +13665,8 @@ ministre chargé de l'aviation civile.
 
 ###### Article R342-5
 
-Le ministre chargé de l'aviation civile exerce sur la Compagnie nationale Air France le contrôle général prévu à l'article L.
-342-1 dans des conditions fixées par arrêté ministériel.
+Le ministre chargé de l'aviation civile exerce sur la société Air France le contrôle général prévu à l'article L. 342-1 dans
+des conditions fixées par arrêté ministériel.
 
 **Liens relatifs à cet article**
 
@@ -13637,6 +13678,10 @@ Le ministre chargé de l'aviation civile exerce sur la Compagnie nationale Air F
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Cité par**:
 
@@ -13653,20 +13698,25 @@ Peuvent faire l'objet de contrats établis conformément aux dispositions de l'a
 général relatives aux services suivants :
 
 a) Exploitation de services réguliers de transport aérien effectués à la demande de l'Etat ou des collectivités publiques de
-la métropole et d'outre-mer, sur les itinéraires autres que ceux des lignes exploitées par la Compagnie nationale Air France
-en concurrence avec d'autres entreprises de transport aérien ;
+la métropole et d'outre-mer, sur les itinéraires autres que ceux des lignes exploitées par la société Air France en
+concurrence avec d'autres entreprises de transport aérien ;
 
 b) Exploitation d'aéroports ouverts à la circulation aérienne publique et d'aides à la navigation aérienne ;
 
-c) Exploitation de types d'appareils dont l'acquisition ou l'emploi résulterait d'une obligation imposée à la compagnie ;
+c) Exploitation de types d'appareils dont l'acquisition ou l'emploi résulterait d'une obligation imposée à la société ;
 
-d) Formation du personnel navigant jusqu'à l'obtention des brevets, à l'exclusion de la qualification sur appareils nouveaux
+d) Formation du personnel navigant jusqu'à l'obtention des brevets à l'exclusion de la qualification sur appareils nouveaux
 et du perfectionnement de ce personnel ;
 
 e) Montage, à bord des appareils, d'équipements autres que ceux qui sont nécessaires à l'observation des règles et usages de
 la navigation aérienne commerciale ;
 
 f) Toute obligation d'intérêt général portant sur un objet autre que ceux énumérés ci-dessus.
+
+**Nota:**
+
+: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
+Air France : article 5 du Décret 2003-571 du 27 juin 2003.
 
 **Liens relatifs à cet article**
 
@@ -13684,7 +13734,11 @@ f) Toute obligation d'intérêt général portant sur un objet autre que ceux é
 
 	**Modifié par**:
 
-	  - Décret n°93-421 du 17 mars 1993 - art. 5 () JORF 24 mars 1993
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
 
 	**Cité par**:
 
@@ -13700,9 +13754,9 @@ f) Toute obligation d'intérêt général portant sur un objet autre que ceux é
 Les cahiers des charges annexés aux contrats relatifs à l'exploitation de services réguliers de transport aérien doivent
 prévoir les types d'appareils utilisés ainsi que la fréquence minimum et maximum des services.
 
-Ils comportent l'obligation pour la compagnie de respecter dans l'exploitation les lois et règlements concernant la
-navigation aérienne, à l'exclusion de toute obligation autre que celles qui sont imposées aux entreprises françaises ou
-étrangères de transport aérien.
+Ils comportent l'obligation pour la société de respecter dans l'exploitation les lois et règlements concernant la navigation
+aérienne, à l'exclusion de toute obligation autre que celles qui sont imposées aux entreprises françaises ou étrangères de
+transport aérien.
 
 **Liens relatifs à cet article**
 
@@ -13714,6 +13768,14 @@ navigation aérienne, à l'exclusion de toute obligation autre que celles qui so
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
+
 	**Cité par**:
 
 	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
@@ -13723,7 +13785,7 @@ navigation aérienne, à l'exclusion de toute obligation autre que celles qui so
 
 Les contrats ne peuvent être révisés à la demande de l'une ou l'autre des parties que si la variation de l'ensemble des
 éléments de dépenses ou de recettes énumérés par le cahier des charges entraîne une augmentation ou une réduction de plus de
-10 p. 100 de la charge qu'impose à la Compagnie nationale Air France l'obligation qui a fait l'objet du contrat.
+10 p. 100 de la charge qu'impose à la société Air France l'obligation qui a fait l'objet du contrat.
 
 Les éléments de recettes ou de dépenses entrant en compte pour la variation comprennent notamment, d'une part, le niveau des
 salaires et charges sociales, le prix du combustible, des matériels ou matières utilisées, les charges d'amortissement et,
@@ -13739,6 +13801,14 @@ d'autre part, les tarifs.
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
+
 	**Cité par**:
 
 	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
@@ -13748,7 +13818,7 @@ d'autre part, les tarifs.
 
 Les contrats prévus aux articles précédents sont signés par le ministre intéressé et par le ministre chargé de l'aviation
 civile, après accord du ministre chargé de l'économie et des finances et du ministre du budget, lorsqu'ils sont conclus entre
-l'Etat et la Compagnie nationale Air France.
+l'Etat et la société Air France.
 
 **Liens relatifs à cet article**
 
@@ -13766,7 +13836,11 @@ l'Etat et la Compagnie nationale Air France.
 
 	**Modifié par**:
 
-	  - Décret n°93-421 du 17 mars 1993 - art. 6 () JORF 24 mars 1993
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
 
 	**Cité par**:
 
@@ -13801,7 +13875,7 @@ l'approbation ministérielle est considérée comme acquise de plein droit.
 
 	**Modifié par**:
 
-	  - Décret n°93-421 du 17 mars 1993 - art. 7 () JORF 24 mars 1993
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Cité par**:
 
@@ -13811,8 +13885,8 @@ l'approbation ministérielle est considérée comme acquise de plein droit.
 ###### Article R342-15
 
 Le directeur général de l'aviation civile et le directeur des transports aériens siègent, avec voix consultative, au conseil
-d'administration de la Compagnie nationale Air France, respectivement en qualité de commissaire du Gouvernement et de
-commissaire du Gouvernement adjoint.
+d'administration de la société Air France, respectivement en qualité de commissaire du Gouvernement et de commissaire du
+Gouvernement adjoint.
 
 **Liens relatifs à cet article**
 
@@ -13827,7 +13901,11 @@ commissaire du Gouvernement adjoint.
 
 	**Modifié par**:
 
-	  - Décret n°97-795 du 21 août 1997 - art. 5 () JORF 23 août 1997
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
 
 
 ### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
@@ -15051,20 +15129,20 @@ professionnel des essais et des réceptions.
 
 ###### Article R425-8
 
-La section du transport et du travail aériens comprend :
+La section du transport et du travail aériens comprend : 
 
-Trois membres représentant l'aviation civile, désignés par le ministre chargé de l'aviation civile ;
+Trois membres représentant l'aviation civile, désignés par le ministre chargé de l'aviation civile.
 
-Un membre de l'organisme du contrôle en vol, désigné par le ministre chargé de l'aviation civile ;
+Un membre de l'organisme du contrôle en vol, désigné par le ministre chargé de l'aviation civile.
 
-Un ancien  pilote de ligne commandant de bord ayant cessé son activité professionnelle depuis moins de deux ans lors de sa
-nomination ou un pilote de ligne en activité, désigné d'un commun accord par la Compagnie nationale Air France et par
-l'organisation la plus représentative des entreprises de transport aérien  ;
+Un ancien pilote de ligne commandant de bord ayant cessé son activité professionnelle depuis moins de deux ans lors de sa
+nomination ou un pilote de ligne en activité, désigné d'un commun accord par la société Air France et par l'organisation la
+plus représentative des entreprises de transport aérien.
 
 Deux membres du personnel navigant professionnel de l'aéronautique civile, choisis par le ministre chargé de l'aviation
-civile en fonction de la spécialité de la personne traduite devant le conseil sur une liste comprenant ;
+civile en fonction de la spécialité de la personne traduite devant le conseil sur une liste comprenant :
 
-Deux pilotes de la catégorie transport aérien ;
+Deux pilotes de la catégorie transport aérien ; 
 
 Deux pilotes de la catégorie travail aérien, dont un pilote d'hélicoptère ;
 
@@ -15078,7 +15156,7 @@ Deux membres du personnel navigant commercial du transport aérien ;
 
 Deux photographes navigants professionnels ;
 
-Deux parachutistes professionnels ;
+Deux parachutistes professionnels.
 
 Cette liste est arrêtée par le ministre chargé de l'aviation civile sur proposition des organisations les plus
 représentatives du personnel navigant professionnel du transport et du travail aériens.
@@ -15089,9 +15167,9 @@ représentatives du personnel navigant professionnel du transport et du travail 
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°67-334 1967-03-30 jorf 9 avril 1967
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 	**Cité par**:
 
@@ -15452,8 +15530,8 @@ La caisse de retraite est administrée par un conseil d'administration comprenan
 a) Douze administrateurs titulaires représentant les employeurs, nommés par arrêté du ministre chargé de l'aviation civile au
 vu des propositions présentées par :
 
-- la Compagnie nationale Air France et les organisations professionnelles des employeurs du transport et du travail aériens,
-à raison de neuf membres ;
+- la société Air France et les organisations professionnelles des employeurs du transport et du travail aériens, à raison de
+neuf membres ;
 
 - les organismes représentatifs de l'industrie aéronautique, à raison d'un membre ;
 
@@ -15481,15 +15559,13 @@ En cas de partage égal des voix, le président a voix prépondérante.
 Les administrateurs suppléants siègent aux séances du conseil d'administration en cas d'empêchement des administrateurs
 titulaires. Ils remplacent les titulaires en cas de vacance définitive en cours de mandat.
 
+II
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 2 (V) JORF 1er juillet 1995
 
 	**Liens**:
 
@@ -15499,6 +15575,10 @@ titulaires. Ils remplacent les titulaires en cas de vacance définitive en cours
 	**Cité par**:
 
 	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
 ###### Article R426-3
@@ -22491,13 +22571,13 @@ ministre chargé du budget et du ministre chargé de l'aviation civile.
 	  - Code de l'aviation civile - art. R330-4 (V)
 
 
-### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
+### TITRE IV : SOCIETE AIR FRANCE.
 
 #### CHAPITRE II : FONCTIONNEMENT.
 
 ###### Article D342-1
 
-Les dispositions du code du travail relatives à la médecine du travail sont applicables à la Compagnie nationale Air France.
+Les dispositions du code du travail relatives à la médecine du travail sont applicables à la société Air France.
 
 **Liens relatifs à cet article**
 
@@ -22511,7 +22591,7 @@ Les dispositions du code du travail relatives à la médecine du travail sont ap
 
 	**Modifié par**:
 
-	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
 ### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.
@@ -25396,20 +25476,12 @@ cotisation atteindrait un montant inférieur à 7,62 euros.
 
 ###### Article D611-3
 
-Pour les entreprises mentionnées au a de l'article D. 611-2, les cotisations sont exigibles le 1er avril de chaque année.
+Pour les entreprises mentionnées au a de l'article D. 611-2, les cotisations sont exigibles le 1er avril de chaque année. 
 
-Toutefois, la compagnie nationale Air France peut être appelée à verser au début de chaque année un acompte basé sur l'état
-de sa flotte au 1er octobre de l'année précédant l'année en cours.
+Toutefois, la société Air France peut être appelée à verser au début de chaque année un acompte basé sur l'état de sa flotte
+au 1er octobre de l'année précédant l'année en cours.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L611-2 (M)
-
-	**Modifié par**:
-
-	  - Décret  80-910 1980-11-17 art. 4 JORF 21 novembre 1980
 
 	**Anciens textes**:
 
@@ -25418,6 +25490,14 @@ de sa flotte au 1er octobre de l'année précédant l'année en cours.
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D611-2 (V)
 
 
 ###### Article D611-4
