@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1982-05-20
+Version Consolidée au 1982-12-31
 
 # Partie législative
 
@@ -3345,6 +3345,44 @@ aérodromes et installations de sa circonscription.
 
 ## LIVRE III : TRANSPORT AERIEN
 
+### TITRE Ier : DISPOSITIONS GENERALES - DEFINITION.
+
+###### Article L310-1
+
+Le transport aérien consiste à acheminer par aéronef d'un point d'origine à un point de destination des passagers, des
+marchandises ou de la poste.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 113
+	  - Décret n°53-916 1953-09-26 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 1 juin 1999 - art. Annexe (V)
+	  - Arrêté du 13 juillet 2009 (V)
+	  - Arrêté du 22 juillet 2009 (V)
+	  - Code de l'aviation civile - art. L227-4 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6400-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+
+
 ### TITRE II : CONTRAT DE TRANSPORT
 
 #### CHAPITRE Ier : TRANSPORT DES MARCHANDISES.
@@ -3635,7 +3673,108 @@ sécurité ou le bon ordre à bord d'un aéronef.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
+#### CHAPITRE III : LOCATION ET AFFRETEMENT D'AÉRONEFS.
+
+###### Article L323-1
+
+La location d'un aéronef est l'opération par laquelle un bailleur met à la disposition d'un preneur un aéronef sans équipage.
+
+L'affrètement d'un aéronef est l'opération par laquelle un fréteur met à la disposition d'un affréteur un aéronef avec
+équipage. Sauf convention contraire, l'équipage reste sous la direction du fréteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L227-4 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+
+
+###### Article L323-2
+
+Toute entreprise frétant un aéronef, à titre professionnel ou contre rémunération, pour une opération de transport est
+soumise aux lois et règlements applicables au transport aérien public, quelle que soit l'utilisation faite par l'affréteur de
+cet aéronef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D121-18 (V)
+	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+
+
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
+
+###### Article L330-1
+
+Le transport aérien public consiste à acheminer par aéronef, d'un point d'origine à un point de destination, des passagers,
+des marchandises ou de la poste à titre professionnel ou contre rémunération.
+
+Les personnes physiques françaises et les personnes morales ayant leur siège social en France ne peuvent exercer une activité
+de transport aérien public, soit sur le territoire national, soit à l'étranger, au moyen d'aéronefs immatriculés en France
+que si elles y ont été autorisées par l'autorité administrative.
+
+L'autorisation précise la durée pour laquelle elle est accordée, l'objet du transport, les liaisons ou les zones
+géographiques que l'entreprise peut desservir et le matériel qu'elle peut exploiter.
+
+Un décret en Conseil d'Etat fixe les conditions de délivrance, de modification ou de retrait de l'autorisation.
+
+Toutefois, ne relèvent pas du transport aérien public les transports de passagers effectués sans escale lorsque les points
+d'origine et de destination sont confondus et lorsque la capacité d'emport de l'aéronef ne dépasse pas une limite fixée par
+décret en Conseil d'Etat.
+
+**Nota:**
+
+Au regard des dispositions de l'article L. 330-1 du code de l'aviation civile, tel qu'il résulte du paragraphe III de
+l'article 42 ci-dessus, les autorisations ou agréments délivrés antérieurement à l'entrée en vigueur de cet article valent
+autorisation jusqu'à la conclusion des conventions prévues audit article 42 (art. L. 330-3 du code de l'aviation civile).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 43 (VT)
+	  - Décret n°93-421 du 17 mars 1993 - art. 4 (Ab)
+	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
+	  - Arrêté du 20 décembre 2004 - art. 1 (V)
+	  - Décret n°2009-805 du 26 juin 2009 - art. 2 (V)
+	  - Code de l'aviation civile - art. L150-1-1 (VT)
+	  - Code de l'aviation civile - art. L227-4 (VT)
+	  - Code de l'aviation civile - art. L330-3 (M)
+	  - Code de l'aviation civile - art. L360-1 (VT)
+	  - Code de l'aviation civile - art. R330-1 (V)
+	  - Code de l'aviation civile - art. R330-1-1 (V)
+	  - Code de l'aviation civile - art. R330-12 (M)
+	  - Code de l'aviation civile - art. R330-13 (V)
+	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code de l'aviation civile - art. R330-19 (M)
+	  - Code de l'aviation civile - art. R330-20 (M)
+	  - Code de l'environnement - art. L229-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+
 
 ###### Article L330-2
 
@@ -3666,6 +3805,92 @@ accordées par décret.
 	  - Code de l'aviation civile - art. R330-19-1 (V)
 	  - Code de l'aviation civile - art. R330-20 (M)
 	  - Code de l'aviation civile - art. R330-4-1 (Ab)
+
+
+###### Article L330-3
+
+La consistance générale et les conditions de fonctionnement et de financement des services réguliers de transport de
+personnes entre un point d'origine et un point de destination situés sur le territoire national font l'objet d'une convention
+entre l'entreprise exploitante et l'Etat ou une collectivité territoriale, une chambre de commerce et d'industrie ou un
+établissement public intéressés.
+
+L'autorisation nécessaire pour effectuer ces services, prévue à l'article L. 330-1, est délivrée sous réserve de la
+conclusion de cette convention et après consultation des autorités régionales.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 43 (VT)
+	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
+	  - Arrêté du 20 décembre 2004 - art. 8 (V)
+	  - Code de l'aviation civile - art. L330-11 (V)
+	  - Code de l'aviation civile - art. L342-4 (M)
+	  - Code de l'aviation civile - art. R330-13 (M)
+	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code de l'aviation civile - art. R330-20 (V)
+	  - Code de l'aviation civile - art. R330-5 (V)
+	  - Code de l'aviation civile - art. R330-7 (V)
+	  - Code de l'aviation civile - art. R330-9 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+
+
+###### Article L330-4
+
+En cas d'exercice d'une activité de transport aérien par une entreprise non régulièrement autorisée, le ministre chargé de
+l'aviation civile pourra prononcer, à l'expiration d'un délai de huit jours suivant une mise en demeure notifiée à cette
+entreprise, la mise sous séquestre des appareils utilisés.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 330-4, les mots " le ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 130
+	  - Décret n°53-916 1953-09-26 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 20 décembre 2004 - art. 8 (V)
+	  - Code de l'aviation civile - art. L330-11 (VT)
+	  - Code de l'aviation civile - art. L342-4 (M)
+	  - Code de l'aviation civile - art. R330-12 (V)
+	  - Code de l'aviation civile - art. R330-13 (M)
+	  - Code de l'aviation civile - art. R330-15 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6432-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
 
 
 ###### Article L330-5
@@ -3752,6 +3977,29 @@ habilité à cet effet.
 	**Abrogé par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L330-8
+
+Les programmes d'exploitation, les programmes généraux d'achat et de location de matériels volants, les conditions de
+transport et les tarifs des entreprises de transport aérien peuvent être soumis à homologation administrative pour les
+transports effectués à l'aide d'aéronefs dépassant un certain tonnage. Un décret en Conseil d'Etat fixe les conditions
+d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
+	  - Code de l'aviation civile - art. R330-20 (M)
+
+	**Créé par**:
+
+	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
 
 
 ### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
