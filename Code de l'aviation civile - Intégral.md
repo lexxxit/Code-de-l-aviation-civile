@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1994-10-22
+Version Consolidée au 1994-12-03
 
 # Partie législative
 
@@ -23184,6 +23184,571 @@ horizontal de l'aéronef.
 
 
 
+###### Article Annexe I : Appendice D
+
+**TABLEAU DES CONDITIONS METEOROLOGIQUES DE VOL A VUE ET LIMITATIONS DE VITESSE**
+
+(tableaux non reproduits).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre en vigueur le 3 décembre 1994
+
+
+###### Article Annexe I : Chapitre Ier
+
+**CHAPITRE Ier : Définitions**. 
+
+Dans la présente annexe I aux articles D. 131-1 à D. 131-10 du code de l'aviation civile :
+
+- le terme " service correspond à la notion de fonction ou de service assurés alors que le terme " organisme désigne une
+entité administrative chargée d'assurer un service ;
+
+- les expressions ci-dessous employées dans les chapitres II à V ont la signification suivante :
+
+Aérodrome : surface définie sur terre ou sur l'eau (comprenant, éventuellement, bâtiments, installations et matériel)
+destinée à être utilisée, en totalité ou en partie, pour l'arrivée, le départ et les évolutions des aéronefs à la surface.
+
+Note. - Les règles de l'air se rapportant aux aérodromes et à leur utilisation s'appliquent également, sauf mention
+contraire, aux emplacements sur lesquels l'atterrissage et le décollage sont permis conformément aux articles D. 132-4 et
+suivants du code de l'aviation civile.
+
+Aérodrome AFIS : aérodrome non contrôlé où le service d'information de vol et le service d'alerte sont assurés au bénéfice de
+la circulation d'aérodrome.
+
+Aérodrome contrôlé : aérodrome où le service du contrôle de la circulation aérienne est assuré au bénéfice de la circulation
+d'aérodrome.
+
+Note. - L'expression aérodrome contrôlé indique que le service du contrôle de la circulation aérienne est assuré au bénéfice
+de la circulation d'aérodrome, mais n'implique pas nécessairement l'existence d'une zone de contrôle.
+
+Aérodrome de dégagement : aérodrome spécifié dans le plan de vol vers lequel le vol peut être poursuivi lorsqu'il devient
+inopportun d'atterrir à l'aérodrome d'atterrissage prévu.
+
+Note. - L'aérodrome de départ peut être pris comme aérodrome de dégagement.
+
+Aérodyne : tout aéronef dont la sustentation en vol est obtenue principalement par des forces aérodynamiques.
+
+Aéronef : tout appareil capable de s'élever ou de circuler dans les airs.
+
+Aérostat : tout aéronef dont la sustentation est principalement due à sa flottabilité dans l'air.
+
+Aire à signaux : aire d'aérodrome sur laquelle sont disposés des signaux au sol.
+
+Aire d'atterrissage : partie d'une aire de mouvement destinée à l'atterrissage et au décollage des aéronefs.
+
+Aire de manoeuvre : partie d'un aérodrome qui doit être utilisée pour les décollages, les atterrissages et la circulation en
+surface des aéronefs, à l'exclusion des aires de trafic.
+
+Aire de mouvement : partie d'un aérodrome qui doit être utilisée pour les décollages, les atterrissages et la circulation en
+surface des aéronefs qui comprend l'aire de manoeuvre et la (ou les) aire(s) de trafic.
+
+Aire de trafic : aire définie, sur un aérodrome terrestre, destinée aux aéronefs pour l'embarquement ou le débarquement des
+voyageurs, le chargement ou le déchargement de la poste et du fret, l'avitaillement ou la reprise de carburant, le
+stationnement ou l'entretien.
+
+Altitude : distance verticale entre un niveau, un point ou un objet assimilé à un point et le niveau moyen de la mer.
+
+Altitude de transition : altitude à laquelle ou au-dessous de laquelle la position verticale d'un aéronef est donnée par son
+altitude.
+
+Altitude d'un aérodrome : altitude du point le plus élevé de l'aire d'atterrissage.
+
+Altitude-pression : pression atmosphérique exprimée sous forme de l'altitude correspondant à cette pression dans l'atmosphère
+type.
+
+Approche à vue : approche effectuée par un aéronef en vol IFR qui n'exécute pas ou interrompt la procédure d'approche aux
+instruments et exécute l'approche par repérage visuel du sol.
+
+Autogire : aérodyne dont la sustentation en vol est obtenue par la réaction de l'air sur un ou plusieurs rotors qui tournent
+librement autour d'axes sensiblement verticaux.
+
+Autorité compétente : terme générique employé pour désigner l'autorité de l'Etat responsable de l'établissement de règles ou
+dispositions particulières dans les domaines qui relèvent de sa compétence.
+
+Autorité compétente des services de la circulation aérienne :
+
+autorité compétente responsable de l'établissement de règles ou de dispositions particulières dans les domaines qui relèvent
+de la fourniture des services de la circulation aérienne.
+
+Avion : aérodyne entraîné par un organe moteur et dont la sustentation en vol est obtenue principalement par des réactions
+aérodynamiques sur des surfaces qui restent fixes dans des conditions données de vol.
+
+Ballon : aérostat non entraîné par un organe moteur.
+
+Bureau de piste : organisme de la circulation aérienne chargé de recevoir des comptes rendus concernant les services de la
+circulation aérienne et des plans de vol déposés avant le départ.
+
+Note. - Un bureau de piste peut être un organisme distinct ou être combiné avec un organisme existant.
+
+Cap : sens dans lequel est dirigé l'axe longitudinal de l'aéronef, généralement exprimé en degrés par rapport au nord (vrai,
+magnétique, compas ou du canevas).
+
+Caractère spécial du vol : indication précisant éventuellement si les organismes des services de la circulation aérienne
+doivent accorder un traitement spécial à un aéronef donné.
+
+Centre de contrôle d'approche (APP) : organisme de la circulation aérienne chargé d'assurer les services de la circulation
+aérienne au bénéfice des aéronefs évoluant dans les espaces aériens contrôlés relevant de son autorité et associés à un ou
+plusieurs aérodromes.
+
+Centre de contrôle régional (ACC) : organisme de la circulation aérienne chargé d'assurer les services de la circulation
+aérienne au bénéfice des aéronefs évoluant dans les espaces aériens contrôlés relevant de son autorité.
+
+Centre de coordination de sauvetage (RCC) : organisme chargé d'assurer l'organisation du service de recherches et de
+sauvetage et de coordonner les opérations à l'intérieur d'une région de recherches et de sauvetage.
+
+Centre d'information de vol (FIC) : organisme de la circulation aérienne institué pour assurer le service d'information de
+vol et le service d'alerte.
+
+Circuit d'aérodrome : trajet de principe associé à un aérodrome
+
+indiquant les manoeuvres successives que doivent effectuer en tout ou partie les aéronefs en vol utilisant l'aérodrome.
+
+Circuit de circulation au sol : cheminements spécifiés que les aéronefs doivent suivre sur l'aire de manoeuvre.
+
+Circulaire d'information aéronautique (AIC) : avis contenant des informations qui ne satisfont pas aux conditions d'émission
+d'un NOTAM ou d'insertion dans une publication d'information aéronautique, mais qui concernent la sécurité des vols, la
+navigation aérienne ou d'autres questions techniques, administratives, législatives ou réglementaires.
+
+Circulation aérienne : ensemble des aéronefs évoluant dans l'espace aérien ou sur l'aire de manoeuvre d'un aérodrome.
+
+La circulation aérienne comprend la circulation aérienne générale et la circulation aérienne militaire.
+
+Note. - Dans le présent texte, sauf mention contraire, l'expression " circulation aérienne désigne la circulation aérienne
+générale.
+
+Circulation aérienne générale (CAG) : ensemble des mouvements des aéronefs civils et des aéronefs d'Etat soumis à la
+réglementation propre à ce type de circulation.
+
+Circulation aérienne militaire (CAM) : circulation opérationnelle militaire (COM) et circulation d'essais et de réception
+(CER).
+
+La circulation opérationnelle militaire est constituée par l'ensemble des mouvements des aéronefs qui, pour des raisons
+d'ordre technique ou militaire, relèvent de la réglementation propre à ce type de circulation.
+
+La circulation d'essais et de réception est constituée par l'ensemble des mouvements des aéronefs en essais ou en réception
+soumis, pour des raisons d'ordre technique et avec l'agrément du directeur du centre d'essais en vol, à la réglementation
+propre à ce type de circulation.
+
+Circulation d'aérodrome : ensemble de la circulation des aéronefs et des véhicules sur l'aire de manoeuvre d'un aérodrome et
+des aéronefs qui se trouvent dans le ou les circuits d'aérodrome, qui y pénètrent ou qui en sortent.
+
+Circulation en surface : déplacement d'un aéronef, par ses propres moyens, à l'exclusion des décollages et atterrissages, à
+la surface d'un aérodrome, ou encore, dans le cas d'un hélicoptère, déplacement en vol rasant au-dessus de la surface de
+l'aérodrome à une hauteur permettant d'utiliser l'effet de sol et à une vitesse correspondant à celle de la circulation au
+sol.
+
+Clairance : autorisation délivrée à un aéronef de manoeuvrer dans des conditions spécifiées par un organisme du contrôle de
+la circulation aérienne dans le but de lui fournir le service du contrôle de la circulation aérienne.
+
+Clairance initiale : clairance délivrée avant le départ ou avant la pénétration dans un espace aérien contrôlé.
+
+Clairance de séparation à vue : clairance complémentaire accordée à un aéronef en vol contrôlé lui permettant de s'affranchir
+des espacements réglementaires vis-à-vis d'un seul autre aéronef contrôlé et d'assurer visuellement sa propre séparation par
+rapport à celui-ci.
+
+Clairance VMC ; clairance complémentaire accordée à un aéronef en vol IFR, lui permettant, sur sa demande, en VMC, de
+s'affranchir des
+
+espacements réglementaires vis-à-vis de tous les autres aéronefs en vol IFR et d'assurer visuellement sa propre séparation
+par rapport à ceux-ci.
+
+Code transpondeur : numéro assigné à une réponse émise par un transpondeur.
+
+Compte rendu en vol : compte rendu émanant d'un aéronef en vol et établi selon les spécifications applicables aux comptes
+rendus de position, d'exploitation et (ou) d'observations météorologiques.
+
+Conditions météorologiques de vol aux instruments (IMC) : conditions météorologiques, exprimées en fonction de la visibilité,
+de la distance par rapport aux nuages et du plafond, inférieures aux minimums spécifiés pour les conditions météorologiques
+de vol à vue.
+
+Conditions météorologiques de vol à vue (VMC) : conditions météorologiques, exprimées en fonction de la visibilité, de la
+distance par rapport aux nuages et du plafond, égales ou supérieures aux minimums spécifiés.
+
+Contrôle d'aérodrome : service du contrôle de la circulation aérienne pour la circulation d'aérodrome.
+
+Contrôle d'approche : service du contrôle de la circulation aérienne pour les aéronefs en vol contrôlé à l'arrivée ou au
+départ.
+
+Contrôle régional : service du contrôle de la circulation aérienne pour les aéronefs en vol contrôlé à l'intérieur des
+régions de contrôle.
+
+Croisière ascendante : technique de vol en croisière applicable à un aéronef, qui résulte en un accroissement net de
+l'altitude à mesure que la masse de l'aéronef diminue.
+
+Dirigeable : aérostat entraîné par un organe moteur.
+
+Espace aérien contrôlé : portion de région d'information de vol, ou de région supérieure d'information de vol, de dimensions
+déterminées, à l'intérieur de laquelle le service du contrôle de la circulation aérienne est assuré au bénéfice des vols
+contrôlés.
+
+Note 1. - " Espace aérien contrôlé est un terme générique qui désigne l'un ou l'autre des espaces aériens contrôlés de classe
+A, B, C, D ou E.
+
+Note 2. - Certains espaces aériens contrôlés dans lesquels le service du contrôle de la circulation aérienne est rendu
+simultanément à la circulation aérienne générale et à la circulation aérienne militaire et où la cohabitation et la densité
+des deux types de circulation aérienne rendent nécessaire la mise en place de mesures complémentaires afin d'assurer les
+services de la circulation aérienne sont désignés " espaces aériens contrôlés spécialisés (S/CTA, S/CTR, S/TMA, etc.).
+
+Espace aérien contrôlé de classe A : espace aérien où sont admis les vols IFR et où ne sont pas admis les vols VFR.
+
+Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR.
+
+Espace aérien contrôlé de classe B : espace aérien où sont admis les vols IFR et les vols VFR.
+
+Dans cet espace, les organismes de contrôle de la circulation aérienne assurent des espacements entre les vols IFR, entre les
+vols IFR et les vols VFR et entre les vols VFR.
+
+Espace aérien contrôlé de classe C : espace aérien où sont admis les
+
+vols IFR et les vols VFR.
+
+Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR et entre
+les vols IFR et les volsVFR, et fournissent des informations de trafic aux vols VFR sur les autres vols VFR.
+
+Espace aérien contrôlé de classe D : espace aérien où sont admis les vols IFR et les vols VFR.
+
+Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR et
+fournissent des informations de trafic aux vols IFR sur les vols VFR et aux vols VFR sur les vols IFR et sur les autres vols
+VFR.
+
+Espace aérien contrôlé de classe E : espace aérien où sont admis les vols IFR et les vols VFR.
+
+Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR.
+
+Espace aérien non contrôlé de classe F (espace aérien à service consultatif) : espace aérien où sont admis les vols IFR et
+les vols VFR.
+
+Dans cet espace, les organismes de la circulation aérienne assurent le service consultatif de la circulation aérienne.
+
+Espace aérien non contrôlé de classe G : espace aérien où sont admis les vols IFR et les vols VFR.
+
+Dans cet espace, les organismes de la circulation aérienne assurent seulement le service d'information de vol et le service
+d'alerte.
+
+Espacement : intervalle ménagé par un organisme du contrôle de la circulation aérienne entre les positions de deux aéronefs
+et exprimé en distance horizontale, en différence de niveau ou en temps de vol.
+
+Exploitant : personne, organisme ou entreprise qui se livre ou propose de se livrer à l'exploitation d'un ou de plusieurs
+aéronefs.
+
+Hauteur : distance verticale entre un niveau, un point ou un objet assimilé à un point et un niveau de référence.
+
+Hélicoptère : aérodyne dont la sustentation en vol est obtenue principalement par la réaction de l'air sur un ou plusieurs
+rotors qui tournent, entraînés par un organe moteur, autour d'axes sensiblement verticaux.
+
+Heure d'approche prévue : heure à laquelle un organisme de la circulation aérienne prévoit qu'un aéronef quittera le repère
+d'attente à une altitude au moins égale à l'altitude minimale d'attente avant de débuter l'approche finale.
+
+Note. - L'heure réelle à laquelle l'aéronef quitte le repère d'attente dépend de la clairance d'approche.
+
+Heure estimée d'arrivée : pour les vols IFR, heure à laquelle il est estimé que l'aéronef arrivera à la verticale du repère
+d'approche initiale, défini par référence à des aides à la navigation, à partir duquel il est prévu qu'une procédure
+d'approche aux instruments sera amorcée ou, si l'aérodrome n'est équipé d'aucune aide à la navigation, heure à laquelle
+l'aéronef arrivera à la verticale de l'aérodrome. Pour les vols VFR, heure à laquelle il est estimé que l'aéronef arrivera à
+la verticale de l'aérodrome.
+
+Identification d'un aéronef : groupe de lettres, de chiffres ou combinaison de lettres et de chiffres qui, soit est identique
+à
+
+l'indicatif d'appel de l'aéronef à utiliser dans les communications air-sol, soit en est l'équivalent en code, et qui est
+utilisé pour identifier l'aéronef dans les communications sol-sol des services de la circulation aérienne.
+
+IFR : abréviation utilisée pour désigner les règles de vol aux instruments.
+
+IMC : abréviation utilisée pour désigner les conditions météorologiques de vol aux instruments.
+
+Information de trafic : informations fournies à un pilote par un organisme de la circulation aérienne pour l'avertir que
+d'autres aéronefs, dont la présence est connue ou observée, peuvent être suffisamment près de sa position ou de sa route
+prévue, afin de l'aider à prévenir un abordage en appliquant les règles de l'air.
+
+Limite de clairance : point ou instant jusqu'auquel est valable une clairance.
+
+Niveau : terme générique employé pour indiquer la position verticale d'un aéronef en vol et désignant, selon le cas, une
+hauteur, une altitude ou un niveau de vol.
+
+Note. - Un altimètre barométrique étalonné d'après l'atmosphère type :
+
+a) Calé sur le QNH, indique l'altitude ;
+
+b) Calé sur le QFE, indique la hauteur par rapport au niveau de référence QFE ;
+
+c) Calé sur une pression de 1 013,2 hectopascals, indique l'altitude pression et peut être utilisé pour indiquer le niveau de
+vol.
+
+Niveau de croisière : niveau auquel un aéronef se maintient pendant une partie appréciable d'un vol.
+
+Niveau de transition : premier niveau de vol, multiple de 10, égal ou supérieur à l'altitude de transition auquel et au-
+dessus duquel la position verticale d'un aéronef est donnée par son niveau de vol.
+
+Niveau de vol (FL) : surface isobare liée à une pression de référence spécifiée : 1013,2 hectopascals et séparée des autres
+surfaces analogues par des intervalles de pressions spécifiés.
+
+NOTAM : avis donnant en temps utile sur l'établissement, l'état ou la modification d'une installation, d'un service, d'une
+procédure aéronautique ou d'un danger pour la navigation aérienne des renseignements essentiels à l'exécution des vols.
+
+Nuit : période pendant laquelle le centre du disque solaire se trouve à plus de 6 degrés en dessous de l'horizon.
+
+Il est admis que :
+
+- pour des latitudes comprises entre 30° et 60°, la nuit commence 30 minutes après le coucher du soleil et se termine 30
+minutes avant le lever du soleil ;
+
+- pour des latitudes inférieures ou égales à 30° la nuit commence à 15 minutes après le coucher du soleil et se termine 15
+minutes avant le lever du soleil.
+
+Observation d'aéronef : évaluation d'un ou plusieurs éléments météorologiques effectuée à partir d'un aéronef en vol.
+
+Organisme accepteur : le prochain organisme du contrôle de la circulation aérienne à prendre en charge un aéronef.
+
+Organisme AFIS : organisme de la circulation aérienne chargé d'assurer le service d'information de vol et le service d'alerte
+au bénéfice de la circulation d'aérodrome d'un aérodrome non
+
+contrôlé.
+
+Organisme de la circulation aérienne : terme générique désignant soit un organisme chargé de prendre l'ensemble des services
+de la circulation aérienne ou certains d'entre eux, soit un bureau de piste.
+
+Note. - Dans le présent texte, sauf mention contraire, l'expression " organisme de la circulation aérienne recouvre également
+les organismes de la circulation aérienne militaire lorsque ceux-ci rendent des services à la circulation aérienne générale.
+
+Organisme du contrôle de la circulation aérienne : terme générique désignant soit un centre de contrôle régional, soit un
+centre de contrôle d'approche, soit une tour de contrôle, soit un organisme de contrôle de la circulation aérienne militaire.
+
+Organisme donneur : organisme de contrôle de la circulation aérienne en train de transférer à l'organisme suivant, le long de
+la route, la responsabilité d'assurer à un aéronef le service du contrôle de la circulation aérienne.
+
+Phase d'urgence : terme générique désignant selon le cas la phase d'incertitude, la phase d'alerte ou la phase de détresse.
+
+Phase d'alerte (ALERFA) : situation dans laquelle on peut craindre pour la sécurité d'un aéronef et de ses occupants.
+
+Phase de détresse (DETRESFA) : situation dans laquelle il y a tout lieu de penser qu'un aéronef et ses occupants sont menacés
+d'un danger grave imminent et qu'ils ont besoin d'un secours immédiat.
+
+Phase d'incertitude (INCERFA) : situation dans laquelle il y a lieu de douter de la sécurité d'un aéronef et ses occupants.
+
+Pilote commandant de bord : pilote responsable de la conduite et de la sécurité d'un aéronef pendant le temps de vol.
+
+Piste : aire définie, sur un aérodrome terrestre, aménagée afin de servir au décollage et à l'atterrissage des aéronefs.
+
+Plafond : hauteur, au-dessus du sol ou de l'eau, de la plus basse couche de nuages qui, au-dessous de 6 000 mètres (20 000
+pieds), couvre plus de la moitié du ciel.
+
+Plan de vol (PLN) : ensemble de renseignements spécifiés au sujet d'un vol projeté ou d'une partie d'un vol, communiqués aux
+organismes de la circulation aérienne.
+
+Plan de vol déposé (FPL) : le plan de vol tel qu'il a été déposé sous une forme spécifiée auprès d'un organisme de la
+circulation aérienne par le pilote ou son représentant désigné, ne comportant pas les éventuelles modifications ultérieures.
+
+Plan de vol en vigueur : un plan de vol devient un plan de vol en vigueur au moment où débute le vol ou la partie de vol pour
+lequel il a été communiqué. Le plan de vol en vigueur comprend les éventuelles modifications postérieures à la communication
+du plan de vol initial.
+
+Plan de vol réduit : éléments de vol en nombre limité communiqués en radiotéléphonie à un organisme de la circulation
+aérienne en vue d'obtenir une clairance.
+
+Plan de vol répétitif (RPL) : plan de vol concernant une série de vols assurés régulièrement, souvent répétés et présentant
+les mêmes caractéristiques de base, fourni par un exploitant pour être conservé et utilisé, de manière répétitive, par les
+organismes de la circulation aérienne.
+
+Planeur : aérodyne non entraîné par un organe moteur, et dont la
+
+sustentation en vol est obtenue principalement par des réactions aérodynamiques sur des surfaces qui restent fixes dans des
+conditions données de vol.
+
+Point d'arrêt : position caractéristique du circuit de circulation au sol d'un aérodrome où un aéronef ou un véhicule peut
+être amené à attendre pour laisser libre la piste en service.
+
+Point de compte rendu : emplacement déterminé pouvant être identifié par des moyens visuels, radioélectriques ou autres par
+rapport auquel la position d'un aéronef peut être signalée.
+
+Point significatif : emplacement géographique spécifié utilisé pour définir une route ATS ou la trajectoire d'un aéronef,
+ainsi que pour les besoins de la navigation et des services de la circulation aérienne.
+
+Point de transfert de contrôle : point défini sur la trajectoire de vol d'un aéronef, où la responsabilité d'assurer le
+service du contrôle de la circulation aérienne à cet aéronef est transférée d'un organisme de contrôle au suivant ou d'une
+position de contrôle à la suivante.
+
+Point de transition : point où un aéronef navigant sur un tronçon de route ATS défini par référence à des radiophares
+omnidirectionnels à très haute fréquence doit en principe transférer son principal repère de navigation et d'installation
+située en arrière de l'aéronef à la première installation située en avant de lui.
+
+Prévision météorologique : exposé de conditions météorologiques prévues pour une heure spécifiée ou une période définie et
+pour une région ou une partie d'espace aérien déterminée.
+
+Procédure d'approche aux instruments : série de manoeuvres prédéterminées effectuées en utilisant uniquement les instruments
+de bord, avec une marge de protection spécifiée au-dessus des obstacles, depuis le repère d'approche initiale jusqu'en un
+point à partir duquel l'atterrissage pourra être effectué puis, si l'atterrissage n'est pas effectué jusqu'en un point où les
+critères de franchissement d'obstacles en attente ou en route deviennent applicables.
+
+Procédure d'attente : manoeuvre prédéterminée exécutée par un aéronef en vol pour attendre.
+
+Publication d'information aéronautique : publication d'un Etat, ou éditée par décision d'un Etat, renfermant des informations
+aéronautiques de caractère durable et essentielles à la navigation aérienne.
+
+Région de contrôle : espace aérien contrôlé dont la limite inférieure n'est pas la surface.
+
+Région inférieure de contrôle (LTA) : région de contrôle, établie à l'intérieur d'une région d'information de vol, comprise
+entre une limite inférieure fixée et la limite inférieure de la région supérieure de contrôle.
+
+Région de contrôle terminale (TMA) : région de contrôle établie en principe, au carrefour de routes ATS aux environs d'un ou
+plusieurs aérodromes importants.
+
+Région supérieure de contrôle (UTA) : région de contrôle, établie à l'intérieur d'une région supérieure d'information de vol,
+et qui n'est pas une voie aérienne.
+
+Région d'information de vol (FIR) : espace aérien de dimensions latérales définies à l'intérieur duquel le service
+d'information de
+
+vol et le service d'alerte sont assurés.
+
+Note. - Cet espace aérien n'a de limite supérieure que s'il est surmonté par une région supérieure d'information de vol.
+
+Région supérieure d'information de vol (UIR) : espace aérien de dimensions latérales définies à l'intérieur duquel le service
+d'information de vol et le service d'alerte sont assurés au-dessus d'une limite spécifiée.
+
+Région à service consultatif : région définie à l'intérieur d'une région d'information de vol, où le service consultatif de
+la circulation aérienne est assuré.
+
+Régulation du débit : mesures destinées à adapter le débit de la circulation qui pénètre ou est appelée à pénétrer dans un
+espace aérien donné, à se déplacer sur une route donnée ou à se diriger vers un aérodrome donné, en vue de la meilleure
+utilisation de l'espace aérien disponible.
+
+Renseignements météorologiques : message d'observations, analyses, prévisions et tous autres éléments d'information relatifs
+à des conditions météorologiques existantes ou prévues.
+
+Renseignements SIGMET : renseignements établis par un centre de veille météorologique, concernant l'apparition ou la
+prévision d'un ou plusieurs phénomènes météorologiques spécifiés qui peuvent affecter la sécurité de l'exploitation aérienne.
+
+Repère d'attente : emplacement déterminé pouvant être identifié par des moyens visuels, radioélectriques ou autres et au
+voisinage duquel un aéronef en vol doit se maintenir pour attendre.
+
+Répondeur automatique d'information : système automatique de radiocommunication fonctionnant en principe sur la fréquence
+normale d'appel d'un organisme désigné de la circulation aérienne et diffusant des renseignements appropriés et actualisés
+concernant un espace aérien.
+
+Route : projection sur la surface de la terre de la trajectoire d'un aéronef, trajectoire dont le sens en un point quelconque
+est généralement exprimé en degrés par rapport au nord (vrai, magnétique ou du canevas).
+
+Route ATS : route destinée à canaliser la circulation aérienne pour permettre d'assurer les services de la circulation
+aérienne.
+
+Note. - L'expression route ATS est utilisée pour désigner à la fois les voies aériennes, les routes contrôlées et non
+contrôlées, les routes d'arrivée et de départ, etc.
+
+Séparation : distance entre deux aéronefs, deux niveaux, deux trajectoires.
+
+Service d'alerte : service assuré dans le but d'alerter les organismes appropriés lorsque les aéronefs ont besoin de l'aide
+des organismes de recherche et de sauvetage et de prêter à ces organismes le concours nécessaire.
+
+Service automatique d'information de région terminale (ATIS) :
+
+service assuré dans le cadre du service d'information de vol dans le but de fournir régulièrement des renseignements
+appropriés et actualisés pour les aéronefs à l'arrivée et au départ au moyen d'émissions continues et répétées.
+
+Services de la circulation aérienne : terme générique désignant à la fois le service du contrôle de la circulation aérienne,
+le service d'information de vol et le service d'alerte.
+
+Service du contrôle de la circulation aérienne : service assuré dans
+
+le but de :
+
+1. Prévenir :
+
+a) Les abordages entre aéronefs ;
+
+b) Les collisions, sur l'aire de manoeuvre, entre les aéronefs et les obstacles ;
+
+2. Accélérer et ordonner la circulation aérienne.
+
+Service consultatif de la circulation aérienne : service assuré dans le cadre du service d'information de vol, à l'intérieur
+de l'espace aérien à service consultatif, afin d'assurer autant que possible l'espacement des aéronefs en vol IFR qui
+décident d'utiliser ce service.
+
+Service de gestion d'aire de trafic : service fourni pour assurer la régulation des activités et des mouvements des aéronefs
+et des véhicules sur une aire de trafic.
+
+Service d'information de vol : service assuré dans le but de fournir les avis et renseignements utiles à l'exécution sûre et
+efficace des vols.
+
+Service d'information de vol d'aérodrome (AFIS) : service d'information de vol pour la circulation d'aérodrome.
+
+Système embarqué d'anti-abordage (ACAS) : système embarqué qui, au moyen des signaux du transpondeur de radar secondaire de
+surveillance (SSR), et indépendamment des systèmes au sol, renseigne le pilote sur la présence des aéronefs dotés d'un
+transpondeur de SSR qui risquent d'entrer en conflit avec son aéronef.
+
+Tour de contrôle (TWR) : organisme de la circulation aérienne chargé d'assurer les services de la circulation aérienne au
+bénéfice de la circulation d'aérodrome.
+
+Visibilité : distance, déterminée par les conditions atmosphériques et exprimée en unités de longueur, à laquelle on peut
+voir et identifier, de jour, des objets remarquables non éclairés et, de nuit, des objets remarquables éclairés.
+
+Visibilité au sol : visibilité sur un aérodrome communiquée par un observateur accrédité.
+
+Visibilité en vol : visibilité vers l'avant à partir du poste de pilotage d'un aéronef en vol.
+
+VFR : abréviation utilisée pour désigner les règles de vol à vue.
+
+VMC : abréviation utilisée pour désigner les conditions météoro-logiques de vol à vue.
+
+Voie aérienne (AWY) : région de contrôle ou portion de région de contrôle présentant la forme d'un couloir et dotée d'aides
+radio à la navigation.
+
+Voie de circulation : voie définie, sur un aérodrome terrestre, choisie ou aménagée pour la circulation au sol des aéronefs.
+
+Voie de l'information aéronautique : moyen permettant de porter à la connaissance des usagers sous la forme de publication
+d'information aéronautique, de notam ou de circulaire d'information aéronautique, des informations vérifiées, mises en forme
+et diffusées sous l'autorité du ministre chargé de l'aviation civile.
+
+Vol contrôlé : vol dont les évolutions sont subordonnées à une clairance.
+
+Note. - Les vols suivants sont des vols contrôlés :
+
+- vols IFR évoluant dans un espace aérien contrôlé ;
+
+- vols VFR évoluant dans un espace aérien contrôlé de classe B, C ou D ;
+
+- vols VFR et vols IFR appartenant à la circulation d'aérodrome d'un aérodrome contrôlé ;
+
+- vols VFR spécial.
+
+Vol IFR : vol effectué conformément aux règles de vol aux instruments.
+
+Vol VFR : vol effectué conformément aux règles de vol à vue.
+
+Vol VFR spécial : vol VFR autorisé par un organisme de contrôle de la circulation aérienne dans des conditions
+météorologiques inférieures aux conditions météorologiques de vol à vue.
+
+Voltige aérienne : vol au cours duquel un aéronef effectue intentionnellement des manoeuvres comportant un changement brusque
+d'assiette, une position inhabituelle ou une variation inhabituelle de la vitesse, généralement associées à des variations
+importantes de niveau.
+
+Zone de contrôle (CTR) : espace aérien contrôlé s'étendant à partir de la surface du sol ou de l'eau jusqu'à une limite
+supérieure spécifiée.
+
+Zone dangereuse : espace aérien, de dimensions définies, à l'intérieur duquel des activités dangereuses pour le vol des
+aéronefs peuvent se dérouler pendant des périodes spécifiées.
+
+Zone interdite : espace aérien, de dimensions définies, au-dessus du territoire ou des eaux territoriales dans les limites
+duquel le vol des aéronefs est interdit.
+
+Zone réglementée : espace aérien, de dimensions définies, au-dessus du territoire ou des eaux territoriales, dans les limites
+duquel le vol des aéronefs est subordonné à certaines conditions spécifiées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D132-4 (V)
+	  - Code de l'aviation civile D131-1 à D131-10, D132-4
+
+
 ###### Article Annexe I : Chapitre II
 
 **CHAPITRE II : Domaine d'application des règles de l'air**
@@ -23299,8 +23864,10 @@ la manière indiquée par celle-ci.
 
 3.1.6. Remorquage.
 
-Un aéronef ou autre objet ne peut être remorqué par un aéronef qu'en conformité avec les dispositions prescrites par
-l'autorité compétente. Il en est de même en ce qui concerne un aéronef remorqué par un véhicule à la surface.
+Un aéronef ou autre objet ne peut être remorqué par un
+
+aéronef qu'en conformité avec les dispositions prescrites par l'autorité compétente. Il en est de même en ce qui concerne un
+aéronef remorqué par un véhicule à la surface.
 
 3.1.7. Parachutage.
 
@@ -23329,7 +23896,10 @@ portée à la connaissance des usagers par la voie de l'information aéronautiqu
 Un aéronef ne peut voler à l'intérieur d'une zone réglementée que s'il se conforme aux conditions spécifiées portées à la
 connaissance des usagers par la voie de l'information aéronautique.
 
-3.2. Action préliminaire au vol. 
+3.1.12. Zone dangereuse : la nature des activités qui ont lieu dans une zone de ce type ainsi que les heures d'activation
+sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+
+3.2. Action préliminaire au vol.
 
 3.2.1. Avant d'entreprendre un vol, le pilote commandant de bord doit prendre connaissance de tous les renseignements
 disponibles utiles à la bonne exécution du vol projeté. Il doit s'assurer du fonctionnement satisfaisant de son appareil et
@@ -23352,6 +23922,16 @@ d'abordage.
 
 3.3.1.2. Des aéronefs ne peuvent voler en formation qu'après entente entre les pilotes commandants de bord et conformément
 aux conditions fixées par arrêté du ministre chargé de l'aviation civile. 
+
+3.3.1.3.Des manoeuvres d'évitement basées sur les avis de résolution fournis par des équipements embarqués tels que l'ACAS
+peuvent être exécutées. Dans ce cas, la modification de la trajectoire de vol doit être limitée au minimum qu'exige la
+conformité aux avis de résolution. Le pilote qui déroge à une clairance pour donner suite à un avis de résolution doit
+revenir, dès le conflit résolu, à la trajectoire de vol prévue. 
+
+L'organisme de la circulation aérienne concerné doit, dès que possible, être informé par le pilote de l'exécution de telles
+manoeuvres. 
+
+6.Remplacer le paragraphe 3.4.1 par le paragraphe suivant : 
 
 3.3.2. Priorité de passage. 
 
@@ -23552,17 +24132,22 @@ sur la piste, celui-ci doit pénétrer et décoller sans délai.
 
 3.4. Expression de la position d'un aéronef dans le plan vertical. 
 
-3.4.1. Lorsqu'une altitude de transition a été établie et portée à la connaissance des usagers par la voie de l'information
-aéronautique, un aéronef doit exprimer sa position dans le plan vertical : 
+3.4.1.Dans le cas où une altitude de transition est établie, elle est applicable à tous les vols IFR et VFR. Sa valeur est
+portée à la connaissance des usagers par la voie de l'information aéronautique. 
 
-- en altitude lorsqu'il vole à et au-dessous de l'altitude de transition ; 
+3.4.2.Le niveau de transition est à ou au-dessus de l'altitude de transition le niveau de vol multiple de 10 le plus bas
+prévu dans le tableau des niveaux de croisière. 
+
+3.4.3.Lorsqu'une altitude de transition est établie, un aéronef doit exprimer sa position dans le plan vertical : 
+
+- en altitude lorsqu'il vole à et au-dessous de l'altitude de transition : 
 
 - en niveau de vol lorsqu'il vole à et au-dessus du niveau de transition. 
 
-3.4.2. Le passage des altitudes aux niveaux de vol et vice-versa a lieu à l'altitude de transition pendant la montée et au
+3.4.4. Le passage des altitudes aux niveaux de vol et vice-versa a lieu à l'altitude de transition pendant la montée et au
 niveau de transition pendant la descente. 
 
-3.4.3. Lorsqu'aucune altitude de transition n'a été portée à la connaissance des usagers par la voie de l'information
+3.4.5. Lorsqu'aucune altitude de transition n'a été portée à la connaissance des usagers par la voie de l'information
 aéronautique pour une région particulière, l'aéronef doit exprimer sa position dans le plan vertical : 
 
 - en altitude lorsqu'il vole à et au-dessous du plus haut des deux niveaux suivants : 900 mètres (3 000 pieds) au-dessus du
@@ -23570,10 +24155,10 @@ niveau moyen de la mer ou 300 mètres (1 000 pieds) au-dessus de la surface ;
 
 - en niveau de vol lorsqu'il vole au-dessus du plus haut des deux niveaux précédents. 
 
-3.4.4. L'autorité compétente des services de la circulation aérienne peut définir des procédures particulières au bénéfice
+3.4.6. L'autorité compétente des services de la circulation aérienne peut définir des procédures particulières au bénéfice
 des planeurs leur permettant d'exprimer leur position dans le plan vertical uniquement par l'altitude. 
 
-3.4.5. Emploi du QFE. 
+3.4.7. Emploi du QFE. 
 
 Sauf dispositions contraires portées à la connaissance des usagers par la voie de l'information aéronautique, la position
 d'un aéronef dans le plan vertical peut être exprimée par la hauteur lorsqu'il évolue dans un circuit d'aérodrome ou
@@ -23583,7 +24168,7 @@ instruments prévoient l'utilisation d'un QFE seuil de piste.
 
 3.5. Renseignements sur les vols - Plans de vol. 
 
-L'expression " plan de vol " est utilisée pour désigner aussi bien des renseignements complets sur tous les éléments qui
+L'expression " plan de vol est utilisée pour désigner aussi bien des renseignements complets sur tous les éléments qui
 constituent la description du plan de vol intéressant l'ensemble de la route prévue, ou des renseignements en nombre limité
 lorsqu'il s'agit d'obtenir une clairance concernant une brève partie d'un vol, par exemple la traversée d'un espace aérien
 contrôlé, le décollage ou l'atterrissage sur un aérodrome contrôlé. 
@@ -23639,8 +24224,9 @@ aux instruments.
 
 Un délai inférieur peut être prescrit par arrêté prévu en 3.5.1.1.3. 
 
-Si le FPL est communiqué pendant le vol, le délai est réduit à dix minutes. Un délai supérieur peut être nécessaire pour
-l'obtention d'une clairance si elle est exigée conformément à 3.6.2.1. 
+Si le FPL est communiqué pendant le vol, le délai est réduit à dix 
+
+minutes. Un délai supérieur peut être nécessaire pour l'obtention d'une clairance si elle est exigée conformément à 3.6.2.1. 
 
 Les FPL concernant des vols IFR doivent également respecter les règles de 3.5.1.3.3, le cas échéant. 
 
@@ -23659,9 +24245,16 @@ un FPL ne peut pas être communiqué pendant le vol.
 
 Les arrêtés prévus en 3.5.1.2.d) et e) peuvent préciser un délai spécifique pour la communication du FPL. 
 
-3.5.1.3.5. Vol pour lequel un plan de vol n'est pas obligatoire. 
+3.5.1.3.5.Vol pour lequel un plan de vol n'est pas obligatoire 
 
-Si un plan de vol n'est pas obligatoire pour un vol VFR, il peut communiquer un FPL. Dans ce cas, aucun délai n'est requis. 
+Si un plan de vol n'est pas obligatoire pour un vol VFR, le pilote peut communiquer un FPL. Dans ce cas aucun délai n'est
+requis. 
+
+3.5.1.3.6. Majoration des délais de dépôt. 
+
+Des délais supérieurs à ceux prévus au paragraphe 3.5.1.3.1 et 3.5.1.3.2 peuvent être exigés pour les vols faisant l'objet de
+mesures de régulation. Ces délais majorés, quand ils existent, sont portés à la connaissance des usagers par la voie de
+l'information aéronautique. 
 
 3.5.2. Teneur du plan de vol. 
 
@@ -23702,7 +24295,8 @@ Renseignements divers ;
 Note. - Pour les plans de vol transmis en cours de vol, le renseignement à fournir au sujet de cet élément est l'heure de
 passage au-dessus du premier point de la route à laquelle s'applique le plan de vol. 
 
-3.5.2.2. Si avant le départ, le pilote commandant de bord prévoit que, selon l'autonomie de l'aéronef et sous réserve d'une
+3.5.2.2. Si avant le départ, le pilote commandant de bord prévoit que, selon l'autonomie de l'aéronef et sous réserve d'une 
+
 modification de clairance en cours de vol, il pourrait être décidé de faire route vers un nouvel aérodrome de destination
 situé au-delà de l'aérodrome de destination initialement prévu, les organismes appropriés de la circulation aérienne en
 seront avisés par insertion dans le FPL de renseignements concernant la nouvelle route et la nouvelle destination. 
@@ -23753,7 +24347,9 @@ contrôle de la circulation aérienne doivent être signalées le plus tôt poss
 intéressé. 
 
 3.5.4.1.2. Les modifications importantes au plan de vol communiqué pour un vol VFR ne bénéficiant pas du service du contrôle
-de la circulation aérienne doivent être signalées le plus tôt possible à l'organisme de la circulation aérienne intéressé. 
+de la circulation aérienne doivent être signalées le plus tôt possible à 
+
+l'organisme de la circulation aérienne intéressé. 
 
 Le fait que les renseignements fournis avant le départ au sujet de l'autonomie et du nombre de personnes à bord sont devenus
 erronés au moment du départ constitue une modification importante au plan de vol et doit, à ce titre, être signalé. 
@@ -23799,10 +24395,12 @@ radiocommunications avec la tour de contrôle ou l'organisme AFIS de l'aérodrom
 équivaut à la fourniture d'un compte rendu d'arrivée. 
 
 3.5.5.1.3. S'il n'existe pas d'organisme de la circulation aérienne à l'aérodrome d'arrivée, le compte rendu d'arrivée doit
-être établi le plus tôt possible après l'atterrissage et communiqué par les moyens les plus rapides à un organisme de la
-circulation aérienne. Si le commandant de bord sait que les moyens de communications à l'aérodrome d'arrivée sont
-insuffisants pour permettre l'acheminement au sol du compte rendu d'arrivée, il doit si possible transmettre par radio, juste
-avant l'atterrissage un message, tenant lieu de compte rendu d'arrivée, à un organisme de la circulation aérienne. 
+être établi le plus tôt possible après l'atterrissage et communiqué par les moyens 
+
+les plus rapides à un organisme de la circulation aérienne. Si le commandant de bord sait que les moyens de communications à
+l'aérodrome d'arrivée sont insuffisants pour permettre l'acheminement au sol du compte rendu d'arrivée, il doit si possible
+transmettre par radio, juste avant l'atterrissage un message, tenant lieu de compte rendu d'arrivée, à un organisme de la
+circulation aérienne. 
 
 3.5.5.1.4. Le compte rendu d'arrivée comporte les renseignements suivants : 
 
@@ -23829,87 +24427,131 @@ vol.
 3.5.5.2.3. Un FPL concernant un vol VFR peut être clos pendant le vol lorsque ce FPL n'est pas ou plus obligatoire, par un
 compte rendu approprié à l'organisme de la circulation aérienne concerné. 
 
-3.5.6. Annulation du plan de vol. 
+3.5.6.Mise en vigueur ou annulation du plan de vol, notification de retard. 
 
-3.5.6.1. Un plan de vol peut être annulé tant que le vol ou la partie du vol pour lequel il a été communiqué n'est pas
+3.5.6.1.Un pilote ayant déposé un plan de vol au départ d'un aérodrome non pourvu d'un organisme de la circulation aérienne
+doit communiquer, dès que possible, son heure de départ réelle à l'organisme assurant les services de la circulation aérienne
+dans l'espace concerné, ou, à défaut, à tout autre organisme de la circulation aérienne. 
+
+3.5.6.2.Un plan de vol peut être annulé tant que le vol ou la partie du vol pour lequel il a été communiqué n'est pas
 commencé. 
 
-3.5.6.2. Lorsqu'un plan de vol est annulé, il n'est plus pris en compte par les organismes de la circulation aérienne. 
+3.5.6.3.Le commandant de bord qui renonce à entreprendre un vol ou une partie de vol pour lequel un plan de vol a été
+communiqué doit immédiatement faire connaître sa décision à un organisme de la circulation aérienne approprié. 
 
-3.5.6.3. Le commandant de bord qui renonce à entreprendre un vol ou une partie de vol pour lequel un plan de vol a été
-communiqué doit immédiatement faire connaître sa décision à l'organisme concerné. 
+3.5.6.4. Quand un plan de vol a été déposé, tout retard de plus de trente minutes, soixante minutes pour les vols non
+contrôlés, par rapport à l'heure prévue de départ du poste de stationnement doit être communiqué au plus tôt à un organisme
+de la circulation aérienne approprié. 
 
-3.5.6.4. Si une notification de retard n'as pas été faite dans les soixantes minutes qui suivent l'heure estimée de départ du
-poste de stationnement, le plan de vol sera considéré comme annulé par les organismes de la circulation aérienne. 
+Des délais inférieurs peuvent être exigés. Ces délais, quand ils existent, sont portés à la connaissance des usagers par la
+voie de l'information aéronautique. 
+
+3.5.6.5. Si une notification de retard n'a pas été faite dans les soixante minutes qui suivent l'heure estimée de départ du
+poste de stationnement, un nouveau plan de vol devra être déposé. 
 
 3.6. Clairance. 
 
-3.6.1. Généralités. 
+3.6.1. Généralités.
 
-3.6.1.1. Les clairances sont délivrées dans le seul but d'assurer le service du contrôle de la circulation aérienne. 
+3.6.1.1. Les clairances sont délivrées dans le seul but d'assurer le service du contrôle de la circulation aérienne.
 
-3.6.1.2. Les clairances ne dégagent en aucune façon la responsabilité du commandant de bord vis-à-vis : 
+3.6.1.2. Les clairances ne dégagent en aucune façon la responsabilité du commandant de bord vis-à-vis :
 
 - de l'exercice d'une vigilance constante en vue d'éviter les abordages avec d'autres aéronefs et les collisions avec les
-obstacles ou le sol ; 
+obstacles ou le sol ;
 
-- du respect des règlements et procédures en vigueur. 
+- du respect des règlements et procédures en vigueur.
 
 3.6.1.3. Si un pilote commandant de bord n'est pas ou n'est plus en mesure de respecter une clairance qui lui a été délivrée,
-il doit en informer au plus tôt l'organisme de contrôle concerné. 
+il doit en informer au plus tôt l'organisme de contrôle concerné.
 
-3.6.2. Obtention d'une clairance. 
+Note. - Les ordres fournis par les systèmes embarqués d'évitement des abordages entre aéronefs ou des collisions avec le sol,
+quand ils sont suivis par le pilote, entrent dans ce cadre.
+
+13. Remplacer le dernier alinéa du paragraphe 3.6.4.2 par l'alinéa suivant :
+
+3.6.2. Obtention d'une clairance.
 
 3.6.2.1. Une clairance doit être obtenue avant d'effectuer un vol contrôlé ou la partie contrôlée d'un vol. Dans toute la
 mesure du possible, cette clairance doit être une clairance générale valable pour tout le vol ou la partie du vol où
-l'aéronef doit bénéficier du service de contrôle de la circulation aérienne. 
+l'aéronef doit bénéficier du service de contrôle de la circulation aérienne.
 
-3.6.2.2. Avant le départ, la communication d'un plan de vol équivaut à une demande de clairance. 
+3.6.2.2. Avant le départ, la communication d'un plan de vol équivaut à une demande de clairance.
 
 3.6.2.3. En vol, lorsque aucune clairance préalable n'a été obtenue avant le départ, le pilote commandant de bord doit, sauf
 dispositions contraires portées à la connaissance des usagers par la voie de l'information aéronautique, demander une
-clairance à l'organisme concerné, au plus tard : 
+clairance à l'organisme concerné, au plus tard :
 
-- soit lors du passage d'un point ou d'une limite spécifiée ; 
+- soit lors du passage d'un point ou d'une limite spécifiée ;
 
 - soit dès que possible avant l'heure prévue de franchissement de la limite de l'espace aérien où lui sera rendu le service
-du contrôle. 
+du contrôle.
 
-3.6.3. Limite de clairance. 
+3.6.3. Limite de clairance.
 
 3.6.3.1. Lorsqu'un aéronef arrive à un point significatif après avoir été explicitement informé que celui-ci constitue sa
-limite de clairance et sans avoir reçu de clairance complémentaire, il doit se mettre en attente : 
+limite de clairance et sans avoir reçu de clairance complémentaire, il doit se mettre en attente :
 
 - en respectant le circuit d'attente particulier si un tel circuit a été porté à la connaissance des usagers par la voie de
-l'information aéronautique ; 
+l'information aéronautique ;
 
-- sinon, il doit effectuer en ce point une attente orientée suivant sa route d'arrivée. 
+- sinon, il doit effectuer en ce point une attente orientée suivant sa route d'arrivée.
 
 3.6.3.2. Dans le cas où un aéronef arrive à un point significatif sans avoir été explicitement informé que celui-ci constitue
-sa limite de clairance et sans avoir reçu de clairance complémentaire : 
+sa limite de clairance et sans avoir reçu de clairance complémentaire :
 
 - si ce point significatif est le repère d'attente associé à la procédure d'approche aux instruments utilisée sur l'aérodrome
-de destination, il doit se mettre en attente en respectant le circuit publié ; 
+de destination, il doit se mettre en attente en respectant le circuit publié ;
 
 - dans le cas contraire, il poursuit son vol conformément au plan de vol en vigueur en informant dès que possible l'organisme
-de contrôle intéressé. 
+de contrôle intéressé.
 
-3.6.4. Clairance de séparation de vue. 
+3.6.4. Clairance de séparation à vue.
 
-3.6.4.1. Un aéronef en vol contrôlé peut recevoir une clairance complémentaire dénommée " clairance de séparation à vue ". 
+3.6.4.1. Un aéronef en vol contrôlé peut recevoir une clairance complémentaire dénommée "clairance de séparation à vue".
 
 Une telle clairance lui permet de s'affranchir des espacements réglementaires vis à vis d'un seul autre aéronef contrôlé et
-d'assurer visuellement sa propre séparation par rapport à celui-ci. 
+d'assurer visuellement sa propre séparation par rapport à celui-ci.
 
 3.6.4.2. Une clairance de séparation à vue ne peut être demandée ou acceptée par le pilote de l'aéronef devant maintenir la
-séparation à vue que si les conditions suivantes sont remplies : 
+séparation à vue que si les conditions suivantes sont remplies :
 
-- il voit l'autre l'aéronef ; et 
+- il voit l'autre l'aéronef ; et
 
 - il peut le garder en vue durant toute la partie du vol où les espacements ne sont plus assurés par l'organisme du contrôle
-de la circulation aérienne. 
+de la circulation aérienne, ou tant que le croisement ou le dépassement ne sont pas effectifs.
 
-3.7. Communications.
+3.6.4.3. Quand il bénéficie d'une clairance de séparation à vue, le pilote doit manoeuvrer de façon à éviter tout incident dû
+à la turbulence du sillage :
+
+a) En ne créant pas de danger du fait de sa propre turbulence de sillage ;
+
+b) En tenant compte de la turbulence de sillage de l'autre aéronef.
+
+3.6.5. Clairance d'atterrissage derrière.
+
+3.6.5.1. Un aéronef en vol contrôlé peut recevoir une clairance anticipée d'atterrissage dénommée clairance d'atterrissage
+derrière quand une telle procédure est établie pour la piste utilisée.
+
+Cette clairance lui permet de poursuivre son approche finale jusqu'à l'atterrissage en assurant visuellement sa propre
+séparation par rapport à l'aéronef à l'atterrissage qui le précède.
+
+3.6.5.2. Une clairance d'atterrissage derrière ne peut être acceptée par le pilote devant maintenir la séparation à vue que
+si les conditions suivantes sont remplies :
+
+- il voit l'autre aéronef et le signale ;
+
+- il peut le garder en vue durant toute la partie du vol où les espacements ne sont plus assurés par l'organisme de contrôle
+de la circulation aérienne.
+
+3.6.5.3. Quand il bénéficie d'une telle clairance, le pilote ne poursuit son atterrissage que si, au moment où il passe le
+seuil de piste, l'aéronef qui le précède a effectivement dégagé la piste, à moins qu'une clairance additionnelle lui ait été
+délivrée dans le cadre de l'application des procédures de réduction d'espacements sur la piste.
+
+3.6.5.4. Quand il bénéficie d'une clairance d'atterrissage derrière, le pilote doit manoeuvrer de façon à éviter tout
+incident dû à la turbulence de sillage de l'aéronef à l'atterrissage qui le précède.
+
+3.7. Communications. 
 
 3.7.1. Les procédures de radiotéléphonie, et notamment les expressions conventionnelles et la phraséologie devant être
 respectées dans les communications radiotéléphoniques entre aéronefs et entre un aéronef et un organisme au sol sont définies
@@ -23939,7 +24581,12 @@ transmises par signaux visuels.
 pilote commandant de bord doit, dès que possible, après l'atterrissage, avertir les organismes de la circulation aérienne
 dans les cas où un échange de messages aurait dû avoir lieu ou se poursuivre si l'interruption ne s'était pas produite. 
 
-3.8. Transpondeur. 
+3.7.5.3. Dans le cas où, au regard des procédures à appliquer en cas d'interruption des communications radio, il est prévu
+qu'un aéronef maintienne les conditions météorologiques de vol à vue, les valeurs de visibilité, de distance par rapport aux
+nuages et de limitations de vitesse à respecter dans un espace aérien contrôlé de classe A, B ou C sont les mêmes que celles
+requises dans un espace aérien contrôlé de classe D conformément au tableau de l'appendice D. 
+
+3.8. Transpondeur.
 
 3.8.1. Utilisation du transpondeur. 
 
@@ -23953,6 +24600,8 @@ d'urgence, soit à la panne de radiocommunications, soit à l'intervention illic
 
 3.8.1.2. Lorsque l'équipement transpondeur n'est pas prescrit, des consignes peuvent être établies pour les aéronefs dotés de
 cet équipement. Ces consignes sont portées à la connaissance des usagers par la voie de l'information aéronautique. 
+
+3.8.1.3. Les obligations d'emport de transpondeur sont fixées par arrêté du ministre chargé de l'aviation civile. 
 
 3.8.2. Panne du transpondeur. 
 
@@ -24018,15 +24667,17 @@ doivent être signalées aussitôt que possible à la station aéronautique appr
 utiles à la sécurité des autres aéronefs. 
 
 3.9.2.3. Les incidents constatés au cours d'un vol et de nature à entraîner des dangers ou des difficultés pour la
-circulation aérienne doivent être signalés dès que possible aux organismes de la circulation aérienne. 
+circulation 
+
+aérienne doivent être signalés dès que possible aux organismes de la circulation aérienne. 
 
 3.9.3. Compte rendu d'auto-information. 
 
 3.9.3.1. Un compte rendu d'auto-information est un compte rendu de position émis sur la fréquence appropriée par un aéronef
 dans le but d'informer les autres aéronefs se trouvant à proximité de sa position et de ses intentions. 
 
-3.9.3.2. Des comptes rendus d'auto-information doivent être transmis par les aéronefs dotés d'équipement de
-radiocommunication évoluant dans la circulation d'aérodrome des aérodromes non contrôlés. 
+3.9.3.2. Des comptes rendus d'auto-information doivent être transmis par les aéronefs dotés d'équipements de
+radiocommunication évoluant dans la circulation d'aérodrome en l'absence d'un organisme de la circulation aérienne. 
 
 3.10 Heure. 
 
@@ -24035,7 +24686,7 @@ circulation aérienne est le temps universel coordonné (UTC).
 
 3.10.2. L'heure doit être vérifiée avant le début d'un vol et toutes les fois que cela est nécessaire au cours du vol. 
 
-3.11 Signaux.
+3.11 Signaux. 
 
 3.11.1. Lorsqu'il aperçoit ou reçoit l'un quelconque des signaux décrits à l'appendice A, le pilote doit prendre toutes les
 dispositions nécessaires pour se conformer aux instructions ou tenir compte des informations correspondant à ce signal. 
@@ -24120,26 +24771,51 @@ c) Lorsqu'un agent d'un organisme de la circulation aérienne constate un incide
 commandant de bord, et qu'il estime nécessaire d'obtenir des informations ou des précisions au sujet d'une situation ou des
 circonstances particulières rencontrées au cours du vol.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
 ###### Article Annexe I : Chapitre IV
 
-**CHAPITRE IV : Règles de vol à vue (VFR)**
+**CHAPITRE IV : Règles de vol à vue (VFR)
+
+**
 
 4.1. Conditions météorologiques de vol à vue et limitations de vitesse 
 
-Sauf clairance contraire en ce qui concerne le vol VFR spécial, les vols VFR doivent être effectués dans des conditions de
-visibilité et de distance par rapport aux nuages au moins égales à celles qui sont spécifiées dans le tableau ci-après.
+4.1.1. Sauf clairance contraire en ce qui concerne le vol VFR spécial, les vols VFR doivent être effectués dans des
+conditions de visibilité et de distance par rapport aux nuages au moins égales à celles qui sont spécifiées dans le tableau
+de l'appendice D.
 
-(Tableau non reproduit, consulter le fac-similé du décret n° 91-660 page 9394).
+4.1.2. Les vols VFR appliquent les limitations de vitesse spécifiées dans le tableau de l'appendice D, sauf clairance
+contraire en espace aérien contrôlé de classe C ou D.
 
 4.2. Vol VFR spécial. 
 
-4.2.1. Sauf clairance (VFR spécial) accordée par l'organisme du contrôle de la circulation aérienne intéressé, un aéronef en
-vol VFR ne doit pas décoller d'un aérodrome situé dans une zone de contrôle, ni atterrir sur cet aérodrome ni évoluer dans la
-zone de contrôle si la visibilité au sol est inférieure à 8 kilomètres ou le plafond inférieur à 450 mètres (1 500 pieds).
+4.2.1. Une clairance VFR spécial est nécessaire pour pénétrer ou évoluer dans la circulation d'aérodrome d'un aérodrome
+contrôlé situé dans une zone de contrôle, ou dans une zone de contrôle spécialisée, lorsque les paramètres communiqués par
+l'organisme de la circulation aérienne font état d'une visibilité au sol inférieure à 5 kilomètres ou d'un plafond inférieur
+à 450 mètres (1 500 pieds).
 
-4.2.2. Une clairance de vol VFR spécial peut être délivrée dans des espaces aériens contrôlés autres que les zones de
+4.2.2. Une clairance VFR spécial est nécessaire pour pénétrer ou évoluer dans une zone de contrôle, ou dans une zone de
+contrôle spécialisée, quand le pilote estime que les conditions météorologiques de vol à vue ne sont pas réunies ou ne vont
+plus l'être.
+
+4.2.3. En VFR spécial, la règle établissant un rapport entre la visibilité et la distance parcourue en trente secondes de
+vol, telle qu'elle est définie dans le tableau de l'appendice D pour les espaces aériens non contrôlés au-dessous du plus
+élevé des deux niveaux 900 mètres (3 000 pieds) au-dessus du niveau moyen de la mer ou 300 mètres (1 000 pieds) au-dessus de
+la surface, s'applique dans les espaces aériens contrôlés.
+
+4.2.4. Quand la clairance VFR spécial comporte le suivi d'un itinéraire publié, le pilote doit respecter les consignes
+particulières relatives à cet itinéraire.
+
+Note. - En l'absence de niveaux à respecter sur les itinéraires publiés, les règles de niveau minimal en vol VFR continuent à
+s'appliquer en VFR spécial.
+
+4.2.5. Une clairance de vol VFR spécial peut être délivrée dans des espaces aériens contrôlés autres que les zones de
 contrôle dans des conditions fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du ministre
 chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens contrôlés spécialisés autres que les
 zones de contrôle spécialisées.
@@ -24222,8 +24898,8 @@ règles de vol à vue au niveau de vol 200 et au-dessus.
 
 4.7. Niveau de croisière. 
 
-4.7.1. Sous réserve des dispositions de 4.5 et sauf dans les cas prévus en 4.7.2 et 4.7.3, les vols VFR, lorsqu'ils évoluent
-en croisière au-dessus du plus élevé des deux niveaux suivants : 
+4.7.1. Sous réserve des dispositions de 4.5 et sauf dans les cas prévus en 4.7.2, 4.7.3 et 4.7.4, les vols VFR, lorsqu'ils
+évoluent en croisière au-dessus du plus élevé des deux niveaux suivants : 
 
 900 mètres (3 000 pieds) au-dessus du niveau moyen de la mer ou 300 mètres (1 000 pieds) au-dessus de la surface, doivent
 choisir l'un des niveaux de croisière spécifiés à l'appendice C. 
@@ -24233,13 +24909,12 @@ des indications contraires figurent dans les clairances ou sont portées à la c
 l'information aéronautique. Les organismes du contrôle de la circulation aérienne peuvent, en outre, délivrer à l'intention
 des vols VFR des clairances qui utilisent des niveaux IFR. 
 
-4.7.3. En espace aérien contrôlé de classe D, les niveaux ne correspondant pas à la route suivie peuvent être utilisés
-lorsque cette disposition a été portée à la connaissance des usagers par la voie de l'information aéronautique ou sur demande
-du pilote commandant de bord. 
+4.7.3. En espace aérien contrôlé de classe D, les niveaux ne correspondant pas à la route suivie peuvent être utilisés sur
+clairance de l'organisme de contrôle ou lorsque cette disposition a été portée à la connaissance des usagers par la voie de
+l'information aéronautique. 
 
-4.7.4. Dans le cas où une altitude de transition est établie et est applicable aux vols VFR, la valeur de l'altitude de
-transition et les méthodes de détermination du niveau de transition et du premier niveau de vol utilisable en croisière au-
-dessus du niveau de transition sont portées à la connaissance des usagers par la voie de l'information aéronautique. 
+4.7.4. En espace aérien contrôlé de classe E, les niveaux ne correspondant pas à la route suivie peuvent être utilisés
+lorsque cette disposition a été portée à la connaissance des usagers par la voie de l'information aéronautique. 
 
 4.8. Vol VFR dans un espace aérien contrôlé : de classe A, B, C ou D.
 
@@ -24251,14 +24926,9 @@ vol VFR doit obtenir une clairance, conformément aux dispositions de 3.6.2.1.
 Sauf dérogation accordée par l'autorité compétente des services de la circulation aérienne, un aéronef en vol VFR ne doit pas
 pénétrer dans un espace aérien contrôlé de classe A. 
 
-4.8.2. Espace aérien contrôlé de classe B ou C. 
+4.8.2. Espace aérien contrôlé de classes B, C ou D. 
 
 Outre les dispositions de 3.6.2.1, une nouvelle clairance doit être demandée avant toute modification des éléments de vol. 
-
-4.8.3. Espace aérien contrôlé de classe D. 
-
-Outre les dispositions de 3.6.2.1., le pilote commandant de bord doit informer l'organisme de la circulation aérienne
-concerné avant toute modification des éléments de vol. 
 
 4.9. Radiocommunications.
 
@@ -24338,6 +25008,11 @@ antérieurement déposé pour le vol VFR ;
 
 - dans l'espace aérien contrôlé, obtenir une clairance avant de passer à l'exécution du vol IFR.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
 ###### Article Annexe I : Chapitre V
@@ -24400,6 +25075,10 @@ dénommée " clairance VMC ".
 Une telle clairance lui permet de poursuivre son vol en VMC en s'affranchissant des espacements réglementaires tout en
 assurant visuellement sa propre séparation vis-à-vis de tous les autres aéronefs en vol IFR.
 
+" Elle peut également lui permettre de s'affranchir des trajectoires préétablies. "
+
+27. Insérer le paragraphe suivant :
+
 5.4.2. Une clairance VMC :
 
 - ne vaut que pour une partie déterminée du vol ;
@@ -24415,29 +25094,14 @@ susceptibles de l'empêcher de poursuivre son vol en VMC ;
 
 b) Obtenir une clairance complémentaire avant de voler en IMC.
 
-5.5. Utilisation d'un aérodrome en vol IFR.
+" 5.4.4. Quand il bénéficie d'une clairance VMC, le pilote doit manoeuvrer de façon à éviter tout incident dû à la turbulence
+de sillage :
 
-5.5.1. Règles générales. 
+" a) En ne créant pas de danger du fait de sa propre turbulence de sillage ;
 
-a) En espace aérien contrôlé sauf clairance contraire, un aéronef en vol IFR doit : 
+" b) En tenant compte de la turbulence de sillage des autres aéronefs. "
 
-- à l'arrivée, se conformer aux procédures d'approche aux instruments publiées ou approuvées pour l'aérodrome utilisé, à
-moins que le pilote n'ait demandé et obtenu une clairance pour effectuer une approche à vue conformément à 5.5.2. ; 
-
-- au départ, se conformer aux procédures de départ publiées ou approuvées et notamment aux itinéraires de départ normalisés
-lorsqu'ils existent. 
-
-b) Hors espace aérien contrôlé, un aéronef en vol IFR ne peut évoluer en dessous du plus haut des deux niveaux suivants : 
-
-900 mètres (3 000 pieds) au-dessus du niveau moyen de la mer ou 300 mètres (1 000 pieds) au-dessus de la surface, que pour
-des besoins du décollage, de l'atterrissage et des manoeuvres qui s'y rattachent. En dessous ce niveau : 
-
-- si une procédure d'approche aux instruments est publiée ou approuvée pour l'aérodrome utilisé, l'aéronef doit s'y conformer
-à moins qu'il n'évolue en VMC et qu'il ne décide d'effectuer une approche à vue conformément à 5.5.2 ; 
-
-- en l'absence de procédure de départ ou d'approche aux instruments publiée ou approuvée, l'aéronef doit maintenir VMC. 
-
-5.5.2. Approche à vue. 
+5.5. Approche à vue 
 
 Un aéronef en vol IFR peut ne pas exécuter une procédure d'approche aux instruments publiée ou approuvée ou ne pas en
 poursuivre l'exécution pour effectuer une approche à vue par repérage visuel du sol si les conditions suivantes sont
@@ -24450,8 +25114,17 @@ b) Le pilote peut garder le contact visuel avec le sol ;
 c) Le pilote juge que la visibilité et le plafond permettent une approche à vue et estime l'atterrissage possible ; 
 
 d) De nuit, le plafond n'est pas inférieur à l'altitude minimale de secteur ou, le cas échéant, de la trajectoire de
-ralliement empruntée, sous réserve du respect des éventuelles consignes particulières propres à l'approche à vue de nuit sur
-l'aérodrome considéré. 
+ralliement empruntée ; 
+
+e) En espace aérien contrôlé, le pilote a reçu une clairance d'approche à vue ; 
+
+f) Le pilote respecte les éventuelles consignes particulières propres à l'approche à vue sur l'aérodrome considéré et les
+restrictions d'évolution vers la piste émises par l'organisme de contrôle de la circulation aérienne. 
+
+Un pilote peut exécuter une approche à vue même en l'absence de procédure aux instruments. 
+
+Quand il exécute une approche à vue, l'aéronef continue à bénéficier des services de la circulation aérienne correspondant à
+la classe de l'espace dans lequel il évolue. 
 
 5.6. Radiocommunications. 
 
@@ -24478,7 +25151,7 @@ a) Poursuivre son vol en VMC ;
 
 b) Atterrir sur l'aérodrome approprié le plus proche ; 
 
-c) Informer les organismes de la circulation aérienne conformément aux dispositions de 3.7.4.2. 
+c) Informer les organismes de la circulation aérienne conformément aux dispositions de 3.7.5.2. 
 
 5.6.2.2.2. Dans les conditions météorologiques de vol aux instruments, ou lorsque les conditions météorologiques sont telles
 qu'il juge impossible de poursuivre son vol conformément aux dispositions de 5.6.2.2.1, l'aéronef doit : 
@@ -24523,535 +25196,18 @@ applicables dans l'espace aérien où il se trouve sous réserve :
 l'application des règles de vol à vue en employant l'expression " annule IFR " ; 
 
 - de communiquer à cet organisme les modifications à apporter au plan de vol en vigueur qui, par suite de l'annulation IFR,
-devient automatiquement VFR, le vol se transformant alors en vol VFR avec plan de vol.
+devient automatiquement VFR, le vol se transformant alors en vol VFR avec plan de vol. 
 
+5.9. Limitation de vitesse
 
-
-###### Article Annexe I relative aux règles de l'air
-
-**CHAPITRE Ier : Définitions**. 
-
-Dans la présente annexe I aux articles D. 131-1 à D. 131-10 du code de l'aviation civile :
-
-- le terme "service" correspond à la notion de fonction ou de service assurés alors que le terme "organisme" désigne une
-entité administrative chargée d'assurer un service ;
-
-- les expressions ci-dessous employées dans les chapitres II à V ont la signification suivante :
-
-Aérodrome : surface définie sur terre ou sur l'eau (comprenant, éventuellement, bâtiments, installations et matériel)
-destinée à être utilisée, en totalité ou en partie, pour l'arrivée, le départ et les évolutions des aéronefs à la surface.
-
-Note. - Les règles de l'air se rapportant aux aérodromes et à leur utilisation s'appliquent également, sauf mention
-contraire, aux emplacements sur lesquels l'atterrissage et le décollage sont permis conformément aux articles D. 132-4 et
-suivants du code de l'aviation civile.
-
-Aérodrome AFIS : aérodrome non contrôlé où le service d'information de vol et le service d'alerte sont assurés au bénéfice de
-la circulation d'aérodrome.
-
-Aérodrome contrôlé : aérodrome où le service du contrôle de la circulation aérienne est assuré au bénéfice de la circulation
-d'aérodrome.
-
-Note. - L'expression aérodrome contrôlé indique que le service du contrôle de la circulation aérienne est assuré au bénéfice
-de la circulation d'aérodrome, mais n'implique pas nécessairement l'existence d'une zone de contrôle.
-
-Aérodrome de dégagement : aérodrome spécifié dans le plan de vol vers lequel le vol peut être poursuivi lorsqu'il devient
-inopportun d'atterrir à l'aérodrome d'atterrissage prévu.
-
-Note. - L'aérodrome de départ peut être pris comme aérodrome de dégagement.
-
-Aérodyne : tout aéronef dont la sustentation en vol est obtenue principalement par des forces aérodynamiques.
-
-Aéronef : tout appareil capable de s'élever ou de circuler dans les airs.
-
-Aérostat : tout aéronef dont la sustentation est principalement due à sa flottabilité dans l'air.
-
-Aire à signaux : aire d'aérodrome sur laquelle sont disposés des signaux au sol.
-
-Aire d'atterrissage : partie d'une aire de mouvement destinée à l'atterrissage et au décollage des aéronefs.
-
-Aire de manoeuvre : partie d'un aérodrome qui doit être utilisée pour les décollages, les atterrissages et la circulation en
-surface des aéronefs, à l'exclusion des aires de trafic.
-
-Aire de mouvement : partie d'un aérodrome qui doit être utilisée pour les décollages, les atterrissages et la circulation en
-surface des aéronefs qui comprend l'aire de manoeuvre et la (ou les) aire(s) de trafic.
-
-Aire de trafic : aire définie, sur un aérodrome terrestre, destinée aux aéronefs pour l'embarquement ou le débarquement des
-voyageurs, le chargement ou le déchargement de la poste et du fret, l'avitaillement ou la reprise de carburant, le
-stationnement ou l'entretien.
-
-Altitude : distance verticale entre un niveau, un point ou un objet assimilé à un point et le niveau moyen de la mer.
-
-Altitude de transition : altitude à laquelle ou au-dessous de laquelle la position verticale d'un aéronef est donnée par son
-altitude.
-
-Altitude d'un aérodrome : altitude du point le plus élevé de l'aire d'atterrissage.
-
-Altitude-pression : pression atmosphérique exprimée sous forme de l'altitude correspondant à cette pression dans l'atmosphère
-type.
-
-Approche à vue : approche effectuée par un aéronef en vol IFR qui n'exécute pas ou interrompt la procédure d'approche aux
-instruments et exécute l'approche par repérage visuel du sol.
-
-Autogire : aérodyne dont la sustentation en vol est obtenue par la réaction de l'air sur un ou plusieurs rotors qui tournent
-librement autour d'axes sensiblement verticaux.
-
-Autorité compétente : terme générique employé pour désigner l'autorité de l'Etat responsable de l'établissement de règles ou
-dispositions particulières dans les domaines qui relèvent de sa compétence.
-
-Autorité compétente des services de la circulation aérienne :
-
-autorité compétente responsable de l'établissement de règles ou de dispositions particulières dans les domaines qui relèvent
-de la fourniture des services de la circulation aérienne.
-
-Avion : aérodyne entraîné par un organe moteur et dont la sustentation en vol est obtenue principalement par des réactions
-aérodynamiques sur des surfaces qui restent fixes dans des conditions données de vol.
-
-Ballon : aérostat non entraîné par un organe moteur.
-
-Bureau de piste : organisme de la circulation aérienne chargé de recevoir des comptes rendus concernant les services de la
-circulation aérienne et des plans de vol déposés avant le départ.
-
-Note. - Un bureau de piste peut être un organisme distinct ou être combiné avec un organisme existant.
-
-Cap : sens dans lequel est dirigé l'axe longitudinal de l'aéronef, généralement exprimé en degrés par rapport au nord (vrai,
-magnétique, compas ou du canevas).
-
-Caractère spécial du vol : indication précisant éventuellement si les organismes des services de la circulation aérienne
-doivent accorder un traitement spécial à un aéronef donné.
-
-Centre de contrôle d'approche (APP) : organisme de la circulation aérienne chargé d'assurer les services de la circulation
-aérienne au bénéfice des aéronefs évoluant dans les espaces aériens contrôlés relevant de son autorité et associés à un ou
-plusieurs aérodromes.
-
-Centre de contrôle régional (ACC) : organisme de la circulation aérienne chargé d'assurer les services de la circulation
-aérienne au bénéfice des aéronefs évoluant dans les espaces aériens contrôlés relevant de son autorité.
-
-Centre de coordination de sauvetage (RCC) : organisme chargé d'assurer l'organisation du service de recherches et de
-sauvetage et de coordonner les opérations à l'intérieur d'une région de recherches et de sauvetage.
-
-Centre d'information de vol (FIC) : organisme de la circulation aérienne institué pour assurer le service d'information de
-vol et le service d'alerte.
-
-Circuit d'aérodrome : trajet de principe associé à un aérodrome indiquant les manoeuvres successives que doivent effectuer en
-tout ou partie les aéronefs en vol utilisant l'aérodrome.
-
-Circuit de circulation au sol : cheminements spécifiés que les aéronefs doivent suivre sur l'aire de manoeuvre.
-
-Circulaire d'information aéronautique (AIC) : avis contenant des informations qui ne satisfont pas aux conditions d'émission
-d'un NOTAM ou d'insertion dans une publication d'information aéronautique, mais qui concernent la sécurité des vols, la
-navigation aérienne ou d'autres questions techniques, administratives, législatives ou réglementaires.
-
-Circulation aérienne : ensemble des aéronefs évoluant dans l'espace aérien ou sur l'aire de manoeuvre d'un aérodrome.
-
-La circulation aérienne comprend la circulation aérienne générale et la circulation aérienne militaire.
-
-Note. - Dans le présent texte, sauf mention contraire, l'expression " circulation aérienne " désigne la circulation aérienne
-générale.
-
-Circulation aérienne générale (CAG) : ensemble des mouvements des aéronefs civils et des aéronefs d'Etat soumis à la
-réglementation propre à ce type de circulation.
-
-Circulation aérienne militaire (CAM) : circulation opérationnelle militaire (COM) et circulation d'essais et de réception
-(CER).
-
-La circulation opérationnelle militaire est constituée par l'ensemble des mouvements des aéronefs qui, pour des raisons
-d'ordre technique ou militaire, relèvent de la réglementation propre à ce type de circulation.
-
-La circulation d'essais et de réception est constituée par l'ensemble des mouvements des aéronefs en essais ou en réception
-soumis, pour des raisons d'ordre technique et avec l'agrément du directeur du centre d'essais en vol, à la réglementation
-propre à ce type de circulation.
-
-Circulation d'aérodrome : ensemble de la circulation des aéronefs et des véhicules sur l'aire de manoeuvre d'un aérodrome et
-des aéronefs qui se trouvent dans le ou les circuits d'aérodrome, qui y pénètrent ou qui en sortent.
-
-Circulation en surface : déplacement d'un aéronef, par ses propres moyens, à l'exclusion des décollages et atterrissages, à
-la surface d'un aérodrome, ou encore, dans le cas d'un hélicoptère, déplacement en vol rasant au-dessus de la surface de
-l'aérodrome à une hauteur permettant d'utiliser l'effet de sol et à une vitesse correspondant à celle de la circulation au
-sol.
-
-Clairance : autorisation accordée à un aéronef de manoeuvrer dans des conditions spécifiées par un organisme du contrôle de
-la circulation aérienne dans le but de lui fournir le service du contrôle de la circulation aérienne.
-
-Clairance initiale : clairance délivrée avant le départ ou avant la pénétration dans un espace aérien contrôlé.
-
-Clairance de séparation à vue : clairance complémentaire accordée à un aéronef en vol contrôlé lui permettant de s'affranchir
-des espacements réglementaires vis-à-vis d'un seul autre aéronef contrôlé et d'assurer visuellement sa propre séparation par
-rapport à celui-ci.
-
-Clairance VMC ; clairance complémentaire accordée à un aéronef en vol IFR, lui permettant, sur sa demande, en VMC, de
-s'affranchir des espacements réglementaires vis-à-vis de tous les autres aéronefs en vol IFR et d'assurer visuellement sa
-propre séparation par rapport à ceux-ci.
-
-Code transpondeur : numéro assigné à une réponse émise par un transpondeur.
-
-Compte rendu en vol : compte rendu émanant d'un aéronef en vol et établi selon les spécifications applicables aux comptes
-rendus de position, d'exploitation et (ou) d'observations météorologiques.
-
-Conditions météorologiques de vol aux instruments (IMC) : conditions météorologiques, exprimées en fonction de la visibilité,
-de la distance par rapport aux nuages et du plafond, inférieures aux minimums spécifiés pour les conditions météorologiques
-de vol à vue.
-
-Conditions météorologiques de vol à vue (VMC) : conditions météorologiques, exprimées en fonction de la visibilité, de la
-distance par rapport aux nuages et du plafond, égales ou supérieures aux minimums spécifiés.
-
-Contrôle d'aérodrome : service du contrôle de la circulation aérienne pour la circulation d'aérodrome.
-
-Contrôle d'approche : service du contrôle de la circulation aérienne pour les aéronefs en vol contrôlé à l'arrivée ou au
-départ.
-
-Contrôle régional : service du contrôle de la circulation aérienne pour les aéronefs en vol contrôlé à l'intérieur des
-régions de contrôle.
-
-Croisière ascendante : technique de vol en croisière applicable à un aéronef, qui résulte en un accroissement net de
-l'altitude à mesure que la masse de l'aéronef diminue.
-
-Dirigeable : aérostat entraîné par un organe moteur.
-
-Espace aérien contrôlé : portion de région d'information de vol, ou de région supérieure d'information de vol, de dimensions
-déterminées, à l'intérieur de laquelle le service du contrôle de la circulation aérienne est assuré au bénéfice des vols
-contrôlés.
-
-Note 1. - " Espace aérien contrôlé " est un terme générique qui désigne l'un ou l'autre des espaces aériens contrôlés de
-classe A, B, C, D ou E.
-
-Note 2. - Certains espaces aériens contrôlés dans lesquels le service du contrôle de la circulation aérienne est rendu
-simultanément à la circulation aérienne générale et à la circulation aérienne militaire et où la cohabitation et la densité
-des deux types de circulation aérienne rendent nécessaire la mise en place de mesures complémentaires afin d'assurer les
-services de la circulation aérienne sont désignés " espaces aériens contrôlés spécialisés " (S/CTA, S/CTR, S/TMA, etc.).
-
-Espace aérien contrôlé de classe A : espace aérien où sont admis les vols IFR et où ne sont pas admis les vols VFR.
-
-Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR.
-
-Espace aérien contrôlé de classe B : espace aérien où sont admis les vols IFR et les vols VFR.
-
-Dans cet espace, les organismes de contrôle de la circulation aérienne assurent des espacements entre les vols IFR, entre les
-vols IFR et les vols VFR et entre les vols VFR.
-
-Espace aérien contrôlé de classe C : espace aérien où sont admis les vols IFR et les vols VFR.
-
-Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR et entre
-les vols IFR et les volsVFR, et fournissent des informations de trafic aux vols VFR sur les autres vols VFR.
-
-Espace aérien contrôlé de classe D : espace aérien où sont admis les vols IFR et les vols VFR.
-
-Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR et
-fournissent des informations de trafic aux vols IFR sur les vols VFR et aux vols VFR sur les vols IFR et sur les autres vols
-VFR.
-
-Espace aérien contrôlé de classe E : espace aérien où sont admis les vols IFR et les vols VFR.
-
-Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR.
-
-Espace aérien non contrôlé de classe F (espace aérien à service consultatif) : espace aérien où sont admis les vols IFR et
-les vols VFR.
-
-Dans cet espace, les organismes de la circulation aérienne assurent le service consultatif de la circulation aérienne.
-
-Espace aérien non contrôlé de classe G : espace aérien où sont admis les vols IFR et les vols VFR.
-
-Dans cet espace, les organismes de la circulation aérienne assurent seulement le service d'information de vol et le service
-d'alerte.
-
-Espacement : intervalle ménagé par un organisme du contrôle de la circulation aérienne entre les positions de deux aéronefs
-et exprimé en distance horizontale, en différence de niveau ou en temps de vol.
-
-Exploitant : personne, organisme ou entreprise qui se livre ou propose de se livrer à l'exploitation d'un ou de plusieurs
-aéronefs.
-
-Hauteur : distance verticale entre un niveau, un point ou un objet assimilé à un point et un niveau de référence.
-
-Hélicoptère : aérodyne dont la sustentation en vol est obtenue principalement par la réaction de l'air sur un ou plusieurs
-rotors qui tournent, entraînés par un organe moteur, autour d'axes sensiblement verticaux.
-
-Heure d'approche prévue : heure à laquelle un organisme de la circulation aérienne prévoit qu'un aéronef quittera le repère
-d'attente à une altitude au moins égale à l'altitude minimale d'attente avant de débuter l'approche finale.
-
-Note. - L'heure réelle à laquelle l'aéronef quitte le repère d'attente dépend de la clairance d'approche.
-
-Heure estimée d'arrivée : pour les vols IFR, heure à laquelle il est estimé que l'aéronef arrivera à la verticale du repère
-d'approche initiale, défini par référence à des aides à la navigation, à partir duquel il est prévu qu'une procédure
-d'approche aux instruments sera amorcée ou, si l'aérodrome n'est équipé d'aucune aide à la navigation, heure à laquelle
-l'aéronef arrivera à la verticale de l'aérodrome. Pour les vols VFR, heure à laquelle il est estimé que l'aéronef arrivera à
-la verticale de l'aérodrome.
-
-Identification d'un aéronef : groupe de lettres, de chiffres ou combinaison de lettres et de chiffres qui, soit est identique
-à l'indicatif d'appel de l'aéronef à utiliser dans les communications air-sol, soit en est l'équivalent en code, et qui est
-utilisé pour identifier l'aéronef dans les communications sol-sol des services de la circulation aérienne.
-
-IFR : abréviation utilisée pour désigner les règles de vol aux instruments.
-
-IMC : abréviation utilisée pour désigner les conditions météorologiques de vol aux instruments.
-
-Information de trafic : informations fournies à un pilote par un organisme de la circulation aérienne pour l'avertir que
-d'autres aéronefs, dont la présence est connue ou observée, peuvent être suffisamment près de sa position ou de sa route
-prévue, afin de l'aider à prévenir un abordage en appliquant les règles de l'air.
-
-Limite de clairance : point ou instant jusqu'auquel est valable une clairance.
-
-Niveau : terme générique employé pour indiquer la position verticale d'un aéronef en vol et désignant, selon le cas, une
-hauteur, une altitude ou un niveau de vol.
-
-Note. - Un altimètre barométrique étalonné d'après l'atmosphère type :
-
-a) Calé sur le QNH, indique l'altitude ;
-
-b) Calé sur le QFE, indique la hauteur par rapport au niveau de référence QFE ;
-
-c) Calé sur une pression de 1 013,2 hectopascals, indique l'altitude pression et peut être utilisé pour indiquer le niveau de
-vol.
-
-Niveau de croisière : niveau auquel un aéronef se maintient pendant une partie appréciable d'un vol.
-
-Niveau de transition : niveau de vol égal ou supérieur à l'altitude de transition auquel et au-dessus duquel la position
-verticale d'un aéronef est donnée par son niveau de vol.
-
-Niveau de vol (FL) : surface isobare liée à une pression de référence spécifiée : 1013,2 hectopascals et séparée des autres
-surfaces analogues par des intervalles de pressions spécifiés.
-
-NOTAM : avis donnant en temps utile sur l'établissement, l'état ou la modification d'une installation, d'un service, d'une
-procédure aéronautique ou d'un danger pour la navigation aérienne des renseignements essentiels à l'exécution des vols.
-
-Nuit : période pendant laquelle le centre du disque solaire se trouve à plus de 6 degrés en dessous de l'horizon.
-
-Il est admis que :
-
-- pour des latitudes comprises entre 30° et 60°, la nuit commence 30 minutes après le coucher du soleil et se termine 30
-minutes avant le lever du soleil ;
-
-- pour des latitudes inférieures ou égales à 30° la nuit commence à 15 minutes après le coucher du soleil et se termine 15
-minutes avant le lever du soleil.
-
-Observation d'aéronef : évaluation d'un ou plusieurs éléments météorologiques effectuée à partir d'un aéronef en vol.
-
-Organisme accepteur : le prochain organisme du contrôle de la circulation aérienne à prendre en charge un aéronef.
-
-Organisme AFIS : organisme de la circulation aérienne chargé d'assurer le service d'information de vol et le service d'alerte
-au bénéfice de la circulation d'aérodrome d'un aérodrome non contrôlé.
-
-Organisme de la circulation aérienne : terme générique désignant soit un organisme chargé de prendre l'ensemble des services
-de la circulation aérienne ou certains d'entre eux, soit un bureau de piste.
-
-Note. - Dans le présent texte, sauf mention contraire, l'expression " organisme de la circulation aérienne " recouvre
-également les organismes de la circulation aérienne militaire lorsque ceux-ci rendent des services à la circulation aérienne
-générale.
-
-Organisme du contrôle de la circulation aérienne : terme générique désignant soit un centre de contrôle régional, soit un
-centre de contrôle d'approche, soit une tour de contrôle, soit un organisme de contrôle de la circulation aérienne militaire.
-
-Organisme donneur : organisme de contrôle de la circulation aérienne en train de transférer à l'organisme suivant, le long de
-la route, la responsabilité d'assurer à un aéronef le service du contrôle de la circulation aérienne.
-
-Phase d'urgence : terme générique désignant selon le cas la phase d'incertitude, la phase d'alerte ou la phase de détresse.
-
-Phase d'alerte (ALERFA) : situation dans laquelle on peut craindre pour la sécurité d'un aéronef et de ses occupants.
-
-Phase de détresse (DETRESFA) : situation dans laquelle il y a tout lieu de penser qu'un aéronef et ses occupants sont menacés
-d'un danger grave imminent et qu'ils ont besoin d'un secours immédiat.
-
-Phase d'incertitude (INCERFA) : situation dans laquelle il y a lieu de douter de la sécurité d'un aéronef et ses occupants.
-
-Pilote commandant de bord : pilote responsable de la conduite et de la sécurité d'un aéronef pendant le temps de vol.
-
-Piste : aire définie, sur un aérodrome terrestre, aménagée afin de servir au décollage et à l'atterrissage des aéronefs.
-
-Plafond : hauteur, au-dessus du sol ou de l'eau, de la plus basse couche de nuages qui, au-dessous de 6 000 mètres (20 000
-pieds), couvre plus de la moitié du ciel.
-
-Plan de vol (PLN) : ensemble de renseignements spécifiés au sujet d'un vol projeté ou d'une partie d'un vol, communiqués aux
-organismes de la circulation aérienne.
-
-Plan de vol déposé (FPL) : le plan de vol tel qu'il a été déposé sous une forme spécifiée auprès d'un organisme de la
-circulation aérienne par le pilote ou son représentant désigné, ne comportant pas les éventuelles modifications ultérieures.
-
-Plan de vol en vigueur : un plan de vol devient un plan de vol en vigueur au moment où débute le vol ou la partie de vol pour
-lequel il a été communiqué. Le plan de vol en vigueur comprend les éventuelles modifications postérieures à la communication
-du plan de vol initial.
-
-Plan de vol réduit : éléments de vol en nombre limité communiqués en radiotéléphonie à un organisme de la circulation
-aérienne en vue d'obtenir une clairance.
-
-Plan de vol répétitif (RPL) : plan de vol concernant une série de vols assurés régulièrement, souvent répétés et présentant
-les mêmes caractéristiques de base, fourni par un exploitant pour être conservé et utilisé, de manière répétitive, par les
-organismes de la circulation aérienne.
-
-Planeur : aérodyne non entraîné par un organe moteur, et dont la sustentation en vol est obtenue principalement par des
-réactions aérodynamiques sur des surfaces qui restent fixes dans des conditions données de vol.
-
-Point d'arrêt : position caractéristique du circuit de circulation au sol d'un aérodrome où un aéronef ou un véhicule peut
-être amené à attendre pour laisser libre la piste en service.
-
-Point de compte rendu : emplacement déterminé pouvant être identifié par des moyens visuels, radioélectriques ou autres par
-rapport auquel la position d'un aéronef peut être signalée.
-
-Point significatif : emplacement géographique spécifié utilisé pour définir une route ATS ou la trajectoire d'un aéronef,
-ainsi que pour les besoins de la navigation et des services de la circulation aérienne.
-
-Point de transfert de contrôle : point défini sur la trajectoire de vol d'un aéronef, où la responsabilité d'assurer le
-service du contrôle de la circulation aérienne à cet aéronef est transférée d'un organisme de contrôle au suivant ou d'une
-position de contrôle à la suivante.
-
-Point de transition : point où un aéronef navigant sur un tronçon de route ATS défini par référence à des radiophares
-omnidirectionnels à très haute fréquence doit en principe transférer son principal repère de navigation et d'installation
-située en arrière de l'aéronef à la première installation située en avant de lui.
-
-Prévision météorologique : exposé de conditions météorologiques prévues pour une heure spécifiée ou une période définie et
-pour une région ou une partie d'espace aérien déterminée.
-
-Procédure d'approche aux instruments : série de manoeuvres prédéterminées effectuées en utilisant uniquement les instruments
-de bord, avec une marge de protection spécifiée au-dessus des obstacles, depuis le repère d'approche initiale jusqu'en un
-point à partir duquel l'atterrissage pourra être effectué puis, si l'atterrissage n'est pas effectué jusqu'en un point où les
-critères de franchissement d'obstacles en attente ou en route deviennent applicables.
-
-Procédure d'attente : manoeuvre prédéterminée exécutée par un aéronef en vol pour attendre.
-
-Publication d'information aéronautique : publication d'un Etat, ou éditée par décision d'un Etat, renfermant des informations
-aéronautiques de caractère durable et essentielles à la navigation aérienne.
-
-Région de contrôle (CTA) : espace aérien contrôlé dont la limite inférieure n'est pas la surface du sol ou de l'eau.
-
-Région de contrôle terminale (TMA) : région de contrôle établie en principe, au carrefour de routes ATS aux environs d'un ou
-plusieurs aérodromes importants.
-
-Région supérieure de contrôle (UTA) : région de contrôle, établie à l'intérieur d'une région supérieure d'information de vol,
-et qui n'est pas une voie aérienne.
-
-Région d'information de vol (FIR) : espace aérien de dimensions latérales définies à l'intérieur duquel le service
-d'information de vol et le service d'alerte sont assurés.
-
-Note. - Cet espace aérien n'a de limite supérieure que s'il est surmonté par une région supérieure d'information de vol.
-
-Région supérieure d'information de vol (UIR) : espace aérien de dimensions latérales définies à l'intérieur duquel le service
-d'information de vol et le service d'alerte sont assurés au-dessus d'une limite spécifiée.
-
-Région à service consultatif : région définie à l'intérieur d'une région d'information de vol, où le service consultatif de
-la circulation aérienne est assuré.
-
-Régulation du débit : mesures destinées à adapter le débit de la circulation qui pénètre ou est appelée à pénétrer dans un
-espace aérien donné, à se déplacer sur une route donnée ou à se diriger vers un aérodrome donné, en vue de la meilleure
-utilisation de l'espace aérien disponible.
-
-Renseignements météorologiques : message d'observations, analyses, prévisions et tous autres éléments d'information relatifs
-à des conditions météorologiques existantes ou prévues.
-
-Renseignements SIGMET : renseignements établis par un centre de veille météorologique, concernant l'apparition ou la
-prévision d'un ou plusieurs phénomènes météorologiques spécifiés qui peuvent affecter la sécurité de l'exploitation aérienne.
-
-Repère d'attente : emplacement déterminé pouvant être identifié par des moyens visuels, radioélectriques ou autres et au
-voisinage duquel un aéronef en vol doit se maintenir pour attendre.
-
-Répondeur automatique d'information : système automatique de radiocommunication fonctionnant en principe sur la fréquence
-normale d'appel d'un organisme désigné de la circulation aérienne et diffusant des renseignements appropriés et actualisés
-concernant un espace aérien.
-
-Route : projection sur la surface de la terre de la trajectoire d'un aéronef, trajectoire dont le sens en un point quelconque
-est généralement exprimé en degrés par rapport au nord (vrai, magnétique ou du canevas).
-
-Route ATS : route destinée à canaliser la circulation aérienne pour permettre d'assurer les services de la circulation
-aérienne.
-
-Note. - L'expression route ATS est utilisée pour désigner à la fois les voies aériennes, les routes contrôlées et non
-contrôlées, les routes d'arrivée et de départ, etc.
-
-Séparation : distance entre deux aéronefs, deux niveaux, deux trajectoires.
-
-Service d'alerte : service assuré dans le but d'alerter les organismes appropriés lorsque les aéronefs ont besoin de l'aide
-des organismes de recherche et de sauvetage et de prêter à ces organismes le concours nécessaire.
-
-Service automatique d'information de région terminale (ATIS) :
-
-service assuré dans le cadre du service d'information de vol dans le but de fournir régulièrement des renseignements
-appropriés et actualisés pour les aéronefs à l'arrivée et au départ au moyen d'émissions continues et répétées.
-
-Services de la circulation aérienne : terme générique désignant à la fois le service du contrôle de la circulation aérienne,
-le service d'information de vol et le service d'alerte.
-
-Service du contrôle de la circulation aérienne : service assuré dans le but de :
-
-1. Prévenir :
-
-a) Les abordages entre aéronefs ;
-
-b) Les collisions, sur l'aire de manoeuvre, entre les aéronefs et les obstacles ;
-
-2. Accélérer et ordonner la circulation aérienne.
-
-Service consultatif de la circulation aérienne : service assuré dans le cadre du service d'information de vol, à l'intérieur
-de l'espace aérien à service consultatif, afin d'assurer autant que possible l'espacement des aéronefs en vol IFR qui
-décident d'utiliser ce service.
-
-Service de gestion d'aire de trafic : service fourni pour assurer la régulation des activités et des mouvements des aéronefs
-et des véhicules sur une aire de trafic.
-
-Service d'information de vol : service assuré dans le but de fournir les avis et renseignements utiles à l'exécution sûre et
-efficace des vols.
-
-Service d'information de vol d'aérodrome (AFIS) : service d'information de vol pour la circulation d'aérodrome.
-
-Tour de contrôle (TWR) : organisme de la circulation aérienne chargé d'assurer les services de la circulation aérienne au
-bénéfice de la circulation d'aérodrome.
-
-Visibilité : distance, déterminée par les conditions atmosphériques et exprimée en unités de longueur, à laquelle on peut
-voir et identifier, de jour, des objets remarquables non éclairés et, de nuit, des objets remarquables éclairés.
-
-Visibilité au sol : visibilité sur un aérodrome communiquée par un observateur accrédité.
-
-Visibilité en vol : visibilité vers l'avant à partir du poste de pilotage d'un aéronef en vol.
-
-VFR : abréviation utilisée pour désigner les règles de vol à vue.
-
-VMC : abréviation utilisée pour désigner les conditions météoro-logiques de vol à vue.
-
-Voie aérienne (AWY) : région de contrôle ou portion de région de contrôle présentant la forme d'un couloir et dotée d'aides
-radio à la navigation.
-
-Voie de circulation : voie définie, sur un aérodrome terrestre, choisie ou aménagée pour la circulation au sol des aéronefs.
-
-Voie de l'information aéronautique : moyen permettant de porter à la connaissance des usagers sous la forme de publication
-d'information aéronautique, de notam ou de circulaire d'information aéronautique, des informations vérifiées, mises en forme
-et diffusées sous l'autorité du ministre chargé de l'aviation civile.
-
-Vol contrôlé : vol dont les évolutions sont subordonnées à une clairance.
-
-Note. - Les vols suivants sont des vols contrôlés :
-
-- vols IFR évoluant dans un espace aérien contrôlé ;
-
-- vols VFR évoluant dans un espace aérien contrôlé de classe B, C ou D ;
-
-- vols VFR et vols IFR appartenant à la circulation d'aérodrome d'un aérodrome contrôlé ;
-
-- vols VFR spécial.
-
-Vol IFR : vol effectué conformément aux règles de vol aux instruments.
-
-Vol VFR : vol effectué conformément aux règles de vol à vue.
-
-Vol VFR spécial : vol VFR autorisé par un organisme de contrôle de la circulation aérienne dans des conditions
-météorologiques inférieures aux conditions météorologiques de vol à vue.
-
-Voltige aérienne : vol au cours duquel un aéronef effectue intentionnellement des manoeuvres comportant un changement brusque
-d'assiette, une position inhabituelle ou une variation inhabituelle de la vitesse, généralement associées à des variations
-importantes de niveau.
-
-Zone de contrôle (CTR) : espace aérien contrôlé s'étendant à partir de la surface du sol ou de l'eau jusqu'à une limite
-supérieure spécifiée.
-
-Zone dangereuse : espace aérien, de dimensions définies, à l'intérieur duquel des activités dangereuses pour le vol des
-aéronefs peuvent se dérouler pendant des périodes spécifiées.
-
-Zone interdite : espace aérien, de dimensions définies, au-dessus du territoire ou des eaux territoriales dans les limites
-duquel le vol des aéronefs est interdit.
-
-Zone réglementée : espace aérien, de dimensions définies, au-dessus du territoire ou des eaux territoriales, dans les limites
-duquel le vol des aéronefs est subordonné à certaines conditions spécifiées.
+Sauf clairance contraire en espace aérien contrôlé de classe D, un vol IFR applique la limitation de vitesse prévue au
+tableau de l'appendice D.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. D132-4 (V)
-	  - Code de l'aviation civile D131-1 à D131-10, D132-4
+	  - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
 ## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)
@@ -25064,6 +25220,284 @@ duquel le vol des aéronefs est subordonné à certaines conditions spécifiées
 
 Tableau non reproduit, voir le fac-similé
 
+
+
+###### Article Annexe II : Appendice B
+
+**PRINCIPES D'IDENTIFICATION DES ROUTES ATS ET DES POINTS SIGNIFICATIFS**
+
+1. Routes ATS. 
+
+1.1. Routes ATS, à l'exception des itinéraires normalisés 
+
+de départ et d'arrivée 
+
+1.1.1. Indicatifs des routes ATS. 
+
+Le système d'indicatifs doit : 
+
+a) Permettre l'identification de toute route ATS d'une manière simple et non équivoque ; 
+
+b) Permettre d'établir une relation entre une route ATS et une structure déterminée de l'espace aérien ; 
+
+c) Permettre d'indiquer un mode de navigation déterminé, navigation de surface par exemple, qui doit être utilisé le long des
+routes ATS ainsi désignées ; 
+
+d) Permettre d'indiquer qu'une route est utilisée, principalement ou exclusivement, par certains types d'aéronefs ; 
+
+e) Eviter les redondances ; 
+
+f) Pouvoir être utilisé aussi bien par le système automatique au sol que par le système automatique de bord ; 
+
+g) Permettre la plus grande concision dans l'utilisation du système en exploitation ; 
+
+h) Assurer une possibilité de développement suffisante pour répondre aux besoins futurs sans qu'il soit nécessaire de
+procéder à des modifications fondamentales. 
+
+1.1.2. Composition de l'indicatif. 
+
+1.1.2.1. L'indicatif de route ATS doit être composé d'un indicatif de base complété, en cas de besoin, par : 
+
+a) Un préfixe, de la manière prescrite en 1.1.2.3., et 
+
+b) Une lettre supplémentaire, de la manière prescrite en 1.1.2.4. 
+
+Le nombre de caractères nécessaires pour composer l'indicatif doit, si possible, être limité à un maximum de cinq, et ne
+devrait, en aucun cas, être supérieur à six. 
+
+1.1.2.2. L'indicatif de base doit être composé d'une lettre de l'alphabet suivie d'un numéro compris entre 1 et 999. 
+
+La lettre doit être choisie parmi les suivantes : 
+
+a) A, B, G, R pour les routes qui font partie des réseaux OACI de routes ATS autres que les routes à navigation de surface ; 
+
+b) L, M, N, P pour les routes à navigation de surface qui font partie des réseaux régionaux OACI de routes ATS ; 
+
+c) H, J, V, W pour les routes qui ne font pas partie des réseaux régionaux OACI de routes ATS et qui ne sont pas des routes à
+navigation de surface ; 
+
+d) Q, T, Y, Z pour les routes à navigation de surface qui ne font pas partie des réseaux régionaux OACI de routes ATS. 
+
+1.1.2.3. Le cas échéant, une lettre supplémentaire doit être ajoutée comme préfixe à l'indicatif de base conformément aux
+indications ci-après : 
+
+a) K afin d'indiquer une route à basse altitude établie principalement à l'intention des hélicoptères ; 
+
+b) U afin d'indiquer que la route ou une partie de cette route est établie dans l'espace aérien supérieur ; 
+
+c) S afin d'indiquer une route établie exclusivement pour que les avions supersoniques l'empruntent pendant l'accélération,
+pendant la décélération et pendant le vol supersonique. 
+
+1.1.2.4. Une lettre supplémentaire peut être ajoutée après l'indicatif de base de la route ATS en question, pour indiquer le
+type de service assuré sur cette route, comme suit : 
+
+a) La lettre D pour indiquer que seul un service consultatif est assuré sur la route ou sur une partie de la route ; 
+
+b) La lettre F pour indiquer que seul un service d'information de vol est assuré sur la route ou sur une partie de la route. 
+
+1.1.3. Attribution des indicatifs de base. 
+
+1.1.3.1. Les indicatifs de base des routes ATS doivent être attribués selon les principes suivants. 
+
+1.1.3.1.1. Le même indicatif de base doit être attribué à une route long-courrier principale sur toute sa longueur,
+indépendamment des régions de contrôle terminales, des Etats et des régions OACI traversés. 
+
+1.1.3.1.2. Lorsque deux ou plusieurs routes long-courrier ont un tronçon commun, il doit être attribué à ce dernier chacun
+des indicatifs des routes intéressées, sauf lorsqu'il en résulterait des difficultés pour les services de la circulation
+aérienne, auquel cas un seul indicatif doit être utilisé. 
+
+1.1.3.1.3. Un indicatif de base attribué à une route ne doit pas être attribué à une autre route. 
+
+1.1.4. Emploi des indicatifs dans les communications. 
+
+1.1.4.1. Dans les communications imprimées, l'indicatif est toujours exprimé au moyen de deux caractères au moins et de six
+caractères au plus. 
+
+1.1.4.2. Dans les communications en phonie, la lettre de base d'un indicatif doit être prononcée conformément au code
+d'épellation OACI. 
+
+1.1.4.3. Lorsque les préfixes K, U ou S spécifiés en 1.1.2.3. ci-dessus sont utilisés, ils doivent, dans les communications
+verbales, être prononcés comme suit : 
+
+K : KOPTER ; 
+
+U : UPPER ; 
+
+S : SUPERSONIC. 
+
+Le mot " kopter " doit être prononcé comme le mot " hélicoptère " et les mots " upper " et " supersonic " comme en anglais. 
+
+1.1.4.4. Lorsque les lettres D ou F spécifiées en 1.1.2.4 ci-dessus sont utilisées, elles doivent, dans les communications,
+être prononcées conformément au code d'épellation O.A.C.I. 
+
+1.2. Itinéraires normalisés de départ et d'arrivée 
+
+1.2.1. Indicatifs des itinéraires normalisés de départ et d'arrivée. 
+
+1.2.1.1. Le système d'indicatifs doit : 
+
+a) Permettre l'identification de chaque itinéraire d'une manière simple et non équivoque ; 
+
+b) Permettre d'établir une nette distinction entre : 
+
+- les itinéraires de départ et les itinéraires d'arrivée ; 
+
+- les itinéraires de départ ou d'arrivée et les autres routes ATS ; 
+
+- les routes qui exigent une navigation par référence à des aides radio basées au sol ou à des aides autonomes de bord, et
+les routes qui exigent une navigation par référence à des repères visuels au sol ; 
+
+c) Etre compatible avec les besoins ATS et les besoins des aéronefs en matière de traitement et d'affichage des données ; 
+
+d) Permettre la plus grande concision au niveau de son application opérationnelle ; 
+
+e) Eviter les redondances ; 
+
+f) Assurer une possibilité de développement suffisante pour répondre à tout besoin futur sans obliger à procéder à des
+modifications fondamentales. 
+
+1.2.1.2. Chaque itinéraire doit être identifié par un indicatif en langage clair et un indicatif codé correspondant. 
+
+1.2.1.3. Dans les communications verbales, les indicatifs doivent pouvoir être facilement associés à un itinéraire normalisé
+de départ ou d'arrivée et ne doivent pas poser de difficultés de prononciation pour les pilotes et le personnel ATS. 
+
+1.2.2. Composition des indicatifs. 
+
+1.2.2.1. Indicatif en langage clair. 
+
+1.2.2.1.1. L'indicatif en langage clair d'un itinéraire normalisé de départ ou d'arrivée doit être composé dans l'ordre
+suivant : 
+
+a) Du mot " départ " ou " arrivée " ; 
+
+b) Des mots " à vue ", si l'itinéraire est destiné à être emprunté par des aéronefs utilisés conformément aux règles de vol à
+vue (VFR) ; 
+
+c) D'un indicateur de base ; 
+
+d) D'un indicateur de validité ; 
+
+e) D'un indicateur d'itinéraire si nécessaire. 
+
+En langue anglaise les éléments ci-dessus sont transmis dans l'ordre c d e a b et les mots " départ ", " arrivée " et " à vue
+" sont remplacés respectivement par " departure ", " arrival " et " visual ". 
+
+1.2.2.1.2. L'indicateur de base doit être le nom ou le nom codé du point significatif auquel se termine un itinéraire
+normalisé de départ ou auquel commence un itinéraire normalisé d'arrivée. 
+
+1.2.2.1.3. L'indicateur de validité doit être composé d'un chiffre compris entre 1 et 9. 
+
+1.2.2.1.4. L'indicateur d'itinéraire doit être composé d'une lettre de l'alphabet. Les lettres " I " et " O " ne doivent pas
+être utilisées. 
+
+1.2.2.2. Indicatif codé. 
+
+1.2.2.2.1. L'indicatif codé d'un itinéraire normalisé de départ ou d'arrivée, aux instruments ou à vue, doit être composé : 
+
+a) De l'indicatif codé ou du nom codé du point significatif décrit en 1.2.2.1.1 c ; 
+
+b) De l'indicatif de validité mentionné en 1.2.2.1.1 d ; 
+
+c) De l'indicateur d'itinéraire mentionné en 1.2.2.1.1 e si nécessaire. 
+
+1.2.3. Attribution des indicatifs. 
+
+1.2.3.1. Un indicatif distinct doit être attribué à chaque itinéraire. 
+
+1.2.3.2. Afin de pouvoir établir une distinction entre deux ou plusieurs itinéraires qui rejoignent le même point
+significatif (et auxquels, par conséquent, le même indicateur de base est attribué), un indicateur d'itinéraire distinct,
+selon les dispositions du 1.2.2.1.4, doit être attribué à chaque itinéraire. 
+
+1.2.4. Attribution des indicateurs de validité. 
+
+1.2.4.1. Un indicateur de validité doit être attribué à chaque itinéraire afin d'identifier l'itinéraire alors en vigueur. 
+
+1.2.4.2. Le premier indicateur de validité à attribuer doit être le chiffre " 1 ". 
+
+1.2.4.3. Toutes les fois qu'un itinéraire est modifié, un nouvel indicateur de validité, composé du chiffre plus élevé qui
+suit, doit être attribué. Le chiffre " 9" doit être suivi du chiffre " 1 ". 
+
+1.2.5. Emploi des indicatifs dans les communications. 
+
+1.2.5.1. Dans les communications verbales, il convient d'utiliser seulement l'indicatif en langage clair. 
+
+1.2.5.2. Dans les communications imprimées ou codées, il convient d'utiliser seulement l'indicatif codé. 
+
+2. Points significatifs.
+
+2.1. Indicatifs des points significatifs identifiés par l'emplacement d'une aide de radionavigation
+
+2.1.1 Noms en langage clair pour les points significatifs identifiés par l'emplacement d'une aide de radionavigation.
+
+2.1.1.1. Dans la mesure du possible, les points significatifs doivent être désignés par référence à un point géographique
+identifiable et de préférence important.
+
+2.1.1.2. Dans le choix d'un nom pour le point significatif, il y a lieu de veiller à ce que les conditions ci-après soient
+réunies :
+
+a) Le nom ne doit poser aucune difficulté de prononciation pour les pilotes ou le personnel ATS. Lorsque le nom d'un
+emplacement géographique pose des difficultés de prononciation, une forme abrégée ou contractée de ce nom, lui conservant le
+plus possible sa signification géographique, doit être choisie ;
+
+b) Le nom doit être aisément reconnaissable dans les communications en phonie et ne pas prêter à confusion avec d'autres
+points significatifs de la même région d'ensemble. En outre, le nom ne doit pas créer de confusion par rapport à d'autres
+communications échangées entre les services de la circulation aérienne et les pilotes ;
+
+c) Le nom doit si possible comprendre au moins six lettres formant deux syllabes et, de préférence, un maximum de trois ;
+
+d) Le nom choisi doit être le même pour le point significatif et pour l'aide de radionavigation dont l'emplacement identifie
+ce point.
+
+2.1.2. Composition des indicatifs codés de points significatifs identifiés par l'emplacement d'une aide de radionavigation.
+
+2.1.2.1. L'indicatif codé doit correspondre à l'identification radio de l'aide de radionavigation ; il doit si possible être
+de nature à faciliter le rapprochement avec le nom du point significatif en langage clair.
+
+Le même indicatif codé ne doit pas être employé deux fois à moins de 1 100 km (600 milles marins) de l'emplacement de l'aide
+de radionavigation en cause.
+
+2.2. Indicatifs des points significatifs qui ne sont pas identifiés
+
+par l'emplacement d'une aide de radionavigation
+
+2.2.1. Lorsqu'il est nécessaire d'établir un point significatif à un endroit qui n'est pas identifié par l'emplacement d'une
+aide de radionavigation, ce point significatif doit être désigné par un groupe " nom-indicatif codé unique de cinq lettres
+qui soit prononçable. Ce " nom de code sert alors de nom aussi bien que d'indicatif codé au point significatif.
+
+2.2.2. Le nom de code doit être choisi de manière à éviter toute difficulté de prononciation pour les pilotes ou le personnel
+ATS.
+
+2.2.3. Le nom de code doit être facilement identifiable dans les communications en phonie et ne doit pas prêter à confusion
+avec les indicatifs utilisés pour d'autres points significatifs de la même région d'ensemble.
+
+2.2.4. Le nom de code assigné à un point significatif ne doit pas, si possible, être assigné à un autre point significatif.
+Si cette spécification ne peut être respectée, il convient de ne pas répéter un nom de code à moins de 11 000 km (6 000
+milles marins) de l'emplacement du point significatif pour lequel il a été utilisé pour
+
+la première fois.
+
+2.2.5. Dans les régions où il n'existe pas de système de routes fixes ou lorsque les routes suivies par des aéronefs varient
+en fonction de considérations opérationnelles, les points significatifs doivent être désignés par leurs coordonnées
+géographiques exprimées en degrés, minutes et secondes de latitude et de longitude ; toutefois, les points significatifs
+établis de manière permanente et servant de points d'entrée ou de points de sortie dans ces régions doivent être désignés
+conformément aux dispositions pertinentes des 2.1 et 2.2.
+
+2.3. Emploi des indicatifs dans les communications
+
+2.3.1. En principe, le nom choisi comme il est indiqué en 2.1 et 2.2 doit être utilisé pour désigner le point significatif
+dans les communications en phonie. Si le nom en langage clair d'un point significatif identifié par l'emplacement d'une aide
+de radionavigation, choisi conformément à la disposition de 2.1.1 n'est pas utilisé, ce nom doit être remplacé par
+l'indicatif codé. Dans les communications en phonie, cet indicatif codé doit être épelé conformément au code d'épellation de
+l'O.A.C.I.
+
+2.3.2. Dans les communications imprimées ou codées, seul l'indicatif codé ou le nom de code choisi doit être utilisé pour
+désigner un point significatif.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe II JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
 ###### Article Annexe II : Chapitre Ier
@@ -25097,56 +25531,7 @@ définis dans la présente annexe II aux articles D. 131-1 à D. 131-10 du code 
 
 2.2. Services de la circulation aérienne. 
 
-2.2.1. Objet des services de la circulation aérienne. 
-
-Les services de la circulation aérienne ont pour objet : 
-
-1. De prévenir les abordages entre les aéronefs ; 
-
-2. De prévenir les collisions, sur l'aire de manoeuvre entre les aéronefs et les obstacles, fixes ou mobiles ; 
-
-3. D'accélérer et ordonner la circulation aérienne ; 
-
-4. De fournir les avis et renseignements utiles à l'exécution sûre et efficace des vols ; 
-
-5. D'alerter les organismes appropriés lorsque les aéronefs ont besoin de l'aide des organismes de recherche et de sauvetage,
-et de prêter à ces organismes le concours nécessaire. 
-
-2.2.2. Subdivision des services de la circulation aérienne. 
-
-Les services de la circulation aérienne comprennent trois services : 
-
-- le service du contrôle de la circulation aérienne ; 
-
-- le service d'information de vol ; 
-
-- le service d'alerte. 
-
-2.2.2.1. Le service du contrôle de la circulation aérienne correspond aux fonctions définies en 2.2.1, alinéas 1, 2 et 3. Il
-se subdivise lui-même de la manière suivante : 
-
-1. Le contrôle régional, correspondant aux fonctions définies en 2.2.1, alinéas 1 et 3, est assuré au bénéfice des vols
-contrôlés sauf pour les parties de ces vols indiquées aux alinéas 2 et 3 ci-dessous ; 
-
-2. Le contrôle d'approche, correspondant aux fonctions définies en 2.2.1, alinéas 1 et 3, est assuré au bénéfice des vols
-contrôlés pour les parties de ces vols se rattachant à l'arrivée et au départ ; 
-
-3. Le contrôle d'aérodrome, correspondant aux fonctions définies en 2.2.1, alinéas 1, 2 et 3, est assuré au bénéfice de la
-circulation d'aérodrome sauf pour les parties de vol indiquées à l'alinéa 2 ci-dessus. 
-
-2.2.2.2. Le service d'information de vol correspond aux fonctions définies en 2.2.1, alinéa 4. 
-
-2.2.2.3. Le service d'alerte correspond aux fonctions définies en 2.2.1, alinéa 5. 
-
-2.2.3. Procédures employées par les organismes de la circulation aérienne. 
-
-2.2.3.1. Les procédures employées par les organismes de la circulation aérienne afin d'assurer les précédents services au
-bénéfice des aéronefs appartenant à la circulation aérienne générale sont fixées par arrêté du ministre chargé de l'aviation
-civile. 
-
-2.2.3.2. Des procédures complémentaires employées par les organismes de la circulation aérienne rendant simultanément des
-services à la circulation aérienne générale et à la circulation aérienne militaire peuvent être établies par arrêté conjoint
-du ministre chargé de l'aviation civile et du ministre chargé des armées. 
+(Abrogé)
 
 2.3. Espaces aériens et aérodromes où sont assurés : les services de la circulation aérienne. 
 
@@ -25172,6 +25557,9 @@ Une région d'information de vol peut être surmontée par une région supérieu
 
 Les portions de région d'information de vol où le service consultatif de la circulation aérienne est assuré sont appelées
 espaces aériens à service consultatif.
+
+Les secteurs d'information de vol sont des portions de région d'information de vol dans lesquelles le service d'information
+de vol et le service d'alerte sont rendus aux aéronefs qui y circulent.
 
 2.3.1.2. Espaces aériens contrôlés.
 
@@ -25212,7 +25600,9 @@ a) Espace aérien contrôlé de classe A.
 
 Espace aérien où sont admis les vols IFR et où ne sont pas admis les vols VFR.
 
-Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR.
+Dans cet espace, les organismes du contrôle de la circulation
+
+aérienne assurent des espacements entre les vols IFR.
 
 b) Espace aérien contrôlé de classe B.
 
@@ -25333,7 +25723,10 @@ environs d'un ou plusieurs aérodromes importants ;
 - régions supérieures de contrôle (UTA) pour des régions de contrôle, établies à l'intérieur d'une région supérieure
 d'information de vol ;
 
-- régions de contrôle océaniques pour des régions de contrôle situées principalement en haute mer.
+- régions inférieures de contrôle (LTA) pour des régions de contrôle établies à l'intérieur d'une région d'information de
+vol, quand il existe une région supérieure de contrôle ;
+
+- régions de contrôle océaniques (OCA) pour des régions de contrôle situées principalement en haute mer.
 
 2.3.3.2.7. Zones de contrôle.
 
@@ -25359,8 +25752,11 @@ différentes.
 rendus simultanément à la circulation aérienne générale et à la circulation aérienne militaire par un organisme de contrôle
 de la circulation aérienne militaire et où la cohabitation et la densité des deux types de circulation aérienne rendent
 nécessaires, afin d'assurer les services de la circulation aérienne, la mise en place de mesures complémentaires telles que
-prévues en 2.2.3.2 sont appelées " régions de contrôle spécialisées " ou " zones de contrôle spécialisées " (selon le cas S/
-CTA, S/CTR, S/TMA, etc.).
+prévues en 2.2.3.2 sont appelées " régions de contrôle spécialisées ou " zones de contrôle spécialisées (selon le cas S/CTA,
+S/CTR, S/TMA, etc.).
+
+Dans les espaces aériens contrôlés spécialisés, les services de la circulation aérienne peuvent être assurés par un organisme
+de la circulation aérienne générale en dehors des heures d'activités de l'organisme militaire.
 
 2.3.4. Création.
 
@@ -25373,7 +25769,9 @@ contrôlés, des zones réglementées et des zones dangereuses sont fixées par 
 
 Les mesures d'interdiction de survol sont prises après avis du délégué à l'espace aérien par arrêté du ministre chargé de
 l'aviation civile et, lorsque des raisons d'ordre militaire sont invoquées, par arrêté conjoint du ministre chargé de
-l'aviation civile et du ministre de la défense.
+l'aviation
+
+civile et du ministre de la défense.
 
 Toutefois, lorsqu'elles présentent un caractère urgent et qu'en outre la zone interdite ne dépasse pas une hauteur de 1 000
 mètres au-dessus du sol et ne concerne pas les zones d'approche immédiate des aérodromes, les mesures d'interdiction de
@@ -25398,7 +25796,15 @@ circulation d'aérodrome sont appelés aérodromes AFIS.
 2.3.6.1. Une région d'information de vol, une région de contrôle, une zone de contrôle sont identifiées au moyen du nom de
 l'organisme qui assure les services de la circulation aérienne, ou d'une particularité géographique.
 
-2.3.6.2. L'identification d'un aérodrome comporte le nom d'une agglomération avoisinante.
+2.3.6.2. Un aérodrome est désigné par un nom principal qui est celui de la ville proche la plus importante, ou d'une île,
+desservie par l'aérodrome.
+
+L'adjonction d'un nom, et exceptionnellement deux, complémentaires, peut être admise ; dans ce cas, un aérodrome peut être
+désigné sur les cartes aéronautiques par un nom abrégé, nom servant :
+
+- à former les indicatifs d'appel des organismes de la circulation aérienne de cet aérodrome ;
+
+- à désigner l'aérodrome pour les communications en auto-information dans la circulation d'aérodrome.
 
 2.4. Organismes assurant les services de la circulation aérienne.
 
@@ -25529,14 +25935,22 @@ de l'heure exacte à 30 secondes près par rapport à l'heure UTC.
 Les organismes de la circulation aérienne doivent conserver tous les documents et enregistrements relatifs à la fourniture
 des services de la circulation aérienne pendant une période d'au moins 30 jours. 
 
+" Les documents et enregistrements relatifs à un incident, un accident ou une infraction doivent être conservés au moins
+jusqu'à la clôture de l'enquête. " 
+
 Les documents et enregistrements relatifs à un incident ou un accident doivent être conservés au moins jusqu'à la clôture de
 l'enquête.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe II JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
 ###### Article Annexe II : Chapitre III
 
-CHAPITRE III : Service du contrôle de la circulation aérienne 
+**CHAPITRE III : Service du contrôle de la circulation aérienne**
 
 3.1. Bénéficiaires.
 
@@ -25640,7 +26054,9 @@ civile ;
 f) Entre tous les vols sur la piste d'un aérodrome contrôlé.
 
 3.3.2.2.1. Un organisme du contrôle de la circulation aérienne assure l'espacement sauf lorsqu'il a délivré une clairance VMC
-ou une clairance de séparation à vue, par l'un au moins des moyens suivants :
+ou une
+
+clairance de séparation à vue, par l'un au moins des moyens suivants :
 
 1. Espacement vertical, obtenu par l'assignation de niveaux déterminés d'après le tableau des niveaux de croisière qui figure
 à l'appendice C de l'annexe I aux articles D. 131-1 à D. 131-10 du code de l'aviation civile. Toutefois, la correspondance
@@ -25674,6 +26090,16 @@ portions de route contenues dans l'espace aérien relevant de la souveraineté f
 
 - par accord régional de navigation aérienne de l'O.A.C.I. pour les routes ou portions de route contenues dans l'espace
 aérien situé au-dessus des eaux internationales ou des régions de souveraineté indéterminée.
+
+3.3.2.3. Dérogations.
+
+Dans une portion définie d'espace aérien contrôlé, des dérogations à la fourniture du service de contrôle peuvent être
+accordées de façon permanente ou temporaire par l'autorité compétente de la circulation aérienne à certains vols d'aéronefs
+dont le caractère particulier rend impossible, pour l'organisme de contrôle, la fourniture à ceux-ci de l'ensemble des
+services prévus dans la classe de l'espace considéré.
+
+Lorsque de telles dérogations sont accordées, les services rendus correspondant à la classe d'espace considérée continuent à
+être rendus aux aéronefs qui ne sont pas bénéficiaires de ces dérogations.
 
 3.4. Responsabilité du contrôle.
 
@@ -25751,6 +26177,10 @@ mesure du possible, des mesures de régulation du débit mises en place et des r
 
 	  - Décret n°91-660 1991-07-11 annexe I
 	  - Code de l'aviation civile D131-1 à D131-10
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe II JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
 ###### Article Annexe II : Chapitre IV
@@ -26015,279 +26445,6 @@ les autres aéronefs qui se trouvent à proximité en précisant la nature du ca
 intervention illicite, il n'en sera pas fait mention dans les communications air-sol à moins que cela n'ait été fait
 auparavant dans les échanges de communication avec l'aéronef en cause et que l'on soit certain que cette mention n'aggravera
 pas la situation.
-
-
-
-###### Article Annexe II relative aux services de la circulation aérienne
-
-PRINCIPES D'IDENTIFICATION DES ROUTES ATS ET DES POINTS SIGNIFICATIFS 
-
-1. Routes ATS. 
-
-1.1. Routes ATS, à l'exception des itinéraires normalisés 
-
-de départ et d'arrivée 
-
-1.1.1. Indicatifs des routes ATS. 
-
-Le système d'indicatifs doit : 
-
-a) Permettre l'identification de toute route ATS d'une manière simple et non équivoque ; 
-
-b) Permettre d'établir une relation entre une route ATS et une structure déterminée de l'espace aérien ; 
-
-c) Permettre d'indiquer un mode de navigation déterminé, navigation de surface par exemple, qui doit être utilisé le long des
-routes ATS ainsi désignées ; 
-
-d) Permettre d'indiquer qu'une route est utilisée, principalement ou exclusivement, par certains types d'aéronefs ; 
-
-e) Eviter les redondances ; 
-
-f) Pouvoir être utilisé aussi bien par le système automatique au sol que par le système automatique de bord ; 
-
-g) Permettre la plus grande concision dans l'utilisation du système en exploitation ; 
-
-h) Assurer une possibilité de développement suffisante pour répondre aux besoins futurs sans qu'il soit nécessaire de
-procéder à des modifications fondamentales. 
-
-1.1.2. Composition de l'indicatif. 
-
-1.1.2.1. L'indicatif de route ATS doit être composé d'un indicatif de base complété, en cas de besoin, par : 
-
-a) Un préfixe, de la manière prescrite en 1.1.2.3., et 
-
-b) Une lettre supplémentaire, de la manière prescrite en 1.1.2.4. 
-
-Le nombre de caractères nécessaires pour composer l'indicatif doit, si possible, être limité à un maximum de cinq, et ne
-devrait, en aucun cas, être supérieur à six. 
-
-1.1.2.2. L'indicatif de base doit être composé d'une lettre de l'alphabet suivie d'un numéro compris entre 1 et 999. 
-
-La lettre doit être choisie parmi les suivantes : 
-
-a) A, B, G, R pour les routes qui font partie des réseaux OACI de routes ATS autres que les routes à navigation de surface ; 
-
-b) L, M, N, P pour les routes à navigation de surface qui font partie des réseaux régionaux OACI de routes ATS ; 
-
-c) H, J, V, W pour les routes qui ne font pas partie des réseaux régionaux OACI de routes ATS et qui ne sont pas des routes à
-navigation de surface ; 
-
-d) Q, T, Y, Z pour les routes à navigation de surface qui ne font pas partie des réseaux régionaux OACI de routes ATS. 
-
-1.1.2.3. Le cas échéant, une lettre supplémentaire doit être ajoutée comme préfixe à l'indicatif de base conformément aux
-indications ci-après : 
-
-a) K afin d'indiquer une route à basse altitude établie principalement à l'intention des hélicoptères ; 
-
-b) U afin d'indiquer que la route ou une partie de cette route est établie dans l'espace aérien supérieur ; 
-
-c) S afin d'indiquer une route établie exclusivement pour que les avions supersoniques l'empruntent pendant l'accélération,
-pendant la décélération et pendant le vol supersonique. 
-
-1.1.2.4. Une lettre supplémentaire peut être ajoutée après l'indicatif de base de la route ATS en question, pour indiquer le
-type de service assuré sur cette route, comme suit : 
-
-a) La lettre D pour indiquer que seul un service consultatif est assuré sur la route ou sur une partie de la route ; 
-
-b) La lettre F pour indiquer que seul un service d'information de vol est assuré sur la route ou sur une partie de la route. 
-
-1.1.3. Attribution des indicatifs de base. 
-
-1.1.3.1. Les indicatifs de base des routes ATS doivent être attribués selon les principes suivants. 
-
-1.1.3.1.1. Le même indicatif de base doit être attribué à une route long-courrier principale sur toute sa longueur,
-indépendamment des régions de contrôle terminales, des Etats et des régions OACI traversés. 
-
-1.1.3.1.2. Lorsque deux ou plusieurs routes long-courrier ont un tronçon commun, il doit être attribué à ce dernier chacun
-des indicatifs des routes intéressées, sauf lorsqu'il en résulterait des difficultés pour les services de la circulation
-aérienne, auquel cas un seul indicatif doit être utilisé. 
-
-1.1.3.1.3. Un indicatif de base attribué à une route ne doit pas être attribué à une autre route. 
-
-1.1.4. Emploi des indicatifs dans les communications. 
-
-1.1.4.1. Dans les communications imprimées, l'indicatif est toujours exprimé au moyen de deux caractères au moins et de six
-caractères au plus. 
-
-1.1.4.2. Dans les communications en phonie, la lettre de base d'un indicatif doit être prononcée conformément au code
-d'épellation OACI. 
-
-1.1.4.3. Lorsque les préfixes K, U ou S spécifiés en 1.1.2.3. ci-dessus sont utilisés, ils doivent, dans les communications
-verbales, être prononcés comme suit : 
-
-K : KOPTER ; 
-
-U : UPPER ; 
-
-S : SUPERSONIC. 
-
-Le mot " kopter " doit être prononcé comme le mot " hélicoptère " et les mots " upper " et " supersonic " comme en anglais. 
-
-1.1.4.4. Lorsque les lettres D ou F spécifiées en 1.1.2.4 ci-dessus sont utilisées, elles doivent, dans les communications,
-être prononcées conformément au code d'épellation O.A.C.I. 
-
-1.2. Itinéraires normalisés de départ et d'arrivée 
-
-1.2.1. Indicatifs des itinéraires normalisés de départ et d'arrivée. 
-
-1.2.1.1. Le système d'indicatifs doit : 
-
-a) Permettre l'identification de chaque itinéraire d'une manière simple et non équivoque ; 
-
-b) Permettre d'établir une nette distinction entre : 
-
-- les itinéraires de départ et les itinéraires d'arrivée ; 
-
-- les itinéraires de départ ou d'arrivée et les autres routes ATS ; 
-
-- les routes qui exigent une navigation par référence à des aides radio basées au sol ou à des aides autonomes de bord, et
-les routes qui exigent une navigation par référence à des repères visuels au sol ; 
-
-c) Etre compatible avec les besoins ATS et les besoins des aéronefs en matière de traitement et d'affichage des données ; 
-
-d) Permettre la plus grande concision au niveau de son application opérationnelle ; 
-
-e) Eviter les redondances ; 
-
-f) Assurer une possibilité de développement suffisante pour répondre à tout besoin futur sans obliger à procéder à des
-modifications fondamentales. 
-
-1.2.1.2. Chaque itinéraire doit être identifié par un indicatif en langage clair et un indicatif codé correspondant. 
-
-1.2.1.3. Dans les communications verbales, les indicatifs doivent pouvoir être facilement associés à un itinéraire normalisé
-de départ ou d'arrivée et ne doivent pas poser de difficultés de prononciation pour les pilotes et le personnel ATS. 
-
-1.2.2. Composition des indicatifs. 
-
-1.2.2.1. Indicatif en langage clair. 
-
-1.2.2.1.1. L'indicatif en langage clair d'un itinéraire normalisé de départ ou d'arrivée doit être composé dans l'ordre
-suivant : 
-
-a) Du mot " départ " ou " arrivée " ; 
-
-b) Des mots " à vue ", si l'itinéraire est destiné à être emprunté par des aéronefs utilisés conformément aux règles de vol à
-vue (VFR) ; 
-
-c) D'un indicateur de base ; 
-
-d) D'un indicateur de validité ; 
-
-e) D'un indicateur d'itinéraire si nécessaire. 
-
-En langue anglaise les éléments ci-dessus sont transmis dans l'ordre c d e a b et les mots " départ ", " arrivée " et " à vue
-" sont remplacés respectivement par " departure ", " arrival " et " visual ". 
-
-1.2.2.1.2. L'indicateur de base doit être le nom ou le nom codé du point significatif auquel se termine un itinéraire
-normalisé de départ ou auquel commence un itinéraire normalisé d'arrivée. 
-
-1.2.2.1.3. L'indicateur de validité doit être composé d'un chiffre compris entre 1 et 9. 
-
-1.2.2.1.4. L'indicateur d'itinéraire doit être composé d'une lettre de l'alphabet. Les lettres " I " et " O " ne doivent pas
-être utilisées. 
-
-1.2.2.2. Indicatif codé. 
-
-1.2.2.2.1. L'indicatif codé d'un itinéraire normalisé de départ ou d'arrivée, aux instruments ou à vue, doit être composé : 
-
-a) De l'indicatif codé ou du nom codé du point significatif décrit en 1.2.2.1.1 c ; 
-
-b) De l'indicatif de validité mentionné en 1.2.2.1.1 d ; 
-
-c) De l'indicateur d'itinéraire mentionné en 1.2.2.1.1 e si nécessaire. 
-
-1.2.3. Attribution des indicatifs. 
-
-1.2.3.1. Un indicatif distinct doit être attribué à chaque itinéraire. 
-
-1.2.3.2. Afin de pouvoir établir une distinction entre deux ou plusieurs itinéraires qui rejoignent le même point
-significatif (et auxquels, par conséquent, le même indicateur de base est attribué), un indicateur d'itinéraire distinct,
-selon les dispositions du 1.2.2.1.4, doit être attribué à chaque itinéraire. 
-
-1.2.4. Attribution des indicateurs de validité. 
-
-1.2.4.1. Un indicateur de validité doit être attribué à chaque itinéraire afin d'identifier l'itinéraire alors en vigueur. 
-
-1.2.4.2. Le premier indicateur de validité à attribuer doit être le chiffre " 1 ". 
-
-1.2.4.3. Toutes les fois qu'un itinéraire est modifié, un nouvel indicateur de validité, composé du chiffre plus élevé qui
-suit, doit être attribué. Le chiffre " 9" doit être suivi du chiffre " 1 ". 
-
-1.2.5. Emploi des indicatifs dans les communications. 
-
-1.2.5.1. Dans les communications verbales, il convient d'utiliser seulement l'indicatif en langage clair. 
-
-1.2.5.2. Dans les communications imprimées ou codées, il convient d'utiliser seulement l'indicatif codé. 
-
-2. Points significatifs.
-
-2.1. Indicatifs des points significatifs identifiés
-
-par l'emplacement d'une aide de radionavigation
-
-2.1.1 Noms en langage clair pour les points significatifs identifiés par l'emplacement d'une aide de radionavigation.
-
-2.1.1.1. Dans la mesure du possible, les points significatifs doivent être désignés par référence à un point géographique
-identifiable et de préférence important.
-
-2.1.1.2. Dans le choix d'un nom pour le point significatif, il y a lieu de veiller à ce que les conditions ci-après soient
-réunies :
-
-a) Le nom ne doit poser aucune difficulté de prononciation pour les pilotes ou le personnel ATS. Lorsque le nom d'un
-emplacement géographique pose des difficultés de prononciation, une forme abrégée ou contractée de ce nom, lui conservant le
-plus possible sa signification géographique, doit être choisie ;
-
-b) Le nom doit être aisément reconnaissable dans les communications en phonie et ne pas prêter à confusion avec d'autres
-points significatifs de la même région d'ensemble. En outre, le nom ne doit pas créer de confusion par rapport à d'autres
-communications échangées entre les services de la circulation aérienne et les pilotes ;
-
-c) Le nom doit si possible comprendre au moins six lettres formant deux syllabes et, de préférence, un maximum de trois ;
-
-d) Le nom choisi doit être le même pour le point significatif et pour l'aide de radionavigation dont l'emplacement identifie
-ce point.
-
-2.1.2. Composition des indicatifs codés de points significatifs identifiés par l'emplacement d'une aide de radionavigation.
-
-2.1.2.1. L'indicatif codé doit correspondre à l'identification radio de l'aide de radionavigation ; il doit si possible être
-de nature à faciliter le rapprochement avec le nom du point significatif en langage clair.
-
-Le même indicatif codé ne doit pas être employé deux fois à moins de 1 100 km (600 milles marins) de l'emplacement de l'aide
-de radionavigation en cause.
-
-2.2. Indicatifs des points significatifs qui ne sont pas identifiés
-
-par l'emplacement d'une aide de radionavigation
-
-2.2.1. Lorsqu'il est nécessaire d'établir un point significatif à un endroit qui n'est pas identifié par l'emplacement d'une
-aide de radionavigation, ce point significatif doit être désigné par un groupe " nom-indicatif codé " unique de cinq lettres
-qui soit prononçable. Ce " nom de code " sert alors de nom aussi bien que d'indicatif codé au point significatif.
-
-2.2.2. Le nom de code doit être choisi de manière à éviter toute difficulté de prononciation pour les pilotes ou le personnel
-ATS.
-
-2.2.3. Le nom de code doit être facilement identifiable dans les communications en phonie et ne doit pas prêter à confusion
-avec les indicatifs utilisés pour d'autres points significatifs de la même région d'ensemble.
-
-2.2.4. Le nom de code assigné à un point significatif ne doit pas, si possible, être assigné à un autre point significatif.
-Si cette spécification ne peut être respectée, il convient de ne pas répéter un nom de code à moins de 11 000 km (6 000
-milles marins) de l'emplacement du point significatif pour lequel il a été utilisé pour la première fois.
-
-2.2.5. Dans les régions où il n'existe pas de système de routes fixes ou lorsque les routes suivies par des aéronefs varient
-en fonction de considérations opérationnelles, les points significatifs doivent être désignés par leurs coordonnées
-géographiques exprimées en degrés et, au besoin, en minutes et dixièmes de minutes de latitude et de longitude ; toutefois,
-les points significatifs établis de manière permanente et servant de points d'entrée ou de points de sortie dans ces régions
-doivent être désignés conformément aux dispositions pertinentes de 2.1 et 2.2.
-
-2.3. Emploi des indicatifs dans les communications
-
-2.3.1. En principe, le nom choisi comme il est indiqué en 2.1 et 2.2 doit être utilisé pour désigner le point significatif
-dans les communications en phonie. Si le nom en langage clair d'un point significatif identifié par l'emplacement d'une aide
-de radionavigation, choisi conformément à la disposition de 2.1.1 n'est pas utilisé, ce nom doit être remplacé par
-l'indicatif codé. Dans les communications en phonie, cet indicatif codé doit être épelé conformément au code d'épellation de
-l'O.A.C.I.
-
-2.3.2. Dans les communications imprimées ou codées, seul l'indicatif codé ou le nom de code choisi doit être utilisé pour
-désigner un point significatif.
 
 
 

@@ -54,8 +54,10 @@ la manière indiquée par celle-ci.
 
 3.1.6. Remorquage.
 
-Un aéronef ou autre objet ne peut être remorqué par un aéronef qu'en conformité avec les dispositions prescrites par
-l'autorité compétente. Il en est de même en ce qui concerne un aéronef remorqué par un véhicule à la surface.
+Un aéronef ou autre objet ne peut être remorqué par un
+
+aéronef qu'en conformité avec les dispositions prescrites par l'autorité compétente. Il en est de même en ce qui concerne un
+aéronef remorqué par un véhicule à la surface.
 
 3.1.7. Parachutage.
 
@@ -84,7 +86,10 @@ portée à la connaissance des usagers par la voie de l'information aéronautiqu
 Un aéronef ne peut voler à l'intérieur d'une zone réglementée que s'il se conforme aux conditions spécifiées portées à la
 connaissance des usagers par la voie de l'information aéronautique.
 
-3.2. Action préliminaire au vol. 
+3.1.12. Zone dangereuse : la nature des activités qui ont lieu dans une zone de ce type ainsi que les heures d'activation
+sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+
+3.2. Action préliminaire au vol.
 
 3.2.1. Avant d'entreprendre un vol, le pilote commandant de bord doit prendre connaissance de tous les renseignements
 disponibles utiles à la bonne exécution du vol projeté. Il doit s'assurer du fonctionnement satisfaisant de son appareil et
@@ -107,6 +112,16 @@ d'abordage.
 
 3.3.1.2. Des aéronefs ne peuvent voler en formation qu'après entente entre les pilotes commandants de bord et conformément
 aux conditions fixées par arrêté du ministre chargé de l'aviation civile. 
+
+3.3.1.3.Des manoeuvres d'évitement basées sur les avis de résolution fournis par des équipements embarqués tels que l'ACAS
+peuvent être exécutées. Dans ce cas, la modification de la trajectoire de vol doit être limitée au minimum qu'exige la
+conformité aux avis de résolution. Le pilote qui déroge à une clairance pour donner suite à un avis de résolution doit
+revenir, dès le conflit résolu, à la trajectoire de vol prévue. 
+
+L'organisme de la circulation aérienne concerné doit, dès que possible, être informé par le pilote de l'exécution de telles
+manoeuvres. 
+
+6.Remplacer le paragraphe 3.4.1 par le paragraphe suivant : 
 
 3.3.2. Priorité de passage. 
 
@@ -307,17 +322,22 @@ sur la piste, celui-ci doit pénétrer et décoller sans délai.
 
 3.4. Expression de la position d'un aéronef dans le plan vertical. 
 
-3.4.1. Lorsqu'une altitude de transition a été établie et portée à la connaissance des usagers par la voie de l'information
-aéronautique, un aéronef doit exprimer sa position dans le plan vertical : 
+3.4.1.Dans le cas où une altitude de transition est établie, elle est applicable à tous les vols IFR et VFR. Sa valeur est
+portée à la connaissance des usagers par la voie de l'information aéronautique. 
 
-- en altitude lorsqu'il vole à et au-dessous de l'altitude de transition ; 
+3.4.2.Le niveau de transition est à ou au-dessus de l'altitude de transition le niveau de vol multiple de 10 le plus bas
+prévu dans le tableau des niveaux de croisière. 
+
+3.4.3.Lorsqu'une altitude de transition est établie, un aéronef doit exprimer sa position dans le plan vertical : 
+
+- en altitude lorsqu'il vole à et au-dessous de l'altitude de transition : 
 
 - en niveau de vol lorsqu'il vole à et au-dessus du niveau de transition. 
 
-3.4.2. Le passage des altitudes aux niveaux de vol et vice-versa a lieu à l'altitude de transition pendant la montée et au
+3.4.4. Le passage des altitudes aux niveaux de vol et vice-versa a lieu à l'altitude de transition pendant la montée et au
 niveau de transition pendant la descente. 
 
-3.4.3. Lorsqu'aucune altitude de transition n'a été portée à la connaissance des usagers par la voie de l'information
+3.4.5. Lorsqu'aucune altitude de transition n'a été portée à la connaissance des usagers par la voie de l'information
 aéronautique pour une région particulière, l'aéronef doit exprimer sa position dans le plan vertical : 
 
 - en altitude lorsqu'il vole à et au-dessous du plus haut des deux niveaux suivants : 900 mètres (3 000 pieds) au-dessus du
@@ -325,10 +345,10 @@ niveau moyen de la mer ou 300 mètres (1 000 pieds) au-dessus de la surface ;
 
 - en niveau de vol lorsqu'il vole au-dessus du plus haut des deux niveaux précédents. 
 
-3.4.4. L'autorité compétente des services de la circulation aérienne peut définir des procédures particulières au bénéfice
+3.4.6. L'autorité compétente des services de la circulation aérienne peut définir des procédures particulières au bénéfice
 des planeurs leur permettant d'exprimer leur position dans le plan vertical uniquement par l'altitude. 
 
-3.4.5. Emploi du QFE. 
+3.4.7. Emploi du QFE. 
 
 Sauf dispositions contraires portées à la connaissance des usagers par la voie de l'information aéronautique, la position
 d'un aéronef dans le plan vertical peut être exprimée par la hauteur lorsqu'il évolue dans un circuit d'aérodrome ou
@@ -338,7 +358,7 @@ instruments prévoient l'utilisation d'un QFE seuil de piste.
 
 3.5. Renseignements sur les vols - Plans de vol. 
 
-L'expression " plan de vol " est utilisée pour désigner aussi bien des renseignements complets sur tous les éléments qui
+L'expression " plan de vol est utilisée pour désigner aussi bien des renseignements complets sur tous les éléments qui
 constituent la description du plan de vol intéressant l'ensemble de la route prévue, ou des renseignements en nombre limité
 lorsqu'il s'agit d'obtenir une clairance concernant une brève partie d'un vol, par exemple la traversée d'un espace aérien
 contrôlé, le décollage ou l'atterrissage sur un aérodrome contrôlé. 
@@ -394,8 +414,9 @@ aux instruments.
 
 Un délai inférieur peut être prescrit par arrêté prévu en 3.5.1.1.3. 
 
-Si le FPL est communiqué pendant le vol, le délai est réduit à dix minutes. Un délai supérieur peut être nécessaire pour
-l'obtention d'une clairance si elle est exigée conformément à 3.6.2.1. 
+Si le FPL est communiqué pendant le vol, le délai est réduit à dix 
+
+minutes. Un délai supérieur peut être nécessaire pour l'obtention d'une clairance si elle est exigée conformément à 3.6.2.1. 
 
 Les FPL concernant des vols IFR doivent également respecter les règles de 3.5.1.3.3, le cas échéant. 
 
@@ -414,9 +435,16 @@ un FPL ne peut pas être communiqué pendant le vol.
 
 Les arrêtés prévus en 3.5.1.2.d) et e) peuvent préciser un délai spécifique pour la communication du FPL. 
 
-3.5.1.3.5. Vol pour lequel un plan de vol n'est pas obligatoire. 
+3.5.1.3.5.Vol pour lequel un plan de vol n'est pas obligatoire 
 
-Si un plan de vol n'est pas obligatoire pour un vol VFR, il peut communiquer un FPL. Dans ce cas, aucun délai n'est requis. 
+Si un plan de vol n'est pas obligatoire pour un vol VFR, le pilote peut communiquer un FPL. Dans ce cas aucun délai n'est
+requis. 
+
+3.5.1.3.6. Majoration des délais de dépôt. 
+
+Des délais supérieurs à ceux prévus au paragraphe 3.5.1.3.1 et 3.5.1.3.2 peuvent être exigés pour les vols faisant l'objet de
+mesures de régulation. Ces délais majorés, quand ils existent, sont portés à la connaissance des usagers par la voie de
+l'information aéronautique. 
 
 3.5.2. Teneur du plan de vol. 
 
@@ -457,7 +485,8 @@ Renseignements divers ;
 Note. - Pour les plans de vol transmis en cours de vol, le renseignement à fournir au sujet de cet élément est l'heure de
 passage au-dessus du premier point de la route à laquelle s'applique le plan de vol. 
 
-3.5.2.2. Si avant le départ, le pilote commandant de bord prévoit que, selon l'autonomie de l'aéronef et sous réserve d'une
+3.5.2.2. Si avant le départ, le pilote commandant de bord prévoit que, selon l'autonomie de l'aéronef et sous réserve d'une 
+
 modification de clairance en cours de vol, il pourrait être décidé de faire route vers un nouvel aérodrome de destination
 situé au-delà de l'aérodrome de destination initialement prévu, les organismes appropriés de la circulation aérienne en
 seront avisés par insertion dans le FPL de renseignements concernant la nouvelle route et la nouvelle destination. 
@@ -508,7 +537,9 @@ contrôle de la circulation aérienne doivent être signalées le plus tôt poss
 intéressé. 
 
 3.5.4.1.2. Les modifications importantes au plan de vol communiqué pour un vol VFR ne bénéficiant pas du service du contrôle
-de la circulation aérienne doivent être signalées le plus tôt possible à l'organisme de la circulation aérienne intéressé. 
+de la circulation aérienne doivent être signalées le plus tôt possible à 
+
+l'organisme de la circulation aérienne intéressé. 
 
 Le fait que les renseignements fournis avant le départ au sujet de l'autonomie et du nombre de personnes à bord sont devenus
 erronés au moment du départ constitue une modification importante au plan de vol et doit, à ce titre, être signalé. 
@@ -554,10 +585,12 @@ radiocommunications avec la tour de contrôle ou l'organisme AFIS de l'aérodrom
 équivaut à la fourniture d'un compte rendu d'arrivée. 
 
 3.5.5.1.3. S'il n'existe pas d'organisme de la circulation aérienne à l'aérodrome d'arrivée, le compte rendu d'arrivée doit
-être établi le plus tôt possible après l'atterrissage et communiqué par les moyens les plus rapides à un organisme de la
-circulation aérienne. Si le commandant de bord sait que les moyens de communications à l'aérodrome d'arrivée sont
-insuffisants pour permettre l'acheminement au sol du compte rendu d'arrivée, il doit si possible transmettre par radio, juste
-avant l'atterrissage un message, tenant lieu de compte rendu d'arrivée, à un organisme de la circulation aérienne. 
+être établi le plus tôt possible après l'atterrissage et communiqué par les moyens 
+
+les plus rapides à un organisme de la circulation aérienne. Si le commandant de bord sait que les moyens de communications à
+l'aérodrome d'arrivée sont insuffisants pour permettre l'acheminement au sol du compte rendu d'arrivée, il doit si possible
+transmettre par radio, juste avant l'atterrissage un message, tenant lieu de compte rendu d'arrivée, à un organisme de la
+circulation aérienne. 
 
 3.5.5.1.4. Le compte rendu d'arrivée comporte les renseignements suivants : 
 
@@ -584,87 +617,131 @@ vol.
 3.5.5.2.3. Un FPL concernant un vol VFR peut être clos pendant le vol lorsque ce FPL n'est pas ou plus obligatoire, par un
 compte rendu approprié à l'organisme de la circulation aérienne concerné. 
 
-3.5.6. Annulation du plan de vol. 
+3.5.6.Mise en vigueur ou annulation du plan de vol, notification de retard. 
 
-3.5.6.1. Un plan de vol peut être annulé tant que le vol ou la partie du vol pour lequel il a été communiqué n'est pas
+3.5.6.1.Un pilote ayant déposé un plan de vol au départ d'un aérodrome non pourvu d'un organisme de la circulation aérienne
+doit communiquer, dès que possible, son heure de départ réelle à l'organisme assurant les services de la circulation aérienne
+dans l'espace concerné, ou, à défaut, à tout autre organisme de la circulation aérienne. 
+
+3.5.6.2.Un plan de vol peut être annulé tant que le vol ou la partie du vol pour lequel il a été communiqué n'est pas
 commencé. 
 
-3.5.6.2. Lorsqu'un plan de vol est annulé, il n'est plus pris en compte par les organismes de la circulation aérienne. 
+3.5.6.3.Le commandant de bord qui renonce à entreprendre un vol ou une partie de vol pour lequel un plan de vol a été
+communiqué doit immédiatement faire connaître sa décision à un organisme de la circulation aérienne approprié. 
 
-3.5.6.3. Le commandant de bord qui renonce à entreprendre un vol ou une partie de vol pour lequel un plan de vol a été
-communiqué doit immédiatement faire connaître sa décision à l'organisme concerné. 
+3.5.6.4. Quand un plan de vol a été déposé, tout retard de plus de trente minutes, soixante minutes pour les vols non
+contrôlés, par rapport à l'heure prévue de départ du poste de stationnement doit être communiqué au plus tôt à un organisme
+de la circulation aérienne approprié. 
 
-3.5.6.4. Si une notification de retard n'as pas été faite dans les soixantes minutes qui suivent l'heure estimée de départ du
-poste de stationnement, le plan de vol sera considéré comme annulé par les organismes de la circulation aérienne. 
+Des délais inférieurs peuvent être exigés. Ces délais, quand ils existent, sont portés à la connaissance des usagers par la
+voie de l'information aéronautique. 
+
+3.5.6.5. Si une notification de retard n'a pas été faite dans les soixante minutes qui suivent l'heure estimée de départ du
+poste de stationnement, un nouveau plan de vol devra être déposé. 
 
 3.6. Clairance. 
 
-3.6.1. Généralités. 
+3.6.1. Généralités.
 
-3.6.1.1. Les clairances sont délivrées dans le seul but d'assurer le service du contrôle de la circulation aérienne. 
+3.6.1.1. Les clairances sont délivrées dans le seul but d'assurer le service du contrôle de la circulation aérienne.
 
-3.6.1.2. Les clairances ne dégagent en aucune façon la responsabilité du commandant de bord vis-à-vis : 
+3.6.1.2. Les clairances ne dégagent en aucune façon la responsabilité du commandant de bord vis-à-vis :
 
 - de l'exercice d'une vigilance constante en vue d'éviter les abordages avec d'autres aéronefs et les collisions avec les
-obstacles ou le sol ; 
+obstacles ou le sol ;
 
-- du respect des règlements et procédures en vigueur. 
+- du respect des règlements et procédures en vigueur.
 
 3.6.1.3. Si un pilote commandant de bord n'est pas ou n'est plus en mesure de respecter une clairance qui lui a été délivrée,
-il doit en informer au plus tôt l'organisme de contrôle concerné. 
+il doit en informer au plus tôt l'organisme de contrôle concerné.
 
-3.6.2. Obtention d'une clairance. 
+Note. - Les ordres fournis par les systèmes embarqués d'évitement des abordages entre aéronefs ou des collisions avec le sol,
+quand ils sont suivis par le pilote, entrent dans ce cadre.
+
+13. Remplacer le dernier alinéa du paragraphe 3.6.4.2 par l'alinéa suivant :
+
+3.6.2. Obtention d'une clairance.
 
 3.6.2.1. Une clairance doit être obtenue avant d'effectuer un vol contrôlé ou la partie contrôlée d'un vol. Dans toute la
 mesure du possible, cette clairance doit être une clairance générale valable pour tout le vol ou la partie du vol où
-l'aéronef doit bénéficier du service de contrôle de la circulation aérienne. 
+l'aéronef doit bénéficier du service de contrôle de la circulation aérienne.
 
-3.6.2.2. Avant le départ, la communication d'un plan de vol équivaut à une demande de clairance. 
+3.6.2.2. Avant le départ, la communication d'un plan de vol équivaut à une demande de clairance.
 
 3.6.2.3. En vol, lorsque aucune clairance préalable n'a été obtenue avant le départ, le pilote commandant de bord doit, sauf
 dispositions contraires portées à la connaissance des usagers par la voie de l'information aéronautique, demander une
-clairance à l'organisme concerné, au plus tard : 
+clairance à l'organisme concerné, au plus tard :
 
-- soit lors du passage d'un point ou d'une limite spécifiée ; 
+- soit lors du passage d'un point ou d'une limite spécifiée ;
 
 - soit dès que possible avant l'heure prévue de franchissement de la limite de l'espace aérien où lui sera rendu le service
-du contrôle. 
+du contrôle.
 
-3.6.3. Limite de clairance. 
+3.6.3. Limite de clairance.
 
 3.6.3.1. Lorsqu'un aéronef arrive à un point significatif après avoir été explicitement informé que celui-ci constitue sa
-limite de clairance et sans avoir reçu de clairance complémentaire, il doit se mettre en attente : 
+limite de clairance et sans avoir reçu de clairance complémentaire, il doit se mettre en attente :
 
 - en respectant le circuit d'attente particulier si un tel circuit a été porté à la connaissance des usagers par la voie de
-l'information aéronautique ; 
+l'information aéronautique ;
 
-- sinon, il doit effectuer en ce point une attente orientée suivant sa route d'arrivée. 
+- sinon, il doit effectuer en ce point une attente orientée suivant sa route d'arrivée.
 
 3.6.3.2. Dans le cas où un aéronef arrive à un point significatif sans avoir été explicitement informé que celui-ci constitue
-sa limite de clairance et sans avoir reçu de clairance complémentaire : 
+sa limite de clairance et sans avoir reçu de clairance complémentaire :
 
 - si ce point significatif est le repère d'attente associé à la procédure d'approche aux instruments utilisée sur l'aérodrome
-de destination, il doit se mettre en attente en respectant le circuit publié ; 
+de destination, il doit se mettre en attente en respectant le circuit publié ;
 
 - dans le cas contraire, il poursuit son vol conformément au plan de vol en vigueur en informant dès que possible l'organisme
-de contrôle intéressé. 
+de contrôle intéressé.
 
-3.6.4. Clairance de séparation de vue. 
+3.6.4. Clairance de séparation à vue.
 
-3.6.4.1. Un aéronef en vol contrôlé peut recevoir une clairance complémentaire dénommée " clairance de séparation à vue ". 
+3.6.4.1. Un aéronef en vol contrôlé peut recevoir une clairance complémentaire dénommée "clairance de séparation à vue".
 
 Une telle clairance lui permet de s'affranchir des espacements réglementaires vis à vis d'un seul autre aéronef contrôlé et
-d'assurer visuellement sa propre séparation par rapport à celui-ci. 
+d'assurer visuellement sa propre séparation par rapport à celui-ci.
 
 3.6.4.2. Une clairance de séparation à vue ne peut être demandée ou acceptée par le pilote de l'aéronef devant maintenir la
-séparation à vue que si les conditions suivantes sont remplies : 
+séparation à vue que si les conditions suivantes sont remplies :
 
-- il voit l'autre l'aéronef ; et 
+- il voit l'autre l'aéronef ; et
 
 - il peut le garder en vue durant toute la partie du vol où les espacements ne sont plus assurés par l'organisme du contrôle
-de la circulation aérienne. 
+de la circulation aérienne, ou tant que le croisement ou le dépassement ne sont pas effectifs.
 
-3.7. Communications.
+3.6.4.3. Quand il bénéficie d'une clairance de séparation à vue, le pilote doit manoeuvrer de façon à éviter tout incident dû
+à la turbulence du sillage :
+
+a) En ne créant pas de danger du fait de sa propre turbulence de sillage ;
+
+b) En tenant compte de la turbulence de sillage de l'autre aéronef.
+
+3.6.5. Clairance d'atterrissage derrière.
+
+3.6.5.1. Un aéronef en vol contrôlé peut recevoir une clairance anticipée d'atterrissage dénommée clairance d'atterrissage
+derrière quand une telle procédure est établie pour la piste utilisée.
+
+Cette clairance lui permet de poursuivre son approche finale jusqu'à l'atterrissage en assurant visuellement sa propre
+séparation par rapport à l'aéronef à l'atterrissage qui le précède.
+
+3.6.5.2. Une clairance d'atterrissage derrière ne peut être acceptée par le pilote devant maintenir la séparation à vue que
+si les conditions suivantes sont remplies :
+
+- il voit l'autre aéronef et le signale ;
+
+- il peut le garder en vue durant toute la partie du vol où les espacements ne sont plus assurés par l'organisme de contrôle
+de la circulation aérienne.
+
+3.6.5.3. Quand il bénéficie d'une telle clairance, le pilote ne poursuit son atterrissage que si, au moment où il passe le
+seuil de piste, l'aéronef qui le précède a effectivement dégagé la piste, à moins qu'une clairance additionnelle lui ait été
+délivrée dans le cadre de l'application des procédures de réduction d'espacements sur la piste.
+
+3.6.5.4. Quand il bénéficie d'une clairance d'atterrissage derrière, le pilote doit manoeuvrer de façon à éviter tout
+incident dû à la turbulence de sillage de l'aéronef à l'atterrissage qui le précède.
+
+3.7. Communications. 
 
 3.7.1. Les procédures de radiotéléphonie, et notamment les expressions conventionnelles et la phraséologie devant être
 respectées dans les communications radiotéléphoniques entre aéronefs et entre un aéronef et un organisme au sol sont définies
@@ -694,7 +771,12 @@ transmises par signaux visuels.
 pilote commandant de bord doit, dès que possible, après l'atterrissage, avertir les organismes de la circulation aérienne
 dans les cas où un échange de messages aurait dû avoir lieu ou se poursuivre si l'interruption ne s'était pas produite. 
 
-3.8. Transpondeur. 
+3.7.5.3. Dans le cas où, au regard des procédures à appliquer en cas d'interruption des communications radio, il est prévu
+qu'un aéronef maintienne les conditions météorologiques de vol à vue, les valeurs de visibilité, de distance par rapport aux
+nuages et de limitations de vitesse à respecter dans un espace aérien contrôlé de classe A, B ou C sont les mêmes que celles
+requises dans un espace aérien contrôlé de classe D conformément au tableau de l'appendice D. 
+
+3.8. Transpondeur.
 
 3.8.1. Utilisation du transpondeur. 
 
@@ -708,6 +790,8 @@ d'urgence, soit à la panne de radiocommunications, soit à l'intervention illic
 
 3.8.1.2. Lorsque l'équipement transpondeur n'est pas prescrit, des consignes peuvent être établies pour les aéronefs dotés de
 cet équipement. Ces consignes sont portées à la connaissance des usagers par la voie de l'information aéronautique. 
+
+3.8.1.3. Les obligations d'emport de transpondeur sont fixées par arrêté du ministre chargé de l'aviation civile. 
 
 3.8.2. Panne du transpondeur. 
 
@@ -773,15 +857,17 @@ doivent être signalées aussitôt que possible à la station aéronautique appr
 utiles à la sécurité des autres aéronefs. 
 
 3.9.2.3. Les incidents constatés au cours d'un vol et de nature à entraîner des dangers ou des difficultés pour la
-circulation aérienne doivent être signalés dès que possible aux organismes de la circulation aérienne. 
+circulation 
+
+aérienne doivent être signalés dès que possible aux organismes de la circulation aérienne. 
 
 3.9.3. Compte rendu d'auto-information. 
 
 3.9.3.1. Un compte rendu d'auto-information est un compte rendu de position émis sur la fréquence appropriée par un aéronef
 dans le but d'informer les autres aéronefs se trouvant à proximité de sa position et de ses intentions. 
 
-3.9.3.2. Des comptes rendus d'auto-information doivent être transmis par les aéronefs dotés d'équipement de
-radiocommunication évoluant dans la circulation d'aérodrome des aérodromes non contrôlés. 
+3.9.3.2. Des comptes rendus d'auto-information doivent être transmis par les aéronefs dotés d'équipements de
+radiocommunication évoluant dans la circulation d'aérodrome en l'absence d'un organisme de la circulation aérienne. 
 
 3.10 Heure. 
 
@@ -790,7 +876,7 @@ circulation aérienne est le temps universel coordonné (UTC).
 
 3.10.2. L'heure doit être vérifiée avant le début d'un vol et toutes les fois que cela est nécessaire au cours du vol. 
 
-3.11 Signaux.
+3.11 Signaux. 
 
 3.11.1. Lorsqu'il aperçoit ou reçoit l'un quelconque des signaux décrits à l'appendice A, le pilote doit prendre toutes les
 dispositions nécessaires pour se conformer aux instructions ou tenir compte des informations correspondant à ce signal. 
@@ -875,3 +961,8 @@ c) Lorsqu'un agent d'un organisme de la circulation aérienne constate un incide
 commandant de bord, et qu'il estime nécessaire d'obtenir des informations ou des précisions au sujet d'une situation ou des
 circonstances particulières rencontrées au cours du vol.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe JORF 3 novembre 1994 en vigueur le 3 décembre 1994

@@ -1,6 +1,6 @@
 # Article Annexe II : Chapitre III
 
-CHAPITRE III : Service du contrôle de la circulation aérienne 
+**CHAPITRE III : Service du contrôle de la circulation aérienne**
 
 3.1. Bénéficiaires.
 
@@ -104,7 +104,9 @@ civile ;
 f) Entre tous les vols sur la piste d'un aérodrome contrôlé.
 
 3.3.2.2.1. Un organisme du contrôle de la circulation aérienne assure l'espacement sauf lorsqu'il a délivré une clairance VMC
-ou une clairance de séparation à vue, par l'un au moins des moyens suivants :
+ou une
+
+clairance de séparation à vue, par l'un au moins des moyens suivants :
 
 1. Espacement vertical, obtenu par l'assignation de niveaux déterminés d'après le tableau des niveaux de croisière qui figure
 à l'appendice C de l'annexe I aux articles D. 131-1 à D. 131-10 du code de l'aviation civile. Toutefois, la correspondance
@@ -138,6 +140,16 @@ portions de route contenues dans l'espace aérien relevant de la souveraineté f
 
 - par accord régional de navigation aérienne de l'O.A.C.I. pour les routes ou portions de route contenues dans l'espace
 aérien situé au-dessus des eaux internationales ou des régions de souveraineté indéterminée.
+
+3.3.2.3. Dérogations.
+
+Dans une portion définie d'espace aérien contrôlé, des dérogations à la fourniture du service de contrôle peuvent être
+accordées de façon permanente ou temporaire par l'autorité compétente de la circulation aérienne à certains vols d'aéronefs
+dont le caractère particulier rend impossible, pour l'organisme de contrôle, la fourniture à ceux-ci de l'ensemble des
+services prévus dans la classe de l'espace considéré.
+
+Lorsque de telles dérogations sont accordées, les services rendus correspondant à la classe d'espace considérée continuent à
+être rendus aux aéronefs qui ne sont pas bénéficiaires de ces dérogations.
 
 3.4. Responsabilité du contrôle.
 
@@ -215,3 +227,7 @@ mesure du possible, des mesures de régulation du débit mises en place et des r
 
 	  - Décret n°91-660 1991-07-11 annexe I
 	  - Code de l'aviation civile D131-1 à D131-10
+
+	**Modifié par**:
+
+	  - Décret n°94-947 1994-10-25 annexe II JORF 3 novembre 1994 en vigueur le 3 décembre 1994
