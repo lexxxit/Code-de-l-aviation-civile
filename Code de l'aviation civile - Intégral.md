@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-03-16
 
 # Partie législative
 
@@ -2285,7 +2285,7 @@ sur plusieurs départements.
 
 ###### Article L213-3
 
-Les aérodromes assurent, suivant des normes techniques définies par l'autorité administrative, le sauvetage et la lutte
+I - Les aérodromes assurent, suivant des normes techniques définies par l'autorité administrative, le sauvetage et la lutte
 contre les incendies d'aéronefs, ainsi que la prévention du péril aviaire. Ils participent à l'organisation des visites de
 sûreté dans les conditions prévues au b de l'article L. 282-8.
 
@@ -2293,15 +2293,17 @@ Sous l'autorité des titulaires du pouvoir de police mentionnés à l'article L.
 l'exécution des services en cause. Il peut faire assurer celle-ci, en vertu d'une convention, par le service départemental
 d'incendie et de secours, par l'autorité militaire ou par un organisme agréé dans les conditions fixées par décret.
 
+II. - Les dispositions du I sont applicables en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et
+à Mayotte.
+
+Pour l'application du I dans les territoires et collectivités mentionnés à l'alinéa précédent, les mots : service
+départemental d'incendie et de secours sont remplacés par les mots : service local d'incendie et de secours.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°98-1171 du 18 décembre 1998 - art. 1 () JORF 23 décembre 1998
 
 	**Cité par**:
 
@@ -2319,6 +2321,10 @@ d'incendie et de secours, par l'autorité militaire ou par un organisme agréé 
 	  - Code de l'aviation civile - art. D213-5 (V)
 	  - Code de l'aviation civile - art. L211-3 (VT)
 	  - Code de l'aviation civile - art. R213-3 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2002-356 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
 
 	**Liens**:
 
@@ -3837,7 +3843,7 @@ convention franco-suisse du 4 juillet 1949.
 
 ###### Article L282-8
 
-En vue d'assurer préventivement la sûreté des vols, tant en régime national qu'international, les officiers de police
+I - En vue d'assurer préventivement la sûreté des vols, tant en régime national qu'international, les officiers de police
 judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents de police
 judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale peuvent procéder à la
 visite des personnes, des bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans
@@ -3863,6 +3869,16 @@ des colis postaux, des aéronefs et des véhicules en régime international. Ils
 des agents désignés dans les conditions fixées aux deux alinéas précédents.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+II. - Les dispositions du I sont applicables en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et
+à Mayotte.
+
+Pour l'application du I dans les territoires et collectivités mentionnés à l'alinéa précédent :
+
+- les mots : ou ressortissants d'un Etat membre de la Communauté européenne sont supprimés ;
+
+- les mots : dans le département sont remplacés, respectivement, par les mots : en Polynésie française, dans les îles Wallis
+et Futuna, en Nouvelle-Calédonie et à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -3936,7 +3952,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 25 () JORF 16 novembre 2001
+	  - Ordonnance n°2002-356 du 14 mars 2002 - art. 2 (V) JORF 16 mars 2002
 
 	**Cite**:
 
