@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1982-05-07
+Version Consolidée au 1982-05-08
 
 # Partie législative
 
@@ -3757,6 +3757,46 @@ habilité à cet effet.
 ### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
 
 #### CHAPITRE Ier : INSTITUTION.
+
+###### Article L341-1
+
+La société dite Compagnie nationale Air France est régie par le présent code et, dans tout ce qu'elles n'ont pas de contraire
+à celui-ci, par les lois sur les sociétés anonymes.
+
+Elle a pour objet d'assurer l'exploitation de transports aériens dans les conditions fixées par le ministre chargé de
+l'aviation civile après accord, s'il y a lieu, des autres ministres intéressés. Aucune subvention ne peut lui être allouée
+pour les lignes exploitées en concurrence avec d'autres sociétés françaises de transport aérien.
+
+Elle peut créer ou gérer des entreprises présentant un caractère annexe par rapport à son activité principale ou prendre des
+participations dans des entreprises de ce genre, après autorisation. Toutefois elle ne peut créer ou gérer des entreprises de
+fabrication de matériel aéronautique, ni prendre de participation dans de telles entreprises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 137
+	  - Loi n°48-976 1948-06-16 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°82-381 1982-05-06 art. 1 JORF 8 mai 1982
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001
+	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 1 ()
+	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 2 ()
+	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 3 ()
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R341-1 (Ab)
+
 
 ###### Article L341-2
 
@@ -9564,6 +9604,34 @@ Les mesures prévues aux alinéas qui précèdent sont prises dans les condition
 
 ### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
 
+#### CHAPITRE Ier : INSTITUTION.
+
+###### Article R341-1
+
+L'autorisation prévue au troisième alinéa de l'article L. 341-1 est donnée par arrêté conjoint du ministre chargé de
+l'économie et du ministre chargé de l'aviation civile.
+
+Une autorisation est requise dans les mêmes formes en cas de cession de participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°82-381 1982-05-06 art. 2 JORF 8 mai 1982
+
+	**Cité par**:
+
+	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L341-1 (M)
+
+
 #### CHAPITRE II : FONCTIONNEMENT.
 
 ###### Article R342-2
@@ -9834,6 +9902,44 @@ préalable du ministre chargé de l'aviation civile et du ministre de l'économi
 	**Cité par**:
 
 	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
+
+
+###### Article R342-13
+
+Le conseil d'administration soumet à l'approbation du ministre chargé de l'aviation civile et du ministre chargé de
+l'économie et des finances :
+
+Les programmes généraux d'engagement de dépenses échelonnées sur plusieurs années ;
+
+L'état indicatif annuel des prévisions de recettes et de dépenses de toute nature, ainsi que les états complémentaires en
+cours d'année ;
+
+Le bilan, le compte profits et pertes ; (1)
+
+Les tarifs ;
+
+Le statut du personnel.
+
+Le bilan et le compte profits et pertes sont publiés au Journal officiel avant le 31 juillet de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 143
+	  - Loi n°48-976 1948-06-16 art. 14
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°82-381 1982-05-06 art. 3 JORF 8 mai 1982
+
+	**Cité par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
 
 
 ###### Article R342-14
