@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1995-07-01
+Version Consolidée au 1995-09-19
 
 # Partie législative
 
@@ -6386,9 +6386,9 @@ modalités de délivrance de l'autorisation.
 
 ###### Article R131-4
 
-Les mesures d'interdiction de survol prévues au premier alinéa de l'article L. 131-3 sont prises après avis du délégué à
-l'espace aérien, par arrêté du ministre chargé de l'aviation civile et, lorsque des raisons d'ordre militaire sont invoquées,
-par arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la défense.
+Les mesures d'interdiction de survol prévues au premier alinéa de l'article L. 131-3 sont prises par arrêté du ministre
+chargé de l'aviation civile et, lorsque des raisons d'ordre militaire sont invoquées, par arrêté conjoint du ministre chargé
+de l'aviation civile et du ministre chargé de la défense.
 
 Toutefois, lorsqu'elles présentent un caractère urgent et qu'en outre la zone interdite ne dépasse pas une hauteur de 1 000
 mètres au-dessus du sol, et ne concerne pas les zones d'approche immédiate des aérodromes, les mesures d'interdiction de
@@ -6410,6 +6410,12 @@ territoriales au large de ces territoires, ces mesures sont prises par le délé
 précité du 25 mai 1979, après consultation du chef du service d'Etat de l'aviation civile et du commandant de zone maritime
 ou de leurs représentants.
 
+**Nota:**
+
+: Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
+territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
+par la référence à la collectivité départementale.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -6421,9 +6427,13 @@ ou de leurs représentants.
 	  - Décret n°79-413 1979-05-25
 	  - Code de l'aviation civile - art. L131-3 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-104 1980-01-22 art. 1 JORF 1er février 1980
+	  - Décret n°95-1023 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1023 du 18 septembre 1995 - art. 2 (V)
 
 
 ###### Article R131-5
@@ -17112,12 +17122,10 @@ propre à ce type de circulation.
 	  - Code de l'aviation civile - art. D131-9 (V)
 
 
-###### Article D131-5
+###### Article D131-4-1
 
-Les règles applicables à chacun des types de circulation aérienne doivent être compatibles avec celles qui régissent les
-autres types de circulation. Le délégué à l'espace aérien, agissant en vertu de la délégation qui lui est conférée par le
-décret n° 71-1007 du 17 décembre 1971, fixe les règles de nature à assurer cette compatibilité dans les conditions prévues
-par la réglementation relative à l'espace aérien.
+Le ministre de la défense et le ministre chargé de l'aviation civile organisent conjointement l'espace aérien national et les
+espaces aériens placés sous juridiction française et en réglementent l'utilisation.
 
 **Liens relatifs à cet article**
 
@@ -17125,28 +17133,104 @@ par la réglementation relative à l'espace aérien.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Cite**:
+	**Créé par**:
 
-	  - Décret n°71-1007 1971-12-17
+	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
 
 	**Cité par**:
 
-	  - Arrêté du 3 mai 2013 - art. 13 (V)
-	  - Code de l'aviation civile - art. D131-6 (V)
-	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Décret n°97-905 du 1 octobre 1997 - art. 21 (V)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
+
+
+###### Article D131-5
+
+Les règles applicables à chacun des types de circulation aérienne doivent être compatibles avec celles qui régissent les
+autres types de circulation. Le ministre de la défense et le ministre chargé de l'aviation civile fixent conjointement les
+règles de nature à assurer cette compatibilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°95-421 du 20 avril 1995 - art. 2 (V)
+	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+
+	**Cité par**:
+
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Arrêté du 3 mai 2013 - art. 13 (V)
+	  - Code de l'aviation civile - art. D131-6 (V)
+
+
+###### Article D131-5-1
+
+Il est institué un directoire de l'espace aérien. Le directoire de l'espace aérien veille à la coordination des actions de
+l'Etat dans le domaine de l'organisation et de l'utilisation de l'espace aérien. Il est composé du directeur de la navigation
+aérienne et du directeur de la circulation aérienne militaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
+
+
+###### Article D131-5-2
+
+Les comités régionaux de gestion de l'espace aérien, dont le ressort géographique, la composition et les attributions sont
+fixés par arrêté du ministre chargé de l'aviation civile et du ministre de la défense, rendent compte au directoire de
+l'espace aérien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 
 ###### Article D131-6
 
-Dans le cadre fixé par l'article précédent, le ministre chargé de l'aviation civile et le ministre chargé des armées
+Dans le cadre fixé par l'article D. 131-5, le ministre chargé de l'aviation civile et le ministre chargé des armées
 établissent la réglementation propre à la circulation aérienne qui relève de leurs compétences respectives.
 
 **Liens relatifs à cet article**
@@ -17155,13 +17239,18 @@ Dans le cadre fixé par l'article précédent, le ministre chargé de l'aviation
 
 	  - Décret n°67-335 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°95-421 du 20 avril 1995 - art. 2 (V)
+	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D131-5 (Ab)
 
 
 ##### Paragraphe 2 : Règles de l'air
@@ -17280,12 +17369,12 @@ section.
 
 ###### Article D131-10
 
-Le ministre chargé de l'aviation civile assure en accord avec le ministre charge des armées et, dans la limite de ses
-attributions, après avis du délégué à l'espace aérien, la mise à jour et la publication des annexes I et II au présent
-chapitre ainsi que la publication de tous rectificatifs, additifs et textes d'application nécessaires.
+Le ministre chargé de l'aviation civile assure en accord avec le ministre chargé des armées et aprés avis du directeur de
+l'espace aérien, la mise à jour et la publication des annexes I et II au présent chapitre ainsi que la publication de tous
+les rectificatifs, additifs et textes d'application nécessaire.
 
 Le ministre chargé des armées assure en accord avec le ministre chargé de l'aviation civile et, dans la limite de ses
-attributions, après avis du délégué à l'espace aérien, la mise à jour et la publication de l'annexe III au présent chapitre
+attributions, aprés avis du délégué à l'espace aérien, la mise à jour et la publication de l'annexe III au présent chapitre
 ainsi que la publication de tous rectificatifs, additifs et textes d'application nécessaires.
 
 **Liens relatifs à cet article**
@@ -17314,10 +17403,11 @@ ainsi que la publication de tous rectificatifs, additifs et textes d'application
 	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 7 (Ab)
 	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 8 (Ab)
 	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 9 (Ab)
+	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
 
 	**Modifié par**:
 
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
 
 
 ##### Paragraphe 3 : Météorologie.
