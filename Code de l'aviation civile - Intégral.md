@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-03-20
+Version Consolidée au 1973-04-05
 
 # Partie législative
 
@@ -10831,6 +10831,136 @@ frais de voyage.
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+
+##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature
+
+###### Article D133-10
+
+Sont prohibés les enregistrements par appareils photographiques, cinématographiques ou par tout autre capteur, des zones qui
+ont fait l'objet d'une interdiction par arrêté conjoint du ministre chargé de la défense nationale et des autres ministres
+intéressés. La liste des zones interdites à la photographie aérienne est déposée et doit être consultée dans les préfectures
+ou, dans les territoires d'outre-mer, dans les bureaux des délégués du Gouvernement. La diffusion de cette liste à l'ensemble
+des utilisateurs aériens peut être assurée par les organismes régionaux et locaux de l'aviation civile. La vérification de la
+possibilité d'effectuer librement des prises de vue photographiques ou cinématographiques incombe au pilote de l'appareil et,
+éventuellement, à l'employeur de celui-ci.
+
+Sont assujetties à la possession d'une autorisation les personnes utilisant tout appareil d'enregistrement d'images ou de
+données en dehors du spectre visible tel que thermographe, radar, etc.
+
+Une autorisation est également exigée pour les personnes ne possédant pas la nationalité française désireuses d'effectuer à
+titre privé où à titre professionnel des enregistrements d'images ou de données de toute nature au-dessus du territoire de la
+métropole, des départements d'outre-mer et des territoires d'outre-mer.
+
+Les autorisations prévues aux alinéas 3 et 4 du présent article sont délivrées en métropole par le ministre de l'intérieur
+et, dans les départements et territoires d'outre-mer, par le ministre chargé des départements et territoires d'outre-mer sur
+avis du ministre chargé de la défense nationale et du ministre des affaires étrangères si le demandeur réside à l'étranger.
+
+Sous réserve du contrôle de police visé à l'article D. 133-13, la prise de vues photographiques et cinématographiques est
+tolérée, à titre occasionnel, à bord des aéronefs appartenant à des compagnies assurant le service sur les lignes
+commerciales régulièrement autorisées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-1262 du 29 mai 1946 - art. 1 (V)
+	  - Arrêté du 27 juillet 2005 - art. 1 (V)
+	  - Arrêté du 27 juillet 2005 - art. 2 (V)
+	  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (VT)
+	  - Arrêté du 17 décembre 2015 (V)
+	  - Arrêté du 3 juin 2016 - art. 6 (V)
+	  - Code de l'aviation civile - art. D133-11 (V)
+	  - Code de l'aviation civile - art. D133-13 (V)
+	  - Code de l'aviation civile - art. R151-1 (V)
+	  - Code de la sécurité intérieure - art. R114-5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°90-480 du 12 juin 1990
+	  - TXT_SOURCE: Décret n°90-480 du 12 juin 1990 - art. 1 ()
+
+	**Anciens textes**:
+
+	  - Décret n°1937-10-30 art. 9
+
+
+###### Article D133-11
+
+La durée de validité des autorisations visées à l'article D. 133-10 est au maximum de trois ans. Néanmoins, à un moment
+quelconque de sa validité, l'autorisation peut être suspendue ou retirée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1937-10-30 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D133-10 (M)
+
+
+###### Article D133-12
+
+Le traitement des supports d'enregistrement d'images effectués par les titulaires des autorisations doit être effectué en
+France métropolitaine ou dans un département d'outre-mer ou dans un territoire d'outre-mer, sauf cas de force majeure soumis
+à la décision de l'autorité qui a délivré l'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
+
+	**Abrogé par**:
+
+	  - Décret n°2005-865 du 27 juillet 2005 - art. 1 () JORF 29 juillet 2005
+
+
+###### Article D133-13
+
+A tout moment les appareils, pellicules, films et supports divers et leurs reproductions peuvent être examinés, à titre de
+contrôle, par les services de police, qu'il s'agisse des titulaires d'autorisations ou des opérateurs occasionnels.
+
+Les objets contrôlés sont restitués dans un délai qui ne saurait excéder quinze jours. En cas de détérioration des supports,
+les propriétaires ne sont pas fondés à réclamer une indemnité.
+
+Les supports utilisés en violation des dispositions de l'article D. 133-10 ne sont pas restitués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-10 (V)
 
 
 ## LIVRE II : AERODROMES.
