@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1991-06-16
+Version Consolidée au 1991-09-26
 
 # Partie législative
 
@@ -22146,6 +22146,8 @@ l'article D. 510-1 peuvent être affiliées à une fédération reconnue au plan
 
 - pour l'aérostation, la fédération française d'aérostation.
 
+" - pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger motorisé. "
+
 Ces fédérations :
 
 1° Ont seules compétence pour assurer la représentation des aéro-clubs qui leur sont affiliés ainsi que pour orienter,
@@ -22179,38 +22181,22 @@ civile, la tutelle sur ces fédérations.
 
 	  - Décret n°67-335 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°91-982 du 20 septembre 1991 - art. 1 () JORF 26 septembre 1991
+
 	**Cite**:
 
-	  - Code de l'enseignement technique - art. 100 (Ab)
-	  - Code de l'enseignement technique - art. 101 (Ab)
-	  - Code de l'enseignement technique - art. 102 (Ab)
-	  - Code de l'enseignement technique - art. 103 (Ab)
-	  - Code de l'enseignement technique - art. 104 (Ab)
-	  - Code de l'enseignement technique - art. 105 (Ab)
-	  - Code de l'enseignement technique - art. 106 (M)
-	  - Code de l'enseignement technique - art. 107 (Ab)
 	  - Code de l'enseignement technique - art. 150 (Ab)
 	  - Code de l'enseignement technique - art. 151 (Ab)
-	  - Code de l'enseignement technique - art. 90 (Ab)
-	  - Code de l'enseignement technique - art. 91 (Ab)
-	  - Code de l'enseignement technique - art. 92 (Ab)
-	  - Code de l'enseignement technique - art. 93 (Ab)
-	  - Code de l'enseignement technique - art. 94 (Ab)
-	  - Code de l'enseignement technique - art. 95 (Ab)
-	  - Code de l'enseignement technique - art. 96 (Ab)
-	  - Code de l'enseignement technique - art. 97 (Ab)
-	  - Code de l'enseignement technique - art. 98 (Ab)
-	  - Code de l'enseignement technique - art. 99 (Ab)
+	  - Code de l'enseignement technique 90 à 107, 150, 151
+	  - Code de l'aviation civile - art. D510-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. D435-4 (Ab)
 	  - Code de l'aviation civile - art. D521-1 (V)
 	  - Code de l'aviation civile - art. D521-2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
 
 
 ###### Article D510-4
