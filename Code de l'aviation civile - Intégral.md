@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1996-02-01
+Version Consolidée au 1996-02-27
 
 # Partie législative
 
@@ -143,18 +143,17 @@ L. 121-2, les mots " les soins du ministre chargé de l'aviation civile " (Fin d
 
 ###### Article L121-3
 
-Un aéronef ne peut être immatriculé en France que s'il appartient à une personne physique française ou à une personne morale,
-à condition que, dans ce cas, possèdent la nationalité française :
+Un aéronef ne peut être immatriculé en France que s'il appartient :
 
-Dans les sociétés de personnes, les associés en nom ou les commandités ;
+- à une personne physique française ou ressortissante d'un Etat membre de la Communauté européenne ou d'un autre Etat partie
+à l'accord sur l'Espace économique européen ;
 
-Dans les sociétés à responsabilité limitée, les propriétaires de la majorité des parts et les gérants ;
+- ou à une personne morale constituée en conformité avec la législation d'un Etat membre de la Communauté européenne ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen, et ayant son siège statutaire ou son principal établissement
+sur le territoire de la République française ou d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie
+à l'accord sur l'Espace économique européen.
 
-Dans les sociétés anonymes, le président-directeur général et la majorité des membres du conseil d'administration ;
-
-Dans les associations, les dirigeants ou administrateurs et les trois quarts des membres.
-
-Des dérogations peuvent être accordées par le ministre chargé de l'aviation civile.
+Des dérogations peuvent être accordées à titre exceptionnel par l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -165,6 +164,18 @@ Des dérogations peuvent être accordées par le ministre chargé de l'aviation 
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6111-3 (V)
 
 	**Cité par**:
 
@@ -1025,6 +1036,31 @@ présent code.
 	  - Code des transports - art. L6231-1 (V)
 
 
+#### CHAPITRE IV : LOCATION ET MISE A DISPOSITION D'AERONEFS.
+
+###### Article L124-1
+
+La location d'un aéronef est l'opération par laquelle un bailleur met à la disposition d'un preneur un aéronef sans équipage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6400-3 (V)
+
+
 ### TITRE III : CIRCULATION DES AERONEFS
 
 #### CHAPITRE Ier : DROIT DE CIRCULATION
@@ -1468,6 +1504,28 @@ conditions d'emploi.
 	  - Code de l'aviation civile - art. L150-2 (VT)
 	  - Code de l'aviation civile - art. L150-3 (VT)
 	  - Code de l'aviation civile - art. L150-6 (VT)
+
+
+###### Article L150-1-1
+
+Le fait d'exploiter un aéronef pour une ou plusieurs opérations de transport aérien public, en l'absence du certificat de
+transporteur aérien exigé en application de l'article L. 330-1, en cours de validité à la date du transport, ou dans des
+conditions non conformes à celles fixées par ledit certificat, est puni d'un an d'emprisonnement et de 500 000 F d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+
+	**Cité par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Réglement CEE 2409-92 1992-07-23
 
 
 ###### Article L150-2
@@ -3107,23 +3165,31 @@ convention franco-suisse du 4 juillet 1949.
 
 ###### Article L282-8
 
-En vue d'assurer préventivement la sûreté des vols, les officiers de police judiciaire, assistés des agents de police
-judiciaire et, si besoin, de policiers ou gendarmes auxiliaires, peuvent procéder à la visite des personnes pénétrant ou se
-trouvant dans les zones non librement accessibles au public des aérodromes et de leurs dépendances.
+En vue d'assurer préventivement la sûreté des vols, tant en régime national qu'international, les officiers de police
+judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire peuvent procéder à la visite
+des personnes, des bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans les zones
+non librement accessibles au public des aérodromes et de leurs dépendances. Ils peuvent aussi faire procéder à cette visite
+sous leurs ordres :
 
-" Sous la même condition et dans les mêmes zones, les officiers de police judiciaire assistés des agents de police judiciaire
-peuvent également procéder à la visite des bagages, du fret, des colis postaux, des aéronefs et des véhicules ou y faire
-procéder, sous leurs ordres :
+a) Par des policiers auxiliaires ou des gendarmes auxiliaires ;
 
-" a) Par des policiers ou gendarmes auxiliaires ;
+b) Et éventuellement par des agents de nationalité française ou ressortissants d'un Etat membre de la Communauté européenne,
+que les entreprises de transport aérien ou les gestionnaires d'aérodromes ont désigné ou fait désigner par des entreprises
+liées par un contrat de louage de services pour cette tâche ; ces agents devront avoir été agréés par le représentant de
+l'Etat dans le département et le procureur de la République ; leur intervention sera limitée, en ce qui concerne la visite
+des personnes, à la mise en oeuvre des dispositifs automatiques de contrôle, à l'exclusion des fouilles à corps et de la
+visite manuelle des bagages à main.
 
-" b) Et éventuellement par des agents, agréés par le procureur de la République, que les entreprises de transport aérien ou
-les personnes publiques chargées d'une exploitation aéroportuaire ont pris l'initiative de désigner pour cette tâche.
+Les agents des douanes peuvent, dans le même but et dans les mêmes lieux, procéder à la visite des bagages de soute, du fret,
+des colis postaux, des aéronefs et des véhicules en régime international. Ils peuvent y faire procéder sous leurs ordres par
+des agents désignés dans les conditions fixées à l'alinéa précédent.
 
-" Pour les transports par air en régime international, les visites sont faites en liaison avec le service des douanes.
+Les agréments prévus au b sont refusés ou retirés lorsque la moralité de la personne ou son comportement apparaissent
+incompatibles avec l'exercice des fonctions susmentionnées. L'agrément ne peut être retiré par le représentant de l'Etat dans
+le département ou par le procureur de la République qu'après que l'intéressé a été mis en mesure de présenter ses
+observations. Il peut faire l'objet d'une suspension immédiate en cas d'urgence.
 
-" Sous la même condition et dans les mêmes zones, les agents des douanes peuvent procéder aux visites prévues par le deuxième
-alinéa, en régime international. "
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -3133,7 +3199,7 @@ alinéa, en régime international. "
 
 	**Modifié par**:
 
-	  - Loi n°89-467 du 10 juillet 1989 - art. 15 () JORF 11 juillet 1989
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
 
 	**Cité par**:
 
@@ -3725,6 +3791,72 @@ et le destinataire, à raison de cette perte de marchandises.
 	  - Décret n°67-333 1967-03-30
 
 
+###### Article L321-7
+
+En vue d'assurer préventivement la sûreté des vols, les transporteurs aériens doivent recourir aux services d'un "expéditeur
+connu" pour l'expédition de fret ou de colis postaux en vue de leur transport ou mettre en oeuvre, dans les conditions
+définies par le décret prévu au sixième alinéa du présent article, des procédures de sûreté spécifiques pouvant comporter des
+visites de sûreté pratiquées par des agents agréés dans les conditions prévues par l'article L. 282-8.
+
+Peuvent être agréés en qualité d'"expéditeur connu" par le ministre chargé des transports les entreprises ou organismes qui
+mettent en place des procédures appropriées de sûreté en vue du transport de fret ou de colis postaux expédiés pour leur
+compte ou celui d'un tiers. Ces marchandises ne sont pas soumises aux contrôles prévus à l'article L. 282-8, l'Etat
+conservant toutefois la faculté d'imposer ces contrôles si les circonstances l'exigent.
+
+En cas de dommage résultant d'un acte malveillant et causé par des colis postaux ou du fret visés par le présent article, la
+responsabilité d'un "expéditeur connu" ne peut être engagée qu'en raison de l'inobservation des procédures de sûreté prévues
+par le présent code.
+
+L'agrément peut être refusé ou retiré lorsque l'entreprise ou l'organisme ne se conforme pas aux obligations prévues par les
+deuxième et cinquième alinéas du présent article ou par le décret d'application mentionné au sixième alinéa, ou peut
+constituer, par ses méthodes de travail ou le comportement de ses dirigeants ou agents, un risque pour la sûreté. L'agrément
+ne peut être retiré qu'après que l'entreprise ou l'organisme concerné a été mis en mesure de présenter ses observations. Il
+peut faire l'objet d'une suspension immédiate en cas d'urgence.
+
+Les officiers de police judiciaire et les agents des douanes sont chargés de vérifier que les entreprises ou organismes ayant
+demandé un agrément sont en mesure de satisfaire aux conditions posées à l'obtention dudit agrément et que ceux l'ayant
+obtenu respectent ces conditions. A cet effet, ils ont accès, à tout moment, aux locaux et terrains à usage professionnel des
+entreprises ou organismes titulaires de l'agrément ou qui en demandent le bénéfice, à l'exception des pièces exclusivement
+réservées à l'habitation. Ils peuvent requérir, pour l'accomplissement de leurs missions, l'ouverture de tous colis, bagages
+et véhicules professionnels en présence du responsable de l'entreprise ou de l'organisme, ou de ses préposés en cas d'absence
+de celui-ci, et se faire communiquer les documents comptables, financiers, commerciaux ou techniques propres à faciliter
+l'accomplissement de leurs contrôles.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Ce décret tient compte des contraintes
+propres à chacune des catégories de personnes visées au premier ou au deuxième alinéa. Il peut prévoir que le fret ou les
+colis postaux visés au présent article, ainsi que les correspondances et le transport de la presse, sont soumis à des règles
+particulières ou sont exemptés de procédures de sûreté.
+
+Il détermine également les prescriptions que les entreprises ou organismes visés au deuxième alinéa doivent respecter en
+matière de réception et de contrôle pour éviter des dépôts et des expéditions anonymes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 1998 - art. 2 (V)
+	  - Arrêté du 26 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 1 septembre 2003 - art. 14 (V)
+	  - Arrêté du 1 septembre 2003 - art. 15 (V)
+	  - Arrêté du 1 septembre 2003 - art. 27 (V)
+	  - Arrêté du 12 novembre 2003 - art. 39 (Ab)
+	  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (VT)
+	  - Code de l'aviation civile - art. L213-3 (VT)
+	  - Code de l'aviation civile - art. L321-7 (V)
+	  - Code de l'aviation civile - art. L321-8 (VT)
+	  - Code de l'aviation civile - art. R213-16 (Ab)
+	  - Code de l'aviation civile - art. R321-10 (M)
+	  - Code de l'aviation civile - art. R321-12 (Ab)
+	  - Code de l'aviation civile - art. R321-2 (Ab)
+	  - Code de l'aviation civile - art. R321-4 (Ab)
+	  - Code de l'aviation civile - art. R321-5 (M)
+	  - Code de l'aviation civile - art. R321-7 (M)
+
+
 #### CHAPITRE II : TRANSPORT DE PERSONNES.
 
 ###### Article L322-1
@@ -3834,11 +3966,9 @@ sécurité ou le bon ordre à bord d'un aéronef.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-#### CHAPITRE III : LOCATION ET AFFRETEMENT D'AÉRONEFS.
+#### CHAPITRE III : AFFRETEMENT D'AERONEFS.
 
 ###### Article L323-1
-
-La location d'un aéronef est l'opération par laquelle un bailleur met à la disposition d'un preneur un aéronef sans équipage.
 
 L'affrètement d'un aéronef est l'opération par laquelle un fréteur met à la disposition d'un affréteur un aéronef avec
 équipage. Sauf convention contraire, l'équipage reste sous la direction du fréteur.
@@ -3849,35 +3979,50 @@ L'affrètement d'un aéronef est l'opération par laquelle un fréteur met à la
 
 	  - Décret n°67-333 1967-03-30
 
+	**Modifié par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6400-2 (V)
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. L227-4 (VT)
 
-	**Modifié par**:
-
-	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
-
 
 ###### Article L323-2
 
-Toute entreprise frétant un aéronef, à titre professionnel ou contre rémunération, pour une opération de transport est
-soumise aux lois et règlements applicables au transport aérien public, quelle que soit l'utilisation faite par l'affréteur de
-cet aéronef.
+Toute entreprise frétant un aéronef, à titre onéreux, pour une opération de transport est soumise aux lois et règlements
+applicables au transport aérien public, quelle que soit l'utilisation faite par l'affréteur de cet aéronef.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D121-18 (V)
-	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+
+	**Cité par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
+	  - Code de l'aviation civile - art. D121-18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6412-6 (V)
 
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
@@ -3885,28 +4030,25 @@ cet aéronef.
 ###### Article L330-1
 
 Le transport aérien public consiste à acheminer par aéronef, d'un point d'origine à un point de destination, des passagers,
-des marchandises ou de la poste à titre professionnel ou contre rémunération.
+du fret ou du courrier, à titre onéreux.
 
-Les personnes physiques françaises et les personnes morales ayant leur siège social en France ne peuvent exercer une activité
-de transport aérien public, soit sur le territoire national, soit à l'étranger, au moyen d'aéronefs immatriculés en France
-que si elles y ont été autorisées par l'autorité administrative.
+L'activité de transporteur aérien public est subordonnée à la détention d'une licence d'exploitation et d'un certificat de
+transporteur aérien délivrés par l'autorité administrative dans des conditions fixées par décret en Conseil d'Etat et
+conformément aux dispositions du règlement (CEE) n° 2407/92 du 23 juillet 1992 concernant les licences des transporteurs
+aériens, annexé au présent code.
 
-L'autorisation précise la durée pour laquelle elle est accordée, l'objet du transport, les liaisons ou les zones
-géographiques que l'entreprise peut desservir et le matériel qu'elle peut exploiter.
-
-Un décret en Conseil d'Etat fixe les conditions de délivrance, de modification ou de retrait de l'autorisation.
-
-Toutefois, ne relèvent pas du transport aérien public les transports de passagers effectués sans escale lorsque les points
-d'origine et de destination sont confondus et lorsque la capacité d'emport de l'aéronef ne dépasse pas une limite fixée par
-décret en Conseil d'Etat.
-
-**Nota:**
-
-Au regard des dispositions de l'article L. 330-1 du code de l'aviation civile, tel qu'il résulte du paragraphe III de
-l'article 42 ci-dessus, les autorisations ou agréments délivrés antérieurement à l'entrée en vigueur de cet article valent
-autorisation jusqu'à la conclusion des conventions prévues audit article 42 (art. L. 330-3 du code de l'aviation civile).
+Les transports aériens de passagers, de fret ou de courrier, prévus au 2 de l'article 1er du règlement (CEE) n° 2407/92
+mentionné au précédent alinéa, ne nécessitent l'obtention d'une licence d'exploitation et d'un certificat de transport aérien
+que si la capacité d'emport des aéronefs utilisés est supérieure à une limite fixée par un décret en Conseil d'Etat. Ce
+décret détermine également les conditions d'octroi de ladite licence d'exploitation et dudit certificat de transporteur
+aérien, notamment en ce qui concerne les garanties morales, financières et techniques exigées du transporteur.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE L'AVIATION CIVILE annexe
+	  - Décret n°92-2407 1992-07-23
 
 	**Codifié par**:
 
@@ -3934,16 +4076,17 @@ autorisation jusqu'à la conclusion des conventions prévues audit article 42 (a
 
 	**Modifié par**:
 
-	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
 
 
 ###### Article L330-2
 
-L'établissement de voies internationales de navigation aérienne, ainsi que la création et l'exploitation de lignes
-internationales régulières de navigation aérienne sont subordonnés à l'autorisation préalable du Gouvernement.
-
-Le transport commercial des personnes et des marchandises entre deux points situés dans le territoire français, en métropole
-et outre-mer, est réservé aux aéronefs français, sauf autorisation délivrée par l'autorité administrative.
+L'exploitation de services réguliers ou non réguliers de transport aérien public au départ, à destination ou à l'intérieur du
+territoire national est soumise à autorisation préalable de l'autorité administrative, dans des conditions fixées par un
+décret en Conseil d'Etat et, pour ceux de ces services relevant du règlement (CEE) n° 2408/92 du 23 juillet 1992 concernant
+l'accès des transporteurs aériens communautaires aux liaisons aériennes intracommunautaires, dans le respect des dispositions
+dudit règlement annexé au présent code. A cet effet, les programmes d'exploitation des transporteurs aériens sont soumis à
+dépôt préalable ou à l'approbation de l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -3952,13 +4095,17 @@ et outre-mer, est réservé aux aéronefs français, sauf autorisation délivré
 	  - Ancien code de l'aviation civile 128
 	  - Loi n°1924-05-31 art. 9
 
+	**Cite**:
+
+	  - CODE DE L'AVIATION CIVILE annexe
+
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°89-467 du 10 juillet 1989 - art. 17 () JORF 11 juillet 1989
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
 
 	**Cité par**:
 
@@ -3970,14 +4117,24 @@ et outre-mer, est réservé aux aéronefs français, sauf autorisation délivré
 	  - Code de l'aviation civile - art. R330-20 (M)
 	  - Code de l'aviation civile - art. R330-4-1 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6412-3 (V)
+
 
 ###### Article L330-3
 
 L'autorisation nécessaire pour effectuer des services réguliers de transport de personnes entre un point d'origine et un
-point de destination situés sur le territoire national est délivrée après consultation des collectivités territoriales, des
-chambres de commerce et d'industrie et des autres établissements publics intéressés. Par dérogation au paragraphe II de
-l'article 7 de la loi d'orientation des transports intérieurs n° 82-1153 du 30 décembre 1982, cette autorisation peut être
-délivrée sans qu'ait été conclue au préalable une convention répondant à cette disposition. ".
+point de destination situés sur le territoire national est délivrée au vu du programme d'exploitation déposé par le
+transporteur, après information des collectivités territoriales, des chambres de commerce et d'industrie et des autres
+établissements publics intéressés. Par dérogation au II de l'article 7 de la loi n° 82-1153 du 30 décembre 1982 d'orientation
+des transports intérieurs, cette autorisation peut être délivrée sans qu'ait été conclue au préalable une convention
+répondant à cette disposition sauf lorsque les dispositions des paragraphes d et h de l'article 4 du règlement (CEE) n°
+2408/92 mentionné à l'article L. 330-2 sont appliquées.
 
 **Liens relatifs à cet article**
 
@@ -3988,6 +4145,7 @@ délivrée sans qu'ait été conclue au préalable une convention répondant à 
 	**Cite**:
 
 	  - Loi n°82-1153 1982-12-30 art. 7
+	  - Code de l'aviation civile - art. L330-2 (M)
 
 	**Cité par**:
 
@@ -4005,7 +4163,7 @@ délivrée sans qu'ait été conclue au préalable une convention répondant à 
 
 	**Modifié par**:
 
-	  - Loi n°89-467 du 10 juillet 1989 - art. 18 () JORF 11 juillet 1989
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
 
 
 ###### Article L330-4
@@ -4141,25 +4299,36 @@ habilité à cet effet.
 
 ###### Article L330-8
 
-Les programmes d'exploitation, les programmes généraux d'achat et de location de matériels volants, les conditions de
-transport et les tarifs des entreprises de transport aérien peuvent être soumis à homologation administrative pour les
-transports effectués à l'aide d'aéronefs dépassant un certain tonnage. Un décret en Conseil d'Etat fixe les conditions
-d'application du présent article.
+Sans préjudice du règlement (CEE) n° 2409/92 du 23 juillet 1992 sur les tarifs des passagers et de fret des services aériens
+annexé au présent code, les tarifs et les conditions de transport des services de transport aérien public peuvent être soumis
+à dépôt préalable ou à homologation administrative, dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CODE DE L'AVIATION CIVILE annexe
+
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
 
 	**Cité par**:
 
 	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
 	  - Code de l'aviation civile - art. R330-20 (M)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6412-5 (V)
 
 
 ###### Article L330-9
