@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1984-07-18
+Version Consolidée au 1985-07-25
 
 # Partie législative
 
@@ -15652,6 +15652,149 @@ ministériel.
 	**Créé par**:
 
 	  - Décret n°68-653 1968-07-10 art. 1 JORF 14 juillet 1968
+
+
+###### Article D132-8
+
+Les aérodynes motorisés à performances limitées, dits "ultra-légers motorisés" ou "ULM", définis par le ministre chargé de
+l'aviation civile, peuvent atterrir ou décoller ailleurs que sur un aérodrome, sous réserve que soient respectées les mesures
+de sécurité et autres conditions définies par arrêté interministériel.
+
+L'arrêté interministériel détermine les conditions d'utilisation et, s'il y a lieu, d'agrément des emplacements choisis,
+ainsi que les conditions complémentaires pour l'utilisation des emplacements sur lesquels doivent être réalisées des
+activités rémunérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
+
+	**Cité par**:
+
+	  - Décret n°2012-1493 du 27 décembre 2012 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 13 mars 1986
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 9 (V)
+
+
+###### Article D132-9
+
+Les aérodynes non motorisés à performances limitées, dits "planeurs ultra-légers" ou "P.U.L.", définis par le ministre chargé
+de l'aviation civile, peuvent atterrir ou décoller ailleurs que sur un aérodrome, sous réserve que soient respectées les
+mesures de sécurité et autres conditions définies par arrêté interministériel.
+
+L'arrêté interministériel détermine les conditions d'utilisation et, s'il y a lieu, d'agrément des emplacements choisis,
+ainsi que les conditions complémentaires pour l'utilisation des emplacements sur lesquels doivent être réalisées des
+activités rémunérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
+
+
+###### Article D132-10
+
+Les aérostats non dirigeables ou ballons peuvent décoller ailleurs que d'un aérodrome, sous réserve que soit respectées les
+mesures de sécurités et autres conditions définies par arrêté interministériel. 
+
+L'arrêté interministériel détermine :
+
+- les conditions d'utilisation et, s'il y a lieu, d'agrément des emplacements choisis pour les décollages ;
+
+- les conditions complémentaires pour l'utilisation des emplacements à des fins d'activités rémunérées ;
+
+- les conditions de déclaration des atterrissages en campagne en dérogation aux articles D. 132-1 et D. 132-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D132-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
+
+
+###### Article D132-11
+
+Les planeurs lancés par treuil peuvent atterrir ou décoller ailleurs que sur un aérodrome, sous réserve que soient respectées
+les mesures de sécurité et autres conditions définies par arrêté interministériel.
+
+L'arrêté interministériel détermine les conditions d'utilisation et, s'il y a lieu, d'agrément des emplacements choisis,
+ainsi que les conditions complémentaires pour l'utilisation des emplacements sur lesquels doivent être réalisées des
+activités rémunérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
+
+
+###### Article D132-12
+
+Les hydravions ou les avions amphibies peuvent atterrir ou décoller sur un plan d'eau autre qu'une hydrobase, sous réserve
+que soient respectées les mesures de sécurité et autres conditions définies par arrêté interministériel.
+
+Toutefois, cette disposition est limitée à l'utilisation occasionnelle du plan d'eau.
+
+L'arrêté interministériel détermine les conditions d'utilisation et, s'il y a lieu, d'agrément des emplacements choisis ainsi
+que les conditions complémentaires pour l'utilisation des emplacements sur lesquels doivent être réalisées des activités
+rémunérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 13 mars 1986
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
 
 
 #### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.
