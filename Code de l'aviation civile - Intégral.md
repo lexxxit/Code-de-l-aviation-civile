@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1998-10-03
+Version Consolidée au 1998-12-23
 
 # Partie législative
 
@@ -2188,6 +2188,54 @@ sur plusieurs départements.
 	  - CODE DES COMMUNES. - art. L131-2 (M)
 
 
+###### Article L213-3
+
+Les aérodromes assurent, suivant des normes techniques définies par l'autorité administrative, le sauvetage et la lutte
+contre les incendies d'aéronefs, ainsi que la prévention du péril aviaire. Ils participent à l'organisation des visites de
+sûreté dans les conditions prévues au b de l'article L. 282-8.
+
+Sous l'autorité des titulaires du pouvoir de police mentionnés à l'article L. 213-2, l'exploitant d'aérodrome assure
+l'exécution des services en cause. Il peut faire assurer celle-ci, en vertu d'une convention, par le service départemental
+d'incendie et de secours, par l'autorité militaire ou par un organisme agréé dans les conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°98-1171 du 18 décembre 1998 - art. 1 () JORF 23 décembre 1998
+
+	**Cité par**:
+
+	  - Décret n°99-1162 du 29 décembre 1999 - art. 1 (Ab)
+	  - Décret n°99-1162 du 29 décembre 1999 - art. 2 (Ab)
+	  - Décret n°99-1162 du 29 décembre 1999 - art. 3 (Ab)
+	  - Loi n°2002-276 du 27 février 2002 - art. 105 (Ab)
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 65 (V)
+	  - Décret n°2007-432 du 25 mars 2007 - art. 4 (Ab)
+	  - Arrêté du 17 août 2010 - art. 1 (V)
+	  - Arrêté du 17 août 2010 - art. 2 (V)
+	  - Code de l'aviation civile - art. D213-1-10 (V)
+	  - Code de l'aviation civile - art. D213-1-14 (V)
+	  - Code de l'aviation civile - art. D213-2 (T)
+	  - Code de l'aviation civile - art. D213-5 (V)
+	  - Code de l'aviation civile - art. L211-3 (VT)
+	  - Code de l'aviation civile - art. R213-3 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002
+	  - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-2 (M)
+	  - Code de l'aviation civile - art. L282-8 (M)
+
+
 #### CHAPITRE V : DISPOSITIONS SANITAIRES.
 
 ###### Article L215-1
@@ -2445,12 +2493,21 @@ l'aviation civile.
 ###### Article L251-2
 
 Il est chargé d'aménager, d'exploiter et de développer l'ensemble des installations de transport civil aérien ayant leur
-centre dans la région parisienne et qui ont pour objet de faciliter l'arrivée et le départ des aéronefs, de guider la
-navigation, d'assurer l'embarquement, le débarquement et l'acheminement à terre des voyageurs, des marchandises et du
-courrier transportés par air, ainsi que toutes installations annexes.
+centre dans la région d'Ile-de-France, ainsi que toutes installations annexes qui ont pour objet de faciliter l'arrivée et le
+départ des aéronefs, d'assurer un service de sauvetage et de lutte contre l'incendie des aéronefs et de prévention du péril
+aviaire, de guider la navigation, de participer à l'organisation des visites de sureté dans les conditions prévues par le b
+de l'article L 282-8 d'assurer l'embarquement, le débarquement et l'acheminement à terre des voyageurs, des marchandises et
+du courrier transportés par air.
 
 Il se tient en liaison permanente avec les autres aérodromes français et étrangers, auxquels il doit éventuellement demander
 ou prêter le concours qu'imposent les nécessités du trafic aérien.
+
+**Nota:**
+
+: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
+publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
+
+Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
 
 **Liens relatifs à cet article**
 
@@ -2463,6 +2520,10 @@ ou prêter le concours qu'imposent les nécessités du trafic aérien.
 
 	  - Décret n°67-333 1967-03-30
 
+	**Modifié par**:
+
+	  - Loi n°98-1171 du 18 décembre 1998 - art. 1 () JORF 23 décembre 1998
+
 	**Cité par**:
 
 	  - Loi n°2005-357 du 20 avril 2005 - art. 7 (VT)
@@ -2470,6 +2531,10 @@ ou prêter le concours qu'imposent les nécessités du trafic aérien.
 	  - Code de l'aviation civile - art. R216-8 (V)
 	  - Code de l'aviation civile - art. R224-3 (V)
 	  - Code de l'aviation civile - art. R224-4 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-8 (M)
 
 
 ###### Article L251-3
