@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-04-14
+Version Consolidée au 1990-06-14
 
 # Partie législative
 
@@ -17288,9 +17288,13 @@ Une autorisation est également exigée pour les personnes ne possédant pas la 
 titre privé où à titre professionnel des enregistrements d'images ou de données de toute nature au-dessus du territoire de la
 métropole, des départements d'outre-mer et des territoires d'outre-mer.
 
-Les autorisations prévues aux alinéas 3 et 4 du présent article sont délivrées en métropole par le ministre de l'intérieur
-et, dans les départements et territoires d'outre-mer, par le ministre chargé des départements et territoires d'outre-mer sur
-avis du ministre chargé de la défense nationale et du ministre des affaires étrangères si le demandeur réside à l'étranger.
+" Les autorisations prévues au présent article sont délivrées par le représentant de l'Etat dans le département ou le délégué
+du Gouvernement dans le territoire où l'utilisateur est domicilié et par le préfet de police pour les personnes résidant à
+Paris après avis conforme du commandant de groupement de gendarmerie du département, du territoire ou de Paris et du
+directeur régional chef de secteur de la police de l'air et des frontières.
+
+" Pour les personnes résidant à l'étranger, les autorisations sont délivrées par le préfet de police après avis conforme du
+ministre des affaires étrangères et du commandant de groupement de gendarmerie de Paris. "
 
 Sous réserve du contrôle de police visé à l'article D. 133-13, la prise de vues photographiques et cinématographiques est
 tolérée, à titre occasionnel, à bord des aéronefs appartenant à des compagnies assurant le service sur les lignes
@@ -17317,7 +17321,7 @@ commerciales régulièrement autorisées.
 
 	**Modifié par**:
 
-	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
+	  - Décret n°90-480 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
 
 	**Liens**:
 
