@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1999-07-13
+Version Consolidée au 2000-02-17
 
 # Partie législative
 
@@ -9132,11 +9132,12 @@ résidence administrative.
 
 La formule du serment est la suivante :
 
-"Je jure de procéder avec exactitude et probité, dans les limites des lois et règlements en vigueur, à la constatation des
-infractions au livre Ier du code de l'aviation civile et aux décrets pris pour son application.
+Je jure de procéder avec exactitude et probité, dans les limites des lois et règlements en vigueur, à la constatation des
+infractions au livre Ier et au chapitre VII du titre II du livre II du code de l'aviation civile et aux décrets pris pour son
+application.
 
-"Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
-fonctions".
+Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
+fonctions.
 
 **Liens relatifs à cet article**
 
@@ -9144,13 +9145,9 @@ fonctions".
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
-
-	**Créé par**:
-
-	  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+	  - Décret n°2000-126 du 16 février 2000 - art. 3 () JORF 17 février 2000
 
 
 ###### Article R151-8
@@ -12535,6 +12532,219 @@ des nuisances expireront au terme initialement prévu (art. 5).
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R226-5 (V)
+
+
+#### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.
+
+###### Article R227-1
+
+Les membres de la Commission nationale de prévention des nuisances prévue à l'article L. 227-4, ainsi que leurs suppléants,
+sont nommés par arrêté du ministre chargé de l'aviation civile pour une période de trois ans renouvelable.
+
+La commission est présidée par un membre de l'inspection générale de l'aviation civile et de la météorologie et comprend en
+outre :
+
+1° Quatre représentants de l'Etat, dont un proposé par le ministre chargé de l'environnement et un proposé par le ministre de
+la défense ;
+
+2° Quatre personnalités qualifiées dans le domaine de l'aéronautique, dont au moins un exploitant et un gestionnaire
+d'aérodrome ;
+
+3° Quatre personnalités qualifiées dans le domaine de l'environnement, proposées par le ministre chargé de l'environnement,
+dont une au moins au titre des associations de riverains.
+
+Chacun de ces membres titulaires dispose d'un suppléant nommé dans les mêmes conditions que ci-dessus. En cas
+d'indisponibilité de ce suppléant, il peut être fait appel à un second suppléant nommé dans les mêmes conditions.
+
+**Nota:**
+
+Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
+l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
+transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
+initialement prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L227-4 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R227-2 (V)
+
+
+###### Article R227-2
+
+Les membres titulaires ou suppléants de la Commission nationale de prévention des nuisances qui perdent la qualité en raison
+de laquelle ils ont été nommés cessent de plein droit d'appartenir à la commission.
+
+En cas de vacance survenant plus de six mois avant l'expiration du mandat, il est pourvu à la nomination, dans les conditions
+prévues à l'article R. 227-1, d'un nouveau membre dont le mandat expire à la date à laquelle aurait expiré le mandat de la
+personne qu'il remplace.
+
+**Nota:**
+
+[*NOTA : Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur
+lorsque l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à
+titre transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au
+terme initialement prévu.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R227-1 (M)
+
+
+###### Article R227-3
+
+La Commission nationale de prévention des nuisances se réunit sur convocation de son président. Elle ne peut siéger que si
+huit au moins de ses membres titulaires ou suppléants sont présents.
+
+**Nota:**
+
+Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
+l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
+transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
+initialement prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+
+
+###### Article R227-4
+
+Les fonctions de membre de la Commission nationale de prévention des nuisances sont gratuites. Toutefois, les membres de la
+commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements
+temporaires par les décrets n° 89-271 du 12 avril 1989 et n° 90-437 du 28 mai 1990.
+
+**Nota:**
+
+Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
+l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
+transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
+initialement prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Décret n°89-271 1989-04-12
+	  - Décret n°90-437 1990-05-28
+
+	**Créé par**:
+
+	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+
+
+###### Article R227-5
+
+La commission établit son règlement intérieur. Un agent de la direction générale de l'aviation civile est désigné par le
+ministre chargé de l'aviation civile pour exercer les fonctions de secrétaire général sous l'autorité du président de la
+commission.
+
+**Nota:**
+
+Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
+l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
+transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
+initialement prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
+
+
+###### Article R227-6
+
+Pour chaque affaire, un rapporteur, non membre de la commission, est désigné par le président. Après avoir entendu le
+rapporteur et, le cas échéant, la personne concernée ou son représentant, la commission délibère hors de leur présence. Au
+cas où un membre est personnellement intéressé à l'affaire soumise à l'examen de la commission, il n'est pas admis à assister
+aux délibérations.
+
+Le secrétaire général de la commission ainsi que les agents assurant le secrétariat sont autorisés à assister aux
+délibérations sans pouvoir y prendre part.
+
+Nul ne peut assister ni prendre part à une délibération et statuer sur une affaire s'il n'a participé aux débats relatifs à
+celle-ci et entendu la personne concernée ou son représentant dans sa défense si celle-ci a été présentée.
+
+La commission délibère valablement au cas où la personne concernée dûment convoquée et n'ayant pas bénéficié d'une décision
+de report de l'examen du dossier prise par le président néglige de comparaître ou de se faire représenter.
+
+**Nota:**
+
+Décret 2000-126 2000-02-16 art. 5 : Les dispositions des articles 1er et 2 du présent décret entreront en vigueur lorsque
+l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés. Toutefois, à titre
+transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme
+initialement prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2000-126 du 16 février 2000 - art. 2 () JORF 17 février 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
 
 
 ### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
