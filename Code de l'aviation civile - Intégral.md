@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1993-03-19
+Version Consolidée au 1993-03-24
 
 # Partie législative
 
@@ -11159,41 +11159,6 @@ passagers.
 	  - Code de l'aviation civile - art. R330-6 (M)
 
 
-###### Article R330-6
-
-Les programmes généraux d'achat et de location de matériel volant sont soumis par les entreprises agréées à l'approbation
-préalable du ministre chargé de l'aviation civile. Ils doivent comporter des propositions précises sur les différents types
-d'appareils, leur nombre et la durée probable de réalisation des programmes. Ils sont approuvés après avis du conseil
-supérieur de l'aviation marchande en fonction des besoins du marché, des progrès techniques et de la politique générale
-d'investissements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab) JORF 24 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
-	  - Arrêté du 3 juin 2008 - art. 1 (V)
-	  - Arrêté du 31 juillet 2015 - art. 1 (V)
-	  - Code de l'aviation civile - art. R330-12-2 (V)
-	  - Code de l'aviation civile - art. R330-8 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
-
-
 ###### Article R330-7
 
 Les programmes d'exploitation sont soumis par les entreprises agréées à l'approbation préalable du ministre chargé de
@@ -11234,77 +11199,6 @@ l'article L. 330-3..
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L330-3 (M)
-
-
-###### Article R330-8
-
-Le conseil supérieur de l'aviation marchande est saisi pour avis des programmes généraux d'achat et de location du matériel
-volant et des programmes d'exploitation mentionnés aux articles R. 330-6 et R. 330-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 129, alinéa 3,
-	  - Décret n°53-916 1953-09-26 art. 4, alinéa 3
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab) JORF 24 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
-	  - Arrêté du 15 mars 2002 - art. 3 (V)
-	  - Arrêté du 31 mai 2002 - art. 3 (V)
-	  - Arrêté du 26 juin 2003 - art. 2 (V)
-	  - Arrêté du 26 juin 2003 - art. 3 (V)
-	  - Arrêté du 15 septembre 2004 - art. 2 (Ab)
-	  - Arrêté du 22 décembre 2006 - art. 3 (V)
-	  - Arrêté du 9 juillet 2007 - art. 2 (V)
-	  - Arrêté du 9 juillet 2007 - art. 3 (V)
-	  - Arrêté du 2 août 2007 - art. 2 (Ab)
-	  - Arrêté du 2 août 2007 - art. 3 (Ab)
-	  - Arrêté du 2 août 2007 - art. 4 (Ab)
-	  - Arrêté du 3 août 2007 - art. 2 (V)
-	  - Arrêté du 3 août 2007 - art. 3 (V)
-	  - Arrêté du 3 août 2007 - art. 4 (V)
-	  - Arrêté du 3 juin 2008 - art. 1 (V)
-	  - Arrêté du 3 juin 2008 - art. 6 (V)
-	  - Arrêté du 3 juin 2008 - art. 7 (V)
-	  - Arrêté du 12 juillet 2010 - art. 2 (V)
-	  - Arrêté du 12 juillet 2010 - art. 3 (V)
-	  - Arrêté du 2 novembre 2011 - art. 2 (V)
-	  - Arrêté du 2 novembre 2011 - art. 3 (V)
-	  - Arrêté du 29 décembre 2011 - art. 2 (V)
-	  - Arrêté du 16 juillet 2012 - art. 2 (V)
-	  - Arrêté du 16 juillet 2012 - art. 3 (V)
-	  - Arrêté du 12 décembre 2012 - art. 2 (V)
-	  - Arrêté du 12 décembre 2012 - art. 3 (V)
-	  - Arrêté du 25 juin 2014 - art. 4 (V)
-	  - Arrêté du 27 juin 2014 - art. 4 (V)
-	  - Arrêté du 25 juillet 2014 - art. 2 (V)
-	  - Arrêté du 25 juillet 2014 - art. 3 (V)
-	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
-	  - Arrêté du 10 décembre 2014 - art. 2 (V)
-	  - Arrêté du 28 juin 2016 - art. 4 (V)
-	  - Arrêté du 1er juillet 2016 - art. 2 (V)
-	  - Arrêté du 5 août 2016 - art. 4 (V)
-	  - Arrêté du 13 janvier 2017 - art. 1
-	  - Arrêté du 14 mars 2017 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R330-6 (Ab)
-	  - Code de l'aviation civile - art. R330-7 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
 
 
 ###### Article R330-9
@@ -11856,36 +11750,6 @@ ministre chargé de l'aviation civile et du ministre de l'économie et des finan
 	  - Décret n°95-92 du 30 janvier 1995 - art. 2 () JORF 31 janvier 1995
 
 
-###### Article R342-7
-
-La Compagnie nationale Air France a recours pour les besoins de son exploitation aux moyens de crédit en usage dans le
-commerce. La Caisse nationale des marchés de l'Etat est autorisée à recevoir en garantie, à avaliser, à accepter et à
-endosser les effets de commerce émis par elle, elle pourra accepter en nantissement les marchés passés par la Compagnie
-nationale Air France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
-
-	**Anciens textes**:
-
-	  - Loi n°48-976 du 16 juin 1948 - art. 12, v. init.
-
-	**Abrogé par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab) JORF 24 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
-
-
 ###### Article R342-8
 
 Peuvent faire l'objet de contrats établis conformément aux dispositions de l'article L. 342-2 les obligations d'intérêt
@@ -11905,10 +11769,7 @@ et du perfectionnement de ce personnel ;
 e) Montage, à bord des appareils, d'équipements autres que ceux qui sont nécessaires à l'observation des règles et usages de
 la navigation aérienne commerciale ;
 
-f) Toute obligation d'intérêt général portant sur un objet autre que ceux énumérés ci-dessus, notamment l'exploitation de
-services réguliers de transports aériens internationaux ou de cabotage sur des lignes exploitées en concurrence avec d'autres
-entreprises de transports aériens ayant fait l'objet d'une décision de principe du ministre chargé de l'aviation civile,
-prise après avis du conseil supérieur de l'aviation marchande.
+f) Toute obligation d'intérêt général portant sur un objet autre que ceux énumérés ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -11919,6 +11780,14 @@ prise après avis du conseil supérieur de l'aviation marchande.
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°93-421 du 17 mars 1993 - art. 5 () JORF 24 mars 1993
 
 	**Cité par**:
 
@@ -11980,11 +11849,9 @@ d'autre part, les tarifs.
 
 ###### Article R342-11
 
-Les contrats prévus aux articles précédents sont signés par le ministre chargé de l'aviation civile, après accord du ministre
-de l'économie et des finances, lorsqu'ils sont conclus entre l'Etat et la Compagnie nationale Air France.
-
-Les contrats passés entre la compagnie et des collectivités publiques doivent être approuvés par le ministre chargé de
-l'aviation civile et le ministre de tutelle de ces collectivités.
+Les contrats prévus aux articles précédents sont signés par le ministre intéressé et par le ministre chargé de l'aviation
+civile, après accord du ministre chargé de l'économie et des finances et du ministre du budget, lorsqu'ils sont conclus entre
+l'Etat et la Compagnie nationale Air France.
 
 **Liens relatifs à cet article**
 
@@ -11996,56 +11863,29 @@ l'aviation civile et le ministre de tutelle de ces collectivités.
 
 	  - Décret n°67-334 1967-03-30
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°93-421 du 17 mars 1993 - art. 6 () JORF 24 mars 1993
+
 	**Cité par**:
 
 	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
 
 
-###### Article R342-12
-
-Les émissions d'emprunts auxquelles la Compagnie nationale Air France est habilitée à procéder sont soumises à l'approbation
-préalable du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
-
-	**Anciens textes**:
-
-	  - Loi n°48-976 1948-06-16 art. 13
-
-	**Abrogé par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab) JORF 24 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
-
-
 ###### Article R342-13
 
-Le conseil d'administration soumet à l'approbation du ministre chargé de l'aviation civile et du ministre chargé de
-l'économie et des finances :
+Le conseil d'administration soumet à l'approbation du ministre chargé de l'aviation civile, du ministre chargé de l'économie
+et des finances et du ministre chargé du budget l'état indicatif annuel des prévisions de recettes et de dépenses de toute
+nature, ainsi que les états complémentaires en cours d'année.
 
-Les programmes généraux d'engagement de dépenses échelonnées sur plusieurs années ;
+Il soumet à l'approbation des mêmes ministres le statut du personnel.
 
-L'état indicatif annuel des prévisions de recettes et de dépenses de toute nature, ainsi que les états complémentaires en
-cours d'année ;
-
-Le bilan, le compte profits et pertes ; (1)
-
-Les tarifs ;
-
-Le statut du personnel.
-
-Le bilan et le compte profits et pertes sont publiés au Journal officiel avant le 31 juillet de chaque année.
+A défaut de décision expresse intervenant dans le délai de deux mois à compter de la réception des délibérations,
+l'approbation ministérielle est considérée comme acquise de plein droit.
 
 **Liens relatifs à cet article**
 
@@ -12058,45 +11898,17 @@ Le bilan et le compte profits et pertes sont publiés au Journal officiel avant 
 
 	  - Décret n°67-334 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°82-381 1982-05-06 art. 3 JORF 8 mai 1982
-
-	**Cité par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
-
-
-###### Article R342-14
-
-Le conseil d'administration soumet à l'approbation du ministre chargé de l'aviation civile le programme d'investissement,
-d'achat de matériel et de lignes à desservir.
-
-Un délai maximum de deux mois est accordé au ministre pour donner son approbation. Passé ce délai, elle est considérée comme
-acquise de plein droit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 144
-	  - Loi n°48-976 1948-06-16 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab) JORF 24 mars 1993
+	  - Décret n°93-421 du 17 mars 1993 - art. 7 () JORF 24 mars 1993
 
 	**Cité par**:
 
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
 
 
 ###### Article R342-15
