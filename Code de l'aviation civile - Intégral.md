@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1982-05-08
+Version Consolidée au 1982-05-20
 
 # Partie législative
 
@@ -17370,6 +17370,359 @@ de discipline qui doit émettre son avis dans les deux mois.
 	**Créé par**:
 
 	  - Décret n°77-1140 1977-10-05 art. 1 JORF 12 octobre 1977
+
+
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.
+
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.
+
+###### Article D510-1
+
+Le ministre chargé de l'aviation civile est responsable des questions concernant :
+
+- la propagande et l'instruction aéronautique de la jeunesse (en particulier par la formation technique et l'aéromodélisme),
+la formation, l'entraînement et le perfectionnement au pilotage du personnel navigant non professionnel ;
+
+- l'aviation sportive et l'aérostation ;
+
+- l'aviation privée.
+
+Il est en outre compétent pour exercer les pouvoirs de tutelle sur les organismes privés dont l'activité intéresse l'aviation
+légère et sportive, à l'exclusion du parachutisme sportif dont la tutelle relève du ministre chargé des sports.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D510-3 (V)
+	  - Code de l'environnement - art. R554-38 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+
+
+###### Article D510-2
+
+L'Aéro-Club de France est chargé d'assurer, pour toutes les activités aéronautiques, la représentation de la France auprès de
+la fédération aéronautique internationale et les relations avec les aéro-clubs représentatifs des autres nations membres de
+cette fédération.
+
+Il peut bénéficier, pour l'exercice de ses missions, de subventions dans la limite des crédits budgétaires prévus à cet
+effet.
+
+Dans le cadre de ses attributions, le ministre chargé des sports exerce conjointement avec le ministre chargé de l'aviation
+civile la tutelle de cette association.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D510-4 (V)
+	  - Code de l'aviation civile - art. D510-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1980 en vigueur le 1er janvier 1973
+	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+
+
+###### Article D510-3
+
+Les associations aéronautiques (aéro-clubs) dont les membres pratiquent l'une ou plusieurs des activités énumérées à
+l'article D. 510-1 peuvent être affiliées à une fédération reconnue au plan national :
+
+- pour le vol à moteur, la fédération nationale aéronautique (avions et gyravions) ;
+
+- pour le vol à voile, la fédération française de vol à voile (planeurs et planeurs à dispositif d'envoi incorporé) ;
+
+- pour l'aéromodélisme, la fédération française d'aéromodélisme ;
+
+- pour l'aérostation, la fédération française d'aérostation.
+
+Ces fédérations :
+
+1° Ont seules compétence pour assurer la représentation des aéro-clubs qui leur sont affiliés ainsi que pour orienter,
+coordonner leurs activités et favoriser leur équipemement en matériel utile à l'exercice de ces activités ;
+
+2° Sont reconnues comme les organismes représentatifs des associations pratiquant le vol à moteur, la gyraviation, le vol à
+voile, l'aéromodélisme et l'aérostation ; à ce titre elles peuvent proposer aux autorités compétentes toutes mesures propres
+à faciliter et à encourager la pratique et le développement de l'aviation légère et toutes ses applications ;
+
+3° Peuvent participer aux actions de propagande aéronautique définies par le ministre chargé de l'aviation civile et
+bénéficier de subventions, dans la limite des crédits budgétaires prévus à cet effet ;
+
+4° Sont habilitées à organiser au sein des aéro-clubs, en liaison avec les services de l'enseignement technique et avec le
+concours d'établissements de formation professionnelle de l'industrie aéronautique :
+
+- la préparation à l'apprentissage dans les métiers intéressant l'aéronautique ;
+
+- l'apprentissage dans ces mêmes métiers, en assurant, conformément aux dispositions du code de l'enseignement technique et
+notamment de ses articles 90 à 107 et 150 et 151, le fonctionnement de cours professionnels ;
+
+5° Participent à la préparation militaire en coordonnant l'organisation au sein des aéro-clubs, de l'enseignement des
+spécialités pour les jeunes gens désirant servir dans les forces armées et, éventuellement, de l'entretien de cette
+instruction après retour dans leur foyer.
+
+Dans le cadre de ses attributions, le ministre chargé des sports exerce, conjointement avec le ministre chargé de l'aviation
+civile, la tutelle sur ces fédérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Code de l'enseignement technique - art. 100 (Ab)
+	  - Code de l'enseignement technique - art. 101 (Ab)
+	  - Code de l'enseignement technique - art. 102 (Ab)
+	  - Code de l'enseignement technique - art. 103 (Ab)
+	  - Code de l'enseignement technique - art. 104 (Ab)
+	  - Code de l'enseignement technique - art. 105 (Ab)
+	  - Code de l'enseignement technique - art. 106 (M)
+	  - Code de l'enseignement technique - art. 107 (Ab)
+	  - Code de l'enseignement technique - art. 150 (Ab)
+	  - Code de l'enseignement technique - art. 151 (Ab)
+	  - Code de l'enseignement technique - art. 90 (Ab)
+	  - Code de l'enseignement technique - art. 91 (Ab)
+	  - Code de l'enseignement technique - art. 92 (Ab)
+	  - Code de l'enseignement technique - art. 93 (Ab)
+	  - Code de l'enseignement technique - art. 94 (Ab)
+	  - Code de l'enseignement technique - art. 95 (Ab)
+	  - Code de l'enseignement technique - art. 96 (Ab)
+	  - Code de l'enseignement technique - art. 97 (Ab)
+	  - Code de l'enseignement technique - art. 98 (Ab)
+	  - Code de l'enseignement technique - art. 99 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D435-4 (Ab)
+	  - Code de l'aviation civile - art. D521-1 (V)
+	  - Code de l'aviation civile - art. D521-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+
+
+###### Article D510-4
+
+Dans le cadre de la loi relative au développement de l'éducation physique et du sport, notamment de son article 12, les
+associations visées aux articles D. 510-2 et D. 510-3 pourront être habilitées à organiser les compétitions sportives
+régionales, nationales et internationales, et à délivrer les titres régionaux et nationaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D510-2 (V)
+
+
+###### Article D510-5
+
+Le ministre chargé de l'aviation civile et le ministre chargé de la défense établissent de concert, dans le cadre du
+programme d'instruction pré et post-militaire fixé par le ministre chargé de la défense, les directives concernant
+l'organisation au sein des aéro-clubs de l'enseignement des spécialités pour les jeunes gens désirant servir dans les forces
+armées et, éventuellement, de l'entretien de cette instruction après retour dans leur foyer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+
+
+###### Article D510-6
+
+Le ministre chargé de l'aviation civile et le ministre chargé des sports déterminent chaque année l'aide qui peut être
+fournie à l'Aéro-Club de France et aux fédérations susvisées sur les crédits budgétaires prévus à cet effet ; leur
+répartition est effectuée en fonction du rôle imparti respectivement à l'Aéro-Club de France et aux fédérations aéronautiques
+ainsi qu'il résulte des dispositions des articles D. 510-2 et D. 510-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D510-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+
+
+### TITRE II : AIDE AUX JEUNES
+
+#### Section 1 : Aide aux jeunes.
+
+###### Article D521-1
+
+Les jeunes gens de nationalité française, âgés de moins de vingt-cinq ans, pratiquant le vol à moteur ou le vol à voile au
+sein d'un aéro-club peuvent prétendre au bénéfice de bourses de pilotage en vue de la formation de pilote privé avion ou
+pilote de planeur. Celles-ci sont accordées dans des conditions fixées par arrêté du ministre chargé de l'aviation civile et
+du ministre chargé du budget. Elles sont attribuées par le ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
+
+
+###### Article D521-2
+
+Il peut être alloué aux aéro-clubs, dans des conditions définies par arrêté du ministre chargé de l'aviation civile et du
+ministre chargé du budget, des primes d'efficacité accordées dans la limite des crédits budgétaires ouverts à ce titre. Ces
+primes ont pour objet d'améliorer la sécurité, de favoriser la formation des jeunes et d'encourager l'insertion des aéro-
+clubs dans le milieu local.
+
+Elles sont calculées sur proposition de la fédération nationale de vol à moteur ou de celle de vol à voile ; elles tiennent
+compte de l'activité de l'aéro-club, de sa bonne organisation et de son rendement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
+
+
+###### Article D521-3
+
+Le ministre chargé de l'aviation civile décide de l'octroi des bourses et des primes après avis d'une commission dont le rôle
+et la composition sont fixés par arrêté.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 art. 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+nationale consultative de l'aviation légère).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D521-4 (V)
+	  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
+
+
+#### Section 2 : Aide à la construction amateur.
+
+###### Article D521-4
+
+Des subventions destinées à encourager la construction d'aéronefs, soit par des amateurs, soit par des associations
+aéronautiques, soit par des établissements scolaires et universitaires, peuvent être accordées dans les conditions prévues
+par un arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget.
+
+Ces subventions sont attribuées par le ministre chargé de l'aviation civile dans les conditions définies à l'article D.
+521-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D521-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
+
+
+###### Article D521-5
+
+Pour la construction amateur réalisée soit au sein d'une association aéronautique, soit dans un établissement scolaire ou
+universitaire, la subvention peut être majorée de 20 %.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
+
+	**Modifié par**:
+
+	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
+
+
+###### Article D521-6
+
+Le bénéficiaire d'une subvention à la construction ne peut, pendant une durée de trois ans à compter de la date d'attribution
+de la subvention, envisager de céder son appareil ou le louer sans l'autorisation du ministre chargé de l'aviation civile ;
+celui-ci peut exiger le remboursement total ou partiel de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
 ## LIVRE VI : DISPOSITIONS DIVERSES
