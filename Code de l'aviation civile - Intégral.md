@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1999-02-05
+Version Consolidée au 1999-03-30
 
 # Partie législative
 
@@ -6088,7 +6088,7 @@ matière de fonds de concours pour dépenses d'intérêt public.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES.
+## LIVRE VI : IMPUTATION DES CHARGES.
 
 ###### Article L611-1
 
@@ -6106,9 +6106,17 @@ intéressées est effectuée dans des conditions fixées par décret.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-908 1980-11-17 art. 7 JORF 21 novembre 1980
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 115
 
 	**Cité par**:
 
@@ -6121,6 +6129,12 @@ intéressées est effectuée dans des conditions fixées par décret.
 Donne lieu à rétablissement de crédit : le produit des ventes et abonnements des publications éditées par la section des
 instructions aéronautiques de l'aviation civile.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+611-2 (Fin de vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6131,6 +6145,18 @@ instructions aéronautiques de l'aviation civile.
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -6159,6 +6185,18 @@ civile " en application du décret n° 76-284 du 30 mars 1976.
 
 	  - Décret n°67-333 1967-03-30
 
+	**Modifié par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 
 ###### Article L611-4
 
@@ -6174,7 +6212,622 @@ civile, section Aviation civile, selon la procédure des fonds de concours pour 
 
 	**Codifié par**:
 
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS
+
+### TITRE Ier : DISPOSITIONS GENERALES
+
+#### CHAPITRE UNIQUE.
+
+###### Article L711-1
+
+I. - L'enquête technique menée à la suite d'un accident ou d'un incident d'aviation civile a pour seul objet, dans le but de
+prévenir de futurs accidents ou incidents et sans préjudice, le cas échéant, de l'enquête judiciaire, de collecter et
+d'analyser les informations utiles, de déterminer les circonstances et les causes certaines ou possibles de cet accident ou
+incident et, s'il y a lieu, d'établir des recommandations de sécurité.
+
+II. - Pour l'application du présent livre, constitue un accident, un incident grave ou un incident d'aviation civile, un
+accident, un incident grave ou un incident, entendus au sens de la directive 94/56/CE du Conseil du 21 novembre 1994
+établissant les principes fondamentaux régissant les enquêtes sur les accidents et les incidents dans l'aviation civile,
+survenu à tout type d'aéronef, à l'exclusion des aéronefs conçus exclusivement à usage militaire ou exploités en circulation
+aérienne militaire ou de ceux appartenant à un Etat qui ne sont pas inscrits au registre d'immatriculation prévu à l'article
+17 de la convention relative à l'aviation civile internationale signée à Chicago le 7 décembre 1944.
+
+III. - Tout accident ou incident grave d'aviation civile survenu à un aéronef muni d'un certificat de navigabilité délivré en
+conformité avec la convention relative à l'aviation civile internationale fait l'objet d'une enquête technique. Tout autre
+accident ou incident d'aviation civile peut également faire l'objet d'une enquête technique.
+
+IV. - Conformément aux règles internationales, l'enquête technique est de la compétence des autorités françaises pour les
+accidents et les incidents d'aviation civile qui sont survenus :
+
+1° Sur le territoire ou dans l'espace aérien français ;
+
+2° En dehors du territoire ou de l'espace aérien français, si l'accident ou l'incident concerne un aéronef immatriculé en
+France ou exploité par une personne physique ou morale ayant en France son siège statutaire ou son principal établissement et
+si :
+
+- l'accident ou l'incident survenant sur le territoire ou dans l'espace aérien d'un autre Etat, ce dernier n'ouvre pas une
+enquête technique ;
+
+- l'accident ou l'incident concernant un aéronef immatriculé dans un autre Etat, ce dernier n'ouvre pas une enquête
+technique.
+
+Les autorités françaises peuvent déléguer à un Etat membre de la Communauté européenne la réalisation de tout ou partie de
+l'enquête technique. Elles peuvent également déléguer à un Etat non membre de la Communauté européenne la réalisation d'une
+enquête portant sur un incident survenu à un aéronef immatriculé dans cet Etat ou des investigations liées à des événements
+survenus sur le territoire de cet Etat. Les autorités françaises peuvent accepter la délégation par un Etat étranger de la
+réalisation de tout ou partie d'une enquête technique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
 	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Décret n°2005-1383 du 4 novembre 2005 - art. 7 (Ab)
+	  - Code de l'aviation civile - art. R711-1 (Ab)
+	  - Code de l'aviation civile - art. R711-8 (Ab)
+	  - Code de l'aviation civile - art. R711-9 (V)
+	  - Code de l'aviation civile - art. R722-3 (V)
+	  - Code de l'aviation civile - art. R731-2 (Ab)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. R3125-4 (M)
+
+
+###### Article L711-2
+
+L'enquête technique est effectuée par un organisme permanent spécialisé, assisté, le cas échéant, pour un accident déterminé,
+par une commission d'enquête instituée par le ministre chargé de l'aviation civile.
+
+Dans le cadre de l'enquête, l'organisme permanent et les membres de la commission d'enquête agissent en toute indépendance et
+ne reçoivent ni ne sollicitent d'instructions d'aucune autorité, ni d'aucun organisme dont les intérêts pourraient entrer en
+conflit avec la mission qui leur est confiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 40 (Ab)
+	  - Décret n°2005-1383 du 4 novembre 2005 - art. 2 (Ab)
+	  - Décret n°2005-1383 du 4 novembre 2005 - art. 8 (Ab)
+	  - Code de l'aviation civile - art. R711-1 (Ab)
+	  - Code de l'aviation civile - art. R711-10 (Ab)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. R3125-1 (M)
+	  - Code de la défense. - art. R3125-26 (V)
+
+
+###### Article L711-3
+
+Seuls les agents de l'organisme permanent commissionnés à cet effet par le ministre chargé de l'aviation civile sur
+proposition du responsable de l'organisme permanent peuvent exercer les attributions prévues au présent livre pour les
+enquêteurs techniques.
+
+Toutefois, des agents appartenant aux corps techniques de l'aviation civile peuvent être agréés pour effectuer les opérations
+d'enquête prévues à l'article L. 721-1 sous le contrôle et l'autorité de l'organisme permanent. Ils sont appelés enquêteurs
+de première information.
+
+Un décret en Conseil d'Etat fixe les conditions de commissionnement des enquêteurs techniques, d'agrément des enquêteurs de
+première information et de nomination des membres des commissions d'enquête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 40 (Ab)
+	  - Décret n°2005-1383 du 4 novembre 2005 - art. 6 (Ab)
+	  - Code de l'aviation civile - art. R711-6 (Ab)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. R3125-25 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L721-1 (M)
+
+
+### TITRE II : L'ENQUETE TECHNIQUE
+
+#### CHAPITRE Ier : POUVOIRS DES ENQUETEURS.
+
+###### Article L721-1
+
+Les enquêteurs techniques et les enquêteurs de première information peuvent immédiatement accéder au lieu de l'accident ou de
+l'incident, à l'aéronef ou à son épave et à son contenu pour procéder sur place à toute constatation utile. En cas
+d'accident, l'autorité judiciaire est préalablement informée de leur intervention.
+
+Si nécessaire, les enquêteurs techniques ou, à défaut, les enquêteurs de première information prennent toute mesure de nature
+à permettre la préservation des indices.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L711-3 (VT)
+
+
+###### Article L721-2
+
+Les enquêteurs techniques ont accès sans retard au contenu des enregistreurs de bord et à tout autre enregistrement jugé
+pertinent et peuvent procéder à leur exploitation dans les conditions ci-après :
+
+I. - Lorsqu'il y a ouverture d'une enquête ou d'une information judiciaire, les enregistreurs et les supports
+d'enregistrements sont, selon les modalités prévues aux articles 97 et 163 du code de procédure pénale, préalablement saisis
+par l'autorité judiciaire et mis, à leur demande, à la disposition des enquêteurs techniques qui prennent copie, sous le
+contrôle d'un officier de police judiciaire, des enregistrements qu'ils renferment.
+
+II. - Lorsqu'il n'y a pas ouverture d'une enquête ou d'une information judiciaire, les enregistreurs et les supports
+d'enregistrement peuvent être prélevés par les enquêteurs techniques ou, sur instruction de l'organisme permanent, par les
+enquêteurs de première information, en présence d'un officier de police judiciaire. En cas d'accident, le concours de
+l'officier de police judiciaire est sollicité par l'intermédiaire du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+
+###### Article L721-3
+
+En cas d'accident ou d'incident ayant entraîné l'ouverture d'une enquête ou d'une information judiciaire, les enquêteurs
+techniques peuvent procéder, avec l'accord selon le cas du procureur de la République ou du juge d'instruction, au
+prélèvement, aux fins d'examen ou d'analyse, de débris, fluides, pièces, organes, ensembles ou mécanismes qu'ils estiment
+propres à contribuer à la détermination des circonstances et des causes de l'accident ou de l'incident.
+
+A défaut d'accord, ils sont informés des opérations d'expertise diligentées par l'autorité judiciaire compétente. Ils ont le
+droit d'y assister et d'exploiter les constatations faites dans le cadre de ces opérations pour les besoins de l'enquête
+technique.
+
+Les enquêteurs techniques ne peuvent soumettre les débris, fluides, pièces, organes, ensembles et mécanismes qui ont fait
+l'objet d'une saisie à des examens ou analyses susceptibles de les modifier, altérer ou détruire qu'avec l'accord de
+l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. A1 (VT)
+
+
+###### Article L721-4
+
+En cas d'accident ou d'incident n'ayant pas entraîné l'ouverture d'une enquête ou d'une information judiciaire, les
+enquêteurs techniques ou, sur instruction de l'organisme permanent, les enquêteurs de première information peuvent, en
+présence d'un officier de police judiciaire, prélever, aux fins d'examen ou d'analyse, les débris, fluides, pièces, organes,
+ensembles et mécanismes qu'ils estiment propres à contribuer à la détermination des circonstances et des causes de l'accident
+ou de l'incident. En cas d'accident, le concours de l'officier de police judiciaire est sollicité par l'intermédiaire du
+procureur de la République.
+
+Les objets ou les documents retenus par les enquêteurs techniques sont restitués dès lors que leur conservation n'apparaît
+plus nécessaire à la détermination des circonstances et des causes de l'accident ou de l'incident. La rétention et, le cas
+échéant, l'altération ou la destruction, pour les besoins de l'enquête, des objets ou des documents soumis à examen ou à
+l'analyse n'entraînent aucun droit à indemnité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+
+###### Article L721-5
+
+Les enquêteurs techniques peuvent exiger, sans que puisse leur être opposé le secret professionnel, la communication des
+documents de toute nature relatifs aux personnes, entreprises et matériels en relation avec l'accident ou l'incident et
+concernant notamment la formation et la qualification des personnes, la construction, la certification, l'entretien,
+l'exploitation des matériels, la préparation du vol, la conduite, l'information et le contrôle de l'aéronef ou des aéronefs
+impliqués.
+
+Lorsque ces documents sont placés sous scellés par l'autorité judiciaire, il en est établi une copie pour les enquêteurs
+techniques.
+
+Toutefois, les dossiers médicaux ne sont communiqués qu'aux médecins rattachés à l'organisme permanent. Seuls peuvent être
+communiqués les dossiers médicaux d'aptitude relatifs aux personnes chargées de la conduite, de l'information ou du contrôle
+de l'aéronef ou des aéronefs concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L723-1 (VT)
+	  - Code de procédure pénale - art. A1 (VT)
+
+
+###### Article L721-6
+
+Les enquêteurs techniques reçoivent, sur leur demande, communication des résultats des examens ou prélèvements effectués sur
+les personnes chargées de la conduite, de l'information et du contrôle de l'aéronef ou des aéronefs en relation avec
+l'accident ou l'incident et des conclusions de rapports d'expertise médico-légale concernant les victimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A1 (V)
+
+
+#### CHAPITRE II : PRESERVATION DES ELEMENTS DE L'ENQUETE.
+
+###### Article L722-1
+
+Il est interdit à toute personne de modifier l'état des lieux où s'est produit un accident, d'y effectuer des prélèvements
+quelconques, de se livrer sur l'aéronef ou son épave à quelque manipulation ou prélèvement que ce soit, de procéder à son
+déplacement ou à son enlèvement, sauf si ces actions sont commandées par des exigences de sécurité ou par la nécessité de
+porter secours aux victimes ou ont été autorisées par l'autorité judiciaire après avis de l'enquêteur technique ou, à défaut,
+de l'enquêteur de première information.
+
+En cas d'accident ou d'incident, l'équipage concerné, le propriétaire ou l'exploitant de l'aéronef ainsi que les personnes ou
+entreprises en relation avec l'accident ou l'incident et leurs préposés prennent toutes les dispositions de nature à
+préserver les documents, matériels et enregistrements pouvant être utiles à l'enquête, et notamment à éviter l'effacement
+après le vol de l'enregistrement des conversations et alarmes sonores.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+
+###### Article L722-2
+
+Toute personne impliquée, de par sa fonction, dans un incident qu'elle a spontanément et sans délai signalé à l'organisme
+permanent et, le cas échéant, à son employeur ne peut faire l'objet d'aucune sanction disciplinaire ou administrative, sauf
+en cas de manquement délibéré ou répété aux règles de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L722-3 (VT)
+	  - Code de l'aviation civile - art. L741-1 (VT)
+	  - Code de l'aviation civile - art. R722-6 (M)
+	  - Code de l'aviation civile - art. R722-7 (M)
+
+
+#### CHAPITRE III : PROCES-VERBAUX DE CONSTAT
+
+###### Article L723-1
+
+Des procès-verbaux sont établis par les enquêteurs techniques à l'occasion des opérations effectuées en application de
+l'article L. 721-5.
+
+Les procès-verbaux comportent la date et l'heure de début et de fin de l'intervention, le nom et la signature de l'enquêteur
+technique qui y procède, l'inventaire des pièces ou documents retenus ou vérifiés et, le cas échéant, les observations de la
+personne qui en avait la garde.
+
+Lorsqu'une procédure judiciaire est ouverte, une copie du procès-verbal est adressée à l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L721-5 (M)
+
+
+### TITRE III : DIFFUSION DES INFORMATIONS ET DES RAPPORTS D'ENQUETE
+
+#### CHAPITRE UNIQUE.
+
+###### Article L731-1
+
+I. - Les personnels de l'organisme permanent, les enquêteurs de première information, les membres des commissions d'enquête
+et les experts auxquels ils font appel sont tenus au secret professionnel dans les conditions et sous les peines prévues à
+l'article 226-13 du code pénal.
+
+II. - Par dérogation aux dispositions qui précèdent, le responsable de l'organisme permanent est habilité à transmettre des
+informations résultant de l'enquête technique, s'il estime qu'elles sont de nature à prévenir un accident ou un incident
+grave, aux autorités administratives chargées de la sécurité de l'aviation civile, aux dirigeants des entreprises de
+construction ou d'entretien des aéronefs ou de leurs équipements, aux personnes physiques et morales chargées de
+l'exploitation des aéronefs ou de la formation des personnels.
+
+En outre, le responsable de l'organisme permanent et, le cas échéant, les présidents de commission d'enquête sont habilités,
+dans le cadre de leur mission, à rendre publiques des informations sur les constatations faites par les enquêteurs
+techniques, le déroulement de l'enquête technique et éventuellement ses conclusions provisoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 40 (Ab)
+	  - Code de l'aviation civile - art. R426-1 (VD)
+	  - Code de l'aviation civile - art. R731-1 (Ab)
+	  - Code de la défense. - art. L3125-2 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+
+
+###### Article L731-2
+
+En cours d'enquête, l'organisme permanent peut émettre des recommandations de sécurité s'il estime que leur mise en oeuvre
+dans des délais brefs est de nature à prévenir un accident ou un incident grave.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+
+###### Article L731-3
+
+L'organisme permanent rend public au terme de l'enquête technique un rapport sous une forme appropriée au type et à la
+gravité de l'événement. Ce rapport n'indique pas le nom des personnes. Il ne fait état que des informations résultant de
+l'enquête nécessaires à la détermination des circonstances et des causes de l'accident ou de l'incident et à la compréhension
+des recommandations de sécurité.
+
+Avant la remise du rapport, l'organisme permanent peut recueillir les observations des autorités, entreprises et personnels
+intéressés. Ceux-ci sont tenus au secret professionnel en ce qui concerne les éléments de cette consultation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L731-4 (VT)
+
+
+### TITRE IV : DISPOSITIONS PENALES
+
+#### CHAPITRE UNIQUE
+
+###### Article L741-1
+
+Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait, pour les personnes qui, de par leurs fonctions, sont
+appelées à connaître d'un accident ou d'un incident, de ne pas le porter à la connaissance des autorités administratives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°99-243 1999-03-29 art. 1 JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+
+###### Article L741-2
+
+Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait d'entraver l'action de l'organisme permanent :
+
+1° Soit en s'opposant à l'exercice des fonctions dont sont chargés les enquêteurs techniques ;
+
+2° Soit en refusant de leur communiquer les enregistrements, les matériels, les renseignements et les documents utiles, en
+les dissimulant, en les altérant ou en les faisant disparaître.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°99-243 1999-03-29 art. 1 JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+
+###### Article L741-3
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies au présent titre.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, selon les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
