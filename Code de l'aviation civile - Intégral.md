@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1991-03-09
+Version Consolidée au 1991-06-16
 
 # Partie législative
 
@@ -21281,7 +21281,8 @@ d'expertises médicales ;
 424-1, L. 424-2, L. 424-5 et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporaire ou permanente de
 travail et de décès consécutifs à un accident aérien survenu en service ou une maladie imputable au service aérien ;
 
-4° De recevoir et d'examiner :
+4° De recevoir et d'examiner sous réserve des compétences dévolues par les articles D. 434-1 et suivants aux commissions
+médicales régionales de l'aviation civile :
 
 a) Les appels interjetés par les candidats aux fonctions réservées au personnel navigant professionnel et les titulaires
 d'une licence du personnel navigant déclarés médicalement inaptes au titre de l'aéronautique civile par un centre d'expertise
@@ -21304,6 +21305,8 @@ médecin chef d'un centre médical agréé ou d'une commission de médecins, d'u
 d'un territoire d'outre-mer agréés peut, à titre exceptionnel, et pour une durée maximale de quarante-cinq jours, déclarer un
 navigant professionnel apte à exercer ses fonctions jusqu'à la décision du conseil médical de l'aéronautique civile. (1)
 
+" e) Les appels interjetés contre les décisions des commissions médicales régionales de l'aviation civile. "
+
 (1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
 
 **Liens relatifs à cet article**
@@ -21315,6 +21318,10 @@ navigant professionnel apte à exercer ses fonctions jusqu'à la décision du co
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 2 () JORF 16 juin 1991
 
 	**Cité par**:
 
@@ -21332,10 +21339,11 @@ navigant professionnel apte à exercer ses fonctions jusqu'à la décision du co
 	  - Code de l'aviation civile - art. L424-2 (V)
 	  - Code de l'aviation civile - art. L424-5 (V)
 	  - Code de l'aviation civile - art. R426-11 (M)
+	  - Code de l'aviation civile L424-1, L424-2, L424-5, R426-11, D431-1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°72-444 1972-05-26 art. 1 JORF 1er juin 1972
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
 
 
 ###### Article D424-3
@@ -21510,6 +21518,233 @@ l'aviation civile (direction générale de l'aviation civile).
 
 
 ### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL
+
+#### CHAPITRE IV : COMMISSIONS MEDICALES REGIONALES DE L'AVIATION CIVILE
+
+###### Article D434-1
+
+Il est institué dans chaque direction régionale de l'aviation civile et dans chaque service d'Etat de l'aviation civile dans
+les territoires d'outre-mer une commission médicale régionale de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D424-2 (M)
+
+
+###### Article D434-2
+
+Les commissions médicales régionales de l'aviation civile se prononcent sur :
+
+- les demandes de dérogation aux normes d'aptitude physique et mentale ;
+
+- les recours contre les décisions prononcées en matière d'aptitude par les médecins agréés ;
+
+- les demandes d'avis que ces derniers peuvent présenter avant de se prononcer sur l'aptitude d'un candidat.
+
+Chaque commission est compétente pour statuer sur les décisions prises par les médecins de son ressort géographique ; la
+commission de la direction de l'aviation civile pour la région Nord statue, en outre, sur les décisions prises par les
+médecins installés à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
+
+###### Article D434-3
+
+Les commissions médicales régionales de l'aviation civile comprennent :
+
+- le médecin-chef de la direction régionale ou le médecin du service concerné, président ;
+
+- cinq docteurs en médecine, qualifiés dans une des disciplines principales de la médecine aéronautique, dont l'un est
+désigné en qualité de vice-président ;
+
+- deux médecins agréés, titulaires d'une licence de pilote.
+
+Dans les départements et territoires d'outre-mer, les deux dernières catégories peuvent ne comprendre, respectivement, que
+deux et un membre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
+
+###### Article D434-4
+
+Les membres des commissions médicales régionales sont nommés pour une période de trois ans renouvelable par le directeur
+régional de l'aviation civile ou par le chef du service d'Etat de l'aviation civile, aprés avis du du conseil médical de
+l'aéronautique civile.
+
+Tout membre dont le mandat est interrompu est remplacé jusqu'à la date à laquelle sont mandat devait expirer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
+
+###### Article D434-5
+
+Les commissions médicales régionales de l'aviation civile se réunissent sur convocation de leur président ou à la demande de
+la moitié de leurs membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
+
+###### Article D434-6
+
+Les commissions médicales régionales de l'aviation civile délibèrent valablement dès lors que la moitié de leurs membres sont
+présents.
+
+Les membres des commissions médicales ne peuvent prendre part aux délibérations portant sur l'examen des cas individuels dont
+ils ont déjà eu connaissance à l'occasion d'une activité extérieure à la commission.
+
+Les séances sont tenues à huis clos. Les délibérations sont prises à la majorité des voix, le président ayant, en cas
+d'égalité de suffrages, voix prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
+
+###### Article D434-7
+
+Le président d'une commission médicale peut décider de consulter des personnalités compétentes et notamment des membres d'un
+centre d'expertise médicale du personnel navigant ou d'un service de l'aviation civile.
+
+Il peut désigner des médecins experts s'il le juge nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
+
+###### Article D434-8
+
+Le secrétariat des commissions médicales régionales de l'aviation civile est assuré par les services du médecin-chef de la
+direction régionale de l'aviation civile ou du médecin du service de l'aviation civile concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
+
+	**Créé par**:
+
+	  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
+
 
 #### CHAPITRE V : DISCIPLINE.
 
