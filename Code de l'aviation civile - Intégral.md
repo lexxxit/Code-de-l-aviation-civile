@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2000-07-05
+Version Consolidée au 2000-11-01
 
 # Partie législative
 
@@ -25874,6 +25874,133 @@ provisoire.
 
 ##### Section 1 : Dispositions générales
 
+###### Article D422-1
+
+Définitions : 
+
+Tous les temps ci-après s'entendent en heures programmées à l'exception du c et du d. 
+
+a) On appelle temps de vol le temps décompté depuis le moment où l'aéronef commence à se déplacer en vue de gagner l'aire de
+décollage jusqu'au moment où il s'immobilise à la fin du vol. N'est pas considérée comme temps d'arrêt la durée des temps de
+vol effectués comme passager lorsque le déplacement est imposé par des nécessités de service. 
+
+On appelle période de vol la somme des temps de vol entre deux temps d'arrêts successifs conformes aux dispositions des
+articles D. 422-2, D. 422-5, D. 422-11 et D. 422-12. 
+
+On appelle amplitude de vol le temps décompté depuis le moment où l'aéronef commence à se déplacer en vue de gagner l'aire de
+décollage pour effectuer la première étape jusqu'au moment où il s'immobilise à la fin de la dernière étape précédant
+l'octroi d'un temps d'arrêt conforme aux dispositions des articles D. 422-2, D. 422-5 et D. 422-11. 
+
+On appelle temps d'arrêt le temps décompté depuis le moment où l'aéronef s'immobilise à la fin de la dernière étape jusqu'au
+moment où l'aéronef commence à se déplacer en vue de gagner l'aire de décollage pour effectuer la première étape d'une
+nouvelle période de vol. 
+
+On entend par long parcours le voyage aérien qui éloigne un membre de l'équipage d'un aéronef de plus de trois mille milles
+marins de sa base d'affectation ou dont l'itinéraire préétabli comporte, entre deux escales consécutives, un parcours
+supérieur à mille deux cents milles marins. 
+
+b) On entend par arrêt nocturne normal toute période de 9 heures consécutives comprises entre 21 heures et 9 heures du matin
+en heures locales de l'escale considérée. 
+
+c) On entend par jour, semaine, mois, trimestre, semestre et année ou an les périodes de temps correspondant respectivement
+au jour civil couvrant la période de 0 heure à 24 heures locales, à la semaine civile, au mois civil, au trimestre civil, au
+semestre civil et à l'année civile. 
+
+d) On entend par temps de vol médian la valeur centrale des temps de vol constatés sur chaque tronçon, par type d'aéronef,
+résultant de l'observation des temps réalisés lors de la dernière période correspondante du programme d'exploitation. 
+
+e) On entend par personnel navigant en fonction le personnel navigant qui exécute un travail à bord d'un aéronef pendant tout
+ou partie d'un vol et qui n'est pas en passager service. 
+
+f) On entend par mois ou semestre complet d'activité un mois civil ou un semestre civil sans congé légal ou conventionnel ni
+période de suspension du contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°51-359 1951-03-23 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 1 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D422-1 (M)
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-2 (M)
+	  - Code de l'aviation civile - art. D422-3 (V)
+	  - Code de l'aviation civile - art. D422-5-1 (V)
+	  - Code de l'aviation civile - art. D422-5-2 (V)
+	  - Code de l'aviation civile - art. D422-7 (M)
+	  - Code de l'aviation civile - art. D422-9 (V)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D422-11 (V)
+	  - Code de l'aviation civile - art. D422-12 (V)
+	  - Code de l'aviation civile - art. D422-5 (V)
+
+
+###### Article D422-2
+
+Temps d'arrêt périodiques : 
+
+Indépendamment des temps d'arrêt qui suivent obligatoirement les périodes de vol, le personnel navigant bénéficie à sa base
+d'affectation : 
+
+a) D'au moins un temps d'arrêt par semaine dont la durée ne peut être inférieure à 36 heures consécutives s'il est affecté
+aux petits et moyens parcours. 
+
+Pour les personnels des entreprises relevant de la section 2, le temps d'arrêt périodique peut s'achever le premier jour de
+la semaine suivante à la condition que son attribution garantisse au moins 24 heures consécutives au cours de chaque
+semaine ; 
+
+b) D'un temps d'arrêt au moins égal à quatre jours consécutifs par mois s'il est affecté aux longs parcours ; 
+
+c) Le temps d'arrêt prévu au b ci-dessus est porté à cinq jours deux fois par semestre civil pour les personnels navigants
+affectés aux longs parcours et régis par les articles D. 422-3 à D. 422-7. Si des circonstances imprévisibles conduisent
+l'employeur à déplacer deux mois consécutifs le temps d'arrêt périodique par rapport à la position définie au début du mois
+considéré, le temps d'arrêt périodique du mois suivant est augmenté d'un jour sans que la position initiale puisse être
+modifiée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°51-359 1951-03-23 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 2 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D422-1 (V)
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-2 (M)
+	  - Code de l'aviation civile - art. D422-5-1 (V)
+	  - Code de l'aviation civile - art. D422-5-2 (V)
+	  - Code de l'aviation civile - art. D422-6 (V)
+	  - Code de l'aviation civile - art. D422-7 (M)
+	  - Code de l'aviation civile - art. D422-8 (M)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D422-3 (V)
+
+
 ###### Article D422-3
 
 Les dispositions des articles D. 422-1 à D. 422-8 sont applicables au personnel navigant employé par des entreprises
@@ -25907,6 +26034,80 @@ ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt siège
 	  - Code de l'aviation civile - art. D422-7 (M)
 	  - Code de l'aviation civile - art. D422-8 (M)
 	  - Code de l'aviation civile - art. R426-12 (M)
+
+
+###### Article D422-4
+
+Dans les conditions actuelles d'exploitation des entreprises, il est admis qu'à la durée du travail effectif telle que
+définie au premier alinéa de l'article L. 212-1 du code du travail correspond un temps de travail exprimé en heures de vol
+soit d'une durée mensuelle résultant de l'application du premier alinéa de l'article D. 422-8, soit d'une durée de 740 heures
+à l'année.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°51-359 1951-03-23 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 3 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L212-1 (M)
+	  - Code de l'aviation civile - art. D422-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D422-1 (M)
+	  - Code de l'aviation civile - art. D422-16 (Ab)
+	  - Code de l'aviation civile - art. D422-2 (M)
+	  - Code de l'aviation civile - art. D422-7 (M)
+	  - Code de l'aviation civile - art. R426-12 (M)
+
+
+###### Article D422-4-1
+
+La durée maximale du temps de vol effectué ne peut dépasser 90 heures par mois. Toutefois, quatre mois non consécutifs par
+an, elle peut être portée à 95 heures. Chacune de ces deux limites est réduite en fonction du nombre d'étapes sur un mois
+considéré selon la formule : 90 (ou 95) - (n étapes effectuées en fonction - 20) x 1/6, sans que ceci ait pour effet
+d'abaisser la durée maximale mensuelle à moins de 85 heures.
+
+Il ne peut être effectué plus de 95 heures de temps de vol entre le 16 d'un mois et le 15 du mois suivant.
+
+La durée du temps de vol effectué dans trois mois consécutifs ne peut dépasser 265 heures.
+
+La durée maximale du temps de vol effectué sur l'année est déterminée par la formule : 900 heures - (n étapes en fonction -
+200) x 1/6, sans que ceci ait pour effet d'abaisser cette limite à moins de 850 heures.
+
+**Nota:**
+
+Décret 2000-1030 2000-10-18 art. 8 : les dispositions du dernier alinéa de l'article D422-4-1 entrent en vigueur le 1er
+janvier 2001.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 4 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1030 du 18 octobre 2000 - art. 8 (V)
+
+	**Cité par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 8 (V)
+	  - Code de l'aviation civile - art. D422-7 (V)
 
 
 ###### Article D422-5
@@ -25989,6 +26190,125 @@ effectivement réalisés correspondants est transmise au ministre chargé de l'a
 	  - Code de l'aviation civile - art. R426-12 (M)
 
 
+###### Article D422-5-1
+
+Pour l'application de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de travail, la durée du
+travail du personnel navigant peut être réduite, par voie de convention ou d'accord collectif de branche, d'entreprise ou
+d'établissement, selon les modalités suivantes : 
+
+I.-Le personnel affecté aux petits et moyens parcours bénéficie, à sa base d'affectation, de 408 heures de temps d'arrêt
+supplémentaire par semestre complet d'activité, nonobstant les temps d'arrêt périodiques prévus à l'article D. 422-2 et les
+temps d'arrêt après périodes de vol tels que définis à l'article D. 422-5. 
+
+A défaut d'accord d'entreprise ou d'établissement, ce temps d'arrêt supplémentaire est réparti de la façon suivante : 
+
+a) Un minimum de 48 heures est attribué par mois complet d'activité, porté à 60 heures deux mois par semestre, par fractions
+d'au moins 12 heures consécutives accolées au temps d'arrêt périodique visé à l'article D. 422-2 ou à toute période de congé
+légal ou conventionnel. Ce temps d'arrêt supplémentaire ou l'une de ses fractions peut commencer le mois précédant ou
+s'achever le mois suivant la période au titre de laquelle il est octroyé. 
+
+b) Le solde est octroyé dans le cadre du semestre. Il peut être attribué :
+
+- soit par fractions d'au moins 12 heures consécutives lorsqu'il est accolé à un temps d'arrêt périodique ou à une période de
+congé légal ou conventionnel ;
+
+- soit par périodes de 12,18 ou 24 heures, lorsqu'il est accolé aux temps d'arrêt après périodes de vol tels que définis par
+l'article D. 422-5 ou à toute autre période de repos prévu par convention ou accord de branche, d'entreprise ou
+d'établissement dès lors que l'ensemble couvre au moins un jour au sens du c de l'article D. 422-1. Le solde, ou une de ses
+fractions ou périodes d'au moins douze heures, peut être attribué au cours du premier mois du semestre suivant. 
+
+II.-Le personnel affecté aux longs parcours bénéficie, à sa base d'affectation, de 288 heures de temps d'arrêt supplémentaire
+par semestre complet d'activité, nonobstant les temps d'arrêt périodiques prévus à l'article D. 422-2 et les temps d'arrêt
+après périodes de vol tels que définis par l'article D. 422-5. 
+
+A défaut d'accord d'entreprise ou d'établissement, ce temps d'arrêt supplémentaire est réparti et attribué à raison de deux
+fractions de 24 heures consécutives, garantissant chacune un arrêt nocturne normal, par mois complet d'activité, accolées à
+un temps d'arrêt périodique tel que prévu à l'article D. 422-2 ou aux temps d'arrêt après périodes de vol tels que définis à
+l'article D. 422-5, ou à une période de congé légal ou conventionnel, ou à une période de repos prévu par convention ou
+accord de branche, d'entreprise ou d'établissement. Une portion de l'ensemble ainsi constitué peut commencer le mois
+précédent ou s'achever le mois suivant. 
+
+L'attribution de l'une des deux fractions telles que définies à l'alinéa précédent peut être reportée sur les autres mois de
+l'année, dans la limite de six mois par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 (V)
+	  - Code de l'aviation civile - art. D422-1 (V)
+	  - Code de l'aviation civile - art. D422-2 (V)
+	  - Code de l'aviation civile - art. D422-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 5 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D422-5-2 (V)
+
+
+###### Article D422-5-2
+
+Pour l'application de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de travail et de manière
+alternative à l'application des dispositions des articles D. 422-2 et D. 422-5-1, la durée du travail du personnel navigant
+peut également être réduite par convention ou accord collectif d'entreprise ou d'établissement, dans le cadre d'un régime de
+travail fondé sur une alternance de jours d'activité et d'inactivité et autorisé dans les formes prévues à l'article D.
+422-6, selon les modalités suivantes : 
+
+Pour l'application du présent article, on entend par jour d'inactivité une période de repos attribuée à la base
+d'affectation, pouvant inclure tout ou partie d'un des temps d'arrêt prévus par l'article D. 422-5, au cours de laquelle
+aucune activité n'est réalisée et qui n'est pas un jour de congé légal. Cette période, libre de toute activité ou
+assujettissement à l'entreprise, couvre un jour au sens du c de l'article D. 422-1. Pour tenir compte de particularités
+d'exploitation, une définition différente pourra être retenue par convention ou accord collectif d'entreprise ou
+d'établissement. 
+
+Le personnel navigant affecté aux petits, moyens ou longs parcours bénéficie d'au moins 64 jours d'inactivité programmés par
+semestre complet d'activité, répartis à raison de 10 jours d'inactivité programmés par mois complet d'activité, pouvant être
+réduits à 9 jours d'inactivité quatre mois par an. 
+
+En outre, les dispositions suivantes remplacent celles figurant à l'article D. 422-2 : 
+
+a) Lorsque le personnel navigant est affecté aux petits et moyens parcours, il ne peut être programmé plus de sept jours
+consécutifs d'activité entre deux périodes de repos dont la durée minimale ne peut être inférieure à 36 heures et
+garantissant 2 arrêts nocturnes normaux ; 
+
+b) Pour l'application du troisième alinéa du présent article, chacun des mois complets d'activité doit comporter un minimum
+de cinq jours consécutifs d'inactivité pour le personnel navigant affecté aux longs parcours. 
+
+En outre, un membre d'équipage d'un aéronef bénéficie d'un repos d'une durée minimale de 36 heures garantissant deux arrêts
+nocturnes normaux, à la base d'affectation, à l'issue d'un courrier comportant une étape de plus de 3 000 milles nautiques. 
+
+Pour l'application de l'alinéa précédent, on entend par courrier un ensemble de périodes de vol éloignant un membre
+d'équipage de sa base d'affectation et l'y ramenant. 
+
+Une convention ou un accord collectif d'entreprise peut prévoir des modalités de programmation et de répartition des jours
+d'inactivité alternatives ou complémentaires aux dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 (V)
+	  - Code de l'aviation civile - art. D422-1 (V)
+	  - Code de l'aviation civile - art. D422-2 (V)
+	  - Code de l'aviation civile - art. D422-5-1 (V)
+	  - Code de l'aviation civile - art. D422-6 (V)
+
+	**Créé par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 5 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
+
+
 ###### Article D422-6
 
 Sur demande présentée dans un délai raisonnable par une organisation patronale ou du personnel de la profession, ou par la
@@ -26029,193 +26349,25 @@ renfort de l'équipage.
 	  - Code de l'aviation civile - art. D422-2 (V)
 
 
-##### SECTION I : Dispositions générales
-
-###### Article D422-1
-
-Définitions :
-
-Tous les temps ci-après s'entendent en heures programmées à l'exception du c et du d.
-
-a) On appelle temps de vol le temps décompté depuis le moment où l'aéronef commence à se déplacer par ses propres moyens en
-vue de gagner l'aire de décollage jusqu'au moment où il s'immobilise à la fin du vol. N'est pas considérée comme temps
-d'arrêt la durée des temps de vol effectués comme passager lorsque le déplacement est imposé par des nécessités de service.
-
-On appelle période de vol la somme des temps de vol entre deux temps d'arrêts successifs conformes aux dispositions des
-articles D. 422-2, D. 422-5, D. 422-11 et D. 422-12.
-
-On appelle amplitude de vol le temps décompté depuis le moment où l'aéronef commence à se déplacer par ses propres moyens en
-vue de gagner l'aire de décollage pour effectuer la première étape jusqu'au moment où il s'immobilise à la fin de la dernière
-étape précédant l'octroi d'un temps d'arrêt conforme aux dispositions des articles D. 422-2, D. 422-5 et D. 422-11.
-
-On appelle temps d'arrêt le temps décompté depuis le moment où l'aéronef s'immobilise à la fin de la dernière étape jusqu'au
-moment où l'aéronef commence à se déplacer par ses propres moyens pour effectuer la première étape d'une nouvelle période de
-vol.
-
-On entend par long parcours le voyage aérien qui éloigne un membre de l'équipage d'un aéronef de plus de trois mille milles
-marins de sa base d'affectation ou dont l'itinéraire préétabli comporte, entre deux escales consécutives, un parcours
-supérieur à mille deux cents milles marins.
-
-b) On entend par arrêt nocturne normal toute période de 9 heures consécutives comprises entre 21 heures et 9 heures du matin
-en heures locales de l'escale considérée.
-
-c) On entend par trimestre les périodes de calendrier commençant respectivement les 1er janvier, 1er avril, 1er juillet et
-1er octobre.
-
-d) On entend par temps de vol médian la valeur centrale des temps de vol constatés sur chaque tronçon, par type d'aéronef,
-résultant de l'observation des temps réalisés lors de la dernière période correspondante du programme d'exploitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-359 1951-03-23 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°97-999 du 29 octobre 1997 - art. 1 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 2 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 3 () JORF 31 octobre 1997
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D422-1 (M)
-	  - Code de l'aviation civile - art. D422-16 (Ab)
-	  - Code de l'aviation civile - art. D422-2 (M)
-	  - Code de l'aviation civile - art. D422-3 (V)
-	  - Code de l'aviation civile - art. D422-5-1 (V)
-	  - Code de l'aviation civile - art. D422-5-2 (V)
-	  - Code de l'aviation civile - art. D422-7 (M)
-	  - Code de l'aviation civile - art. D422-9 (V)
-	  - Code de l'aviation civile - art. R426-12 (M)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. D422-11 (M)
-	  - Code de l'aviation civile - art. D422-12 (M)
-	  - Code de l'aviation civile - art. D422-5 (M)
-
-
-###### Article D422-2
-
-Temps d'arrêt périodiques :
-
-Indépendamment des temps d'arrêt qui suivent obligatoirement les périodes de vol, le personnel navigant bénéficie à sa base
-d'affectation :
-
-a) D'au moins un temps d'arrêt par semaine dont la durée ne peut être inférieure à 36 heures consécutives s'il est affecté
-aux petits et moyens parcours ;
-
-b) D'un temps d'arrêt au moins égal à quatre jours consécutifs par mois s'il est affecté aux longs parcours ;
-
-c) Le temps d'arrêt prévu au b ci-dessus est porté à cinq jours deux fois par semestre civil pour les personnels navigants
-affectés aux longs parcours et régis par les articles D. 422-3 à D. 422-7. Si des circonstances imprévisibles conduisent
-l'employeur à déplacer deux mois consécutifs le temps d'arrêt périodique par rapport à la position définie au début du mois
-considéré, le temps d'arrêt périodique du mois suivant est augmenté d'un jour sans que la position initiale puisse être
-modifiée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-359 1951-03-23 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°97-999 du 29 octobre 1997 - art. 1 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 2 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 4 () JORF 31 octobre 1997
-
-	**Cite**:
-
-	  - CODE DE L'AVIATION CIVILE D422-3 à D422-7
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D422-1 (V)
-	  - Code de l'aviation civile - art. D422-16 (Ab)
-	  - Code de l'aviation civile - art. D422-2 (M)
-	  - Code de l'aviation civile - art. D422-5-1 (V)
-	  - Code de l'aviation civile - art. D422-5-2 (V)
-	  - Code de l'aviation civile - art. D422-6 (V)
-	  - Code de l'aviation civile - art. D422-7 (M)
-	  - Code de l'aviation civile - art. D422-8 (M)
-	  - Code de l'aviation civile - art. R426-12 (M)
-
-
-###### Article D422-4
-
-Dans les conditions actuelles d'exploitation des entreprises, il est admis qu'à la durée du travail effectif prévue à
-l'article L. 212-1 du code du travail correspond un temps de travail qui, exprimé en heures de vol, ne doit pas dépasser dans
-l'année une durée mensuelle moyenne de 75 heures, la durée de vol effectuée dans un mois considéré isolément ne pouvant
-excéder 95 heures, celle effectuée dans deux mois civils consécutifs 180 heures, ou celle effectuée dans trois mois civils
-consécutifs 265 heures.
-
-Pour l'application de l'alinéa précédent, la limitation mensuelle à 95 heures doit être respectée aussi bien entre le premier
-et le dernier jour de chaque mois civil qu'entre le 16 d'un mois civil et le 15 du mois suivant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-359 1951-03-23 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°97-999 du 29 octobre 1997 - art. 1 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 5 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 7 () JORF 31 octobre 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-999 du 29 octobre 1997 - art. 23 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L212-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D422-1 (M)
-	  - Code de l'aviation civile - art. D422-16 (Ab)
-	  - Code de l'aviation civile - art. D422-2 (M)
-	  - Code de l'aviation civile - art. D422-7 (M)
-	  - Code de l'aviation civile - art. D422-8 (M)
-	  - Code de l'aviation civile - art. R426-12 (M)
-
-
 ###### Article D422-7
 
-Il peut être dérogé aux limitations visées à la présente section dans les conditions suivantes :
+Il peut être dérogé aux limitations visées à la présente section dans les conditions suivantes : 
 
-1. Vols urgents, dont l'exécution immédiate est nécessaire :
+1. Vols urgents, dont l'exécution immédiate est nécessaire : 
 
 a) Pour prévenir des accidents imminents et organiser des mesures de sauvetage, ou pour réparer des accidents survenus soit
-au matériel, soit aux installations ;
+au matériel, soit aux installations ; 
 
-b) Pour assurer le dépannage des aéronefs.
+b) Pour assurer le dépannage des aéronefs. 
 
 2. Pour assurer l'achèvement d'une période de vol que des circonstances exceptionnelles n'auraient pas permis d'effectuer
-dans les limites préétablies.
+dans les limites préétablies. 
 
 3. Vols exécutés dans l'intérêt de la sûreté ou de la défense nationale ou d'un service public sur ordre du Gouvernement
-constatant la nécessité de la dérogation. La limite est à fixer par le ministre chargé de l'aviation civile.
+constatant la nécessité de la dérogation. La limite est à fixer par le ministre chargé de l'aviation civile. 
 
-4. Travaux urgents en cas de surcroît de travail sans que toutefois ceux-ci puissent avoir pour effet ni de porter à plus de
-900 heures le nombre total des heures de vol annuelles ni d'entraîner le dépassement des maxima prévus à l'article D. 422-4
-pour un mois considéré isolément, pour deux mois civils consécutifs et pour trois mois consécutifs.
+4. Travaux urgents en cas de surcroît de travail sans que toutefois ceux-ci puissent avoir pour effet d'entraîner le
+dépassement des durées maximales prévues à l'article D. 422-4-1, pour un mois, pour trois mois consécutifs et pour l'année. 
 
 Les heures supplémentaires sont effectuées dans les conditions prévues et sous réserve des autorisations spécifiées par la
 législation en vigueur.
@@ -26230,15 +26382,13 @@ législation en vigueur.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°97-999 du 29 octobre 1997 - art. 1 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 10 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 5 () JORF 31 octobre 1997
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°97-999 du 29 octobre 1997 - art. 23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 6 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
 
 	**Cité par**:
 
@@ -26252,28 +26402,30 @@ législation en vigueur.
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D422-4 (M)
+	  - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### SECTION II : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges
 
 ###### Article D422-8
 
-Les heures de vol sont comptabilisées à la fin de chacun des trimestres. Elles sont considérées, à partir de la 226e heure,
-comme heures supplémentaires, à l'exclusion de celles effectuées pour prévenir des accidents imminents et organiser des
-mesures de sauvetage. Elles donnent lieu à une majoration de 25 % portant sur les éléments de rémunération, à l'exclusion des
-remboursements de frais.
+Les heures de vol sont comptabilisées à la fin de chaque mois. Elles sont considérées comme heures supplémentaires à compter
+de la 76e heure, à l'exclusion des heures effectuées pour prévenir des accidents imminents et organiser les mesures de
+sauvetage. Elles donnent lieu à une majoration de 25 % portant sur les éléments de rémunération, à l'exclusion des
+remboursements de frais. Toutefois, ce seuil est modulé en fonction du nombre d'étapes sur un mois selon la formule : 75 - (n
+étapes effectuées en fonction - 20 x 1/6), sans pour autant être inférieur à 67 heures.
 
-En outre, les heures de vol sont comptabilisées à la fin de chaque année. Elles sont considérées, à partir de la 826e heure,
-comme heures supplémentaires, à l'exclusion de celles effectuées pour prévenir des accidents imminents et organiser des
+En outre, les heures de vol sont comptabilisées à la fin de chaque année. Elles sont considérées, à partir de la 741e heure,
+comme heures supplémentaires, à l'exclusion de celles effectuées pour prévenir des accidents imminents et organiser les
 mesures de sauvetage, et rémunérées dans les conditions de l'alinéa précédent si elles n'ont pas déjà donné lieu à
 majoration.
 
+**Nota:**
+
+Décret 2000-1030 2000-10-18 art. 8 : les dispositions du deuxième alinéa de l'article D422-8 entrent en vigueur le 1er
+janvier 2001.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-1153 1960-10-29 art. 1
 
 	**Codifié par**:
 
@@ -26281,9 +26433,11 @@ majoration.
 
 	**Modifié par**:
 
-	  - Décret n°97-999 du 29 octobre 1997 - art. 1 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 11 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 5 () JORF 31 octobre 1997
+	  - Décret n°2000-1030 du 18 octobre 2000 - art. 7 () JORF 22 octobre 2000 en vigueur le 1er novembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1030 du 18 octobre 2000 - art. 8 (V)
 
 	**Cité par**:
 
