@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1977-10-12
+Version Consolidée au 1978-01-01
 
 # Partie législative
 
@@ -1758,6 +1758,29 @@ II, 1re partie).
 	  - Code de l'aviation civile - art. L150-7 (V)
 
 
+###### Article L150-9
+
+Tous jets volontaires et inutiles d'objets susceptibles de causer des dommages aux personnes et aux biens de la surface sont
+interdits à bord des aéronefs en évolution et seront punis d'une amende de 1 800 F à 20 000 F [*(1)*] et d'une peine de six
+jours à deux mois de prison ou de l'une de ces deux peines seulement, même si ces jets n'ont causé aucun dommage et sans
+préjudice des peines plus fortes qui pourraient être encourues en cas de délit ou de crime.
+
+**Nota:**
+
+[*(1) Taux résultant de la loi n° 77-1968 du 30 décembre 1977 (art. 16).*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 53
+	  - Loi n°1924-05-31 art. 71
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+
 ###### Article L150-10
 
 En cas d'accident causé par un aéronef aux personnes de la surface, l'article L. 2 du code de la route, qui prévoit et
@@ -2377,6 +2400,37 @@ La comptabilité des établissements dont il s'agit est autonome ; elle est tenu
 ### TITRE VIII : DISPOSITIONS PENALES
 
 #### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.
+
+###### Article L281-1
+
+Les infractions aux dispositions réglementaires concernant les servitudes aéronautiques de dégagement et de balisage
+instituées dans l'intérêt de la circulation aérienne sont punies d'une amende de 500 F à 20 000 F [*(1)*].
+
+En cas de récidive, les infractions sont punies d' une amende de 1 000 F à 40 000 F [*(1)*] et d'un emprisonnement de dix
+jours à trois mois ou de l'une de ces deux peines seulement.
+
+**Nota:**
+
+[*(1) Taux résultant de la loi n° 77-1468 du 30 décembre 1977 (art. 16)*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-62 1959-01-03 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L281-2 (VT)
+	  - Code de l'aviation civile - art. L281-4 (VT)
+	  - Code de l'aviation civile - art. R281-3 (V)
+	  - Code de l'urbanisme - art. II (M)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+
 
 ###### Article L281-2
 
@@ -5686,6 +5740,27 @@ définies par décret.
 
 	  - Code de l'aviation civile - art. R211-2-2 (V)
 	  - Code de l'aviation civile - art. R211-2-2 (VT)
+
+
+###### Article R211-3
+
+Les travaux de création ou d'extension d'infrastructure dont le coût total est supérieur au montant fixé au C de l'article 3
+du décret n° 77-1141 du 12 octobre 1977 donnent lieu à l'établissement préalable de l'étude d'impact définie à l'article 2 du
+même décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°77-1141 1977-10-12 art. 14-I JORF 13 octobre 1977 en vigueur le 1er janvier 1978
+
+	**Cite**:
+
+	  - Décret n°77-1141 1977-10-12 art. 3
 
 
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
