@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1984-04-01
+Version Consolidée au 1984-05-12
 
 # Partie législative
 
@@ -9080,6 +9080,54 @@ Des décrets préciseront les modalités d'application du présent titre.
 
 ##### Paragraphe 1 : Conseil d'administration.
 
+###### Article R252-5
+
+Chaque représentant des salariés dispose, pour l'exercice de son mandat d'administrateur, d'un crédit d'heures égal à la
+moitié de la durée légale du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-353 1984-05-11 art. 3 JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R252-8
+
+Dès sa formation le conseil d'administration se réunit sur la convocation du ministre chargé de l'aviation civile.
+
+Le président est nommé parmi les membres du conseil d'administration et sur proposition de celui-ci, par décret en conseil
+des ministres.
+
+En cas d'absence ou d'empêchement du président, le membre du conseil d'administration le plus âgé assure son intérim.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-353 1984-05-11 art. 6 JORF 12 mai 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
 ###### Article R252-13
 
 Doivent être soumises à l'approbation du ministre chargé de l'aviation civile les délibérations portant sur des matières
@@ -9214,6 +9262,73 @@ les pertes de recettes qu'entraînerait pour les collectivités l'application du
 
 ##### Paragraphe 1 : Conseil d'administration.
 
+###### Article R252-2
+
+Le conseil d'administration d'Aéroport de Paris comprend vingt et un membres :
+
+1. Sept représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
+
+Deux sur proposition du ministre chargé de l'aviation civile;
+
+Un sur proposition du ministre chargé de l'économie;
+
+Un sur proposition du ministre chargé du budget;
+
+Un sur proposition du ministre chargé de l'environnement;
+
+Un sur proposition du ministre chargé de la défense;
+
+Un sur proposition du ministre de l'intérieur ;
+
+2. Sept personnalités qualifiées, nommées par décret sur le rapport du ministre chargé de l'aviation civile, dont :
+
+Une choisie en raison de sa connaissance des activités de l'aéronautique civile et désignée par le Premier ministre;
+
+Trois choisies parmi les élus de la région et des collectivités territoriales concernées;
+
+Une choisie parmi les élus des compagnies consulaires concernées;
+
+Deux choisies parmi les organismes représentatifs des transporteurs aériens .
+
+3. Sept représentants des salariés, élus conformément aux dispositions du chapitre II du titre II de la loi n° 83-675 du 26
+juillet 1983 relative à la démocratisation du secteur public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°83-675 1983-07-26
+
+	**Modifié par**:
+
+	  - Décret n°84-353 1984-05-11 art. 1 JORF 12 mai 1984
+
+
+###### Article R252-3
+
+Les représentants des salariés doivent remplir les conditions fixées à l'article 15 de la loi n° 83-675 du 26 juillet 1983.
+Les autres membres du conseil d'administration doivent être de nationalité française et jouir de leurs droits civils et
+politiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-353 1984-05-11 art. 2 JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+
+
 ###### Article R252-4
 
 Les membres du conseil d'administration ne peuvent prendre ou conserver un intérêt direct ou indirect dans une entreprise,
@@ -9230,6 +9345,135 @@ après avis du contrôleur d'Etat.
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+
+###### Article R252-6
+
+Les membres du conseil d'administration sont nommés ou élus pour cinq ans. Ils ne peuvent exercer plus de trois mandats
+consécutifs.
+
+Le nombre des membres du conseil d'administration qui ont dépassé l'âge de soixante-cinq ans ne peut être supérieur à six.
+Lorsque cette limite est dépassée, le membre le plus âgé est réputé démissionnaire d'office.
+
+Les vacances par décès, démission, expiration du mandat et pour toute autre cause sont portées d'urgence par le président du
+conseil d'administration à la connaissance du ministre chargé de l'aviation civile. Celui-ci prend les mesures nécessaires
+pour assurer le remplacement des membres, autres que les représentants des salariés, qui ont cessé de faire partie du
+conseil, pour la durée restant à courir jusqu'au renouvellement de la totalité du conseil. Le remplacement des représentants
+des salariés est assuré conformément aux dispositions de l'article 16 de la loi n° 83-675 du 26 juillet 1983.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-353 1984-05-11 art. 4 JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Loi n°83-675 1983-07-26 art. 16
+
+
+###### Article R252-9
+
+Le conseil d'administration établit son règlement intérieur ; il peut constituer dans son sein un comité de direction dont le
+président fait partie obligatoirement et auquel il peut déléguer une partie de ses attributions.
+
+Les délibérations fixant l'organisation du comité de direction et la nomenclature des affaires qui sont de sa compétence et
+pour lesquelles sa décision engage le conseil doivent être soumises à la ratification du ministre chargé de l'aviation civile
+et du ministre de l'économie et des finances.
+
+Le comité de direction rend compte de son action au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-353 1984-05-11 art. 7 JORF 12 mai 1984
+
+
+###### Article R252-10
+
+Le conseil d'administration se réunit sur la convocation de son président au moins huit fois par an. Le président est, en
+outre, tenu de réunir immédiatement le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le tiers au
+moins des membres peut également, en indiquant l'ordre du jour de la séance, convoquer le conseil si celui-ci ne s'est pas
+réuni depuis plus de deux mois. (4)
+
+Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres en exercice assiste à la séance.
+Toutefois, si le quorum n'est pas atteint, une nouvelle séance du conseil pourra être convoquée sur le même ordre du jour,
+séparée par un intervalle de trois jours francs au moins de la première. Les délibérations seront alors valables quel que
+soit le nombre des membres présents.
+
+Un administrateur peut donner, par lettre, mandat à un autre administrateur de le représenter à une séance du conseil
+d'administration. Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une seule procuration. Les
+délibérations sont prises à la majorité absolue des membres présents ou représentés. En cas de partage, la voix du président
+est prépondérante. (5)
+
+Les procès-verbaux sont signés par le président. Ils font mention des personnes présentes. Une ampliation est notifiée au
+ministre chargé de l'aviation civile.
+
+Les membres du conseil d'administration sont tenus au secret professionnel dans les conditions prévues à l'article 378 du
+code pénal.
+
+Le directeur général assiste avec voix consultative aux réunions du comité de direction et aux séances du conseil
+d'administration sauf lorsqu'il est discuté du compte administratif ou de sa situation personnelle. Il est également tenu au
+secret professionnel.
+
+Le directeur général de l'aviation civile et le chef du service des bases aériennes siègent, avec voix consultative, au
+conseil d'administration de l'Aéroport de Paris, respectivement en qualité de commissaire du Gouvernement et de commissaire
+du Gouvernement adjoint. (1)
+
+En cas d'absence ou d'empêchement du commissaire du Gouvernement, ses pouvoirs sont exercés par le commissaire du
+Gouvernement adjoint. (2)
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 1 JORF 15 décembre 1976
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+	  - Décret n°84-353 1984-05-11 art. 8 JORF 12 mai 1984
+
+
+###### Article R252-11
+
+Le président du conseil d'administration, président de l'aéroport, prépare les sessions du conseil, arrête l'ordre du jour de
+ses délibérations et veille à l'exécution des décisions prises par le conseil.
+
+Il prépare le rapport que le conseil doit présenter chaque année sur la situation de l'aéroport et l'état des différents
+services. Le rapport, accompagné d'un extrait de procès-verbal de la discussion, est adressé, avant le 1er juin, au ministre
+chargé de l'aviation civile.
+
+Le président exerce un contrôle permanent sur la gestion de l'aéroport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°75-509 1975-06-19 art. 1 JORF 27 juin 1975
+	  - Décret n°84-353 1984-05-11 art. 9 JORF 12 mai 1984
 
 
 ###### Article R252-12
@@ -10330,6 +10574,73 @@ se fera suivant les modalités prévues ci-dessus pour la répartition des sièg
 	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
+###### Article R342-3
+
+Le président du conseil d'administration est nommé, parmi les membres du conseil d'administration et sur proposition de
+celui-ci, par décret pris en conseil des ministres.
+
+Le président a voix prépondérante en cas de partage des voix. Il peut être assisté d'un directeur général nommé sur sa
+proposition par le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-352 1984-05-11 art. 2 JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
+
+
+###### Article R342-4
+
+Le président, le directeur général et les membres du conseil d'administration, nommés par décret, doivent être de nationalité
+française et jouir de leurs droits civiques. Ils ne peuvent appartenir au Parlement. Les représentants des salariés doivent
+remplir les conditions fixées à l'article 15 de la loi n° 83-675 du 26 juillet 1983. (1)
+
+Le directeur général ne peut exercer aucune fonction, rémunérée ou non, dans des entreprises privées, sauf s'il s'agit de
+filiales dans lesquelles la Compagnie nationale Air France a une participation majoritaire et après autorisation du conseil
+d'administration.
+
+Le président du conseil d'administration peut être révoqué par décret pris en conseil des ministres sur le rapport du
+ministre chargé de l'aviation civile.
+
+Le directeur général peut être révoqué par décision du conseil d'administration sur proposition du président.
+
+Le président, les administrateurs, à l'exception de ceux représentant le personnel, le directeur général ainsi que tout
+mandataire chargé d'un acte de gestion de la compagnie sont responsables civilement dans les mêmes conditions que les
+administrateurs, directeurs généraux et mandataires des sociétés anonymes. (2)
+
+Les incompatibilités légales visant ces derniers leur sont également opposables.
+
+Les administrateurs représentant le personnel sont soumis au statut défini par le chapitre III du titre II de la loi du 26
+juillet 1983 susmentionnée. (3)
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 140
+	  - Loi n°48-976 1948-06-16 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°84-352 1984-05-11 art. 3 JORF 12 mai 1984
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+
+
 ###### Article R342-5
 
 Le ministre chargé de l'aviation civile exerce sur la Compagnie nationale Air France le contrôle général prévu à l'article L.
@@ -10617,6 +10928,28 @@ acquise de plein droit.
 	**Cité par**:
 
 	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
+
+
+###### Article R342-15
+
+Le directeur général de l'aviation civile et le chef du service des transports aériens siègent, avec voix consultative, au
+conseil d'administration de la Compagnie nationale Air France, respectivement en qualité de commissaire du Gouvernement et de
+commissaire du Gouvernement adjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°84-352 1984-05-11 art. 4 JORF 12 mai 1984
+
+	**Cité par**:
+
+	  - Décret n°92-1390 du 30 décembre 1992 - art. Annexe, 15 (Ab)
+	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
 
 
 ### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
