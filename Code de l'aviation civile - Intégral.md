@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-01-27
 
 # Partie législative
 
@@ -14328,22 +14328,40 @@ arrêté du ministre chargé du budget. Le montant des primes d'assurances est i
 
 Pour l'application du présent livre :
 
-1° Les essais et réceptions se définissent :
+1. Les opérations aériennes d'essais et de réceptions se définissent :
 
 a) Essais :
 
-Toutes épreuves, exécutées en vol, à terre ou à l'eau, sous la direction ou le contrôle des industriels ou des représentants
-de l'Etat, qui ont pour objet la recherche des caractéristiques et la mise au point des aéronefs. Ces épreuves portent sur la
-cellule, les organes moteurs et généralement tous instruments, machines, équipements et aménagements concourant à la marche
-et à la conduite des aéronefs. Elles portent également sur la sécurité et le confort de l'équipage et des passagers.
+Toutes épreuves exécutées en vol, à terre ou à l'eau, sous la direction ou le contrôle des industriels ou des représentants
+de l'Etat, qui ont pour objet la recherche des caractéristiques en vue de la mise au point des aéronefs ou de leurs éléments
+constitutifs, et de l'établissement de leur conformité soit à des spécifications, soit à des conditions techniques de
+navigabilité.
 
-Elles s'appliquent aux aéronefs qui possèdent la qualité de prototype ou de tête de série, ou qui comportent un élément
-nouveau de nature à affecter leurs qualités de vol ou leurs performances.
+Les épreuves exécutées sur des aéronefs qui comportent un élément nouveau pouvant avoir un effet appréciable sur la masse, le
+centrage, la résistance structurale, la fiabilité, les caractéristiques opérationnelles ou la navigabilité sont également des
+essais, au sens du précédent alinéa.
+
+Les vols d'instruction destinés à l'acquisition d'un titre d'essais sont considérés comme vols d'essais.
+
+Les opérations aériennes d'essais sont réparties en deux classes :
+
+Classe A :
+
+Toutes épreuves comportant l'ouverture des domaines de vol ainsi que la mise au point des systèmes pouvant affecter de façon
+significative les caractéristiques de vol de l'aéronef.
+
+Classe B :
+
+Toutes épreuves exécutées à l'intérieur des domaines de vol déjà ouverts et comportant des manoeuvres au cours desquelles il
+n'est pas envisagé d'avoir à faire face à des caractéristiques de vol sensiblement différentes de celles qui sont déjà
+connues et jugées acceptables dans le cadre des opérations aériennes d'essais. Toutefois, les épreuves nécessitant un niveau
+de technicité équivalent à celui requis pour effectuer les épreuves définies pour la classe A appartiennent à la classe A.
 
 b) Réceptions :
 
-Toutes épreuves de vérification en vol, prévues par les règlements ou conventions et portant sur les aéronefs et matériels
-aéronautiques de série.
+Toutes épreuves effectuées en vol, à terre ou à l'eau, en vue de contrôler la conformité individuelle d'un aéronef à la
+définition de type certifié dans le cas d'un aéronef civil, ou à ses spécifications techniques dans le cas d'un aéronef
+militaire ou appartenant à l'Etat.
 
 2° Le transport aérien se définit :
 
@@ -14368,6 +14386,14 @@ publicité et les opérations agricoles aériennes.
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°99-52 du 20 janvier 1999 - art. 1 () JORF 27 janvier 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-52 du 20 janvier 1999 - art. 2 (V)
 
 	**Cité par**:
 
@@ -23412,15 +23438,19 @@ Les titres donnant droit à l'inscription aux registres sont les suivants, sous 
 
 Catégorie Essais et réceptions :
 
-Licence de pilote d'essais d'avions,
+- licence de pilote d'essais expérimental d'avions ;
 
-Licence de pilote d'essais d'avions légers,
+- licence de pilote d'essais d'avions ;
 
-Licence de pilote d'essais d'hélicoptères,
+- licence de pilote d'essais d'avions légers ;
 
-Licence de pilote de réception d'avions,
+- licence de pilote d'essais expérimental d'hélicoptères ;
 
-Licence de pilote de réception d'hélicoptères (1) ;
+- licence de pilote d'essais d'hélicoptères ;
+
+- licence de pilote de réceptions d'avions ;
+
+- licence de pilote de réceptions d'hélicoptères.
 
 Catégorie Transport aérien :
 
@@ -23450,11 +23480,13 @@ Licence de pilote professionnel d'hélicoptère (2).
 
 Catégorie Essais et réceptions :
 
-Licence d'ingénieur navigant d'essais,
+- licence d'ingénieur navigant d'essais ;
 
-Licence de mécanicien navigant possédant la qualification Essais et réceptions,
+- licence d'expérimentateur navigant d'essais ;
 
-Licence de radio navigant possédant la qualification Essais et réceptions ;
+- licence de mécanicien navigant d'essais ;
+
+- licence de mécanicien navigant de réceptions.
 
 Catégorie Transport aérien :
 
@@ -23479,8 +23511,6 @@ Licence d'ingénieur navigant de l'aviation civile (3) ;
 3° Registres C
 
 Catégorie Essais et réceptions :
-
-Licence d'expérimentateur navigant d'essais,
 
 Licence de parachutiste professionnel possédant la qualification Essais et réceptions ;
 
@@ -23524,7 +23554,7 @@ par le ministre de la défense, sous réserve qu'ils soient en cours de validit�
 
 	**Modifié par**:
 
-	  - Décret n°93-369 du 17 mars 1993 - art. 2 () JORF 19 mars 1993
+	  - Décret n°99-53 du 20 janvier 1999 - art. 1 () JORF 27 janvier 1999
 
 
 ###### Article D421-3
