@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1994-04-21
+Version Consolidée au 1994-07-20
 
 # Partie législative
 
@@ -10936,6 +10936,59 @@ L'arrêté précise l'objet du transport autorisé ainsi que la ou les zones d'a
 	  - Code de l'aviation civile - art. L330-1 (M)
 
 
+###### Article R330-1-1
+
+L'exercice de l'activité de transport aérien mentionné à l'article R. 330-1 est subordonné, en ce qui concerne le respect des
+garanties techniques, à la détention par l'entreprise de transport concernée d'un certificat de transporteur aérien en cours
+de validité conformément aux dispositions des articles 2 d et 9 du règlement (C.E.E.) n° 2407/92 du 23 juillet 1992.
+
+Un arrêté du ministre chargé de l'aviation civile fixe les règles relatives notamment au contenu du certificat de
+transporteur aérien, à sa durée de validité, aux justifications à produire par les entreprises de transport aérien en vue de
+son obtention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-600 du 12 juillet 1994 - art. 1 () JORF 20 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 19 juillet 2007 - art. 2 (Ab)
+	  - Arrêté du 6 mars 2013 - art. 1 (V)
+	  - Code de l'aviation civile - art. R133-1-1 (V)
+	  - Code de l'aviation civile - art. R330-12 (V)
+	  - Code de la santé publique - art. R1333-44 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-1 (M)
+	  - Réglement CEE 92-2407 1992-07-23
+
+
+###### Article R330-1-2
+
+Les directeurs de l'aviation civile en métropole ont compétence pour délivrer les certificats de transporteur aérien aux
+entreprises dont l'établissement principal est situé dans le ressort territorial de leur direction. Toutefois, en ce qui
+concerne les entreprises exploitant une flotte d'appareils dont la somme des masses maximales au décollage certifiées excède
+5 000 tonnes, ainsi que dans les départements d'outre-mer, cette compétence est exercée par le ministre chargé de l'aviation
+civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-600 du 12 juillet 1994 - art. 1 () JORF 20 juillet 1994
+
+
 ###### Article R330-2
 
 Seules peuvent être autorisées les entreprises exerçant, à titre principal, une activité aérienne et ayant leur siège social
@@ -11279,6 +11332,27 @@ supérieur de l'aviation marchande. L'entreprise est appelée à présenter ses 
 	  - Code de l'aviation civile - art. L330-1 (M)
 	  - Code de l'aviation civile - art. L330-4 (V)
 	  - Code de l'aviation civile - art. R330-1 (M)
+
+
+###### Article R330-12-1
+
+Le retrait du certificat de transporteur aérien est prononcé par l'autorité ayant délivré le certificat, après que le
+transporteur intéressé a été mis à même de présenter des observations. Toutefois, en cas d'urgence, la suspension du
+certificat peut être prononcée sans formalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-600 du 12 juillet 1994 - art. 1 () JORF 20 juillet 1994
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R330-12 (V)
 
 
 ###### Article R330-13
