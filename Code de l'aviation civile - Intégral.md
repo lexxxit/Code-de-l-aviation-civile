@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2003-06-13
+Version Consolidée au 2003-06-28
 
 # Partie législative
 
@@ -17923,59 +17923,15 @@ du précédent.
 
 ###### Article R342-1
 
-I. - Le conseil d'administration de la société Air France comprend vingt et un membres :
+Par dérogation aux dispositions du décret n° 95-237 du 2 mars 1995 pris pour l'application des articles 5 et 6 de la loi n°
+94-640 du 25 juillet 1994 relative à l'amélioration de la participation des salariés dans l'entreprise, lorsque, en
+application de l'article L. 342-3, les salariés actionnaires sont représentés par catégories au conseil d'administration ou
+de surveillance de la société, les salariés de chacune des catégories désignent, en leur sein, leurs candidats respectifs.
 
-1° Six représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile :
+**Nota:**
 
-a) Un sur proposition du Premier ministre ;
-
-b) Deux sur proposition du ministre chargé de l'aviation civile ;
-
-c) Un sur proposition du ministre chargé de l'économie ;
-
-d) Un sur proposition du ministre chargé du budget ;
-
-e) Un sur proposition du ministre chargé du tourisme ;
-
-2° Cinq personnalités choisies conformément aux dispositions de l'article L. 342-3, nommées par décret sur le rapport du
-ministre chargé de l'aviation civile et du ministre chargé de l'économie ;
-
-3° Deux représentants des actionnaires autres que l'Etat et les salariés, désignés par l'assemblée générale des
-actionnaires ;
-
-4° Deux représentants des salariés actionnaires désignés, parmi ceux-ci, par l'assemblée générale, sur proposition,
-respectivement, d'une section comprenant les salariés actionnaires ayant le statut de personnel navigant technique et d'une
-section comprenant les autres salariés actionnaires, sous réserve que chacune de ces deux catégories de salariés actionnaires
-détienne plus de 2 % du capital social de la société Air France ; si ce seuil n'est pas atteint, le représentant au conseil
-d'administration de la catégorie concernée est remplacé par un représentant des actionnaires autres que l'Etat et les
-salariés, désigné par l'assemblée générale des actionnaires.
-
-Les modalités techniques d'application de ces dispositions sont précisées par arrêté du ministre chargé de l'aviation civile
-et du ministre chargé de l'économie ;
-
-5° Six représentants des salariés élus par les salariés de la société Air France et de ses filiales au sens du 4 de l'article
-1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, dans le cadre de trois collèges
-électoraux distincts à raison de :
-
-a) Un élu par le personnel navigant technique ;
-
-b) Un élu par le personnel navigant commercial ;
-
-c) Quatre élus, dont un représentant des cadres, par les autres salariés.
-
-Les conditions de présentation des listes de candidats, définies par l'article 17 de la loi du 26 juillet 1983 susmentionnée,
-s'apprécient par collège. Sous cette réserve, les élections sont organisées conformément aux dispositions du chapitre II du
-titre II de ladite loi et du décret n° 83-1160 du 26 décembre 1983 pris pour son application.
-
-II. - La durée du mandat des membres du conseil d'administration est de cinq ans. Cependant, les membres du conseil doivent
-être remplacés lorsqu'ils ont perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus les
-conditions d'éligibilité. Dans le cas où il y a lieu de procéder au remplacement de membres du conseil, les nouveaux membres
-restent en fonctions jusqu'à la date de l'expiration normale du mandat des membres du conseil qu'ils remplacent.
-
-Il peut être mis fin par décret au mandat des membres du conseil d'administration nommés par décret.
-
-III. - Un censeur, désigné pour cinq ans par l'assemblée générale des actionnaires, siège au conseil d'administration avec
-voix consultative. Il peut être mis fin à tout moment à ses fonctions dans les mêmes conditions.
+Ces dispositions entrent en vigueur à la date du transfert au secteur privé de la majorité du capital de la société Air
+France : article 5 du décret 2003-571 du 27 juin 2003.
 
 **Liens relatifs à cet article**
 
@@ -17983,24 +17939,20 @@ voix consultative. Il peut être mis fin à tout moment à ses fonctions dans le
 
 	  - Décret n°67-334 1967-03-30
 
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26 art. 1, art. 17
-	  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
-	  - Décret n°83-1160 1983-12-26
-	  - Code de l'aviation civile - art. L342-3 (M)
-
 	**Cité par**:
 
 	  - Décret n°92-1322 du 18 décembre 1992 - art. 4 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°97-795 du 21 août 1997 - art. 4 (M)
+	  - Loi n°94-640 du 25 juillet 1994 - art. 5 ()
+	  - Loi n°94-640 du 25 juillet 1994 - art. 6 ()
+	  - Décret n°95-237 1995-03-02
+	  - Code de l'aviation civile - art. L342-3 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2001-534 du 21 juin 2001 - art. 1 () JORF 22 juin 2001
+	  - Décret n°2003-571 du 27 juin 2003 - art. 2 () JORF 28 juin 2003
 
 
 ###### Article R342-2
@@ -18048,184 +18000,6 @@ navigants peut être représenté par plus de deux délégués.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 14
-
-
-###### Article R342-3
-
-Le président du conseil d'administration est nommé, parmi les membres du conseil d'administration et sur proposition de
-celui-ci, par décret, pour la durée de son mandat d'administrateur. Il peut être révoqué par décret sur le rapport du
-ministre chargé de l'aviation civile.
-
-**Nota:**
-
-: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
-Air France : article 5 du Décret 2003-571 du 27 juin 2003.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-795 du 21 août 1997 - art. 4 (M)
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
-
-	**Cité par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
-
-
-###### Article R342-5
-
-Le contrôle général du ministre chargé de l'aviation civile sur la société Air France, prévu à l'article L. 342-1, est exercé
-par le directeur général de l'aviation civile et par le directeur des transports aériens qui siègent, avec voix consultative,
-au conseil d'administration d'Air France, en qualité respectivement de commissaire du Gouvernement et de commissaire du
-Gouvernement adjoint. Ils peuvent se faire communiquer, à cet effet, toute information ou tout document nécessaire à
-l'accomplissement de leur mission.
-
-**Nota:**
-
-: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
-Air France : article 5 du Décret 2003-571 du 27 juin 2003.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 141 alinéa 1
-	  - Loi n°48-976 1948-06-16 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 3 () JORF 22 juin 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
-
-	**Cité par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L342-1 (M)
-
-
-###### Article R342-8
-
-Peuvent faire l'objet de contrats établis conformément aux dispositions de l'article L. 342-2 les obligations d'intérêt
-général relatives aux services suivants :
-
-a) Exploitation de services réguliers de transport aérien effectués à la demande de l'Etat ou des collectivités publiques de
-la métropole et d'outre-mer, sur les itinéraires autres que ceux des lignes exploitées par la société Air France en
-concurrence avec d'autres entreprises de transport aérien ;
-
-b) Exploitation d'aéroports ouverts à la circulation aérienne publique et d'aides à la navigation aérienne ;
-
-c) Exploitation de types d'appareils dont l'acquisition ou l'emploi résulterait d'une obligation imposée à la société ;
-
-d) Formation du personnel navigant jusqu'à l'obtention des brevets à l'exclusion de la qualification sur appareils nouveaux
-et du perfectionnement de ce personnel ;
-
-e) Montage, à bord des appareils, d'équipements autres que ceux qui sont nécessaires à l'observation des règles et usages de
-la navigation aérienne commerciale ;
-
-f) Toute obligation d'intérêt général portant sur un objet autre que ceux énumérés ci-dessus.
-
-**Nota:**
-
-: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
-Air France : article 5 du Décret 2003-571 du 27 juin 2003.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-32 1955-01-07 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
-
-	**Cité par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L342-2 (M)
-
-
-###### Article R342-13
-
-Le décret n° 53-707 du 9 août 1953 modifié relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains
-organismes ayant un objet d'ordre économique et social ne s'applique pas à la société Air France.
-
-Le conseil d'administration soumet le statut du personnel à l'approbation du ministre chargé de l'aviation civile, du
-ministre chargé de l'économie et du ministre chargé du budget. A défaut de décision expresse intervenant dans le délai de
-deux mois à compter de la réception de la délibération, l'approbation est considérée comme acquise de plein droit.
-
-**Nota:**
-
-: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
-Air France : article 5 du Décret 2003-571 du 27 juin 2003.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 143
-	  - Loi n°48-976 1948-06-16 art. 14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
-
-	**Cite**:
-
-	  - Décret n°53-707 1953-08-09
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 4 () JORF 22 juin 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
-
-	**Cité par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
 
 
 ### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
@@ -18315,6 +18089,187 @@ arrêté du ministre chargé du budget. Le montant des primes d'assurances est i
 	  - Décret n°2001-421 du 14 mai 2001 - art. 1 (V)
 	  - Arrêté du 29 octobre 2012 - art. 1 (V)
 	  - Arrêté du 29 octobre 2012 - art. 4 (V)
+
+
+### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.
+
+###### Article R360-1
+
+Les registres de titres nominatifs des sociétés qui sont l'objet de l'article L. 360-1 mentionnent, outre les indications
+prévues aux articles 152, 204 et 205 du décret n° 67-236 du 23 mars 1967 modifié relatif aux sociétés commerciales, les
+informations devant être communiquées à la société conformément au deuxième alinéa de l'article L. 360-1, y compris le nom et
+l'adresse de l'intermédiaire financier mentionné au troisième alinéa du même article.
+
+La privation de droits de vote et de droits à dividende prévue au quatrième alinéa de l'article L. 360-1 intervient à
+l'expiration d'un délai de quinze jours après demande de régularisation, effectuée par lettre recommandée avec demande d'avis
+de réception à l'adresse inscrite dans le registre ou, le cas échéant, à laquelle il a été fait élection de domicile
+conformément au troisième alinéa de l'article L. 360-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-236 1967-03-23 art. 152, art. 204, art. 205
+	  - Décret n°67-236 du 23 mars 1967 - art. 152 (M)
+	  - Décret n°67-236 du 23 mars 1967 - art. 205 (M)
+	  - Code de l'aviation civile - art. L360-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 1 () JORF 28 juin 2003
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R360-3 (V)
+
+
+###### Article R360-2
+
+Le seuil mentionné à l'article L. 360-2 est franchi lorsque 45 % du capital ou des droits de vote sont détenus, directement
+ou indirectement, par des actionnaires autres que des ressortissants français. L'information prévue par l'article L. 360-2
+est effectuée dans un délai de quinze jours à compter de la date à laquelle le président du conseil d'administration ou celui
+du directoire a connaissance de ce franchissement. 
+
+L'information des actionnaires de la société et du public prend la forme d'un avis publié au Bulletin des annonces légales
+obligatoires et diffusé sous la forme d'un communiqué selon les règles relatives aux obligations d'information du public. Cet
+avis mentionne la part du capital ou des droits de vote détenus directement ou indirectement par des actionnaires autres que
+des ressortissants français, à une date qui ne peut être antérieure de plus de quinze jours à celle de la publication de cet
+avis. Il indique également si la société envisage de mettre en oeuvre la procédure de mise en demeure prévue par l'article L.
+360-2. 
+
+L'information mentionnée aux deux alinéas précédents est également faite dans les mêmes conditions de forme et de délai,
+lorsque la part du capital ou des droits de vote détenus directement ou indirectement par des actionnaires autres que des
+ressortissants français devient inférieure au seuil mentionné au premier alinéa du présent article, ou lorsque la société, au
+vu des informations dont elle dispose, modifie son intention de mettre en oeuvre la procédure de mise en demeure prévue par
+l'article L. 360-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 1 () JORF 28 juin 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L360-2 (VT)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R360-4 (V)
+
+
+###### Article R360-3
+
+L'article L. 360-2 peut être mis en oeuvre, en une ou plusieurs fois, aussi longtemps que, compte tenu des informations dont
+dispose la société et des cessions déjà réalisées, la fraction du capital ou des droits de vote mentionnée au premier alinéa
+de l'article R. 360-2 demeure égale ou supérieure à 45 %. 
+
+La mise en demeure est effectuée par lettre recommandée avec demande d'avis de réception au titulaire inscrit au registre de
+la société, y compris lorsque les titres sont inscrits au nom d'un intermédiaire pour le compte du propriétaire des titres,
+et à l'adresse inscrite dans ce registre ou, le cas échéant, à laquelle il a été fait élection de domicile conformément à
+l'article L. 360-1. 
+
+La mise en demeure comporte le rappel des dispositions des articles L. 360-1 à L. 360-4 et R. 360-1 à R. 360-5, et de
+l'information effectuée conformément à l'article R. 360-2. Elle indique le nombre de titres que l'actionnaire est mis en
+demeure de céder et rappelle le délai de deux mois dont il dispose pour y procéder. Elle ne peut être effectuée moins de
+quinze jours après la publication de l'avis prévu à l'article R. 360-2 mentionnant que la société envisage de mettre en
+oeuvre la procédure de mise en demeure. 
+
+Les actionnaires ayant fait l'objet d'une mise en demeure informent sans délai la société de la réalisation des cessions
+effectuées pour se conformer à cette mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 1 () JORF 28 juin 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L360-1 (M)
+	  - Code de l'aviation civile - art. L360-2 (VT)
+	  - Code de l'aviation civile - art. R360-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R360-4 (V)
+
+
+###### Article R360-4
+
+La saisine du président du tribunal de grande instance de Paris mentionnée à l'article L. 360-3 est effectuée par voie
+d'assignation en référé selon la procédure prévue au deuxième alinéa de l'article 485 du nouveau code de procédure civile.
+L'assignation est valablement délivrée à l'adresse du ou des actionnaires intéressés inscrite au registre nominatif ou, le
+cas échéant, à laquelle il a été fait élection de domicile conformément à l'article L. 360-1. Elle doit être accompagnée
+d'une copie des avis mentionnés à l'article R. 360-2, de la ou des mises en demeure effectuées conformément à l'article R.
+360-3, ainsi que d'une copie certifiée conforme des extraits du registre nominatif de la société faisant apparaître que les
+titres en cause n'ont pas été cédés à l'issue du délai de deux mois prévu à l'article L. 360-3.
+
+L'ordonnance emportant désignation de l'organisme mentionné à l'article L. 360-3 est exécutoire de plein droit. Elle indique
+pour chaque actionnaire le nombre de titres à céder par l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 1 () JORF 28 juin 2003
+
+
+###### Article R360-5
+
+La vente des titres est effectuée sur le marché où les actions sont admises aux négociations si, pendant cinq jours de bourse
+consécutifs au cours des cinquante derniers jours de bourse qui précèdent la désignation de l'organisme, le volume moyen
+quotidien, exprimé en nombre de titres, constaté sur le marché des titres de la société, est supérieur au quart du volume
+quotidien, exprimé en nombre de titres, constaté au cours des douze mois précédant sa désignation. L'organisme doit vendre
+les titres dans la limite d'un nombre de titres par séance de bourse représentant 25 % du volume moyen quotidien, exprimé en
+nombre de titres, des trois jours de bourse précédents, cette limitation ne s'appliquant pas aux transactions réalisées sur
+le marché conformément à la réglementation applicable, mais qui ne sont pas conclues dans le cadre du mécanisme de
+confrontation directe ou indirecte des ordres. S'il existe un solde d'actions non vendues à l'expiration du délai de deux
+mois mentionné à l'article L. 360-4, l'organisme notifie à la société, par lettre recommandée avec demande d'avis de
+réception, le nombre de titres non cédés et le prix auquel elle peut s'en porter acquéreur. La société peut acquérir tout ou
+partie des titres en cause dans un délai de quinze jours à compter de cette notification.
+
+Si l'organisme constate que la liquidité est insuffisante, selon les conditions définies à l'alinéa précédent, il notifie à
+la société, par lettre recommandée avec demande d'avis de réception, au plus tard trente jours après sa désignation, le prix
+auquel elle peut se porter acquéreur des titres. La société peut acquérir tout ou partie de ces titres dans un délai de
+quinze jours à compter de cette notification.
+
+Un arrêté du ministre chargé de l'économie fixe les conditions de rémunération de l'organisme pour l'ensemble des missions
+prévues au présent article.
+
+Les fonds issus des cessions et non affectés sont conservés par l'organisme pendant un an et versés à la Caisse des dépôts et
+consignations à l'expiration de ce délai. Les fonds sont à la disposition des ayants droit sous réserve de la prescription
+trentenaire au bénéfice de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 1 () JORF 28 juin 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L360-4 (M)
 
 
 ## LIVRE IV : PERSONNEL NAVIGANT
