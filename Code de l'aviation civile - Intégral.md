@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1998-12-23
+Version Consolidée au 1998-12-31
 
 # Partie législative
 
@@ -12825,6 +12825,260 @@ et e du précédent alinéa, sont assimilés à des "clients connus".
 	  - Code de l'aviation civile - art. R217-1 (V)
 	  - Code de l'aviation civile - art. R321-7 (M)
 	  - Code de l'aviation civile - art. R321-7-2 (Ab)
+
+
+###### Article R321-6
+
+L'"expéditeur connu" est tenu :
+
+- de s'assurer que les expéditions qui lui sont remises ne sont accessibles qu'au personnel autorisé par lui, depuis leur
+réception jusqu'à leur livraison au transporteur aérien ou à son représentant ;
+
+- d'effectuer ou de faire effectuer la réception, la manutention, la surveillance du fret et la livraison au transporteur
+aérien ou à son représentant par du personnel qualifié ayant reçu une formation de sûreté appropriée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997 en vigueur le 31 décembre 1998
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 1998 - art. ANNEXE (V)
+	  - Décret n°2002-24 du 3 janvier 2002 - art. 12 (V)
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 25 (V)
+	  - Arrêté du 1 septembre 2003 - art. 22 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 24 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 25 (VT)
+	  - Code de l'aviation civile - art. R213-10 (V)
+	  - Code de l'aviation civile - art. R213-12 (V)
+	  - Code de l'aviation civile - art. R321-13 (Ab)
+	  - Code de l'aviation civile - art. R321-3 (Ab)
+	  - Code de l'aviation civile - art. R321-5 (Ab)
+
+
+###### Article R321-7
+
+I. - Pour chaque expédition qui lui est confiée l'"expéditeur connu" doit enregistrer l'identité et l'adresse du déposant et
+de l'expéditeur.
+
+Il doit conserver au moins un an l'identité et l'adresse du déposant, de l'expéditeur, ainsi que, le cas échéant, l'état
+descriptif de l'expédition et un document certifiant que les dispositions prévues au d de l'article R. 321-5 ont été prises.
+
+II. - L'"expéditeur connu" est dispensé d'effectuer d'autres vérifications sur l'expédition, dans les cas suivants :
+
+1° L'expédition est en transit sous couvert d'une lettre de transport aérien et en provenance d'un Etat mettant en oeuvre un
+programme similaire de la sûreté du fret ;
+
+2° Le déposant est le préposé d'un "expéditeur connu" ou le préposé d'une entreprise chargée par l'"expéditeur connu"
+d'effectuer ce dépôt ;
+
+3° Le déposant est le préposé d'un "client connu" tel que défini à l'article R. 321-5 ou le préposé d'une entreprise chargée
+par le "client connu" d'effectuer ce dépôt, sous réserve que l'"expéditeur connu" s'assure :
+
+a) Que l'expéditeur fournit une description complète du contenu de l'expédition ;
+
+b) De la concordance entre l'expédition et son état descriptif, selon les modalités définies par l'arrêté prévu à l'article
+R. 321-10.
+
+Toutefois, ces dispenses ne s'appliquent pas si l'expédition ne correspond pas à la description l'accompagnant, ou si la
+description de l'expédition n'est pas disponible, ou si l'état de l'emballage révèle une anomalie.
+
+III. - Dans les cas où il n'en est pas dispensé par les dispositions qui précèdent, l'"expéditeur connu" doit procéder aux
+vérifications spéciales prévues par l'arrêté prévu à l'article R. 321-10.
+
+A défaut, l'"expéditeur connu" livre l'expédition séparément au transporteur aérien ou à son représentant. Dans ce cas,
+l'expédition est soumise à la visite de sûreté prévue au premier alinéa de l'article L. 321-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997 en vigueur le 31 décembre 1998
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 17 décembre 1998 - art. 1 (V)
+	  - Arrêté du 1 septembre 2003 - art. 26 (V)
+	  - Arrêté du 12 novembre 2003 - art. 54 (V)
+	  - Arrêté du 12 novembre 2003 - art. 99 (V)
+	  - Code de l'aviation civile - art. R321-13 (Ab)
+	  - Code de l'aviation civile - art. R321-3 (Ab)
+	  - Code de l'aviation civile - art. R321-5 (Ab)
+	  - Code de l'aviation civile - art. R321-9 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L321-7 (M)
+	  - Code de l'aviation civile - art. R321-10 (M)
+
+
+###### Article R321-8
+
+Le transporteur aérien est tenu :
+
+- de s'assurer que les expéditions qui lui sont remises ne sont accessibles qu'au personnel autorisé par lui, depuis leur
+réception jusqu'à leur embarquement ;
+
+- d'effectuer ou de faire effectuer la réception, la manutention, la surveillance et le transport du fret par du personnel
+qualifié ayant reçu une formation de sûreté appropriée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997 en vigueur le 31 décembre 1998
+
+	**Cité par**:
+
+	  - Décret n°2002-24 du 3 janvier 2002 - art. 12 (V)
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 25 (V)
+	  - Arrêté du 1 septembre 2003 - art. 20 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 22 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 24 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 25 (VT)
+	  - Code de l'aviation civile - art. R213-10 (V)
+	  - Code de l'aviation civile - art. R213-12 (V)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R321-13 (Ab)
+
+
+###### Article R321-9
+
+Sauf règles particulières ou exemptions prévues à l'article R. 321-11, le transporteur aérien est tenu d'effectuer ou de
+faire effectuer une visite de sûreté des expéditions selon les modalités prévues à l'article R. 321-10 dans les cas
+suivants :
+
+a) Ces expéditions lui sont présentées par une entreprise ou un organisme qui n'est pas un "expéditeur connu" ;
+
+b) Ces expéditions lui sont présentées par un "expéditeur connu" et doivent être soumises à une visite de sûreté, en vertu du
+III de l'article R. 321-7 ;
+
+c) Ces expéditions sont des bagages non accompagnés ou du fret déposé directement par un expéditeur ;
+
+d) Ces expéditions sont destinées à être embarquées sur certains vols où les contrôles prévus à l'article L. 282-8 sont
+imposés dans des circonstances particulières par l'Etat ;
+
+e) Ces expéditions sont en transit sous couvert d'une lettre de transport aérien et en provenance d'un Etat ne mettant pas en
+oeuvre un programme similaire concernant la sûreté du fret, sauf si ce même transporteur aérien a appliqué ou fait appliquer
+au départ des mesures de sûreté équivalentes à celles prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997 en vigueur le 31 décembre 1998
+
+	**Cité par**:
+
+	  - Arrêté du 17 décembre 1998 - art. 1 (V)
+	  - Décret n°2002-24 du 3 janvier 2002 - art. 12 (V)
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 25 (V)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R321-13 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Code de l'aviation civile - art. R321-10 (M)
+	  - Code de l'aviation civile - art. R321-11 (V)
+	  - Code de l'aviation civile - art. R321-7 (M)
+
+
+###### Article R321-10
+
+Les vérifications spéciales qu'effectuent les "expéditeurs connus" dans le but de s'assurer que l'expédition est apte au
+transport aérien consistent à ouvrir les colis ou, à défaut, à soumettre ceux-ci à tout dispositif technique de contrôle
+figurant sur une liste approuvée par décision du ministre chargé des transports. Les modalités techniques de ces
+vérifications spéciales, ainsi que celles du contrôle de la concordance entre l'expédition et son état descriptif sont fixées
+par arrêté du ministre de l'intérieur, du ministre de la défense, du ministre chargé des douanes et du ministre chargé des
+transports. Cet arrêté fixe également les modalités techniques des visites de sûreté prévues au premier alinéa de l'article
+L. 321-7 qu'effectuent les transporteurs aériens.
+
+Les vérifications spéciales qu'effectuent les "expéditeurs connus" ne peuvent être confiées qu'à des agents personnellement
+affectés à ces tâches et dont la liste nominative est tenue à jour par l'employeur. Ces agents doivent avoir reçu une
+formation portant sur les principes généraux de sûreté et l'utilisation des dispositifs techniques de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997 en vigueur le 31 décembre 1998
+
+	**Cité par**:
+
+	  - Arrêté du 17 décembre 1998 - art. 1 (V)
+	  - Arrêté du 17 décembre 1998 - art. 2 (V)
+	  - Décret n°2002-24 du 3 janvier 2002 - art. 12 (V)
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 25 (V)
+	  - Arrêté du 1 septembre 2003 - art. 20 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 22 (VT)
+	  - Arrêté du 12 novembre 2003 - art. 1 (Ab)
+	  - Arrêté du 12 novembre 2003 - art. 102 (V)
+	  - Code de l'aviation civile - art. R213-1-1 (V)
+	  - Code de l'aviation civile - art. R213-10 (V)
+	  - Code de l'aviation civile - art. R213-11 (VT)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R321-3 (Ab)
+	  - Code de l'aviation civile - art. R321-5 (Ab)
+	  - Code de l'aviation civile - art. R321-6 (Ab)
+	  - Code de l'aviation civile - art. R321-7 (Ab)
+	  - Code de l'aviation civile - art. R321-7-1 (Ab)
+	  - Code de l'aviation civile - art. R321-7-2 (Ab)
+	  - Code de l'aviation civile - art. R321-7-3 (Ab)
+	  - Code de l'aviation civile - art. R321-9 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L321-7 (M)
+
+
+###### Article R321-11
+
+Les règles particulières ou les exemptions de procédures de sûreté applicables au fret postal, aux colis postaux, aux
+correspondances et au transport de la presse sont fixées par le ministre chargé des transports et le ministre chargé des
+postes en fonction des caractéristiques des expéditions, notamment de la taille et du poids, ainsi que des risques encourus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1315 du 29 décembre 1997 - art. 1 () JORF 31 décembre 1997 en vigueur le 31 décembre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R321-7 (Ab)
+	  - Code de l'aviation civile - art. R321-9 (M)
 
 
 #### CHAPITRE II : TRANSPORT DE PERSONNES.
