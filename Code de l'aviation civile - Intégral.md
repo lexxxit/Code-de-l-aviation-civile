@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1993-07-21
+Version Consolidée au 1994-01-31
 
 # Partie législative
 
@@ -11625,55 +11625,6 @@ proposition par le conseil d'administration.
 	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
 
 
-###### Article R342-4
-
-Le président, le directeur général et les membres du conseil d'administration nommés par décret doivent jouir de leurs droits
-civiques. Ils ne peuvent appartenir au Parlement. Les représentants des salariés doivent remplir les conditions fixées à
-l'article 15 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
-
-Le directeur général ne peut exercer aucune fonction, rémunérée ou non, dans des entreprises privées sauf s'il s'agit
-d'entreprises dans lesquelles la Compagnie nationale Air France a une participation directe ou indirecte.
-
-Le président du conseil d'administration peut être révoqué par décret pris en conseil des ministres sur le rapport du
-ministre chargé de l'aviation civile.
-
-Le directeur général peut être révoqué par décision du conseil d'administration sur proposition du président.
-
-Le président, les administrateurs, à l'exception de ceux représentant le personnel, le directeur général ainsi que tout
-mandataire chargé d'un acte de gestion de la compagnie sont responsables civilement dans les mêmes conditions que les
-administrateurs, directeurs généraux et mandataires des sociétés anonymes.
-
-Les administrateurs représentant le personnel sont soumis au statut défini par le chapitre III du titre II de la loi du 26
-juillet 1983 susmentionnée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 140
-	  - Loi n°48-976 1948-06-16 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°92-1322 1992-12-18 art. 6
-
-	**Modifié par**:
-
-	  - Décret n°92-1322 du 18 décembre 1992 - art. 3 () JORF 19 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°95-92 du 30 janvier 1995 - art. 2 () JORF 31 janvier 1995
-
-
 ###### Article R342-5
 
 Le ministre chargé de l'aviation civile exerce sur la Compagnie nationale Air France le contrôle général prévu à l'article L.
@@ -11697,27 +11648,6 @@ Le ministre chargé de l'aviation civile exerce sur la Compagnie nationale Air F
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L342-1 (M)
-
-
-###### Article R342-6
-
-Les statuts de la Compagnie nationale Air France sont approuvés par décret pris en conseil des ministres, sur le rapport du
-ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 142
-	  - Loi n°48-976 1948-06-16 art. 10, alinéa 1
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°95-92 du 30 janvier 1995 - art. 2 () JORF 31 janvier 1995
 
 
 ###### Article R342-8
