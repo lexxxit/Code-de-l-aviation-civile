@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2001-11-16
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -1456,8 +1456,8 @@ L. 142-3, le dernier alinéa et les mots " le ministre chargé de l'aviation civ
 
 ###### Article L150-1
 
-Seront punis d'une amende de 500 000 F [*montant*] et d'un emprisonnement de un an [*durée*] , ou de l'une de ces deux peines
-seulement, l'exploitant technique, le propriétaire et, le cas échéant, l'exploitant commercial qui auront [*infraction*] :
+Seront punis d'une amende de 75 000 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement,
+l'exploitant technique, le propriétaire et, le cas échéant, l'exploitant commercial qui auront :
 
 1° Mis ou laissé en service un aéronef sans avoir obtenu un certificat d'immatriculation, un document de navigabilité ou un
 certificat de limitation de nuisances lorsque ceux-ci sont exigibles ;
@@ -1485,19 +1485,24 @@ conditions d'emploi.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6142-4 (V)
+	  - Code des transports - art. L6232-4 (V)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L121-2 (V)
+	  - Code de l'aviation civile - art. L121-2
 
 	**Cité par**:
 
@@ -1505,27 +1510,45 @@ conditions d'emploi.
 	  - Code de l'aviation civile - art. L150-3 (VT)
 	  - Code de l'aviation civile - art. L150-6 (VT)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L150-1-1
 
 Le fait d'exploiter un aéronef pour une ou plusieurs opérations de transport aérien public, en l'absence du certificat de
 transporteur aérien exigé en application de l'article L. 330-1, en cours de validité à la date du transport, ou dans des
-conditions non conformes à celles fixées par ledit certificat, est puni d'un an d'emprisonnement et de 500 000 F d'amende.
+conditions non conformes à celles fixées par ledit certificat, est puni d'un an d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
 
 	**Cité par**:
 
 	  - Loi n°96-151 du 26 février 1996 - art. 31 (VT)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6232-6 (V)
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-1 (M)
-	  - Réglement CEE 2409-92 1992-07-23
+	  - Code de l'aviation civile - art. L330-1
+	  - Réglement CEE 2409/92 1992-07-23
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L150-2
@@ -1577,9 +1600,9 @@ indications sciemment inexactes ;
 ###### Article L150-3
 
 Le pilote qui, en infraction aux dispositions de l'article L. 132-1, n'aura pas utilisé, sauf cas de force majeure, un
-aéroport international au départ ou à l'arrivée d'un vol international sera puni d'une amende de 200 000 F [*montant*] et
-d'un emprisonnement de trois ans [*durée*], ou de l'une de ces deux peines seulement, sans préjudice de l'application des
-peines prévues par la législation douanière.
+aéroport international au départ ou à l'arrivée d'un vol international sera puni d'une amende de 30 000 euros et d'un
+emprisonnement de trois ans, ou de l'une de ces deux peines seulement, sans préjudice de l'application des peines prévues par
+la législation douanière.
 
 Sera puni des mêmes peines tout membre d'équipage qui, sur un tel aéroport, aura tenté de se soustraire aux contrôles
 réglementaires.
@@ -1593,34 +1616,39 @@ réglementaires.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L150-1 (M)
-	  - Code de l'aviation civile - art. L150-2 (M)
+	  - Code de l'aviation civile - art. L150-1
+	  - Code de l'aviation civile - art. L150-2
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. L150-6 (M)
 	  - Code de l'aviation civile - art. L150-8 (VT)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L150-4
 
-Sera puni d'une amende de 100 000 F [*montant*] et d'un emprisonnement de six mois [*durée*], ou de l'une de ces deux peines
-seulement, le pilote qui, par maladresse ou négligence, aura survolé une zone du territoire français en violation d'une
-interdiction prononcée dans les conditions prévues au premier alinéa de l'article L. 131-3.
+Sera puni d'une amende de 15 000 euros et d'un emprisonnement de six mois, ou de l'une de ces deux peines seulement, le
+pilote qui, par maladresse ou négligence, aura survolé une zone du territoire français en violation d'une interdiction
+prononcée dans les conditions prévues au premier alinéa de l'article L. 131-3.
 
-Sera puni d'une amende de 300 000 F et d'un emprisonnement de un an, ou de l'une de ces deux peines seulement, le pilote
+Sera puni d'une amende de 45 000 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, le pilote
 qui :
 
 a) Se sera sciemment engagé ou maintenu au-dessus d'une zone mentionnée au premier alinéa du présent article ;
@@ -1636,15 +1664,11 @@ b) Ne se sera pas conformé aux prescriptions des deuxième et quatrième aliné
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -1652,16 +1676,29 @@ b) Ne se sera pas conformé aux prescriptions des deuxième et quatrième aliné
 	  - Arrêté du 5 mai 2010 - art. 3 (V)
 	  - Code de l'aviation civile - art. L150-8 (VT)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6232-3 (V)
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L131-3 (M)
+	  - Code de l'aviation civile - art. L131-3
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L150-5
 
 Le possesseur, le détenteur ou le pilote qui aura apposé ou fait apposer sur l'aéronef des marques d'immatriculation non
 conformes à celles du certificat de d'immatriculation ou qui aura supprimé ou fait supprimer, rendu ou fait rendre illisibles
-les marques exactement apposées sera puni d'une amende de 120 000 F et d'un emprisonnement de trois ans. Seront punis des
+les marques exactement apposées sera puni d'une amende de 18 000 euros et d'un emprisonnement de trois ans. Seront punis des
 mêmes peines, ceux qui auront apposé ou fait apposer sur un aéronef privé les marques distinctives réservées aux aéronefs
 publics ou qui auraient fait usage d'un aéronef privé portant lesdites marques.
 
@@ -1674,7 +1711,19 @@ publics ou qui auraient fait usage d'un aéronef privé portant lesdites marques
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6142-6 (V)
 
 	**Cité par**:
 
@@ -1682,11 +1731,8 @@ publics ou qui auraient fait usage d'un aéronef privé portant lesdites marques
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L150-6
@@ -1772,7 +1818,7 @@ juridiction qui aura prononcé l'interdiction.
 
 Les condamnés devront effectuer les dépôts de ces brevets soit à ce greffe, soit à celui de leur domicile, dans les cinq
 jours qui suivront la date à laquelle la condamnation sera devenue définitive, faute de quoi, ils seront punis d'un an
-d'emprisonnement et d'une amende 60 000 F ou de l'une de ces deux peines seulement, sans préjudice des peines portées à
+d'emprisonnement et d'une amende 9 000 euros ou de l'une de ces deux peines seulement, sans préjudice des peines portées à
 l'article L. 150-2 au cas où ils conduiraient un aéronef pendant la période d'interdiction et qui ne pourront se confondre.
 
 **Liens relatifs à cet article**
@@ -1786,6 +1832,10 @@ l'article L. 150-2 au cas où ils conduiraient un aéronef pendant la période d
 
 	  - Décret n°67-333 1967-03-30
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L150-2 (M)
@@ -1796,18 +1846,15 @@ l'article L. 150-2 au cas où ils conduiraient un aéronef pendant la période d
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L150-9
 
 Tous jets volontaires et inutiles d'objets susceptibles de causer des dommages aux personnes et aux biens de la surface sont
-interdits à bord des aéronefs en évolution et seront punis d'une amende de 25 000 F et d'une peine de deux mois de prison ou
-de l'une de ces deux peines seulement, même si ces jets n'ont causé aucun dommage et sans préjudice des peines plus fortes
+interdits à bord des aéronefs en évolution et seront punis d'une amende de 3 750 euros et d'une peine de deux mois de prison
+ou de l'une de ces deux peines seulement, même si ces jets n'ont causé aucun dommage et sans préjudice des peines plus fortes
 qui pourraient être encourues en cas de délit ou de crime.
 
 **Liens relatifs à cet article**
@@ -1819,15 +1866,24 @@ qui pourraient être encourues en cas de délit ou de crime.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6142-8 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L150-10
@@ -2652,11 +2708,11 @@ Durant la procédure suivie devant l'autorité et la commission, la personne con
 des éléments de son dossier. Elle doit pouvoir être entendue par la commission avant que celle-ci ne se prononce sur son cas
 et se faire représenter ou assister par la personne de son choix.
 
-Les amendes administratives sont prononcées par l'autorité et ne peuvent excéder, par manquement constaté, un montant de 10
-000 F pour une personne physique et de 80 000 F pour une personne morale. Elles font l'objet d'une décision motivée notifiée
-à la personne concernée. Elles sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine. Elles peuvent
-faire l'objet d'un recours de pleine juridiction. Aucune amende ne peut être prononcée plus de deux ans après la constatation
-d'un manquement.
+Les amendes administratives sont prononcées par l'autorité et ne peuvent excéder, par manquement constaté, un montant de 1
+500 euros pour une personne physique et de 12 000 euros pour une personne morale. Elles font l'objet d'une décision motivée
+notifiée à la personne concernée. Elles sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+Elles peuvent faire l'objet d'un recours de pleine juridiction. Aucune amende ne peut être prononcée plus de deux ans après
+la constatation d'un manquement.
 
 Les membres de la Commission nationale de prévention des nuisances sont nommés par le ministre chargé de l'aviation civile et
 comprennent, outre un président choisi parmi les personnes représentant l'Etat, des personnalités qualifiées dans les
@@ -2669,9 +2725,9 @@ suppléants de la commission, ainsi que ses règles de fonctionnement.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-588 du 12 juillet 1999 - art. 1 () JORF 13 juillet 1999
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -2688,6 +2744,11 @@ suppléants de la commission, ainsi que ses règles de fonctionnement.
 	  - Code de l'aviation civile - art. L310-1 (V)
 	  - Code de l'aviation civile - art. L323-1 (M)
 	  - Code de l'aviation civile - art. L330-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L227-5
@@ -3192,10 +3253,10 @@ La comptabilité des établissements dont il s'agit est autonome ; elle est tenu
 ###### Article L281-1
 
 Les infractions aux dispositions réglementaires concernant les servitudes aéronautiques de dégagement et de balisage
-instituées dans l'intérêt de la circulation aérienne sont punies d'une amende de 25 000 F.
+instituées dans l'intérêt de la circulation aérienne sont punies d'une amende de 3 750 euros.
 
-En cas de récidive, les infractions sont punies d'une amende de 50 000 F et d'un emprisonnement de trois mois ou de l'une de
-ces deux peines seulement.
+En cas de récidive, les infractions sont punies d'une amende de 7 500 euros et d'un emprisonnement de trois mois ou de l'une
+de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -3205,16 +3266,19 @@ ces deux peines seulement.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6372-8 (V)
 
 	**Cité par**:
 
@@ -3223,6 +3287,11 @@ ces deux peines seulement.
 	  - Code de l'aviation civile - art. R281-3 (V)
 	  - Code de l'urbanisme - art. II (M)
 	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L281-2
@@ -3325,7 +3394,7 @@ Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
 ###### Article L282-1
 
-Sera puni d'un emprisonnement de cinq ans et d'une amende de 120 000 F ou de l'une de ces deux peines seulement sans
+Sera puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros ou de l'une de ces deux peines seulement sans
 préjudice, le cas échéant, de l'application des dispositions des articles 322-1 à 322-11 et 322-15 du code pénal réprimant
 les destructions, dégradations et détériorations, quiconque aura volontairement :
 
@@ -3344,39 +3413,42 @@ si cet acte porte atteinte ou est de nature à porter atteinte à la sécurité 
 
 Pour toutes les infractions prévues au présent article, la tentative du délit sera punie comme le délit lui-même.
 
-**Nota:**
-
-(1) Taux résultant de la loi n° 85-835 du 7 août 1985, articles 7 et 8.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Cite**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 7 (V)
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (V)
-	  - Code pénal - art. 224-6 (V)
-	  - Code pénal - art. 224-7 (V)
-	  - Code pénal - art. 322-15 (M)
-	  - Code pénal 322-1 à 322-11, 322-15, 224-6, 224-7
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+	  - Loi n°85-835 du 7 août 1985 - art. 7
+	  - Loi n°85-835 du 7 août 1985 - art. 8
+	  - Code pénal
+	  - Code pénal - art. 224-6
+	  - Code pénal - art. 224-7
+	  - Code pénal - art. 322-15
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 140 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. L282-4-1 (M)
 	  - Code de procédure pénale - art. 689-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6372-4 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L282-2
@@ -4015,7 +4087,7 @@ Conformément à l'article L. 54 du code de la santé publique, tout fonctionnai
 d'un aéronef, tout médecin qui, dans un document ou une déclaration, aura sciemment altéré ou dissimulé les faits ou qui aura
 négligé d'informer l'autorité sanitaire de faits à sa connaissance qu'il était dans l'obligation de révéler en application
 des textes mentionnés à l'article L. 52 du code de la santé publique, ci-dessus rappelé à l'article L. 215-1, sera puni d'une
-peine de deux ans d'emprisonnement, et d'une amende de 25000 F, ou de l'une de ces deux peines seulement.
+peine de deux ans d'emprisonnement, et d'une amende de 3 750 euros, ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -4023,20 +4095,24 @@ peine de deux ans d'emprisonnement, et d'une amende de 25000 F, ou de l'une de c
 
 	  - Décret n°67-333 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L52 (Ab)
-	  - Code de la santé publique - art. L54 (Ab)
-	  - Code de l'aviation civile - art. L215-1 (V)
+	  - Code de la santé publique - art. L52
+	  - Code de la santé publique - art. L54
+	  - Code de l'aviation civile - art. L215-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ## LIVRE III : TRANSPORT AERIEN
@@ -4380,12 +4456,12 @@ régulièrement autorisés à atterrir au point d'arrivée et aux escales prévu
 
 La responsabilité du transporteur de personnes est régie par les dispositions de la Convention de Varsovie comme prévu aux
 articles L. 321-3, L. 321-4 et L. 321-5. Toutefois, la limite de la responsabilité du transporteur relative à chaque
-passager, prévue par le paragraphe premier de l'article 22 de ladite convention, est fixée à 750 000 F. Si, en raison d'une
-modification apportée à la Convention de Varsovie, la limite de responsabilité du transporteur aérien se trouve portée à un
-niveau supérieur au chiffre susvisé, cette nouvelle limite se substitue à celle de 750 000 F à compter de la mise en vigueur
-pour la France de la modification de ladite convention. En outre, sauf stipulations conventionnelles contraires, la
-responsabilité du transporteur effectuant un transport gratuit ne sera engagée, dans la limite prévue ci-dessus, que s'il est
-établi que le dommage a pour cause une faute imputable au transporteur ou à ses préposés.
+passager, prévue par le paragraphe premier de l'article 22 de ladite convention, est fixée à 114 336,76 euros. Si, en raison
+d'une modification apportée à la Convention de Varsovie, la limite de responsabilité du transporteur aérien se trouve portée
+à un niveau supérieur au chiffre susvisé, cette nouvelle limite se substitue à celle de 114 336,76 euros à compter de la mise
+en vigueur pour la France de la modification de ladite convention. En outre, sauf stipulations conventionnelles contraires,
+la responsabilité du transporteur effectuant un transport gratuit ne sera engagée, dans la limite prévue ci-dessus, que s'il
+est établi que le dommage a pour cause une faute imputable au transporteur ou à ses préposés.
 
 La responsabilité du transporteur par air ne peut être recherchée que dans les conditions et limites prévues ci-dessus,
 quelles que soient les personnes qui la mettent en cause et quel que soit le titre auquel elles prétendent agir.
@@ -4401,16 +4477,24 @@ quelles que soient les personnes qui la mettent en cause et quel que soit le tit
 
 	  - Décret n°67-333 1967-03-30
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Loi n°89-467 du 10 juillet 1989 - art. 16 () JORF 11 juillet 1989
+	  - Code des transports - art. L6421-4 (V)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L321-3 (V)
-	  - Code de l'aviation civile - art. L321-4 (V)
-	  - Code de l'aviation civile - art. L321-5 (V)
-	  - Convention 1929-10-12, signée à Varsovie 22
+	  - Code de l'aviation civile - art. L321-3
+	  - Code de l'aviation civile - art. L321-4
+	  - Code de l'aviation civile - art. L321-5
+	  - Convention 1929-10-12 art. 22 signée à Varsovie
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article L322-4
@@ -4497,7 +4581,7 @@ applicables au transport aérien public, quelle que soit l'utilisation faite par
 
 ###### Article L324-1
 
-Est puni d'une amende de 100 000 F le fait pour tout transporteur aérien, ou tout prestataire de services de transport
+Est puni d'une amende de 15 000 euros le fait pour tout transporteur aérien, ou tout prestataire de services de transport
 aérien, y compris les auxiliaires de transport, de ne pas s'être conformé à une décision administrative visant à interdire de
 nouvelles baisses des tarifs des services aériens intracommunautaires, prise en application de l'article 6 du règlement (CEE)
 n° 2409/92 du Conseil du 23 juillet 1992 sur les tarifs des passagers et de fret des services aériens.
@@ -4526,18 +4610,27 @@ L'action est prescrite dans un délai d'un an à compter de la date de fin d'ex�
 
 	**Cite**:
 
-	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47, art. 51, art. 52
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
+	  - Ordonnance n°86-1243 du 1 décembre 1986
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
 	  - Règlement CEE 92-2409 1992-07-23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 19 () JORF 17 janvier 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
@@ -6538,9 +6631,9 @@ b) Par une hypothèque légale prenant rang du jour de son inscription au bureau
 
 ###### Article L427-1
 
-Sera punie d'une amende de 25 000 F et d'un emprisonnement d'un mois, ou de l'une de ces deux peines seulement, toute
+Sera punie d'une amende de 3 750 euros et d'un emprisonnement d'un mois, ou de l'une de ces deux peines seulement, toute
 personne qui aura exercé un des emplois correspondant aux brevets, licences et qualifications du personnel navigant
-professionnel de l'aéronautique civile en contravention avec les dispositions du présent titre. 
+professionnel de l'aéronautique civile en contravention avec les dispositions du présent titre.
 
 Sera puni de la même peine le responsable de toute entreprise qui aura confié un de ces emplois à une personne ne remplissant
 pas les conditions exigées au présent titre.
@@ -6549,16 +6642,24 @@ pas les conditions exigées au présent titre.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6531-2 (T)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L427-2
@@ -6601,7 +6702,7 @@ l'article L. 426-5, est passible des peines de l'abus de confiance prévues par 
 Dans les territoires d'outre-mer, toute infraction à la réglementation relative à la durée du travail du personnel navigant
 est punie :
 
-En ce qui concerne l'employeur, d' une amende de 25 000 F ;
+En ce qui concerne l'employeur, d' une amende de 3 750 euros ;
 
 En ce qui concerne le contrevenant, du retrait de sa licence qui est prononcé par le ministre chargé de l'aviation civile
 dans les catégories transport aérien et travail aérien et par le ministre chargé de la défense nationale dans la catégorie
@@ -6617,14 +6718,22 @@ essais et réception, pour une durée qui ne pourra être inférieure à quinze 
 
 	  - Loi n°72-1090 du 8 décembre 1972 - art. 10 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6755-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ## LIVRE V : DISPOSITIONS PARTICULIERES A LA FORMATION AERONAUTIQUE.
@@ -7430,7 +7539,7 @@ intéressés. Ceux-ci sont tenus au secret professionnel en ce qui concerne les 
 
 ###### Article L741-1
 
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait, pour les personnes qui, de par leurs fonctions, sont
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour les personnes qui, de par leurs fonctions, sont
 appelées à connaître d'un accident ou d'un incident, de ne pas le porter à la connaissance des autorités administratives.
 
 **Liens relatifs à cet article**
@@ -7439,18 +7548,21 @@ appelées à connaître d'un accident ou d'un incident, de ne pas le porter à l
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°99-243 1999-03-29 art. 1 JORF 30 mars 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V)
 
 
 ###### Article L741-2
 
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait d'entraver l'action de l'organisme permanent :
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait d'entraver l'action de l'organisme permanent :
 
 1° Soit en s'opposant à l'exercice des fonctions dont sont chargés les enquêteurs techniques ;
 
@@ -7463,13 +7575,15 @@ les dissimulant, en les altérant ou en les faisant disparaître.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°99-243 1999-03-29 art. 1 JORF 30 mars 1999
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L741-3
@@ -9696,9 +9810,9 @@ administrative de l'aviation civile).
 
 Le ministre chargé de l'aviation civile, après avis de la commission administrative de l'aviation civile, fixe, s'il y a
 lieu, le montant de l'amende prévue à l'article R. 160-1 en tenant compte du type et de la gravité des manquements constatés
-et, éventuellement, des avantages qui en sont tirés. Ce montant ne peut excéder 10 000 F pour une personne physique et 50 000
-F pour une personne morale par manquement constaté. Ces plafonds sont doublés en cas de nouveau manquement commis dans le
-délai d'un an à compter du précédent.
+et, éventuellement, des avantages qui en sont tirés. Ce montant ne peut excéder 1 500 euros pour une personne physique et 7
+500 euros pour une personne morale par manquement constaté. Ces plafonds sont doublés en cas de nouveau manquement commis
+dans le délai d'un an à compter du précédent.
 
 **Liens relatifs à cet article**
 
@@ -9706,17 +9820,22 @@ délai d'un an à compter du précédent.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+	  - Décret n°2007-863 du 14 mai 2007 - art. 21 () JORF 15 mai 2007
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R160-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R160-13
@@ -12512,28 +12631,38 @@ des nuisances expireront au terme initialement prévu (art. 5).
 ###### Article R226-3
 
 Les amendes administratives sont prononcées par le ministre chargé de l'aviation civile et ne peuvent excéder, par manquement
-constaté, un montant de 10 000 F pour une personne physique et de 50 000 F pour une personne morale. Aucune amende ne peut
-être prononcée plus de deux ans après la constatation d'un manquement.
+constaté, un montant de 1 500 euros pour une personne physique et de 7 500 euros pour une personne morale. Aucune amende ne
+peut être prononcée plus de deux ans après la constatation d'un manquement.
+
+**Nota:**
+
+Décret 2000-126 du 16 février 2000 article 1er : le chapitre VI est remplacé par un chapitre VI " réservé ". Cette
+modification entrera en vigueur lorsque l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires
+auront été nommés. Toutefois, à titre transitoire, les mandats en cours des membres de la Commission nationale de prévention
+des nuisances expireront au terme initialement prévu (art. 5).
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Cette modification entrera en vigueur lorsque l'ensemble des membres de l'Autorité de contrôle des nuisances sonores aéroportuaires auront été nommés
-	  - SPEC_APPLI: Décret n°2000-126 2000-02-16 art. 1 : le chapitre VI est remplacé par un chapitre VI "réservé"
-	  - SPEC_APPLI: Toutefois, à titre transitoire, les mandats en cours des membres de la Commission nationale de prévention des nuisances expireront au terme initialement prévu (art. 5)
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°97-534 du 27 mai 1997 - art. 1 () JORF 29 mai 1997
-
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code de l'aviation civile 1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R226-4
@@ -15423,9 +15552,9 @@ les décisions du ministre.
 
 Le ministre chargé de l'aviation civile, après avis de la commission administrative de l'aviation civile, fixe, s'il y a
 lieu, le montant de l'amende prévue à l'article R. 330-20 en tenant compte du type et de la gravité des manquements constatés
-et éventuellement des avantages qui en sont tirés. Ce montant ne peut excéder 10 000 F pour une personne physique et 50 000 F
-pour une personne morale. Ces plafonds sont doublés en cas de nouveau manquement commis dans le délai d'un an à compter du
-précédent.
+et éventuellement des avantages qui en sont tirés. Ce montant ne peut excéder 1 500 euros pour une personne physique et 7 500
+euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau manquement commis dans le délai d'un an à compter
+du précédent.
 
 **Liens relatifs à cet article**
 
@@ -15436,10 +15565,12 @@ précédent.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-475 du 4 juin 1999 - art. 4 () JORF 9 juin 1999
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -15906,7 +16037,7 @@ Les mesures prévues aux alinéas qui précèdent sont prises dans les condition
 ###### Article R330-15
 
 Sans préjudice de l'application des autres sanctions prévues par la législation en vigueur et en particulier de celles qui
-sont édictées par l'article L. 330-4, sera punie d'une l'amende prévue par le 5° de l'article 131-13 du code pénal pour les
+sont édictées par l'article L. 330-4, sera punie d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les
 contraventions de la cinquième classe, toute personne qui aura contrevenu aux prescriptions des articles L. 330-1, L. 330-2
 ou L. 330-3, et notamment :
 
@@ -15920,17 +16051,13 @@ Sera punie de la même peine, sans préjudice de l'application des autres sancti
 ou par la législation en vigueur, toute personne qui aura contrevenu aux prescriptions des articles R. 330-3, R. 330-7
 (alinéa 2), R. 330-9 (alinéa 2), R. 330-11 ou des règlements pris en application de l'article R. 330-4.
 
-En cas de récidive, la peine d'amende pourra être portée à 20 000 F.
+En cas de récidive, la peine d'amende pourra être portée à 3 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -15942,6 +16069,10 @@ En cas de récidive, la peine d'amende pourra être portée à 20 000 F.
 	  - Arrêté du 20 décembre 2004 - art. 8 (V)
 	  - Code de l'aviation civile - art. R330-16 (Ab)
 	  - Code de l'aviation civile - art. R330-17 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -15955,6 +16086,11 @@ En cas de récidive, la peine d'amende pourra être portée à 20 000 F.
 	  - Code de l'aviation civile - art. R330-4 (Ab)
 	  - Code de l'aviation civile - art. R330-7 (M)
 	  - Code de l'aviation civile - art. R330-9 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R330-17
@@ -19512,13 +19648,13 @@ des deux autres fonds, constatés au-delà des plus élevées des valeurs suivan
 
 Fonds spécial :
 
-900 millions de francs ;
+137 204 115,51 euros ;
 
 Neuf fois le montant des prestations annuelles versées apparaissant au dernier bilan approuvé.
 
 Fonds d'assurance :
 
-200 millions de francs ;
+30 489 803,45 euros ;
 
 Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan approuvé.
 
@@ -19528,14 +19664,12 @@ Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan app
 
 	  - Décret n°67-334 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 21 () JORF 1er juillet 1995
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
 	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Cité par**:
 
@@ -19547,6 +19681,10 @@ Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan app
 	  - Code de l'aviation civile - art. R426-6 (VD)
 	  - Code de l'aviation civile - art. R426-7 (VD)
 	  - Code de l'aviation civile - art. R426-8 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -19864,41 +20002,41 @@ Les indemnités prévues à l'article R. 530-5 sont fixées comme suit :
 1° En cas d'invalidité permanente, après consolidation de la blessure et fixation du pourcentage définitif d'invalidité, la
 victime de l'accident reçoit une indemnité de :
 
-675 F pour une invalidité de 25 à 29 p. 100 ;
+102,90 euros pour une invalidité de 25 à 29 p. 100 ;
 
-1 350 F pour une invalidité de 30 à 34 p. 100 ;
+205,81 euros pour une invalidité de 30 à 34 p. 100 ;
 
-2 025 F pour une invalidité de 35 à 39 p. 100 ;
+308,71 euros pour une invalidité de 35 à 39 p. 100 ;
 
-2 700 F pour une invalidité de 40 à 44 p. 100 ;
+411,61 euros pour une invalidité de 40 à 44 p. 100 ;
 
-3 375 F pour une invalidité de 45 à 49 p. 100 ;
+514,52 euros pour une invalidité de 45 à 49 p. 100 ;
 
-4 050 F pour une invalidité de 50 à 54 p. 100 ;
+617,42 euros pour une invalidité de 50 à 54 p. 100 ;
 
-4 725 F pour une invalidité de 55 à 59 p. 100 ;
+720,32 euros pour une invalidité de 55 à 59 p. 100 ;
 
-5 400 F pour une invalidité de 60 à 64 p. 100 ;
+823,22 euros pour une invalidité de 60 à 64 p. 100 ;
 
-6 075 F pour une invalidité de 65 à 69 p. 100 ;
+926,13 euros pour une invalidité de 65 à 69 p. 100 ;
 
-6 750 F pour une invalidité égale ou supérieure à 70 p. 100.
+1 029,03 euros pour une invalidité égale ou supérieure à 70 p. 100.
 
 Ces allocations sont majorées de 30 p. 100 si la victime était mariée (non séparée de corps) au moment de l'accident. Lorsque
-le degré d'invalidité atteint au moins 70 p. 100 l'allocation indiquée ci-dessus est majorée de 3 000 F par enfant mineur ou
-à charge vivant, légitime ou naturel reconnu.
+le degré d'invalidité atteint au moins 70 p. 100 l'allocation indiquée ci-dessus est majorée de 457,35 euros par enfant
+mineur ou à charge vivant, légitime ou naturel reconnu.
 
 2° En cas de décès, le conjoint non divorcé ni séparé de corps, à condition que le mariage ait été contracté antérieurement à
 l'accident, les enfants mineurs ou à charge, légitimes ou naturels reconnus et les ascendants à charge reçoivent une
 indemnité fixée comme suit :
 
-a) Pour la veuve, un capital de 4 500 F ;
+a) Pour la veuve, un capital de 686,02 euros ;
 
-b) Pour chacun des enfants 3 000 F. Cette indemnité est majorée de 50 p. 100 pour les orphelins de père et mère, et pour les
-orphelins dont la mère est inhabile à recevoir une indemnité ;
+b) Pour chacun des enfants 457,35 euros. Cette indemnité est majorée de 50 p. 100 pour les orphelins de père et mère, et pour
+les orphelins dont la mère est inhabile à recevoir une indemnité ;
 
 c) Pour chacun des ascendants, à la condition qu'il soit établi que la victime en était effectivement le soutien avant son
-décès, une indemnité globale et forfaitaire de 3 000 F.
+décès, une indemnité globale et forfaitaire de 457,35 euros.
 
 Les veuves, enfants et ascendants ne peuvent prétendre à une indemnité si, avant le décès, la victime avait déjà perçu une
 indemnité d'invalidité permanente au titre du fonds de prévoyance des sports aériens.
@@ -19912,13 +20050,13 @@ atteint d'une maladie incurable ou d'une infirmité le rendant inapte à tout tr
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R530-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°73-140 1973-02-13 art. 1 JORF 15 février 1973
 
 
 ###### Article R530-8
@@ -21581,8 +21719,8 @@ en donner l'attestation au pied du dernier enregistrement effectué au registre 
 
 ###### Article D121-36
 
-Le fonctionnaire chargé de la tenue du registre d'immatriculation perçoit à son profit un droit fixé uniformément à 10 F pour
-l'ensemble des formalités ausquelles donne lieu, par aéronef, chacune des opérations suivantes :
+Le fonctionnaire chargé de la tenue du registre d'immatriculation perçoit à son profit un droit fixé uniformément à 1,5 euro
+pour l'ensemble des formalités ausquelles donne lieu, par aéronef, chacune des opérations suivantes :
 
 Inscription d'un aéronef ;
 
@@ -21607,8 +21745,17 @@ tenue du registre d'immatriculation, à aucune perception autre que celle indiqu
 
 	**Modifié par**:
 
-	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
-	  - Décret n°76-173 1976-02-13 art. 1 JORF 19 février 1976 en vigueur le 1er janvier 1976
+	  - Décret n°2001-861 du 18 septembre 2001 - art. 1 () JORF 20 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1111 du 22 septembre 2010 - art. 2
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 2866-98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
 #### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.
@@ -22719,28 +22866,28 @@ rémunérées.
 
 Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des documents de
 navigabilité énoncés par les articles R. 133-1 et R. 133-2 du code de l'aviation civile, mis à la charge des postulants par
-l'article R. 133-4, comprennent :
+l'article R. 133-4, comprennent : 
 
 1° Une somme forfaitaire représentant le montant des frais administratifs d'établissement du document spécifique à chaque
 aéronef, non compris les frais de contrôle et fixée par arrêté conjoint du ministre chargé du budget et du ministre chargé de
-l'aviation civile ;
+l'aviation civile ; 
 
 2° Une somme variable, qui représente le montant des frais de contrôle et comprend notamment les frais de déplacements des
-services et organismes chargés du contrôle.
+services et organismes chargés du contrôle. 
 
 Pour le contrôle en vue de la délivrance des titres de navigabilité et de limitations de nuisances spécifiques à chaque
 aéronef, le montant global des sommes mentionnées aux 1° et 2° ci-dessus est établi en pourcentage de la valeur de l'appareil
-contrôlé.
+contrôlé. 
 
-Lorsque le contrôle est effectué en France métropolitaine, le montant ne peut dépasser les limites ci-après :
+Lorsque le contrôle est effectué en France métropolitaine, le montant ne peut dépasser les limites ci-après : 
 
-2 p. 100 ad valorem pour la tranche allant de 0 à 22 000 F ;
+2 % ad valorem pour la tranche allant de 0 à 3 354 euros ; 
 
-1,5 p. 100 ad valorem pour la tranche allant de 22 000 F à 110 000 F ;
+1,5 % ad valorem pour la tranche allant de 3 354 euros à 16 769 euros ; 
 
-1 p. 100 ad valorem pour la tranche allant de 110 000 F à 220 000 F ;
+1 % ad valorem pour la tranche allant de 16 769 euros à 33 539 euros ; 
 
-0,5 p. 100 ad valorem pour la tranche dépassant 220 000 F.
+0,5 % ad valorem pour la tranche dépassant 33 539 euros. 
 
 Lorsque le contrôle est effectué hors du territoire métropolitain, les maxima indiqués ci-dessus sont affectés d'un
 coefficient de majoration. Ce dernier est défini pour chaque département d'outre-mer, chaque territoire d'outre-mer, toute
@@ -22752,14 +22899,17 @@ autre collectivité territoriale ou pays étranger par arrêté des ministres co
 
 	  - Décret n°67-335 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 16 octobre 1987
 	  - TXT_SOURCE: Arrêté du 16 octobre 1987 - art. 1 (V)
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 2866-98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
+
+	**Modifié par**:
+
+	  - Décret n°2001-861 du 18 septembre 2001 - art. 1 () JORF 20 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -22767,8 +22917,7 @@ autre collectivité territoriale ou pays étranger par arrêté des ministres co
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R133-1 (M)
-	  - Code de l'aviation civile - art. R133-2 (V)
+	  - Code de l'aviation civile - art. R133-1 (V)
 	  - Code de l'aviation civile - art. R133-4 (Ab)
 
 
