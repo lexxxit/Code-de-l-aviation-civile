@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1984-01-15
+Version Consolidée au 1984-04-01
 
 # Partie législative
 
@@ -6223,6 +6223,99 @@ l'aérodrome d'arrivée et de départ, la route aérienne à suivre et les signa
 
 #### CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS.
 
+###### Article R133-1
+
+1° Un aéronef ne peut être utilisé pour la circulation aérienne que :
+
+a) S'il est muni d'un document de navigabilité en état de validité ; ce document, propre à chaque appareil, peut être soit un
+certificat de navigabilité, soit un certificat de navigabilité spécial, soit un laissez-passer provisoire ;
+
+b) S'il est apte au vol, c'est-à-dire s'il répond à tout moment aux conditions techniques de navigabilité ayant servi de base
+à la délivrance du document de navigabilité qui lui est propre et aux règles servant de base au maintien en état de validité
+de ce document ;
+
+c) Si cette utilisation est faite conformément aux règles édictées en vue d'assurer la sécurité.
+
+2° Un certificat de type est délivré dès lors que les conditions relatives à la sécurité notifiées au postulant sont remplies
+pour un type déterminé d'aéronef.
+
+Un certificat de navigabilité n'est délivré pour un aéronef que si l'appareil est conforme à un type déjà certifié.
+
+Par dérogation provisoire aux dispositions des deux alinéas précédents et dans des conditions fixées par arrêté du ministre
+chargé de l'aviation civile, un aéronef dont le type n'a pas été certifié peut obtenir un certificat de navigabilité français
+si, à la date de la première immatriculation d'un exemplaire de ce type, un certificat de type n'était pas exigé par la
+réglementation en vigueur et si. à la date de la demande, un aéronef de même type est muni d'un certificat de navigabilité
+français valide ou périmé depuis moins d'un an.
+
+Un certificat de navigabilité spécial n'est délivré pour un aéronef que si l'appareil satisfait à des conditions de sécurité
+qui lui sont propres et qui ont été notifiées au postulant.
+
+Un laissez-passer provisoire n'est délivré pour un aéronef que sous réserve des restrictions imposées par le ministre chargé
+de l'aviation civile dans l'intérêt de la sécurité des tiers et relatives notamment à ses conditions d'utilisation.
+
+3° Les aéronefs mentionnés ci-après peuvent faire l'objet de l'exemption de certaines obligations énumérées ci-dessus, à
+condition de respecter des dispositions particulières fixées par arrêté du ministre chargé de l'aviation civile et portant,
+en tant que de besoin, aussi bien sur la conception des appareils que sur les conditions de leur emploi et sur les capacités
+requises des personnes qui les utilisent :
+
+a) Les aéronefs captifs ou tractés à partir de la surface du sol ou de l'eau ;
+
+b) Les aéronefs qui ne transportent aucune personne à bord ;
+
+c) Les aéronefs monoplace ou biplaces non motorisés ou faiblement motorisés définis par le ministre chargé de l'aviation
+civile ;
+
+d) Les ballons ;
+
+e) Les parachutes ;
+
+f) Les fusées autres que celles visées à l'article L. 110-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°82-842 du 29 septembre 1982 - art. 14 (Ab)
+	  - Arrêté du 24 juillet 1991 - art. 3 (V)
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Arrêté du 15 mars 2005 - art. 2 (V)
+	  - Arrêté du 23 juin 2009 (V)
+	  - Code de l'aviation civile - art. D133-1 (V)
+	  - Code de l'aviation civile - art. D133-5 (V)
+	  - Code de l'aviation civile - art. D133-7 (V)
+	  - Code de l'aviation civile - art. R133-1-2 (V)
+	  - Code de l'aviation civile - art. R133-1-3 (Ab)
+	  - Code de l'aviation civile - art. R133-10 (V)
+	  - Code de l'aviation civile - art. R133-3 (V)
+	  - Code de l'aviation civile - art. R133-4 (Ab)
+	  - Code de l'aviation civile - art. R133-5 (M)
+	  - Code de l'aviation civile - art. R151-2 (Ab)
+	  - Code de l'aviation civile - art. R611-5 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 5 novembre 1987
+	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 6 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L110-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+	  - Décret n°84-459 1984-06-14 art. 1 JORF 17 juin 1984 en vigueur le 1er avril 1984
+
+
 ###### Article R133-2
 
 Aucun aéronef appartenant à l'une des catégories définies par le ministre chargé de l'aviation civile ne peut être utilisé
@@ -6284,6 +6377,41 @@ b) Soit d'un laissez-passer provisoire assorti de toutes restrictions jugées ut
 	  - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 3 (Ab)
 
 
+###### Article R133-3
+
+Des arrêtés du ministre chargé de l'aviation civile fixent :
+
+a) Les conditions de délivrance et de maintien en état de validité des certificats et laissez-passer mentionnés aux articles
+R. 133-1 et R. 133-2 ;
+
+b) Les conditions du maintien de l'aptitude au vol et de son contrôle ;
+
+c) Les règles d'utilisation des aéronefs mentionnées à l'article R. 133-1 (1°, c) et du contrôle y afférent ;
+
+d) Les documents relatifs à la navigabilité et aux limitations de nuisances qui doivent être emportés à bord de l'aéronef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-19 (M)
+	  - Code de l'aviation civile - art. R151-8 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (M)
+	  - Code de l'aviation civile - art. R133-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+	  - Décret n°84-459 1984-06-14 art. 2 JORF 17 juin 1984 en vigueur le 1er avril 1984
+
+
 ###### Article R133-4
 
 Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des certificats et
@@ -6319,6 +6447,47 @@ décret pris sur le rapport du ministre chargé de l'aviation civile et du minis
 
 	  - Code de l'aviation civile - art. R133-1 (M)
 	  - Code de l'aviation civile - art. R133-2 (V)
+
+
+###### Article R133-5
+
+Le ministre chargé de l'aviation civile peut habiliter des organismes techniques extérieurs à l'administration, à la
+délivrance ou au maintien en état de validité des documents de navigabilité ou de limitation de nuisances, ou à la
+surveillance de l'aptitude au vol ou du respect des règles d'utilisation.
+
+Des arrêtés du ministre chargé de l'aviation civile déterminent les cas, les conditions et les limites dans lesquels ces
+organismes exercent leur action.
+
+Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la défense peut également habiliter un
+organisme technique extérieur à l'administration à procéder à certaines tâches relatives à la certification de type prévue à
+l'article R. 133-1 (2°), premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 28 juin 1996 - art. 13 (V)
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Arrêté du 4 janvier 2011 - art. 3 (VT)
+	  - Arrêté du 21 mars 2011 - art. 6 (Ab)
+	  - Arrêté du 28 juin 2011 - art. 4 (Ab)
+	  - Arrêté du 6 mars 2013 - art. 3 (V)
+	  - Code de l'aviation civile - art. D133-5 (V)
+	  - Code de l'aviation civile - art. R133-5 (M)
+	  - Code de l'aviation civile - art. R611-6 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+	  - Décret n°84-459 1984-06-14 art. 4 JORF 17 juin 1984 en vigueur le 1er avril 1984
 
 
 ###### Article R133-6
@@ -6465,6 +6634,41 @@ du territoire français si l'équivalence a été admise par convention internat
 	**Modifié par**:
 
 	  - Décret n°82-171 1982-02-16 art. 1 JORF 20 février 1982
+
+
+###### Article R133-12
+
+Tout pilote d'aéronef effectuant, selon les règles de vol à vue, un vol comportant le franchissement, dans l'un ou l'autre
+sens, des frontières de la France métropolitaine doit avoir, au préalable, déposé un plan de vol.
+
+Tout pilote d'aéronef motopropulsé équipé de moyens de radiocommunication, désirant pénétrer à l'intérieur de l'espace aérien
+métropolitain en évoluant selon les règles du vol à vue, doit se mettre en liaison radiotéléphonique avec les services
+français de la circulation aérienne lors du franchissement de la frontière ou, si la liaison n'a pu être établie à ce moment,
+dès que possible.
+
+Si pour des raisons indépendantes de sa volonté, et notamment si l'aéronef ne comporte pas de moyens de radiocommunication,
+la pilote n'a pu établir cette liaison pendant le vol, il doit , dès l'atterrissage, se mettre en rapport avec les services
+locaux de la circulation aérienne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Abrogé par**:
+
+	  - Décret n°94-304 du 13 avril 1994 - art. 1 () JORF 21 mars 1994
+
+	**Cité par**:
+
+	  - Arrêté du 7 décembre 2006 - art. 1 (V)
+	  - Code de l'aviation civile - art. R133-14 (V)
+	  - Code de l'aviation civile - art. R151-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-459 1984-06-14 art. 3 JORF 17 juin 1984 en vigueur le 1er avril 1984
 
 
 #### CHAPITRE IV : REDEVANCES.
@@ -6753,6 +6957,35 @@ tenu informé.
 
 
 ### TITRE V : DISPOSITIONS PENALES.
+
+###### Article R151-2
+
+Le propriétaire ou l'exploitant qui met ou laisse en service un aéronef en contravention avec l'article R. 133-1 (1°, b et
+c), les textes pris pour son application et les arrêtés pris pour l'application du 3° du même article est puni des peines
+prévues à l'article R. 40 du code pénal.
+
+Tout pilote qui utilise un aéronef en contravention avec l'article R. 133-1 (1°, b et c), les textes pris pour son
+application et les arrêtés pris pour l'application du 3° du même article est passible des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Abrogé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 3 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code pénal R40
+	  - Code de l'aviation civile - art. R133-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-459 1984-06-14 art. 7 JORF 17 juin 1984 en vigueur le 1er avril 1984
+
 
 ###### Article R151-3
 
