@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1997-05-31
+Version Consolidée au 1997-08-23
 
 # Partie législative
 
@@ -12450,29 +12450,48 @@ Une autorisation est requise dans les mêmes formes en cas de cession de partici
 
 Le conseil d'administration de la Compagnie nationale Air France comprend dix-huit membres :
 
-1° Trois représentants de l'Etat, nommés respectivement par arrêté du ministre chargé de l'aviation civile, du ministre
-chargé de l'économie et du ministre chargé du budget, et huit administrateurs désignés par l'assemblée générale des
-actionnaires ;.
+1° Cinq représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
 
-2° Un représentant des salariés actionnaires désigné, parmi ceux-ci, par l'assemblée générale sur proposition d'une section
+- un sur proposition du Premier ministre  ;
+
+- deux sur proposition du ministre chargé de l'aviation civile ;
+
+- un sur proposition du ministre chargé de l'économie ;
+
+- un sur proposition du ministre chargé du budget ;
+
+2° Six personnalités qualifiées, nommées par décret sur le rapport du ministre chargé de l'aviation civile et choisies soit
+en raison de leur compétence technique, scientifique ou technologique, soit en raison de leur connaissance du transport
+aérien, soit en raison de leur qualité de représentant des usagers ;
+
+3° Un représentant des salariés actionnaires désigné, parmi ceux-ci, par l'assemblée générale sur proposition d'une section
 de l'assemblée générale composée de ces seuls actionnaires ;
 
-3° Six représentants des salariés, élus dans la cadre de trois collèges électoraux distincts à raison de :
+4° Six représentants des salariés élus par les salariés de la Compagnie nationale Air France et de ses filiales au sens du 4
+de l'article 1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, dans le cadre de
+trois collèges électoraux distincts à raison de :
 
 - un élu par le personnel navigant technique ;
 
 - un élu par le personnel navigant commercial ;
 
-- quatre élus, dont un représentant des cadres, par les autres salariés de la compagnie nationale.
+- quatre élus, dont un représentant des cadres, par les autres salariés.
 
-Les conditions de présentation des listes de candidats définies à l'article 17 de la loi n° 83-675 du 26 juillet 1983
-relative à la démocratisation du secteur public s'apprécient par collège. Sous cette réserve, les élections sont organisées
-conformément aux dispositions du chapitre II du titre II de ladite loi et du décret n° 83-1160 du 26 décembre 1983 pris pour
-son application.
+Les conditions de présentation des listes de candidats, définies par l'article 17 de ladite loi, s'apprécient par collège.
+Sous cette réserve, les élections sont organisées conformément aux dispositions du chapitre II du titre II de ladite loi et
+du décret n° 83-1160 du 26 décembre 1983 pris pour son application.
 
-La durée du mandat des membres du conseil d'administration est de cinq ans. Dans le cas où il y a lieu de procéder au
-remplacement des membres du conseil, les nouveaux membres restent en fonctions jusqu'à la date de l'expiration normale du
+La durée du mandat des membres du conseil d'administration est de cinq ans. Toutefois, les membres du conseil doivent être
+remplacés lorsqu'ils ont perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus les
+conditions d'éligibilité. Dans ce cas, les nouveaux membres restent en fonctions jusqu'à la date de l'expiration normale du
 mandat des membres du conseil qu'ils remplacent.
+
+Il peut être mis fin par décret au mandat des membres du conseil d'administration nommés par décret.
+
+Trois censeurs, nommés pour cinq ans, siègent au conseil d'administration avec voix consultative. Les deux premiers sont
+nommés par décret sur le rapport du ministre chargé de l'aviation civile, l'un sur proposition du ministre chargé de la
+défense, l'autre sur celle du ministre chargé du tourisme. Le troisième est nommé par l'assemblée générale ordinaire. Il peut
+être mis fin, à tout moment, à leurs fonctions dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -12480,12 +12499,9 @@ mandat des membres du conseil qu'ils remplacent.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-92 1995-12-30 art. 4
-
 	**Cite**:
 
+	  - Loi n°83-675 1983-07-26 art. 1, art. 17
 	  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
 	  - Décret n°83-1160 1983-12-26
 
@@ -12495,7 +12511,11 @@ mandat des membres du conseil qu'ils remplacent.
 
 	**Modifié par**:
 
-	  - Décret n°96-1117 du 19 décembre 1996 - art. 1 () JORF 21 décembre 1996
+	  - Décret n°97-795 du 21 août 1997 - art. 1 () JORF 23 août 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-795 du 21 août 1997 - art. 4 (M)
 
 
 ###### Article R342-2
@@ -12545,9 +12565,9 @@ un collège de personnels navigants peut être représenté par plus de deux dé
 
 ###### Article R342-3
 
-Les actions de la société Compagnie nationale Air France sont détenues en majorité par la société Groupe Air France S.A.,
-dont la création a été autorisée par le décret n° 94-642 du 25 juillet 1994 et dont l'Etat détient directement plus de la
-moitié du capital social.
+Le président du conseil d'administration est nommé, parmi les membres du conseil d'administration et sur proposition de
+celui-ci, par décret, pour la durée de son mandat d'administrateur. Il peut être révoqué par décret sur le rapport du
+ministre chargé de l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -12555,13 +12575,13 @@ moitié du capital social.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Cite**:
-
-	  - Décret n°94-642 1994-07-25
-
 	**Modifié par**:
 
-	  - Décret n°95-92 du 30 janvier 1995 - art. 1 () JORF 31 janvier 1995
+	  - Décret n°97-795 du 21 août 1997 - art. 1 () JORF 23 août 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-795 du 21 août 1997 - art. 4 (M)
 
 	**Cité par**:
 
@@ -12756,8 +12776,8 @@ l'approbation ministérielle est considérée comme acquise de plein droit.
 
 ###### Article R342-15
 
-Le directeur général de l'aviation civile et le chef du service des transports aériens siègent, avec voix consultative, au
-conseil d'administration de la Compagnie nationale Air France, respectivement en qualité de commissaire du Gouvernement et de
+Le directeur général de l'aviation civile et le directeur des transports aériens siègent, avec voix consultative, au conseil
+d'administration de la Compagnie nationale Air France, respectivement en qualité de commissaire du Gouvernement et de
 commissaire du Gouvernement adjoint.
 
 **Liens relatifs à cet article**
@@ -12766,14 +12786,14 @@ commissaire du Gouvernement adjoint.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°84-352 1984-05-11 art. 4 JORF 12 mai 1984
-
 	**Cité par**:
 
 	  - Décret n°92-1390 du 30 décembre 1992 - art. Annexe, 15 (Ab)
 	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°97-795 du 21 août 1997 - art. 5 () JORF 23 août 1997
 
 
 ### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
