@@ -1,6 +1,6 @@
 # Article Annexe II : Chapitre II
 
-CHAPITRE II : Généralités
+**CHAPITRE II : Généralités**
 
 2.1. Bénéficiaires des services de la circulation aérienne. 
 
@@ -363,9 +363,9 @@ le service d'information de vol et le service d'alerte.
 
 Les modalités de désignation des organismes chargés d'assurer les services de la circulation aérienne dans les régions
 d'information de vol et les espaces contrôlés sont fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté
-conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens où un organisme
-unique de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation
-aérienne militaire. 
+conjoint du ministre chargé de l'aviation civile et du ministre de la défense pour les espaces aériens où un organisme unique
+de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation aérienne
+militaire. 
 
 2.4.4. Identification. 
 
@@ -423,4 +423,4 @@ l'enquête.
 
 	**Modifié par**:
 
-	  - Décret n°94-947 1994-10-25 annexe II JORF 3 novembre 1994 en vigueur le 3 décembre 1994
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004

@@ -1,10 +1,8 @@
 # Article Annexe I : Chapitre IV
 
-**CHAPITRE IV : Règles de vol à vue (VFR)
+**CHAPITRE IV : Règles de vol à vue (VFR)**
 
-**
-
-4.1. Conditions météorologiques de vol à vue et limitations de vitesse 
+4.1. Conditions météorologiques de vol à vue et limitations de vitesse
 
 4.1.1. Sauf clairance contraire en ce qui concerne le vol VFR spécial, les vols VFR doivent être effectués dans des
 conditions de visibilité et de distance par rapport aux nuages au moins égales à celles qui sont spécifiées dans le tableau
@@ -13,7 +11,7 @@ de l'appendice D.
 4.1.2. Les vols VFR appliquent les limitations de vitesse spécifiées dans le tableau de l'appendice D, sauf clairance
 contraire en espace aérien contrôlé de classe C ou D.
 
-4.2. Vol VFR spécial. 
+4.2. Vol VFR spécial.
 
 4.2.1. Une clairance VFR spécial est nécessaire pour pénétrer ou évoluer dans la circulation d'aérodrome d'un aérodrome
 contrôlé situé dans une zone de contrôle, ou dans une zone de contrôle spécialisée, lorsque les paramètres communiqués par
@@ -37,8 +35,8 @@ s'appliquer en VFR spécial.
 
 4.2.5. Une clairance de vol VFR spécial peut être délivrée dans des espaces aériens contrôlés autres que les zones de
 contrôle dans des conditions fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du ministre
-chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens contrôlés spécialisés autres que les
-zones de contrôle spécialisées.
+chargé de l'aviation civile et du ministre de la défense pour les espaces aériens contrôlés spécialisés autres que les zones
+de contrôle spécialisées.
 
 4.3. Vol VFR de nuit.
 
@@ -216,7 +214,7 @@ Un aéronef en VFR doit être muni de l'équipement de radionavigation adapté �
 
 - lorsqu'il quitte la vue du sol ou de l'eau ; 
 
-- dans les autres cas où un tel équipement est utile. 
+- dans les autres cas où un tel équipement est utile.
 
 4.11. Poursuite en IFR d'un vol VFR 
 
@@ -232,4 +230,4 @@ antérieurement déposé pour le vol VFR ;
 
 	**Modifié par**:
 
-	  - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
