@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2003-03-16
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -4696,6 +4696,42 @@ sécurité ou le bon ordre à bord d'un aéronef.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
+###### Article L322-5
+
+Lorsque des violences sont commises dans un aéronef ou dans un lieu destiné à l'accès à un aéronef, la sanction est celle
+prévue par les articles 222-12 et 222-13 du code pénal.
+
+Lorsque l'auteur de l'un des délits mentionnés à l'alinéa précédent se trouve hors d'état de justifier d'un domicile ou d'un
+emploi sur le territoire français ou d'une caution agréée par l'administration habilitée à percevoir les amendes garantissant
+le paiement éventuel des condamnations pécuniaires encourues, le ou les bagages ainsi que le contrat de transport de la
+personne pourront être retenus par l'officier ou l'agent de police judiciaire, jusqu'au versement d'une consignation dont le
+montant ne pourra excéder 1 500 euros.
+
+La décision imposant le paiement d'une consignation est prise par le procureur de la République, qui est tenu de statuer dans
+le délai de la garde à vue si la personne fait l'objet de cette mesure ou, à défaut, dans un délai de quatre heures à compter
+soit de la constatation du délit si celui-ci a été commis dans un lieu destiné à l'accès à un aéronef, soit de l'arrivée des
+passagers si le délit a été commis dans un aéronef.
+
+La consignation est versée à un comptable du Trésor ou à un agent visé à l'article L. 330-10 porteur d'un carnet de
+quittances à souche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78 () JORF 19 mars 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 222-12 (M)
+	  - Code pénal - art. 222-13 (M)
+	  - Code de l'aviation civile - art. L330-10 (V)
+
+
 #### CHAPITRE III : AFFRETEMENT D'AERONEFS.
 
 ###### Article L323-1
@@ -5144,6 +5180,48 @@ modalités fixées par décret en Conseil d'Etat.
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R330-18 (V)
+
+
+###### Article L330-10
+
+Indépendamment des officiers et agents de police judiciaire, peuvent être chargés de la constatation des infractions et
+manquements aux dispositions du présent livre et des décrets pris pour son application les agents et fonctionnaires énumérés
+à l'article L. 150-13, ainsi que les fonctionnaires des corps administratifs de catégorie A de l'aviation civile,
+commissionnés à cet effet et assermentés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78 () JORF 19 mars 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6431-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L150-13
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L322-5 (VT)
+	  - Code de l'aviation civile - art. L330-10-1 (VT)
+	  - Code de l'aviation civile - art. R217-7 (Ab)
+	  - Code de l'aviation civile - art. R330-21 (M)
+	  - Code de l'aviation civile - art. R330-23 (V)
 
 
 ### TITRE IV : SOCIETE AIR FRANCE.
@@ -29308,32 +29386,17 @@ en vigueur.
 
 ###### Article D422-13
 
-Lorsque l'entreprise choisit l'option prévue au a de l'article D. 422-10, les heures de vol comptabilisées à la fin de chacun
-des trimestres sont considérées à partir de la 226e heure comme heures supplémentaires, à l'exclusion de celles effectuées
-pour prévenir des accidents imminents et organiser des mesures de sauvetage. Elles donnent lieu à une majoration de 25 %
-portant sur les éléments de rémunération, à l'exclusion des remboursements de frais.
-
-En outre, les heures de vol sont comptabilisées à la fin de chaque année. Elles sont considérées à partir de la 826e heure
-comme heures supplémentaires, à l'exclusion de celles effectuées pour prévenir les accidents imminents et organiser les
-mesures de sauvetage, et rémunérées dans les conditions de l'alinéa précédent si elles n'ont pas déjà donné lieu à
-majoration.
-
-Lorsque l'entreprise choisit l'option prévue au b de l'article D. 422-10, les heures de vol comptabilisées à la fin de chacun
-des trimestres sont considérées à partir de la 234e heure comme heures supplémentaires, à l'exclusion de celles effectuées
-pour prévenir les accidents imminents et organiser des mesures de sauvetage et donnent lieu à une majoration de 25 % portant
-sur les éléments de rémunération, à l'exclusion des remboursements de frais. Toutefois, les entreprises dont l'activité est
-exclusivement consacrée au travail aérien agricole, et qui ont conclu un accord dans le cadre du b  de l'article D. 422-10,
-peuvent ne comptabiliser les heures de vol qu'à la fin de chaque année, sous réserve que les heures effectuées au-delà de la
-durée moyenne mensuelle ouvrent droit à une majoration de salaire. Celles-ci sont considérées à partir de la 826e heure comme
-heures supplémentaires, à l'exclusion de celles effectuées pour prévenir des accidents imminents et organiser des mesures de
-sauvetage et donnent lieu à une majoration de 25 % portant sur les éléments de rémunération, à l'exclusion des remboursements
-de frais.
+A la demande de la société Air France, d'une organisation patronale ou du personnel de la profession, des arrêtés du ministre
+compétent pourront, après consultation des organisations intéressées et en se référant, là où il en existe, aux accords
+intervenus entre elles, autoriser nonobstant les règles fixées aux articles D. 422-11 et D. 422-12, un régime répartissant
+les temps de vol et les temps d'arrêt sur une autre période de temps, compte tenu notamment de l'éventuel renforcement de
+l'équipage.
 
 **Nota:**
 
-: La décision du Conseil d'Etat n° 122938 du 19 mars 2003 syndicat national des pilotes de ligne, syndicat national du
-personnel navigant de l'aviation civile, a annulé l'article 17 du décret n° 97-999 du 29 octobre 1999 qui réécrivait
-entièrement l'article D. 422-13 du code de l'aviation civile.
+L'article D. 422-13 du code de l'aviation civile a été rétabli dans sa version antérieure à la modification induite par
+l'article 17 du décret n° 97-999 du 29 octobre 1997 à la suite de la décision d'annulation du Conseil d'Etat n° 192938 du 19
+octobre 2003 syndicat national des pilotes de ligne, syndicat national du personnel navigant de l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -29347,28 +29410,21 @@ entièrement l'article D. 422-13 du code de l'aviation civile.
 
 	**Modifié par**:
 
-	  - Décret n°97-999 du 29 octobre 1997 - art. 1 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 12 () JORF 31 octobre 1997
-	  - Décret n°97-999 du 29 octobre 1997 - art. 17 () JORF 31 octobre 1997
+	  - Décret n°80-910 1980-11-17 art. 5 XV JORF 21 novembre 1980
 
 	**Cité par**:
 
 	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
 	  - Code de l'aviation civile - art. D422-1 (M)
 	  - Code de l'aviation civile - art. D422-12 (M)
+	  - Code de l'aviation civile - art. D422-13 (An)
 	  - Code de l'aviation civile - art. D422-16 (Ab)
 	  - Code de l'aviation civile - art. D422-9 (M)
 	  - Code de l'aviation civile - art. R426-12 (M)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D422-10 (M)
-	  - Code de l'aviation civile - art. D422-13 (M)
-	  - Décret n°97-999 1999-10-29 art. 17
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°122938 2003-03-19
+	  - Code de l'aviation civile - art. D422-11 (V)
 
 
 ##### Section 4 : Période de transition
