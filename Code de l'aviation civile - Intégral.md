@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1983-12-09
+Version Consolidée au 1984-01-15
 
 # Partie législative
 
@@ -7887,6 +7887,170 @@ cahier des charges.
 
 
 #### CHAPITRE IV : REDEVANCES.
+
+###### Article R224-1
+
+Sur tout aérodrome ouvert à la circulation aérienne publique, les services rendus aux usagers et au public donnent lieu à une
+rémunération, sous la forme de redevances perçues au profit de la personne qui fournit le service, notamment à l'occasion des
+opérations suivantes : 
+
+Atterrissage des aéronefs ;    Usage des dispositifs d'assistance à la navigation aérienne ;
+
+Stationnement et abri des aéronefs ;    Usage des installations aménagées pour la réception des passagers et des
+marchandises ;    Usage d'installations et d'outillages divers ;    Occupation de terrains et d'immeubles ;    Visite de tout
+ou partie des zones réservées de l'aérodrome.    Mise en place et fonctionnement des dispositifs destinés à assurer la sûreté
+des usagers du transport aérien ; ces dispositifs comprennent exclusivement ceux qui sont nécessaires pour compléter les
+moyens dont disposent normalement les services chargés de la police en vue d'assurer l'ordre public sur les aérodromes. 
+
+Une redevance complémentaire à la redevance d'atterrissage, dite Redevance pour atténuation des nuisances phoniques, est
+perçue sur certains aérodromes désignés par décret en Conseil d'Etat. 
+
+Les redevances doivent être appropriées au service rendu.
+
+Les redevances revenant à l'Etat, à des collectivités publiques et établissements publics sont perçues par un comptable
+public. 
+
+Elles sont recouvrées selon les règles propres à la collectivité ou à l'établissement qui en bénéficie et en ce qui concerne
+l'Etat, selon les règles prévues en matière de créances domaniales ou en vertu de titres de perception émis par les préfets. 
+
+Lorsque les redevances sont perçues au comptant leur encaissement peut être assuré par un régisseur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 24 janvier 1956 - art. 1 (V)
+	  - Arrêté du 24 janvier 1956 - art. 10 (V)
+	  - Arrêté du 26 février 1981 - art. 1 (V)
+	  - Arrêté du 26 février 1981 - art. 8 (V)
+	  - Décret n°84-29 du 11 janvier 1984 - art. 1 (An)
+	  - Décret n°85-889 du 12 août 1985 - art. 2 (Ab)
+	  - Décret n°90-221 du 9 mars 1990 - art. 4 (V)
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Loi n°98-1171 du 18 décembre 1998 - art. 2 (V)
+	  - Arrêté du 16 septembre 2005 - art. 1 (VD)
+	  - Arrêté du 16 septembre 2005 - art. 4 (V)
+	  - Arrêté du 11 février 2009 (V)
+	  - Arrêté du 16 janvier 2012 - art. 1 (V)
+	  - Arrêté du 16 janvier 2012 - art. 2 (V)
+	  - Arrêté du 16 janvier 2012 - art. 5 (V)
+	  - Code de l'aviation civile - art. R223-6 (V)
+	  - Code de l'aviation civile - art. R224-2 (M)
+	  - Code de l'aviation civile - art. R224-3 (V)
+	  - Code de l'aviation civile - art. R224-3-1 (V)
+	  - Code de l'aviation civile - art. R224-4 (V)
+	  - Code de l'aviation civile - art. R282-9 (An)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30 JORF 9 AVRIL 1967
+
+	**Modifié par**:
+
+	  - Décret n°81-577 1981-05-12 ART. 1 JORF 17 MAI 1981
+	  - Décret n°84-28 1984-01-11 ART. 1 JORF 15 JANVIER 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-28 1984-01-11 ART. 3 : les modifications apportées par ce décret aux articles R224-1 et R224-2 du code de l'aviation civile sont applicables aux aérodromes de la compétence de l'Etat dans les territoires d'outre-mer et la collectivité terri
+
+
+###### Article R224-2
+
+A - Les conditions d'établissement et de perception des redevances pour :
+
+Atterrissage des aéronefs de six tonnes et plus ;    Usage des dispositifs d'assistance à la navigation aérienne par les
+aéronefs de six tonnes et plus ;    Stationnement des aéronefs de six tonnes et plus ;    Usage des installations aménagées
+pour la réception des passagers et des marchandises ;    Installations de distribution de carburants d'aviation, sont
+déterminées par arrêté interministériel après avis du conseil supérieur de l'aviation marchande. 
+
+B - Les taux de ces redevances sont fixés par une décision prise :
+
+Pour Aéroport de Paris par son conseil d'administration ;       Pour les autres aérodromes par l'exploitant ; en ce qui
+concerne les aérodromes dotés d'une commission consultative économique en application des dispositions du décret susvisé   
+
+n° 60-652 du 28 juin 1960, modifié par le décret n° 73-287 du 13 mars 1973, la décision est prise après avis de ladite
+commission. 
+
+En l'absence de dispositions législatives contraires, la décision mentionnée à l'alinéa précédent est notifiée aux ministres
+intéressés. Elle prend effet dès son approbation par le ministre des transports et par le ministre de l'économie et des
+finances, ou, à défaut d'approbation expresse, à l'expiration d'un délai de deux mois à compter de sa notification, sauf si,
+dans ce délai, l'un de ces deux ministres y fait opposition. 
+
+C - Les dispositions du présent article ne font pas obstacle, en ce qui concerne la redevance pour installations de
+distribution de carburants d'aviation, à l'application, en dehors des territoires d'outre-mer, de l'article 195 bis du Code
+des douanes, dans la mesure où cette redevance s'applique aux quantités de produits pétroliers distribués. 
+
+D - Par dérogation aux dispositions de l'article R. 224-1, la redevance pour mise en place et fonctionnement des dispositifs
+destinés à assurer la sûreté des usagers du transport aérien est perçue par la collectivité ou l'établissement gestionnaire
+de l'aérodrome selon les règles de recouvrement qui lui sont propres. Les conditions d'établissement et de perception ainsi
+que les taux de cette redevance sont fixés par arrêté ministériel après avis du conseil supérieur de l'aviation marchande.
+Les taux sont établis pour chaque aérodrome ou catégories d'aérodromes en fonction des dépenses qui y sont exposées pour
+assurer la sûreté. Cet arrêté détermine également les conditions de répartition du produit de la redevance entre l'Etat et
+les collectivités ou établissements gestionnaires en fonction des dépenses qu'ils supportent respectivement au titre des
+dispositifs ci-dessus mentionnés. 
+
+E - Le décret en Conseil d'Etat autorisant la perception de la redevance pour atténuation des nuisances phoniques détermine
+l'assiette en fonction de la redevance d'atterrissage, et les conditions d'utilisation du produit de cette redevance, et
+notamment son affectation à certaines dépenses. Les règles de liquidation et de recouvrement de cette redevance sont les
+mêmes que pour la redevance d'atterrissage. 
+
+Un arrêté conjoint des ministres chargés de l'économie du budget et des transports, pris après avis du Conseil supérieur de
+l'aviation marchande, fixe les taux de la redevance pour atténuation des nuisances phoniques.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 juillet 1959 - art. 11 (V)
+	  - Arrêté du 22 juillet 1959 - art. 4 (V)
+	  - Décret n°60-652 du 28 juin 1960 - art. 12 (Ab)
+	  - Décret n°62-993 du 18 août 1962 - art. 15 (Ab)
+	  - Arrêté du 26 février 1981 - art. 2 (VD)
+	  - Arrêté du 26 février 1981 - art. 9 (V)
+	  - Décret n°97-547 du 29 mai 1997 - art. ANNEXE (V)
+	  - Décret n°97-548 du 29 mai 1997 - art. 2 (V)
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Arrêté du 29 décembre 1997 - art. 4 (Ab)
+	  - Arrêté du 29 décembre 1997 - art. 5 (Ab)
+	  - Loi n°98-1171 du 18 décembre 1998 - art. 2 (V)
+	  - Arrêté du 26 février 2009 (V)
+	  - Arrêté du 16 janvier 2012 - art. 2 (V)
+	  - Décret n°2016-825 du 23 juin 2016 - art. 11 (V)
+	  - Code de l'aviation civile - art. D252-1 (Ab)
+	  - Code de l'aviation civile - art. R224-3 (V)
+	  - Code de l'aviation civile - art. R224-3-2 (V)
+	  - Code de l'aviation civile - art. R224-3-3 (V)
+	  - Code de l'aviation civile - art. R224-3-4 (V)
+	  - Code de l'aviation civile - art. R224-4 (V)
+	  - Code de l'aviation civile - art. R224-4-1 (V)
+	  - Code de l'aviation civile - art. R224-5 (V)
+	  - Code de l'aviation civile - art. R224-8 (V)
+	  - Code de l'aviation civile - art. R252-12 (Ab)
+
+	**Cite**:
+
+	  - Décret n°60-652 1960-06-28
+	  - Décret n°73-287 1973-03-13
+	  - Code des douanes - art. 195 bis (V)
+	  - Code de l'aviation civile - art. R224-1 (An)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30 JORF 9 AVRIL 1967
+
+	**Modifié par**:
+
+	  - Décret n°72-435 1972-05-19 ART. 1 JORF 27 MAI 1972
+	  - Décret n°74-179 1974-02-26 ART. 1 JORF 1 MARS 1974
+	  - Décret n°81-577 1981-05-12 ART. 2 JORF 17 MAI 1981
+	  - Décret n°84-28 1984-01-11 ART. 2 JORF 15 JANVIER 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-28 1984-01-11 ART. 3 : les modifications apportées par ce décret aux articles R224-1 et R224-2 du code de l'aviation civile sont applicables aux aérodromes de la compétence de l'Etat dans les territoires d'outre-mer et la collectivité terri
+	  - TXT_SOURCE: Décret n°84-29 du 11 janvier 1984 - art. 3 (An)
+
 
 ###### Article R224-3
 
