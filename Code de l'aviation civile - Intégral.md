@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2003-04-10
+Version Consolidée au 2003-05-01
 
 # Partie législative
 
@@ -10851,9 +10851,9 @@ services d'Etat de l'aviation civile en Polynésie française, en Nouvelle-Calé
 
 ###### Article R213-4
 
-I. - L'accès en zone réservée d'un aérodrome des personnes autres que celles visées au II est soumis à la possession d'une
-habilitation valable sur l'ensemble du territoire national et d'un titre de circulation permettant la circulation dans un ou
-plusieurs secteurs de cette zone.
+I. - L'accès en zone réservée d'un aérodrome des personnes autres que celles visées aux II et III est soumis à la possession
+d'une habilitation valable sur l'ensemble du territoire national et d'un titre de circulation permettant la circulation dans
+un ou plusieurs secteurs de cette zone.
 
 Les entreprises ou les organismes autorisés à occuper ou utiliser la zone réservée de l'aérodrome formulent les demandes
 d'habilitation et du titre de circulation au profit de leurs salariés ou des personnes agissant pour leur compte.
@@ -10861,10 +10861,22 @@ d'habilitation et du titre de circulation au profit de leurs salariés ou des pe
 Ces entreprises ou ces organismes leur dispensent les connaissances relatives aux principes généraux de sûreté et aux règles
 particulières à respecter à l'intérieur de la zone réservée d'un aérodrome et leur délivrent l'attestation correspondante.
 
-II. - Dans le cadre défini par un arrêté conjoint des ministres chargés des transports, de la défense, de l'intérieur et des
-douanes, un arrêté préfectoral mentionné à l'article R. 213-3 fixe les conditions particulières d'accès en zone réservée des
-passagers, des personnels navigants, des fonctionnaires et agents de l'Etat et des personnes admises pour une durée
-inférieure à une semaine.
+II. - L'accès des personnels navigants professionnels en zone réservée d'un aérodrome figurant sur une liste fixée par le
+ministre chargé des transports est soumis :
+
+- à la possession et au port apparent d'une carte de navigant établie selon les modalités fixées par un arrêté du ministre
+chargé des transports ;
+
+- ainsi que, pour les navigants rattachés à un établissement d'une entreprise de transport aérien situé sur le territoire
+national, à la possession de l'habilitation visée au I. Le numéro de délivrance de l'habilitation est mentionné sur la carte
+de navigant.
+
+Les employeurs ou, à défaut d'employeur, les intéressés formulent les demandes d'habilitation.
+
+III. - Dans le cadre défini par un arrêté conjoint des ministres chargés des transports, de la défense, de l'intérieur et des
+douanes, l'arrêté préfectoral mentionné à l'article R. 213-3 fixe les conditions particulières d'accès en zone réservée des
+passagers, des personnels navigants autres que ceux visés au II, des élèves pilotes, des fonctionnaires et agents de l'Etat
+et des personnes admises pour une durée inférieure à une semaine.
 
 **Liens relatifs à cet article**
 
@@ -10896,11 +10908,11 @@ inférieure à une semaine.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
+	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
 
 	**Modifié par**:
 
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 2 () JORF 6 janvier 2002
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 4 () JORF 3 août 2002 en vigueur le 1er mai 2003
 
 	**Cite**:
 
@@ -11236,6 +11248,214 @@ des personnes.
 	  - Code de l'aviation civile - art. R213-10 (V)
 	  - Code de l'aviation civile - art. R213-7 (Ab)
 	  - Code de l'aviation civile - art. R217-1 (V)
+
+
+###### Article R213-13
+
+La demande d'agrément en qualité d'"établissement connu" porte sur chaque établissement du demandeur implanté à l'extérieur
+d'une zone réservée d'un aérodrome.
+
+Elle doit comporter :
+
+a) Un programme de sûreté respectant les dispositions d'un arrêté du ministre de l'intérieur, du ministre de la défense, du
+ministre chargé des douanes et du ministre chargé des transports ;
+
+b) Un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité visé au troisième alinéa de
+l'article L. 213-4.
+
+Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'établissement, des
+modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci, ainsi que des dispositions prises en
+application des points a, b, c et d de l'article R. 213-15.
+
+L'agrément est délivré, pour une durée de cinq ans, par le préfet du lieu de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R213-14 (Ab)
+	  - Code de l'aviation civile - art. R213-15 (Ab)
+
+
+###### Article R213-14
+
+L'agrément prévu à l'article L. 213-4 est retiré par le préfet qui l'a délivré ou par le préfet exerçant les pouvoirs de
+police sur l'aérodrome sur lequel le titulaire de l'agrément exerce son activité, lorsque des manquements aux dispositions du
+présent code sont constatés. Le titulaire de l'agrément est préalablement avisé de la mesure envisagée et dispose d'un délai
+d'un mois pour présenter ses observations.
+
+En cas d'urgence, l'une ou l'autre des autorités administratives précitées peut prononcer la suspension de l'agrément pour
+une durée maximale de deux mois, par décision motivée. La notification de la mesure de suspension au titulaire de l'agrément
+indique également si une mesure de retrait est envisagée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R217-1 (V)
+
+
+###### Article R213-15
+
+L'"établissement connu" est tenu :
+
+a) De sécuriser les endroits utilisés pour préparer les biens et produits destinés à être utilisés à bord des aéronefs ;
+
+b) De faire exécuter la préparation et la manipulation de ces biens et produits par des personnes dont il tient à jour la
+liste nominative ayant reçu une formation initiale et continue de sûreté portant sur les principes généraux de sûreté et les
+techniques de prévention contre l'introduction de substances et objets illicites dans les biens et produits pendant les
+phases de conditionnement, de transport, de manutention et de stockage ;
+
+c) De mettre en oeuvre des mesures appropriées pendant la préparation et le conditionnement des biens et produits dans le but
+de s'assurer que les biens et produits ne compromettent pas la sûreté des vols ;
+
+d) De protéger les biens et produits contre l'introduction de substances et objets illicites pouvant compromettre la sûreté
+des vols, pendant leur stockage et leur acheminement jusqu'à la zone réservée ;
+
+e) De fournir au préfet ayant délivré l'agrément, chaque année au plus tard à la date anniversaire de la délivrance de
+l'agrément, un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité en application de
+l'article L. 213-4 ;
+
+f) De s'assurer du respect par les sous-traitants des dispositions du programme de sûreté mentionnées au cinquième alinéa de
+l'article R. 213-13.
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+
+	**Cité par**:
+
+	  - Arrêté du 1 septembre 2003 - art. 22 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 24 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 25 (VT)
+	  - Arrêté du 12 novembre 2003 - art. 110 (Ab)
+	  - Code de l'aviation civile - art. R213-13 (Ab)
+	  - Code de l'aviation civile - art. R213-14 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-4 (V)
+
+
+###### Article R213-16
+
+I. - La demande présentée par un organisme technique en vue d'obtenir l'habilitation visée au troisième alinéa de l'article
+L. 213-4 et au onzième alinéa de l'article L. 321-7 pour vérifier que les entreprises ou organismes respectent les conditions
+de délivrance de l'agrément en qualité d'"établissement connu" ou de "chargeur connu" doit comporter :
+
+a) La structure de l'entreprise ou de l'organisme ;
+
+b) La liste des personnes de l'organisme chargées de conduire les évaluations ;
+
+c) Les dispositions prises en application du III.
+
+II. - L'habilitation est délivrée pour une durée de cinq ans par le ministre chargé des transports.
+
+L'habilitation est retirée par le ministre chargé des transports lorsque des manquements aux dispositions du présent code
+sont constatés. Le titulaire de l'habilitation est préalablement avisé de la mesure envisagée et dispose d'un délai d'un mois
+pour présenter ses observations.
+
+En cas d'urgence, le ministre chargé des transports peut prononcer la suspension de l'habilitation pour une durée maximale de
+deux mois, par décision motivée. La notification de la mesure de suspension au titulaire de l'habilitation indique également
+si une mesure de retrait est envisagée.
+
+III. - L'organisme technique s'assure que la personne chargée de conduire les évaluations :
+
+a) Est en possession d'une habilitation lui permettant d'accéder aux informations classées "confidentiel défense" ;
+
+b) A reçu une formation initiale portant sur la méthodologie et les techniques d'évaluation, les principes généraux de la
+sûreté et les techniques de prévention contre l'introduction de substances et objets illicites dans les marchandises, les
+biens et les produits pendant les phases de conditionnement, de transport, de manutention et de stockage ;
+
+c) Lorsqu'elle réalise une évaluation après la date du premier anniversaire de sa formation initiale, a assisté dans les
+douze derniers mois :
+
+- à une séance d'information sur la réglementation et sur l'évolution des techniques de sécurisation, si elle a réalisé une
+évaluation dans les douze derniers mois ;
+
+- à un stage de formation continue, si elle n'a pas réalisé une évaluation dans les douze derniers mois.
+
+IV. - Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article, et notamment :
+
+a) La méthode type d'évaluation, le guide de l'évaluateur ainsi que le modèle de rapport d'évaluation ;
+
+b) Les objectifs pédagogiques de la formation initiale et du stage de formation continue ainsi que la durée minimale de ces
+formations ;
+
+c) Les limitations de prestations autres que l'évaluation que les organismes techniques habilités peuvent effectuer au profit
+des "établissements connus" ou des "chargeurs connus" qu'ils ont évalués.
+
+V. - Les dépenses afférentes aux évaluations effectuées par les organismes techniques habilités sont à la charge des
+entreprises ou organismes possédant ou sollicitant l'agrément d'"établissement connu" ou de "chargeur connu".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 27 (V)
+	  - Arrêté du 1 septembre 2003 - art. 44 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application et art. 27
+
+	**Créé par**:
+
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-4 (V)
+	  - Code de l'aviation civile - art. L321-7 (M)
 
 
 #### CHAPITRE IV : LE GROUPE INTERMINISTERIEL DE SURETE
