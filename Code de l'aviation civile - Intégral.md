@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-08-03
+Version Consolidée au 2004-09-02
 
 # Partie législative
 
@@ -28656,54 +28656,88 @@ avec les rapporteurs, l'instruction des affaires soumises au conseil.
 
 ###### Article D410-1
 
-Les titres aéronautiques prévus à l'article L. 410-1 ainsi que ceux dont doit être pourvu le personnel navigant professionnel
-dans les conditions définies aux articles L. 421-4 et L. 421-7 sont délivrés par le ministre chargé de l'aviation civile ou
-validés par lui sur la base des titres délivrés par un autre Etat.
+L'agrément des centres d'expertise de médecine aéronautique prévu à l'article L. 410-2 du présent code est accordé par arrêté
+du ministre chargé de l'aviation civile après avis du conseil médical de l'aéronautique civile. 
 
-Les titres aéronautiques requis du personnel navigant professionnel de la catégorie Essais et réceptions sont délivrés par le
-ministre de la défense ou validés par lui sur la base des titres délivrés par un autre Etat.
+L'agrément est délivré pour une durée maximale de trois ans renouvelable. 
+
+Est susceptible d'être agréé comme centre d'expertise de médecine aéronautique tout groupement constitué de médecins qui : 
+
+a) Est situé sur le territoire français ; 
+
+b) Est composé d'une équipe de médecins remplissant les conditions générales d'exercice de la profession de médecin,
+spécifiquement formés et expérimentés en médecine aéronautique. Ils doivent avoir acquis une expérience et une connaissance
+pratique des conditions dans lesquelles les titulaires de licences et qualifications visées à l'article L. 410-1 du présent
+code exercent leurs activités ; 
+
+c) Est dirigé par un médecin-chef responsable des visites médicales. Le médecin-chef est signataire des rapports et
+certificats médicaux ; 
+
+d) Est doté des équipements spécialisés nécessaires à des examens approfondis en matière de médecine aéronautique ; la liste
+de ces équipements est fixée par arrêté. 
+
+L'agrément précise le cas échéant les types d'examens que le centre est habilité à effectuer. 
+
+Les conditions d'application du présent article sont déterminées par arrêté du ministre chargé de l'aviation civile. 
+
+Les centres d'expertises rattachés au ministre chargé de la défense peuvent être agréés comme centres d'expertise de médecine
+aéronautique, dans les conditions fixées par arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la
+défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°93-369 du 17 mars 1993 - art. 1 () JORF 19 mars 1993
+	  - Décret n°2004-919 du 31 août 2004 - art. 1 () JORF 2 septembre 2004
 
 	**Cité par**:
 
 	  - Arrêté du 26 octobre 2007 - art. 4 (Ab)
 	  - Code de l'aviation civile - art. D410-2 (M)
 
+	**Abrogé par**:
+
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L410-1 (M)
-	  - Code de l'aviation civile - art. L421-4 (V)
-	  - Code de l'aviation civile - art. L421-7 (Ab)
+	  - Code de l'aviation civile - art. L410-1
+	  - Code de l'aviation civile - art. L410-2
 
 
 ###### Article D410-2
 
-Le ministre chargé de l'aviation civile peut, par arrêté, déléguer le pouvoir de délivrer les titres aéronautiques visés au
-premier alinéa de l'article D. 410-1 ci-dessus aux autorités suivantes :
+L'agrément des médecins examinateurs prévu à l'article L. 410-2 du présent code est accordé par arrêté du ministre chargé de
+l'aviation civile après avis du conseil médical de l'aéronautique civile. 
 
-Directeurs des régions aéronautiques civiles en métropole ;
+L'agrément est délivré pour une durée maximale de trois ans renouvelable. 
 
-Directeur de la région aéronautique civile Antilles-Guyane ;
+Est susceptible d'être agréé comme médecin examinateur le médecin qui : 
 
-Préfet du département de la Réunion ;
+a) Remplit les conditions générales d'exercice de la profession de médecin, et notamment qui est inscrit au tableau de
+l'ordre des médecins. La radiation au tableau de l'ordre des médecins ou la suspension temporaire du droit d'exercer
+entraînent selon le cas le retrait de l'agrément ou la suspension temporaire de l'agrément. Les dispositions de cet alinéa ne
+sont pas applicables aux médecins des armées ; 
 
-Délégués du Gouvernement de la République dans les territoires d'outre-mer.
+b) Est titulaire du ou des titres de médecine aéronautique déterminés par arrêté. Il doit avoir acquis une expérience et une
+connaissance pratique des conditions dans lesquelles les titulaires de licences et qualifications visées à l'article L. 410-1
+du présent code exercent leurs activités ; 
 
-Les arrêtés de délégations de pouvoirs prévus ci-dessus peuvent également autoriser les autorités en cause à déléguer
-respectivement la signature des actes correspondants :
+c) Dispose des équipements techniques nécessaires à la réalisation des examens médicaux. La liste de ces équipements est
+fixée par arrêté. 
 
-Aux chefs de district aéronautique civil en métropole et dans les départements d'outre-mer ;
+A l'issue de la période de trois ans, le renouvellement de l'agrément est accordé au médecin examinateur qui a effectué un
+nombre suffisant d'examens médicaux, dans le respect de la réglementation applicable, et qui a suivi des formations dont le
+contenu est défini par arrêté. 
 
-Aux chefs du service d'Etat de l'aviation civile dans les territoires d'outre-mer.
+Les conditions d'application du présent article sont déterminées par arrêté du ministre chargé de l'aviation civile. 
+
+Les médecins des armées peuvent être agréés comme médecins examinateurs, dans les conditions fixées par arrêté conjoint du
+ministre chargé de l'aviation civile et du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -28713,15 +28747,56 @@ Aux chefs du service d'Etat de l'aviation civile dans les territoires d'outre-me
 
 	**Modifié par**:
 
-	  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1973
+	  - Décret n°2004-919 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
 
 	**Cité par**:
 
 	  - Arrêté du 7 février 2005 - art. 1 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D410-1 (M)
+	  - Code de l'aviation civile - art. L410-1
+	  - Code de l'aviation civile - art. L410-2
+
+
+###### Article D410-3
+
+Le ministre chargé de l'aviation civile prononce la suspension de l'agrément, pour une durée maximale de deux mois, dans le
+cas prévu à l'article L. 410-5, par lettre motivée adressée au médecin-chef du centre d'expertise de médecine aéronautique ou
+au médecin examinateur. 
+
+Le ministre chargé de l'aviation civile retire l'agrément dans les formes prévues à l'article 24 de la loi du 12 avril 2000
+relative aux droits des citoyens dans leurs relations avec les administrations et après avis du conseil médical de
+l'aéronautique civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24
+	  - Code de l'aviation civile - art. L410-5
+
+	**Créé par**:
+
+	  - Décret n°2004-919 du 31 août 2004 - art. 3 () JORF 2 septembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2005 - art. 6 (V)
+	  - Arrêté du 7 février 2005 - art. 7 (V)
+	  - Arrêté du 7 février 2005 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 
 ### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL
@@ -29987,47 +30062,58 @@ l'aviation civile).
 
 ###### Article D424-2
 
-Le conseil médical de l'aéronautique est chargé :
+Le conseil médical de l'aéronautique civile : 
 
-1° D'étudier et de coordonner toutes les questions d'ordre physiologique, médical, médico-social et d'hygiène intéressant
+1. Etudie et coordonne toutes les questions d'ordre physiologique, médical, médico-social et d'hygiène intéressant
 l'aéronautique civile, notamment en ce qui concerne le personnel navigant, les passagers et, d'une façon générale, le
-contrôle sanitaire. Il assure en cette matière la liaison avec les organismes similaires étrangers.
+contrôle sanitaire. Il assure en cette matière la liaison avec les organismes similaires étrangers. 
 
-2° De se prononcer sur le caractère définitif des inaptitudes déclarées à l'égard des navigants par les différents centres
-d'expertises médicales, pour les licences françaises, ou par l'autorité étrangère ayant délivré la licence validée par le
-ministre chargé de l'aviation civile ou, dans le domaine des essais et réceptions, par le ministre de la défense.
+2. Se prononce sur le caractère définitif des inaptitudes déclarées lors des renouvellements d'aptitude par les différents
+centres d'expertise de médecine aéronautique à l'égard :
 
-3° De soumettre au ministre chargé de l'aviation civile des propositions concernant les décisions prévues par les articles L.
-424-1, L. 424-2, L. 424-5 et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au service aérien d'une
-maladie ayant entraîné une incapacité temporaire ou permanente de travail ou le décès ;
+- des personnels navigants titulaires d'un titre aéronautique ;
 
-4° De soumettre au ministre chargé de l'aviation civile des propositions concernant les décisions prévues par les articles L.
-424-1, L. 424-2, L. 424-5 et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au service aérien d'un
-accident aérien survenu en service ayant entraîné une incapacité temporaire ou permanente de travail ou le décès ;
+- des candidats à l'obtention d'un de ces titres et détenteurs d'une carte de stagiaire. 
 
-5° De recevoir et d'examiner :
+3. Prend les décisions prévues aux articles L. 424-1, 
+L. 424-2, 
+L. 424-5 et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au service aérien d'une maladie ayant
+entraîné une incapacité temporaire ou permanente de travail ou le décès. 
 
-a) Les appels interjetés par les candidats à la qualité de personnel navigant professionnel et non professionnel et par les
+4. Prend les décisions prévues aux articles L. 424-1, L. 424-2, L. 424-5 et par l'article R. 426-17 en matière de
+reconnaissance d'imputabilité au service aérien d'un accident aérien survenu en service ayant entraîné une incapacité
+temporaire ou permanente de travail ou le décès. 
+
+5. Se prononce sur : 
+
+a) Les recours interjetés par les candidats à la qualité de personnel navigant professionnel et non professionnel et par les
 personnels navigants professionnels et non professionnels déclarés médicalement inaptes au titre de l'aéronautique civile par
-un centre d'expertise médicale du personnel navigant ou par un médecin agréé ;
+un centre d'expertise de médecine aéronautique ou par un médecin examinateur ; 
 
-b) Les appels interjetés par les employeurs qui estimeraient devoir contester les décisions prononcées par les autorités
-médicales compétentes en matière d'aptitude à une fonction du personnel navigant professionnel ;
+b) Les recours interjetés par les employeurs contre les décisions prononcées par les centres d'expertise de médecine
+aéronautique en matière d'aptitude à une fonction du personnel navigant professionnel ; 
 
-c) Les demandes formulées par les médecins chefs des centres d'expertise médicale du personnel navigant professionnel de
-l'aéronautique civile et par les médecins examinateurs agréés qui, en présence d'un cas litigieux ou non prévu par les
-règlements d'aptitude physique et mentale en vigueur, estimeraient devoir prendre l'avis du conseil médical de l'aéronautique
-civile avant de formuler une décision d'aptitude ou d'inaptitude à une fonction du personnel navigant de l'aéronautique
-civile ;
+c) Les recours interjetés par le ministre chargé de l'aviation civile contre les décisions prononcées par les centres
+d'expertise de médecine aéronautique et les médecins examinateurs en matière d'aptitude à une fonction de personnel
+navigant. 
 
-d) Toute demande de dérogation aux conditions d'aptitude médicale prévues par les règlements en vigueur en ce qui concerne le
-personnel navigant de l'aéronautique civile. Toutefois, en cas de légère déficience à l'égard d'une norme médicale restant
-compatible avec la sécurité aérienne, le médecin chef d'un centre médical agréé ou d'une commission de médecins, d'un centre
-ou service médical d'un département ou d'un territoire d'outre-mer agréés peut, à titre exceptionnel, et pour une durée
-maximale de quarante-cinq jours, déclarer un navigant professionnel apte à exercer ses fonctions jusqu'à la décision du
-conseil médical de l'aéronautique civile. (1)
+Les recours mentionnés aux a, b et c ci-dessus sont exercés dans un délai de deux mois suivant la date de la décision
+d'aptitude ou d'inaptitude. 
 
-(1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
+6. Se prononce sur les demandes visant à obtenir une dérogation aux conditions d'aptitude médicale prévues par les règlements
+en vigueur présentées par les candidats à la qualité de personnel navigant professionnel et non professionnel et par les
+personnels navigants professionnels et non professionnels déclarés médicalement inaptes par un centre d'expertise de médecine
+aéronautique ou un médecin examinateur. 
+
+Toutefois, en cas de légère déficience par rapport à une norme médicale restant compatible avec la sécurité aérienne, le
+médecin-chef d'un centre d'expertise de médecine aéronautique ou le médecin examinateur peut, pour une durée maximale de
+quarante-cinq jours, déclarer les personnes visées à l'alinéa précédent aptes à exercer leurs fonctions jusqu'à la décision
+du conseil médical de l'aéronautique civile. 
+
+7. Se prononce sur les affaires soumises par des médecins-chefs des centres d'expertise de médecine aéronautique et par des
+médecins examinateurs qui, en présence d'un cas litigieux ou non prévu par les règlements d'aptitude physique et mentale en
+vigueur, estiment devoir prendre l'avis du conseil médical de l'aéronautique civile avant de formuler une décision d'aptitude
+ou d'inaptitude à une fonction du personnel navigant de l'aéronautique civile.
 
 **Liens relatifs à cet article**
 
@@ -30038,14 +30124,6 @@ conseil médical de l'aéronautique civile. (1)
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
-
-	**Cite**:
-
-	  - Décret n°84-202 1984-03-19 art. 1
-	  - Code de l'aviation civile - art. L424-1 (V)
-	  - Code de l'aviation civile - art. L424-2 (V)
-	  - Code de l'aviation civile - art. L424-5 (V)
-	  - Code de l'aviation civile - art. R426-17 (V)
 
 	**Cité par**:
 
@@ -30059,16 +30137,19 @@ conseil médical de l'aéronautique civile. (1)
 
 	**Modifié par**:
 
-	  - Décret n°2001-225 du 12 mars 2001 - art. 1 () JORF 13 mars 2001
+	  - Décret n°2004-919 du 31 août 2004 - art. 4 () JORF 2 septembre 2004
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+	  - Code de l'aviation civile - art. L424-1 (V)
+	  - Code de l'aviation civile - art. L424-2 (V)
+	  - Code de l'aviation civile - art. L424-5 (V)
+	  - Code de l'aviation civile - art. R426-17 (V)
 
 
 ###### Article D424-2-1
 
-Les appels interjetés en vertu du b du 5 de l'article D. 424-2 font l'objet d'un examen préalable par une commission nommée
+Les recours interjetés en vertu du b du 5 de l'article D. 424-2 font l'objet d'un examen préalable par une commission nommée
 par le ministre chargé de l'aviation civile et composée :
 
 - d'une personnalité qualifiée, choisie en raison de ses compétences dans le domaine de l'aviation civile, nommée président
@@ -30079,15 +30160,15 @@ exploitants du transport aérien, l'autre sur proposition des organisations repr
 navigant professionnel de l'aviation civile. Chacune d'entre elles dispose d'un suppléant désigné dans les mêmes conditions ;
 
 - de deux membres docteurs en médecine, désignés par le ministre chargé de l'aviation civile pour chaque affaire, l'un sur
-proposition de l'employeur, l'autre sur proposition du navigant concerné.
+proposition de l'employeur, l'autre sur proposition du navigant concerné. 
 
 La commission doit s'assurer que la procédure prévue au b du 5 de l'article D. 424-2 n'est pas utilisée à des fins autres que
 la sécurité des vols. Ses membres siègent en toute indépendance et ses délibérations demeurent secrètes.
 
 **Nota:**
 
-: décret 2001-225 2001-03-12 art. 7 : Les dispositions de l'article 2 entreront en vigueur dans un délai de six mois à
-compter de la date de publication du présent décret.
+décret 2001-225 2001-03-12 art. 7 : Les dispositions de l'article 2 entreront en vigueur dans un délai de six mois à compter
+de la date de publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -30095,17 +30176,17 @@ compter de la date de publication du présent décret.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-225 du 12 mars 2001 - art. 2 () JORF 13 mars 2001
+	  - Décret n°2004-919 du 31 août 2004 - art. 5 () JORF 2 septembre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D424-2 (M)
+	  - Code de l'aviation civile - art. D424-2
 
 
 ###### Article D424-3
@@ -30158,15 +30239,16 @@ Tout membre du conseil dont le mandat est interrompu est remplacé jusqu'à expi
 
 ###### Article D424-4
 
-Les membres du conseil médical sont convoqués individuellement à chaque séance par le président.
+Les membres du conseil médical sont convoqués individuellement à chaque séance par le président. 
 
-En cas d'absence ou d'empêchement, le président est remplacé par le vice président.
+En cas d'absence ou d'empêchement, le président est remplacé par le vice-président. 
 
 Le conseil ne peut valablement délibérer que si cinq au moins de ses membres à voix délibérative sont présents, compte tenu
-des cas d'incompatibilité prévus à l'alinéa ci-après.
+des cas d'incompatibilité prévus à l'alinéa ci-après. 
 
-Les membres du conseil siègent en toute indépendance. Ils ne peuvent prendre part aux délibérations portant sur l'examen des
-cas individuels dont ils ont déjà eu à connaître à l'extérieur du conseil à quelque titre que ce soit.
+Les membres du conseil exercent leurs fonctions en toute indépendance. Lorsque le conseil délibère dans le cadre des recours
+visés au 5 de l'article D. 424-2, ils ne peuvent prendre part aux délibérations et aux votes portant sur un recours contre
+une décision dont ils ont déjà eu à connaître à l'occasion de leur activité extérieure au conseil. 
 
 Les délibérations ont lieu à huis clos. Les décisions et avis sont prononcés à la majorité des voix. En cas de partage égal
 des voix, celle du président est prépondérante.
@@ -30179,15 +30261,19 @@ des voix, celle du président est prépondérante.
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°2001-225 du 12 mars 2001 - art. 4 () JORF 13 mars 2001
+	  - Décret n°2004-919 du 31 août 2004 - art. 6 () JORF 2 septembre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D424-2
 
 
 ###### Article D424-5
@@ -30325,18 +30411,16 @@ l'aviation civile (direction générale de l'aviation civile).
 
 ###### Article D435-1
 
-Les personnels navigants de l'aéronautique civile détenteurs d'un titre aéronautique non professionnel à l'encontre desquels
-auront été relevées des infractions aux lois et règlements concernant l'aviation civile sont passibles de sanctions
-disciplinaires dans les conditions prévues aux articles ci-après.
-
-Ces articles ne sont toutefois pas applicables aux personnels navigants mentionnés à l'article R. 425-4, qui sont soumis aux
-dispositions des articles R. 425-4 à R. 425-19 relatives au régime disciplinaire des personnels navigants professionnels.
+Les personnels navigants de l'aéronautique civile titulaires d'un titre aéronautique non professionnel à l'encontre desquels
+auront été relevées des infractions aux règles édictées en vue d'assurer la sécurité par le code de l'aviation civile ainsi
+qu'aux textes pris pour son application sont passibles de sanctions disciplinaires dans les conditions prévues aux articles
+ci-après.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Cité par**:
 
@@ -30344,23 +30428,18 @@ dispositions des articles R. 425-4 à R. 425-19 relatives au régime disciplinai
 
 	**Modifié par**:
 
-	  - Décret n°98-264 du 2 avril 1998 - art. 1 () JORF 7 avril 1998
+	  - Décret n°2004-919 du 31 août 2004 - art. 7 () JORF 2 septembre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
-	**Cite**:
-
-	  - CODE DE L'AVIATION CIVILE R425-4, R425-4 à R425-19
-	  - Code de l'aviation civile - art. R425-4 (M)
+	  - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
 ###### Article D435-2
 
 Les sanctions disciplinaires qui peuvent être prononcées à l'encontre des personnels navigants non professionnels sont :
 
-- l'avertissement ;
+- le blâme ;
 
 - la suspension du privilège d'effectuer des vols en qualité de commandant de bord tant qu'un complément de formation
 pratique ou/et théorique, dans les conditions spécifiées par la décision de sanction, n'a pas été réalisé ;
@@ -30368,8 +30447,8 @@ pratique ou/et théorique, dans les conditions spécifiées par la décision de 
 - la suspension des licences ou qualifications, assortie ou non d'un sursis ou/et d'une obligation d'un complément de
 formation pratique ou/et théorique, dans les conditions spécifiées par la décision de sanction ;
 
-- l'annulation des licences ou qualifications avec interdiction d'en solliciter la délivrance à titre définitif ou pendant
-une durée déterminée par la décision de sanction.
+- l'annulation des licences ou qualifications, assortie le cas échéant de l'interdiction d'en solliciter une nouvelle
+délivrance pendant une durée déterminée et qui ne peut excéder cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -30377,13 +30456,13 @@ une durée déterminée par la décision de sanction.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
 	**Modifié par**:
 
-	  - Décret n°98-264 du 2 avril 1998 - art. 2 () JORF 7 avril 1998
+	  - Décret n°2004-919 du 31 août 2004 - art. 8 () JORF 2 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 	**Cité par**:
 
@@ -30398,8 +30477,8 @@ professionnels, par :
 - le directeur de l'aviation civile en métropole et le directeur régional de l'aviation civile pour l'ensemble des trois
 régions de Guadeloupe, de Guyane et de Martinique ;
 
-- le délégué du Gouvernement dans le département de la Réunion, les territoires d'outre-mer et les collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
+- le représentant de l'Etat dans le département de la Réunion, la Polynésie française, la Nouvelle-Calédonie, la collectivité
+départementale de Mayotte et la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 L'autorité compétente pour prononcer la sanction est celle de la circonscription territoriale dans le ressort de laquelle a
 été commise l'infraction.
@@ -30410,19 +30489,21 @@ est domicilié le contrevenant.
 Au cas où l'infraction a été commise à l'étranger, le ministre chargé de l'aviation civile désigne l'autorité qui sera
 compétente pour prononcer la sanction.
 
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+discipline des personnels navigants non professionnels).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
 	**Modifié par**:
 
-	  - Décret n°98-264 du 2 avril 1998 - art. 3 () JORF 7 avril 1998
+	  - Décret n°2004-919 du 31 août 2004 - art. 9 () JORF 2 septembre 2004
 
 	**Cité par**:
 
@@ -30431,6 +30512,10 @@ compétente pour prononcer la sanction.
 	  - Code de l'aviation civile - art. D435-4 (Ab)
 	  - Code de l'aviation civile - art. D435-6 (Ab)
 	  - Code de l'aviation civile - art. D435-8 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
 ###### Article D435-4
@@ -30447,7 +30532,7 @@ b) Un membre choisi en raison de sa compétence en matière de navigation aérie
 l'aviation civile ou par le directeur régional de l'aviation civile pour l'ensemble des trois régions de Guadeloupe, de
 Guyane et de Martinique ;
 
-c) Un membre représentant l'Aéro-Club de France ;
+c) Un membre représentant l'Aéro-club de France ;
 
 d) Un membre représentant la Fédération nationale aéronautique ou la Fédération française de vol à voile ;
 
@@ -30458,8 +30543,8 @@ suppléants. Si une ou plusieurs fédérations ne désignent pas de représentan
 directeur régional de l'aviation civile pour l'ensemble des trois régions de Guadeloupe, de Guyane et de Martinique pourra
 désigner un ou plusieurs membres choisis en raison de leur compétence dans le ou les domaines considérés.
 
-II. - Dans le département de la Réunion, les territoires d'outre-mer et les collectivités territoriales de Mayotte et de
-Saint-Pierre-et-Miquelon :
+II. - Dans le département de la Réunion, la Polynésie française, la Nouvelle-Calédonie, la collectivité départementale de
+Mayotte et la collectivité territoriale de Saint-Pierre-et-Miquelon :
 
 a) Le directeur du service de l'aviation civile ou le chef du service de l'aviation civile ou le directeur du service d'Etat
 de l'aviation civile, président ;
@@ -30474,30 +30559,35 @@ Les membres mentionnés aux b, c et d sont nommés par le délégué du Gouverne
 mentionnés aux b et c, du président de la commission et, en ce qui concerne les représentants mentionnés au d, des aéro-clubs
 locaux.
 
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+discipline des personnels navigants non professionnels).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 9 (V)
-
-	**Modifié par**:
-
-	  - Décret n°98-264 du 2 avril 1998 - art. 4 () JORF 7 avril 1998
-
 	**Cité par**:
 
 	  - Décret n°98-264 du 2 avril 1998 - art. 9 (V)
 	  - Code de l'aviation civile - art. D435-6 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2004-919 du 31 août 2004 - art. 10 () JORF 2 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 2
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D435-3 (M)
-	  - Code de l'aviation civile - art. D510-3 (M)
+	  - Code de l'aviation civile - art. D435-3
+	  - Code de l'aviation civile - art. D510-3
 
 
 ###### Article D435-5
@@ -30535,62 +30625,79 @@ discipline des personnels navigants non professionnels).
 
 ###### Article D435-6
 
-Les membres des commissions de discipline sont désignés pour deux ans. Leur mandat est renouvelable. Des membres suppléants
-peuvent être désignés en même temps et dans les mêmes formes que les membres titulaires. Le suppléant du président est
-désigné par les autorités mentionnées à l'article D. 435-3.
+Les membres des commissions de discipline sont nommés pour trois ans par l'autorité compétente prévue à l'article D. 435-3.
+Leur mandat est renouvelable. Des membres suppléants peuvent être nommés en même temps et dans les mêmes formes que les
+membres titulaires.
 
-Les personnes ayant encouru une condamnation figurant à l'extrait n° 2 du casier judiciaire ou l'une des sanctions prévues à
-l'article D. 435-2 ne peuvent être membres d'une commission de discipline.
+Les personnes ayant fait l'objet d'une condamnation définitive inscrite au bulletin n° 2 du casier judiciaire ou d'une des
+sanctions prévues à l'article D. 435-2 ne peuvent être membres d'une commission de discipline.
 
 Cessent de faire partie d'une commission de discipline les membres qui viennent à perdre la qualité en vertu de laquelle ils
 ont été désignés, qui se démettent de leurs fonctions ou qui sont déclarés démissionnaires pour absence non justifiée à deux
 séances consécutives. Tout membre dont le mandat est interrompu est remplacé selon les formes prévues à l'article D. 435-4 et
 pour la durée restant à courir jusqu'à l'expiration de son mandat.
 
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+discipline des personnels navigants non professionnels).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°2004-919 du 31 août 2004 - art. 11 () JORF 2 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 2
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D435-2 (M)
-	  - Code de l'aviation civile - art. D435-3 (M)
-	  - Code de l'aviation civile - art. D435-4 (M)
-
-	**Créé par**:
-
-	  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+	  - Code de l'aviation civile - art. D435-2
+	  - Code de l'aviation civile - art. D435-3
+	  - Code de l'aviation civile - art. D435-4
 
 
 ###### Article D435-7
 
 La commission de discipline est saisie par l'autorité auprès de laquelle elle a été instituée.
 
-Le président de la commission notifie à la personne traduite devant elle les poursuites dont elle fait l'objet, lui fait
-connaître les griefs articulés à son encontre et l'invite à présenter ses observations par écrit dans un délai qu'il fixe et
-qui ne peut être inférieur à dix jours à compter de la date à laquelle l'intéressé a reçu notification des poursuites.
+Le président de la commission notifie par écrit à la personne traduite devant la commission les poursuites dont elle fait
+l'objet en lui faisant connaître les manquements qui lui sont reprochés ainsi que les sanctions qu'elle encoure. Il l'invite
+à présenter ses observations par écrit dans un délai qu'il fixe et qui ne peut être inférieur à un mois à compter de la date
+à laquelle l'intéressé a reçu la notification des poursuites.
 
-Le secrétariat de la commission communique au contrevenant, s'il y a lieu, les pièces complémentaires non adressées au moment
-de la notification, le point de départ du délai prévu à l'alinéa précédent est dans ce cas reporté à la date de cette
-communication.
+Le secrétariat de la commission communique à l'intéressé, s'il y a lieu, les pièces complémentaires non adressées au moment
+de la notification. L'intéressé dispose d'un délai de dix jours à compter de cette notification pour présenter ses
+observations éventuelles sur ces pièces complémentaires.
 
 En complément de la convocation, le président de la commission de discipline adresse à ses membres les pièces en sa
 possession.
 
 Il choisit un rapporteur sur une liste nominative établie par l'autorité auprès de laquelle la commission est instituée et
 convoque les membres de la commission ainsi que l'intéressé, qui peut se faire assister ou représenter par une personne de
-son choix.
+son choix. Le rapporteur entend toute personne et recueille toute information utile à l'instruction de l'affaire. A l'issue
+de l'instruction, le rapporteur remet au président de la commission un rapport écrit, qui est versé au dossier de la personne
+traduite devant la commission.
 
 La commission de discipline ne peut siéger valablement que si quatre au moins de ses membres sont présents. En cas de partage
 égal des voix, le président a voix prépondérante.
 
-Les réunions de la commission ne sont pas publiques. La commission délibère hors de la présence de l'intéressé ou de son
-représentant. Le rapporteur assiste aux délibérations, mais ne prend pas part au vote.
+Les délibérations de la commission ont lieu hors de la présence de l'intéressé, de son représentant et du rapporteur. Les
+délibérations sont secrètes. L'autorité auprès de laquelle la commission est instituée met fin aux fonctions des membres qui
+auraient violé le secret des délibérations.
 
-Les délibérations sont secrètes. Il est mis fin par le ministre chargé de l'aviation civile aux fonctions des membres et des
-rapporteurs qui auraient violé le secret des délibérations.
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+discipline des personnels navigants non professionnels).
 
 **Liens relatifs à cet article**
 
@@ -30598,13 +30705,13 @@ rapporteurs qui auraient violé le secret des délibérations.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
 	**Modifié par**:
 
-	  - Décret n°98-264 du 2 avril 1998 - art. 6 () JORF 7 avril 1998
+	  - Décret n°2004-919 du 31 août 2004 - art. 12 () JORF 2 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
 ###### Article D435-8
