@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2002-11-01
+Version Consolidée au 2003-03-16
 
 # Partie législative
 
@@ -7811,18 +7811,19 @@ s'il est rédigé sous seing privé ou dressé en brevet, ou une expédition s'i
 Deux bordereaux signés par le requérant sont joints au titre constitutif d'hypothèque ; l'un d'eux peut être porté sur le
 titre présenté. Ils indiquent :
 
-1° Les nom, prénoms, profession, domicile et nationalité du créancier et du débiteur ;
+1. Les nom, prénoms, profession, domicile et nationalité du créancier et du débiteur ;
 
-2° La date et la nature du titre ;
+2. La date et la nature du titre ;
 
-3° Le montant de la créance exprimé dans le titre ;
+3. Le montant de la créance exprimé dans le titre ;
 
-4° Les clauses relatives aux intérêts et au remboursement ;
+4. Les clauses relatives aux intérêts et au remboursement ;
 
-5° Le type de l'aéronef, son numéro de série, son numéro dans la série et ses marques d'immatriculation ou la déclaration
+5. Le type de l'aéronef, son numéro de série, son numéro dans la série et ses marques d'immatriculation ou la déclaration
 prévue à l'article L. 122-5 (alinéa 3) ;
 
-6° L'élection de domicile par le créancier dans la ville où est situé le bureau d'immatriculation des aéronefs.
+6. L'élection de domicile, par le créancier, dans le ressort du tribunal de grande instance dans lequel se trouve le bureau
+d'immatriculation des aéronefs.
 
 L'inscription de l'hypothèque est mentionnée sur les bordereaux. Si le titre constitutif d'hypothèque est authentique,
 l'expédition en est remise au requérant, ainsi que l'un des bordereaux, au bas duquel certificat est donné que l'inscription
@@ -7838,6 +7839,10 @@ a été faite.
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 1 () JORF 16 mars 2003
+
 	**Cité par**:
 
 	  - Décret n°2015-1408 du 5 novembre 2015 - art. Annexe 1 (V)
@@ -7846,27 +7851,6 @@ a été faite.
 	  - Code de l'aviation civile - art. D122-4 (V)
 	  - Code de l'aviation civile - art. D122-6 (V)
 	  - Code de l'aviation civile - art. D122-7 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L122-1 (V)
-	  - Code de l'aviation civile - art. L122-10 (V)
-	  - Code de l'aviation civile - art. L122-11 (V)
-	  - Code de l'aviation civile - art. L122-12 (V)
-	  - Code de l'aviation civile - art. L122-13 (V)
-	  - Code de l'aviation civile - art. L122-14 (V)
-	  - Code de l'aviation civile - art. L122-15 (V)
-	  - Code de l'aviation civile - art. L122-16 (V)
-	  - Code de l'aviation civile - art. L122-17 (V)
-	  - Code de l'aviation civile - art. L122-18 (V)
-	  - Code de l'aviation civile - art. L122-2 (V)
-	  - Code de l'aviation civile - art. L122-3 (V)
-	  - Code de l'aviation civile - art. L122-4 (V)
-	  - Code de l'aviation civile - art. L122-5 (V)
-	  - Code de l'aviation civile - art. L122-6 (V)
-	  - Code de l'aviation civile - art. L122-7 (V)
-	  - Code de l'aviation civile - art. L122-8 (V)
-	  - Code de l'aviation civile - art. L122-9 (V)
 
 
 ###### Article R122-2
@@ -8336,6 +8320,25 @@ attributions.
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R151-1 (V)
+
+
+###### Article R131-6
+
+L'autorisation spéciale et temporaire prévue à l'article L. 131-1 est délivrée par le ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 2 () JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L131-1 (V)
 
 
 #### CHAPITRE II : ATTERRISSAGE.
@@ -8863,6 +8866,9 @@ c) Les règles d'utilisation des aéronefs mentionnées à l'article R. 133-1 (1
 
 d) La liste et le contenu des documents de bord déterminés en fonction des types d'aéronefs et de la nature des vols.
 
+e) Les conditions dans lesquelles l'utilisation des aéronefs relevant de certaines catégories acoustiques peut être limitée
+ou interdite sur le territoire français ou une partie de celui-ci.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8871,7 +8877,7 @@ d) La liste et le contenu des documents de bord déterminés en fonction des typ
 
 	**Modifié par**:
 
-	  - Décret n°91-262 du 4 mars 1991 - art. 2 () JORF 9 mars 1991
+	  - Décret n°2003-230 du 13 mars 2003 - art. 3 () JORF 16 mars 2003
 
 	**Cité par**:
 
@@ -16458,42 +16464,93 @@ l'article R. 321-1.
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
 
-###### Article R330-4-1
+###### Article R330-1
 
-L'autorisation mentionnée au deuxième alinéa de l'article L. 330-2 est délivrée par le ministre chargé de l'aviation civile.
+I. - Les décisions relatives aux licences d'exploitation des transporteurs aériens publics, notamment leur délivrance, leur
+transformation en licence temporaire, leur suspension et leur retrait, sont prises par arrêté du ministre chargé de
+l'aviation civile, sous réserve des dispositions de l'article R. 330-19, après avis du Conseil supérieur de l'aviation
+marchande.
+
+Toutefois, cet avis n'est pas requis préalablement au renouvellement d'une licence temporaire décidé après la prolongation
+d'une période de redressement judiciaire, ou au retrait intervenant à la suite de la liquidation judiciaire de la société ou
+de sa dissolution.
+
+L'avis du conseil est émis après que le transporteur a été invité à présenter ses observations devant celui-ci.
+
+II. - Les dispositions des paragraphes 1 à 4 et 6 de l'article 5 du règlement (CEE) n° 2407/92 du 23 juillet 1992
+s'appliquent aux transporteurs aériens effectuant des transports aériens publics au moyen exclusivement d'aéronefs de moins
+de 20 sièges ou dont la masse maximale au décollage est inférieure à 10 tonnes dès lors que leur chiffre d'affaires annuel
+est supérieur à 3 millions d'euros ou qu'ils exploitent des services réguliers.
+
+III. - Pour l'application des dispositions du dernier alinéa de l'article L. 330-1 du présent code, les transports aériens de
+passagers, de fret ou de courrier visés au 2 de l'article 1er du règlement (CEE) n° 2407/92 du 23 juillet 1992 ne nécessitent
+l'obtention d'une licence d'exploitation et d'un certificat de transporteur aérien que si la capacité d'emport, équipage
+compris, des aéronefs utilisés est supérieure selon les cas :
+
+Pour les aéronefs non entraînés par un organe moteur, à quatre personnes ou 400 kilogrammes de charge :
+
+Pour les vols locaux à :
+
+- trois personnes lorsque le vol local est effectué au moyen d'un giravion ;
+
+- cinq personnes dans les autres cas. Toutefois, les vols locaux effectués au moyen d'avions à turboréacteurs nécessitent
+dans tous les cas une licence d'exploitation et un certificat de transporteur aérien.
+
+Le vol local est, pour l'application du présent article, un vol :
+
+- sans escale ;
+
+- dont les points de départ et d'arrivée sont identiques ;
+
+- de moins de trente minutes entre le décollage et l'atterrissage sauf pour les aéronefs ultra-légers motorisés ;
+
+- durant lequel l'aéronef ne s'éloigne pas à plus de quarante kilomètres de son point de départ.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-1102 1954-11-12 art. 4
+	  - Décret n°54-1102 1954-11-12 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°90-335 du 10 avril 1990 - art. 1 () JORF 14 avril 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
-
 	**Cité par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V)
+	  - Arrêté du 12 mai 1997 - art. 1 (Ab)
+	  - Arrêté du 23 septembre 1998 - art. 12 (V)
+	  - Arrêté du 20 décembre 2004 - art. 1 (V)
+	  - Arrêté du 20 décembre 2004 - art. 2 (V)
+	  - Arrêté du 4 janvier 2011 - art. 1 (VT)
+	  - Arrêté du 21 mars 2011 - art. 1 (Ab)
+	  - Code de l'aviation civile - art. R133-1-1 (V)
+	  - Code de l'aviation civile - art. R330-1-1 (V)
+	  - Code de l'aviation civile - art. R330-12 (M)
+	  - Code de l'aviation civile - art. R330-19 (V)
+	  - Code de l'aviation civile - art. R330-6 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-2 (M)
+	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Règlement CEE 2407-92 1992-07-23 art. 5, art. 1
 
 
-###### Article R330-16
+###### Article R330-1-1
 
-Les peines d'amendes prévues à l'article R. 330-15 ci-dessus seront appliquées autant de fois qu'il aura été effectué de vols
-en contravention aux dispositions du 1° du premier alinéa dudit article ou qu'il aura été délivré de billets en contravention
-aux autres dispositions de cet article.
+En dehors des cas visés au III de l'article R. 330-1, l'activité de transport aérien public mentionnée à l'article L. 330-1
+est subordonnée, en ce qui concerne le respect des garanties techniques, à la détention par l'entreprise de transport
+concernée d'un certificat de transporteur aérien en cours de validité conformément aux dispositions des articles 2 (d) et 9
+du règlement (CEE) n° 2407/92 du 23 juillet 1992.
+
+Un arrêté du ministre chargé de l'aviation civile fixe les règles relatives notamment au contenu du certificat de
+transporteur aérien, à sa durée de validité, aux justifications à produire par les entreprises de transport aérien en vue de
+son obtention.
 
 **Liens relatifs à cet article**
 
@@ -16501,58 +16558,729 @@ aux autres dispositions de cet article.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°73-331 1973-03-14 art. 1 JORF 23 mars 1973
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cité par**:
+
+	  - Arrêté du 19 juillet 2007 - art. 2 (Ab)
+	  - Arrêté du 6 mars 2013 - art. 1 (V)
+	  - Code de l'aviation civile - art. R133-1-1 (V)
+	  - Code de l'aviation civile - art. R330-12 (V)
+	  - Code de la santé publique - art. R1333-44 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Code de l'aviation civile - art. R330-1 (M)
+	  - Règlement CEE 2407-92 1992-07-23 art. 2, art. 9
+
+
+###### Article R330-1-2
+
+Les directeurs de l'aviation civile en métropole ont compétence pour délivrer les certificats de transporteur aérien aux
+entreprises dont l'établissement principal est situé dans le ressort territorial de leur direction. Toutefois, en ce qui
+concerne les entreprises exploitant une flotte d'appareils dont la somme des masses maximales au décollage certifiées excède
+5 000 tonnes, ainsi que dans les départements d'outre-mer, cette compétence est exercée par le ministre chargé de l'aviation
+civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
 
 	**Modifié par**:
 
-	  - Décret n°76-711 1976-07-23 art. 3 JORF 29 juillet 1976
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
-	**Abrogé par**:
+
+###### Article R330-2
+
+Seule peut obtenir une licence d'exploitation de transporteur aérien l'entreprise qui exerce, à titre principal, une activité
+de transporteur aérien public et qui a son principal établissement et, le cas échéant, son siège social sur le territoire de
+la République française.
+
+L'entreprise doit être détenue et continuer à être détenue, soit directement, soit par participation majoritaire, par des
+Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen ou à tout autre accord ayant
+la même portée en matière de transport aérien, ou par des ressortissants de ces Etats. Les sociétés cotées, notamment,
+doivent être en mesure à tout moment d'établir qu'elles sont effectivement contrôlées par ces Etats ou leurs ressortissants.
+
+Toute entreprise ayant directement ou indirectement une participation de contrôle dans un transporteur aérien doit satisfaire
+aux conditions prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+
+###### Article R330-3
+
+Les transporteurs aériens titulaires d'une licence d'exploitation délivrée par la France et les autres transporteurs aériens
+exerçant une activité de transport aérien public sur le territoire français fournissent au ministre chargé de l'aviation
+civile ou à toute personne désignée par lui des renseignements statistiques sur leur trafic selon des modalités fixées par
+arrêté du ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cité par**:
+
+	  - Arrêté du 1er juillet 2008 - art. 1 (Ab)
+	  - Arrêté du 1er juillet 2008 - art. 3 (Ab)
+	  - Code de l'aviation civile - art. R330-13 (V)
+	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code de l'aviation civile - art. R330-20 (V)
+
+
+###### Article R330-4
+
+Les transporteurs aériens titulaires d'une licence d'exploitation délivrée par la France ne peuvent exercer une activité de
+transport aérien public qu'au moyen d'aéronefs inscrits au registre d'immatriculation français. Toutefois, un arrêté du
+ministre chargé de l'aviation civile fixe, sans préjudice des dérogations prévues aux paragraphes 2 (b) et 3 de l'article 8
+du règlement (CEE) n° 2407/92 du 23 juillet 1992, les conditions dans lesquelles des aéronefs immatriculés dans les Etats
+membres de la Communauté européenne autres que la France ou dans les Etats parties à l'accord sur l'Espace économique
+européen ou à tout autre accord ayant la même portée en matière de transport aérien peuvent être utilisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 12 janvier 1990
+	  - TXT_SOURCE: Arrêté du 12 janvier 1990 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1990
+	  - TXT_SOURCE: Arrêté du 19 novembre 1990 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1990 - art. 1 (V)
+	  - Arrêté du 19 novembre 1990 - art. 1 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de l'aviation civile - art. D330-1 (V)
+	  - Code de l'aviation civile - art. R151-8 (V)
+	  - Code de l'aviation civile - art. R330-13 (M)
+	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code de l'aviation civile - art. R330-19-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Règlement CEE 2407-92 1992-07-23 art. 8
+
+
+###### Article R330-5
+
+La délivrance et le maintien en état de validité d'une licence d'exploitation sont subordonnés au respect de conditions
+d'honorabilité et d'absence de faillite par les personnes qui assurent la direction permanente et effective de l'entreprise
+de transport aérien.
+
+Les ressortissants français sont réputés remplir ces conditions lorsqu'ils n'ont pas fait l'objet d'une procédure de faillite
+personnelle ou d'une condamnation définitive mentionnée au bulletin n° 2 de leur casier judiciaire ou sur une pièce
+équivalente et entraînant l'interdiction d'exercer une activité professionnelle ou sociale.
+
+Pour les ressortissants d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen ou à tout autre accord ayant la même portée en matière de transport aérien, ces conditions sont appréciées selon les
+modalités prévues à l'article 6 du règlement (CEE) n° 2407/92.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-3 (M)
+	  - Règlement CEE 2407-92 1992-07-23
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R330-6 (M)
+
+
+###### Article R330-6
+
+I. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par la France, de services
+aériens réguliers ou non réguliers sur des liaisons auxquelles ne s'applique pas le règlement (CEE) n° 2408/92 du 23 juillet
+1992 est autorisée par le ministre chargé de l'aviation civile. L'avis du Conseil supérieur de l'aviation marchande, émis
+après que le transporteur a été invité à présenter ses observations, est requis pour l'autorisation des services réguliers.
+Il porte notamment sur l'opportunité d'autoriser un service nouveau de transport aérien ou de remplacer un transporteur par
+un autre compte tenu du réseau existant et de l'adaptation des capacités offertes aux besoins des usagers. Le retrait partiel
+ou total des autorisations mentionnées au présent article est décidé dans les mêmes conditions.
+
+Les zones dans lesquelles le transporteur est autorisé à assurer des services non réguliers, les lignes régulières qu'il est
+autorisé à exploiter ainsi que la durée et, le cas échéant, les conditions associées à ces autorisations sont fixées par
+l'arrêté d'autorisation.
+
+Les dispositions qui précèdent sont applicables sous réserve de celles de l'article R. 330-19.
+
+II. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par un Etat, autre que la
+France, membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant
+la même portée en matière de transport aérien, de services aériens réguliers ou non réguliers sur des liaisons comportant au
+moins un point d'escale en France et pour lesquelles le règlement (CEE) n° 2408/92 ne s'applique pas est soumise à
+autorisation dans des conditions fixées par arrêté du ministre chargé de l'aviation civile.
+
+III. - L'exploitation par un transporteur aérien, autre que ceux visés aux I et II, de services aériens réguliers ou non
+réguliers comportant au moins un point d'escale en France est soumise à autorisation dans des conditions fixées par arrêté du
+ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
+	  - Arrêté du 3 juin 2008 - art. 1 (V)
+	  - Arrêté du 31 juillet 2015 - art. 1 (V)
+	  - Code de l'aviation civile - art. R330-12-2 (V)
+	  - Code de l'aviation civile - art. R330-8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-19 (M)
+	  - Règlement CEE 2408-92 1992-07-23
+
+
+###### Article R330-7
+
+Le ministre chargé de l'aviation civile peut décider, sur proposition de collectivités territoriales ou d'autres personnes
+publiques intéressées et sous réserve des compétences spécifiques attribuées à certaines d'entre elles, d'imposer des
+obligations de service public sur des services aériens réguliers dans les conditions définies à l'article 4 du règlement
+(CEE) n° 2408/92 du 23 juillet 1992.
+
+Dans ce cadre, si aucun transporteur aérien titulaire d'une licence d'exploitation délivrée par la France ou un autre Etat
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même
+portée en matière de transport aérien n'a commencé ou n'est sur le point de commencer l'exploitation de services aériens sur
+une liaison, conformément aux obligations de service public imposées sur cette liaison, le ministre chargé de l'aviation
+civile peut, par arrêté, en limiter l'accès à un seul transporteur qui est choisi à l'issue d'une procédure d'appel d'offres
+pour une période maximale de trois ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 7, alinéa 6
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 16 février 1996 - art. 2 (V)
+	  - Arrêté du 16 février 1996 - art. 3 (V)
+	  - Arrêté du 31 mai 2002 - art. 2 (V)
+	  - Arrêté du 9 juillet 2009 (Ab)
+	  - Arrêté du 14 août 2009 (V)
+	  - Arrêté du 13 octobre 2009 (V)
+	  - Code de l'aviation civile - art. R330-10 (V)
+	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code de l'aviation civile - art. R330-8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-3 (M)
+	  - Règlement CEE 2408-92 1992-07-23 art. 4
+
+
+###### Article R330-8
+
+I. - Les programmes d'exploitation de services aériens de transport public au départ, à destination ou à l'intérieur du
+territoire national doivent être déposés auprès du ministre chargé de l'aviation civile dans les conditions suivantes :
+
+1. Les programmes d'exploitation de services aériens réguliers doivent être déposés au moins un mois avant le début de leur
+mise en oeuvre et comporter une série d'indications sur les conditions techniques et commerciales d'exploitation précisées
+par arrêté du ministre chargé de l'aviation civile ;
+
+2. Les programmes d'exploitation de services aériens non réguliers doivent être déposés dans des conditions fixées par arrêté
+du ministre chargé de l'aviation civile.
+
+II. - Les programmes d'exploitation de services aériens réguliers et non réguliers de transport public déposés conformément
+aux dispositions du I peuvent être mis en oeuvre dans les conditions suivantes :
+
+1. Les programmes d'exploitation de services aériens réguliers et non réguliers de transport public, effectués sur le
+territoire de la Communauté européenne ou des Etats parties à l'accord sur l'Espace économique européen ou à tout autre
+accord ayant la même portée en matière de transport aérien, sur des liaisons comportant au moins un point d'escale en France,
+par des transporteurs titulaires d'une licence d'exploitation délivrée par l'un de ces Etats, peuvent être mis en oeuvre si
+le ministre chargé de l'aviation civile ne s'y est pas opposé dans un délai de quinze jours suivant leur dépôt, sous réserve,
+le cas échéant, de l'application des dispositions de l'article R. 330-9 ;
+
+2. Dans tous les autres cas, les programmes d'exploitation doivent recueillir l'approbation du ministre chargé de l'aviation
+civile. Le silence gardé par le ministre pendant plus d'un mois à compter du dépôt vaut décision de rejet.
+
+III. - Les dispositions du présent article ne s'appliquent pas à l'exploitation de services aériens non réguliers de
+transport public réalisés par des transporteurs titulaires d'une licence d'exploitation délivrée par la France, un autre Etat
+membre de la Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant
+la même portée en matière de transport aérien, sur des liaisons comportant au moins un point d'escale en France et pour
+lesquelles le règlement (CEE) n° 2408/92 du 23 juillet 1992 ne s'applique pas, lorsqu'ils sont effectués au moyen d'aéronefs
+dont la capacité ne dépasse pas 20 sièges ou dont la masse maximale au décollage n'excède pas 10 tonnes et que le chiffre
+d'affaires annuel du transporteur ne dépasse pas un montant équivalent à trois millions d'euros.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Accord 1992-05-02 (Espace économique européen)
+	  - Code de l'aviation civile - art. R330-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
+	  - Arrêté du 15 mars 2002 - art. 3 (V)
+	  - Arrêté du 31 mai 2002 - art. 3 (V)
+	  - Arrêté du 26 juin 2003 - art. 2 (V)
+	  - Arrêté du 26 juin 2003 - art. 3 (V)
+	  - Arrêté du 15 septembre 2004 - art. 2 (Ab)
+	  - Arrêté du 22 décembre 2006 - art. 3 (V)
+	  - Arrêté du 9 juillet 2007 - art. 2 (V)
+	  - Arrêté du 9 juillet 2007 - art. 3 (V)
+	  - Arrêté du 2 août 2007 - art. 2 (Ab)
+	  - Arrêté du 2 août 2007 - art. 3 (Ab)
+	  - Arrêté du 2 août 2007 - art. 4 (Ab)
+	  - Arrêté du 3 août 2007 - art. 2 (V)
+	  - Arrêté du 3 août 2007 - art. 3 (V)
+	  - Arrêté du 3 août 2007 - art. 4 (V)
+	  - Arrêté du 3 juin 2008 - art. 1 (V)
+	  - Arrêté du 3 juin 2008 - art. 6 (V)
+	  - Arrêté du 3 juin 2008 - art. 7 (V)
+	  - Arrêté du 12 juillet 2010 - art. 2 (V)
+	  - Arrêté du 12 juillet 2010 - art. 3 (V)
+	  - Arrêté du 2 novembre 2011 - art. 2 (V)
+	  - Arrêté du 2 novembre 2011 - art. 3 (V)
+	  - Arrêté du 29 décembre 2011 - art. 2 (V)
+	  - Arrêté du 16 juillet 2012 - art. 2 (V)
+	  - Arrêté du 16 juillet 2012 - art. 3 (V)
+	  - Arrêté du 12 décembre 2012 - art. 2 (V)
+	  - Arrêté du 12 décembre 2012 - art. 3 (V)
+	  - Arrêté du 25 juin 2014 - art. 4 (V)
+	  - Arrêté du 27 juin 2014 - art. 4 (V)
+	  - Arrêté du 25 juillet 2014 - art. 2 (V)
+	  - Arrêté du 25 juillet 2014 - art. 3 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Arrêté du 10 décembre 2014 - art. 2 (V)
+	  - Arrêté du 28 juin 2016 - art. 4 (V)
+	  - Arrêté du 1er juillet 2016 - art. 2 (V)
+	  - Arrêté du 5 août 2016 - art. 4 (V)
+	  - Arrêté du 13 janvier 2017 - art. 1
+	  - Arrêté du 14 mars 2017 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+
+###### Article R330-9
+
+L'exploitation de services aériens par des transporteurs titulaires d'une licence d'exploitation délivrée par la France au
+départ, à destination ou à l'intérieur du territoire national, dans le cadre d'accords commerciaux aux termes desquels le
+transporteur contractuel n'est pas le transporteur de fait au sens de la convention de Guadalajara du 18 septembre 1961
+complétant la convention de Varsovie du 12 octobre 1929, nécessite une autorisation qui est délivrée dans les conditions
+fixées par un arrêté du ministre chargé de l'aviation civile.
+
+Cet arrêté fixe, notamment, les conditions d'ordre économique et social qui doivent être remplies et précise celles qui sont
+requises dans le domaine de la sécurité des vols.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°93-421 du 17 mars 1993 - art. 3 (Ab)
+	  - Arrêté du 31 mai 2002 - art. 3 (V)
+	  - Arrêté du 15 septembre 2004 - art. Annexe I (Ab)
+	  - Arrêté du 6 février 2006 - art. 2 (Ab)
+	  - Arrêté du 6 février 2006 - art. 3 (Ab)
+	  - Arrêté du 22 décembre 2006 - art. 3 (V)
+	  - Arrêté du 2 août 2007 - art. 2 (Ab)
+	  - Arrêté du 2 août 2007 - art. 3 (Ab)
+	  - Arrêté du 2 août 2007 - art. 4 (Ab)
+	  - Arrêté du 24 octobre 2012 - art. Annexe I (V)
+	  - Arrêté du 25 juin 2014 - art. 4 (V)
+	  - Arrêté du 27 juin 2014 - art. 4 (V)
+	  - Arrêté du 25 juillet 2014 - art. 2 (V)
+	  - Arrêté du 25 juillet 2014 - art. 3 (V)
+	  - Arrêté du 31 juillet 2015 (V)
+	  - Arrêté du 31 juillet 2015 - art. 1 (V)
+	  - Arrêté du 31 juillet 2015 - art. 2 (V)
+	  - Arrêté du 28 juin 2016 - art. 4 (V)
+	  - Arrêté du 5 août 2016 - art. 4 (V)
+	  - Arrêté du 14 mars 2017 - art. 4 (V)
+	  - Code de l'aviation civile - art. R330-13 (V)
+	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code de l'aviation civile - art. R330-19-1 (V)
+	  - Code de l'aviation civile - art. R330-8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Convention 1929-10-12, signée à Varsovie
+	  - Convention 1961-09-18, signée à Guadalajara
+
+
+###### Article R330-10
+
+I.-Les transporteurs aériens qui exploitent des services aériens réguliers de passagers au départ, à destination ou à
+l'intérieur du territoire national transmettent au ministre chargé de l'aviation civile leurs conditions générales de
+transport, y compris les avantages de toute nature consentis à la clientèle. 
+
+II.-1. Les transporteurs aériens titulaires d'une licence d'exploitation délivrée par la France, un autre Etat membre de la
+Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même
+portée en matière de transport aérien déposent auprès du ministre chargé de l'aviation civile les tarifs de passagers qu'ils
+proposent directement au public relatifs à des services aériens intracommunautaires ou à destination ou en provenance d'un
+Etat partie à l'un des accords susmentionnés, y compris leurs conditions d'application, un jour au moins avant leur entrée en
+vigueur sauf s'il s'agit d'un alignement sur un tarif existant, auquel cas seule une notification préalable est requise. 
+
+2. Dans tous les autres cas, les tarifs de passagers et leurs conditions d'application doivent recueillir l'homologation
+préalable du ministre chargé de l'aviation civile. 
+
+Celle-ci est réputée acquise si le ministre n'a pas fait connaître son opposition dans un délai de quinze jours après l'envoi
+des tarifs ou, le cas échéant, des renseignements complémentaires demandés. 
+
+Pour les liaisons faisant l'objet d'obligations de service public mentionnées à l'article R. 330-7, les dispositions du
+présent 2 s'appliquent, y compris aux tarifs de fret. 
+
+3. Le ministre chargé de l'aviation civile peut demander à toute autre personne qu'un transporteur aérien, habilitée à
+commercialiser des titres de transport aérien, de se conformer aux dispositions des paragraphes 1 et 2 précédents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 133
+	  - Loi n°1941-09-19 art. 17, alinéa 1
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-7 (V)
+
+
+###### Article R330-11
+
+Les entreprises titulaires d'une licence d'exploitation de transporteur aérien délivrée par la France doivent, sur la demande
+des agents de l'Etat chargés de l'application des dispositions du présent livre, communiquer à ceux-ci tous les documents
+nécessaires à l'exercice de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 135
+	  - Loi n°1941-09-19 art. 19
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R330-13 (V)
+	  - Code de l'aviation civile - art. R330-15 (M)
+
+
+###### Article R330-12
+
+Sans préjudice des sanctions pénales qui pourraient être infligées aux transporteurs aériens en vertu des lois et règlements
+en vigueur ainsi que des sanctions prévues aux articles L. 330-4 et R. 330-20 du présent code, les mesures suivantes pourront
+être prises :
+
+- suspension ou retrait du certificat de transporteur aérien par l'autorité qui l'a délivré conformément aux dispositions de
+l'article R. 330-12-1 lorsque les conditions ayant présidé à sa délivrance ne sont plus respectées ou lorsque le transporteur
+utilise ses aéronefs sans se conformer aux dispositions des articles R. 133-1-1 et R. 330-1-1 et des arrêtés pris pour leur
+application ;
+
+Le certificat de transporteur aérien peut également être suspendu ou retiré par la même autorité et dans les mêmes conditions
+lorsque l'entreprise ne se conforme pas à ses obligations telles qu'elles résultent des articles R. 133-1-3, R. 133-4 et R.
+133-4-1 ;
+
+- suspension ou retrait de la licence d'exploitation de transporteur aérien par l'autorité mentionnée à l'article R. 330-1 en
+application des dispositions du deuxième alinéa de l'article L. 330-1 lorsque les conditions ayant présidé à sa délivrance ne
+sont plus remplies.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 5 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cité par**:
+
+	  - Arrêté du 20 décembre 2004 - art. 8 (V)
+	  - Code de l'aviation civile - art. R330-6 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Code de l'aviation civile - art. L330-4 (V)
+	  - Code de l'aviation civile - art. R133-1-1 (M)
+	  - Code de l'aviation civile - art. R133-1-3 (M)
+	  - Code de l'aviation civile - art. R133-4 (Ab)
+	  - Code de l'aviation civile - art. R133-4-1 (Ab)
+	  - Code de l'aviation civile - art. R330-1 (M)
+	  - Code de l'aviation civile - art. R330-1-1 (M)
+	  - Code de l'aviation civile - art. R330-12-1 (M)
+	  - Code de l'aviation civile - art. R330-20 (M)
+
+
+###### Article R330-12-1
+
+Le retrait du certificat de transporteur aérien est prononcé par l'autorité ayant délivré le certificat, après que le
+transporteur intéressé a été mis à même de présenter des observations. Toutefois, en cas d'urgence, la suspension du
+certificat peut être prononcée sans formalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
 
 	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
 	**Cité par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V)
-	  - Code de l'aviation civile - art. R330-17 (M)
+	  - Code de l'aviation civile - art. R330-12 (V)
+
+
+###### Article R330-13
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour toute personne :
+
+- d'exercer l'activité de transporteur aérien public sans être titulaire d'une licence d'exploitation conformément aux
+prescriptions de l'article L. 330-1 ;
+
+- de ne pas déférer à la demande qui lui est faite en application des articles R. 133-1-3, R. 330-3 et R. 330-11 ou de
+transmettre des informations mensongères ou erronées ;
+
+- d'effectuer des services aériens sans l'autorisation prévue à l'article R. 330-9.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies au présent article.
+
+La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41 du code pénal.
+
+La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 12 août 1997 - art. 3 (Ab)
+	  - Arrêté du 26 juin 2003 - art. 4 (V)
+	  - Arrêté du 27 mars 2017 - art. 1
+	  - Code de l'aviation civile - art. R330-15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 5 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-41 (V)
+	  - Code pénal - art. 132-11 (M)
+	  - Code pénal - art. 132-15 (V)
+	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Code de l'aviation civile - art. R133-1-3 (M)
+	  - Code de l'aviation civile - art. R330-11 (M)
+	  - Code de l'aviation civile - art. R330-3 (M)
+	  - Code de l'aviation civile - art. R330-9 (M)
+
+
+###### Article R330-15
+
+Les peines d'amende prévues à l'article R. 330-13 pourront être appliquées autant de fois qu'il aura été effectué de vols ou
+délivré de titres de transport en contravention aux dispositions législatives et réglementaires en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 22 août 1994 - art. 3 (V)
+	  - Arrêté du 16 février 1996 - art. 5 (V)
+	  - Arrêté du 12 août 1997 - art. 3 (M)
+	  - Arrêté du 17 juillet 2000 - art. 3 (V)
+	  - Arrêté du 31 mai 2002 - art. 4 (V)
+	  - Arrêté du 20 décembre 2004 - art. 8 (V)
+	  - Code de l'aviation civile - art. R330-16 (Ab)
+	  - Code de l'aviation civile - art. R330-17 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 5 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-13 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
+###### Article R330-17
+
+Dans les territoires d'outre-mer, les infractions définies à l'article R. 330-15 seront punies de la peine d'amende prévue
+par le 4° de l'article 131-13 du code pénal pour les contraventions de la quatrième classe autant de fois qu'il est prévu à
+l'article R. 330-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13 (V)
+	  - Code de l'aviation civile - art. R330-15 (V)
 
 
 ###### Article R330-18
 
-I. - Les modalités, autres que celles relatives à l'autorité compétente pour faire la proposition de transaction, de la
-transaction prévue à l'article L. 330-9 sont celles fixées par les II, III et IV de l'article R. 151-8.
+Les modalités de la transaction prévue à l'article L. 330-9, autres que celles relatives à l'autorité compétente pour faire
+la proposition de transaction, sont fixées par les II, III et IV de l'article R. 151-8. 
 
-II. - La proposition de transaction est faite :
-
-1. Lorsque l'infraction a été commise outre-mer, dans les conditions prévues au I de l'article R. 151-8 ;
-
-2. Par le ministre chargé de l'aviation civile dans les autres cas.
+La proposition de transaction est faite par le ministre chargé de l'aviation civile sauf lorsque l'infraction a été commise
+dans les départements d'outre-mer pour lesquels s'appliquent les dispositions prévues aux I-1 et I-2 de l'article R. 151-8.
+Le préfet de région est compétent lorsque l'infraction concerne un transporteur aérien entrant dans le champ d'application
+des dispositions de l'article R. 330-19.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°91-262 du 4 mars 1991 - art. 10 () JORF 9 mars 1991
 
 	**Cité par**:
 
 	  - Décret n°91-262 du 4 mars 1991 - art. 13 (V)
 	  - Décret n°97-1199 du 24 décembre 1997 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 5 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L330-9 (V)
 	  - Code de l'aviation civile - art. R151-8 (V)
+	  - Code de l'aviation civile - art. R330-19 (V)
 
 
 ###### Article R330-19
@@ -16566,15 +17294,17 @@ services réguliers ou si son chiffre d'affaire annuel dépasse un montant équi
 L'autorisation d'utiliser un aéronef immatriculé à l'étranger et l'autorisation d'affréter un aéronef d'un autre transporteur
 aérien sont délivrées aux transporteurs visés à l'alinéa précédent par le préfet de région.
 
+La licence d'exploitation visée au III de l'article R. 330-1 est délivrée, suspendue et retirée par arrêté du préfet de
+région dans les conditions prévues par les dispositions des articles 3 (paragraphes 1 et 2), 4 (paragraphes 1, 2, 4 et
+première phrase du paragraphe 5), 6, 7 et 8 (paragraphes 1, 2 (a) et 3), 9 à 12 et 13 (paragraphe 2) du règlement (CEE) n°
+2407/92 du 23 juillet 1992. Des garanties financières et morales peuvent, en outre, être demandées dans des conditions fixées
+par arrêté du ministre chargé de l'aviation civile.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°97-1199 1997-12-24 art. 5 JORF 27 décembre 1997 en vigueur le 1er janvier 1998
 
 	**Cité par**:
 
@@ -16585,10 +17315,16 @@ aérien sont délivrées aux transporteurs visés à l'alinéa précédent par l
 	  - Code de l'aviation civile - art. R330-19-1 (V)
 	  - Code de l'aviation civile - art. R330-6 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 6 () JORF 16 mars 2003
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L330-1 (M)
 	  - Code de l'aviation civile - art. L330-2 (M)
+	  - Règlement CEE 2407-92 1992-07-23 art. 3, art. 4, art. 6, art. 7, art. 8, art. 9 à art. 12, art. 13
 
 
 ###### Article R330-20
@@ -16630,13 +17366,9 @@ L. 330-8.
 	  - Code du tourisme. - art. R211-14-2 (T)
 	  - Code du tourisme. - art. R211-19 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 4 () JORF 9 juin 1999
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
 	**Cite**:
 
@@ -16661,13 +17393,9 @@ les décisions du ministre.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 4 () JORF 9 juin 1999
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
 	**Cite**:
 
@@ -16695,558 +17423,18 @@ du précédent.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R330-20 (M)
 
-
-#### Section 1 : Entreprises autorisées et entreprises agréées.
-
-###### Article R330-1
-
-L'autorisation d'exercer une activité de transport aérien prévue à l'article L. 330-1 est accordée par arrêté du ministre
-chargé de l'aviation civile, après avis du conseil supérieur de l'aviation marchande portant notamment sur les garanties
-morales, financières et techniques que présente l'entreprise intéressée et sur l'opportunité de la création d'un service
-nouveau de transport aérien.
-
-L'arrêté précise l'objet du transport autorisé ainsi que la ou les zones d'activité de l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Arrêté du 12 mai 1997 - art. 1 (Ab)
-	  - Arrêté du 23 septembre 1998 - art. 12 (V)
-	  - Arrêté du 20 décembre 2004 - art. 1 (V)
-	  - Arrêté du 20 décembre 2004 - art. 2 (V)
-	  - Arrêté du 4 janvier 2011 - art. 1 (VT)
-	  - Arrêté du 21 mars 2011 - art. 1 (Ab)
-	  - Code de l'aviation civile - art. R133-1-1 (V)
-	  - Code de l'aviation civile - art. R330-1-1 (V)
-	  - Code de l'aviation civile - art. R330-12 (M)
-	  - Code de l'aviation civile - art. R330-19 (V)
-	  - Code de l'aviation civile - art. R330-6 (M)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L330-1 (M)
-
-
-###### Article R330-1-1
-
-L'exercice de l'activité de transport aérien mentionné à l'article R. 330-1 est subordonné, en ce qui concerne le respect des
-garanties techniques, à la détention par l'entreprise de transport concernée d'un certificat de transporteur aérien en cours
-de validité conformément aux dispositions des articles 2 d et 9 du règlement (C.E.E.) n° 2407/92 du 23 juillet 1992.
-
-Un arrêté du ministre chargé de l'aviation civile fixe les règles relatives notamment au contenu du certificat de
-transporteur aérien, à sa durée de validité, aux justifications à produire par les entreprises de transport aérien en vue de
-son obtention.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°94-600 du 12 juillet 1994 - art. 1 () JORF 20 juillet 1994
-
-	**Cité par**:
-
-	  - Arrêté du 19 juillet 2007 - art. 2 (Ab)
-	  - Arrêté du 6 mars 2013 - art. 1 (V)
-	  - Code de l'aviation civile - art. R133-1-1 (V)
-	  - Code de l'aviation civile - art. R330-12 (V)
-	  - Code de la santé publique - art. R1333-44 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R330-1 (M)
-	  - Réglement CEE 92-2407 1992-07-23
-
-
-###### Article R330-1-2
-
-Les directeurs de l'aviation civile en métropole ont compétence pour délivrer les certificats de transporteur aérien aux
-entreprises dont l'établissement principal est situé dans le ressort territorial de leur direction. Toutefois, en ce qui
-concerne les entreprises exploitant une flotte d'appareils dont la somme des masses maximales au décollage certifiées excède
-5 000 tonnes, ainsi que dans les départements d'outre-mer, cette compétence est exercée par le ministre chargé de l'aviation
-civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°94-600 du 12 juillet 1994 - art. 1 () JORF 20 juillet 1994
-
-
-###### Article R330-2
-
-Seules peuvent être autorisées les entreprises exerçant, à titre principal, une activité aérienne et ayant leur siège social
-sur le territoire de la République française.
-
-L'entreprise doit être détenue et continuer à être détenue soit directement, soit par participation majoritaire, par des
-Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, ou par des ressortissants
-de ces Etats. Elle doit à tout moment être effectivement contrôlée par ces Etats ou ces ressortissants.
-
-Toute entreprise ayant directement ou indirectement une participation de contrôle dans un transporteur aérien doit satisfaire
-aux conditions prévues à l'alinéa précédent.
-
-Les dispositions qui précèdent sont applicables sous réserve des clauses contraires de conventions internationales
-régulièrement approuvées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°96-75 du 30 janvier 1996 - art. 1 () JORF 1er février 1996
-
-
-###### Article R330-3
-
-Les entreprises autorisées doivent fournir périodiquement, dans des conditions fixées par arrêté ministériel, des
-renseignements statistiques sur le trafic.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Arrêté du 1er juillet 2008 - art. 1 (Ab)
-	  - Arrêté du 1er juillet 2008 - art. 3 (Ab)
-	  - Code de l'aviation civile - art. R330-13 (V)
-	  - Code de l'aviation civile - art. R330-15 (M)
-	  - Code de l'aviation civile - art. R330-20 (V)
-
-
-###### Article R330-5
-
-L'agrément prévu à l'article L. 330-3 pour permettre aux entreprises autorisées d'assurer le transport de passagers est
-accordé par le ministre chargé de l'aviation civile après avis du conseil supérieur de l'aviation marchande et sur le vu
-d'une enquête administrative. Cette enquête a notamment pour objet de rechercher si l'équipement technique, l'organisation
-administrative et les ressources financières de l'entreprise permettront d'assurer la sécurité des passagers et la régularité
-des services.
-
-L'avis du conseil supérieur de l'aviation marchande porte notamment sur l'opportunité de la création d'un service de
-transport de voyageurs, compte tenu du réseau existant.
-
-L'arrêté portant agrément définit la ou les zones dans lesquelles l'entreprise est autorisée à assurer le transport des
-passagers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L330-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R330-6 (M)
-
-
-###### Article R330-6
-
-L'avis du Conseil supérieur de l'aviation marchande prévu aux articles R. 330-1, R. 330-5 et R. 330-12 et au I de l'article 4
-du décret n° 93-421 du 17 mars 1993 n'est pas requis lorsque l'entreprise intéressée exploite exclusivement des aéronefs
-d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges sauf si cette
-entreprise exploite des services réguliers ou si son chiffre d'affaires annuel dépasse un montant équivalant à trois millions
-d'écus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Décret n°93-421 1993-03-17 art. 4
-	  - Code de l'aviation civile - art. R330-1 (M)
-	  - Code de l'aviation civile - art. R330-12 (M)
-	  - Code de l'aviation civile - art. R330-5 (M)
-
-	**Cité par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
-	  - Arrêté du 3 juin 2008 - art. 1 (V)
-	  - Arrêté du 31 juillet 2015 - art. 1 (V)
-	  - Code de l'aviation civile - art. R330-12-2 (V)
-	  - Code de l'aviation civile - art. R330-8 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°96-75 du 30 janvier 1996 - art. 2 () JORF 1er février 1996
-
-
-###### Article R330-7
-
-Les programmes d'exploitation sont soumis par les entreprises agréées à l'approbation préalable du ministre chargé de
-l'aviation civile. Ils doivent comporter des propositions précises concernant, pour chaque ligne, les escales, les fréquences
-de base et les différents types d'appareils ainsi que leurs aménagements utilisés pour chaque classe au cours de la saison
-considérée.
-
-Ces dispositions s'appliquent également aux entreprises étrangères de transport aérien qui embarquent ou débarquent des
-passagers sur le territoire de la République française, sauf en ce qui concerne les transports prévus au dernier alinéa de
-l'article L. 330-3..
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 7, alinéa 6
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°80-170 1980-02-18 art. 1 JORF 28 février 1980
-
-	**Cité par**:
-
-	  - Arrêté du 16 février 1996 - art. 2 (V)
-	  - Arrêté du 16 février 1996 - art. 3 (V)
-	  - Arrêté du 31 mai 2002 - art. 2 (V)
-	  - Arrêté du 9 juillet 2009 (Ab)
-	  - Arrêté du 14 août 2009 (V)
-	  - Arrêté du 13 octobre 2009 (V)
-	  - Code de l'aviation civile - art. R330-10 (V)
-	  - Code de l'aviation civile - art. R330-15 (M)
-	  - Code de l'aviation civile - art. R330-8 (Ab)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L330-3 (M)
-
-
-###### Article R330-9
-
-Les entreprises agréées doivent présenter au ministre chargé de l'aviation civile, en vue de l'homologation de leurs tarifs,
-des propositions détaillées par ligne et, à l'intérieur de chaque ligne, par classe. Ces propositions doivent préciser
-également les conditions générales de transport ainsi que les réductions de tarifs que ces entreprises envisagent d'appliquer
-au cours de certaines périodes, ou au profit de certaines catégories de passagers.
-
-Ces dispositions s'appliquent également aux entreprises étrangères de transport aérien autorisées à embarquer ou débarquer
-des passagers par un vol régulier ou non régulier sur le territoire de la République française sauf en ce qui concerne les
-transports prévus au dernier alinéa de l'article L. 330-3.
-
-Les propositions peuvent être présentées soit par les entreprises directement, soit par l'intermédiaire d'une association
-professionnelle agréée par le ministre.
-
-A l'expiration d'un délai d'un mois à compter de la réception des propositions, les tarifs sont considérés comme homologués
-si le ministre n'a pas fait connaître son opposition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Décret n°93-421 du 17 mars 1993 - art. 3 (Ab)
-	  - Arrêté du 31 mai 2002 - art. 3 (V)
-	  - Arrêté du 15 septembre 2004 - art. Annexe I (Ab)
-	  - Arrêté du 6 février 2006 - art. 2 (Ab)
-	  - Arrêté du 6 février 2006 - art. 3 (Ab)
-	  - Arrêté du 22 décembre 2006 - art. 3 (V)
-	  - Arrêté du 2 août 2007 - art. 2 (Ab)
-	  - Arrêté du 2 août 2007 - art. 3 (Ab)
-	  - Arrêté du 2 août 2007 - art. 4 (Ab)
-	  - Arrêté du 24 octobre 2012 - art. Annexe I (V)
-	  - Arrêté du 25 juin 2014 - art. 4 (V)
-	  - Arrêté du 27 juin 2014 - art. 4 (V)
-	  - Arrêté du 25 juillet 2014 - art. 2 (V)
-	  - Arrêté du 25 juillet 2014 - art. 3 (V)
-	  - Arrêté du 31 juillet 2015 (V)
-	  - Arrêté du 31 juillet 2015 - art. 1 (V)
-	  - Arrêté du 31 juillet 2015 - art. 2 (V)
-	  - Arrêté du 28 juin 2016 - art. 4 (V)
-	  - Arrêté du 5 août 2016 - art. 4 (V)
-	  - Arrêté du 14 mars 2017 - art. 4 (V)
-	  - Code de l'aviation civile - art. R330-13 (V)
-	  - Code de l'aviation civile - art. R330-15 (M)
-	  - Code de l'aviation civile - art. R330-19-1 (V)
-	  - Code de l'aviation civile - art. R330-8 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L330-3 (M)
-
-	**Modifié par**:
-
-	  - Décret n°76-711 1976-07-23 art. 1 JORF 29 juillet 1976
-
-
-###### Article R330-10
-
-Le contrôle de l'Etat sur les entreprises de navigation aérienne est exercé :
-
-a) En ce qui concerne l'exploitation technique et les conditions de travail du personnel, par le ministre chargé de
-l'aviation civile ;
-
-b) En ce qui concerne l'exploitation commerciale et la réglementation administrative, dans les mêmes conditions que ci-
-dessus, ou s'il s'agit d'une entreprise autorisée dans un territoire d'outre-mer ou concédée par une collectivité publique
-autre que l'Etat par les ministres intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 133
-	  - Loi n°1941-09-19 art. 17, alinéa 1
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-
-###### Article R330-11
-
-Les entreprises autorisées doivent, sur la demande des fonctionnaires chargés du contrôle, communiquer à ceux-ci tous les
-documents nécessaires à l'exercice de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 135
-	  - Loi n°1941-09-19 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R330-13 (V)
-	  - Code de l'aviation civile - art. R330-15 (M)
-
-
-###### Article R330-12
-
-Le retrait de l'autorisation prévue aux articles L. 330-1 et R. 330-1 ainsi que le retrait total ou partiel de l'agrément
-mentionné à l'article L. 330-4 sont prononcés par arrêté du ministre chargé de l'aviation civile après avis du conseil
-supérieur de l'aviation marchande. L'entreprise est appelée à présenter ses observations devant ledit conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Arrêté du 20 décembre 2004 - art. 8 (V)
-	  - Code de l'aviation civile - art. R330-6 (M)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L330-1 (M)
-	  - Code de l'aviation civile - art. L330-4 (V)
-	  - Code de l'aviation civile - art. R330-1 (M)
-
-
-###### Article R330-12-1
-
-Le retrait du certificat de transporteur aérien est prononcé par l'autorité ayant délivré le certificat, après que le
-transporteur intéressé a été mis à même de présenter des observations. Toutefois, en cas d'urgence, la suspension du
-certificat peut être prononcée sans formalité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°94-600 du 12 juillet 1994 - art. 1 () JORF 20 juillet 1994
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R330-12 (V)
-
-
-###### Article R330-13
-
-En outre et sans préjudice des sanctions pénales qui pourraient être infligées aux entreprises en vertu des lois et
-règlements en vigueur ainsi que des sanctions prévues au deuxième alinéa de l'article L. 330-4 du présent code, les mesures
-suivantes pourront être prises par le ministre chargé de l'aviation civile.
-
-Dans le cas de contravention aux lois et règlements visés à l'article R. 330-4 ci-dessus compromettant la sécurité des vols,
-le ministre chargé de l'aviation civile pourra prononcer le retrait de l'autorisation. A titre conservatoire, il peut décider
-la suspension immédiate des services.
-
-Dans le cas où une entreprise agréée exploiterait un service de passagers dans des conditions différentes de celles figurant
-dans l'arrêté d'agrément, l'agrément qui lui a été accordé pour l'exploitation de la ligne sur laquelle l'infraction aura été
-constatée pourra lui être retiré.
-
-Dans le cas où une entreprise agréée exploiterait un service de passagers ne figurant pas dans son programme approuvé en
-application des dispositions de l'article L. 330-3 du présent code ou pratiquerait des tarifs différents des tarifs
-homologués, l'agrément pourra lui être retiré.
-
-Les mesures prévues aux alinéas qui précèdent sont prises dans les conditions fixées à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Arrêté du 12 août 1997 - art. 3 (Ab)
-	  - Arrêté du 26 juin 2003 - art. 4 (V)
-	  - Arrêté du 27 mars 2017 - art. 1
-	  - Code de l'aviation civile - art. R330-15 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L330-3 (M)
-	  - Code de l'aviation civile - art. L330-4 (V)
-	  - Code de l'aviation civile - art. R330-4 (Ab)
-
-
-###### Article R330-15
-
-Sans préjudice de l'application des autres sanctions prévues par la législation en vigueur et en particulier de celles qui
-sont édictées par l'article L. 330-4, sera punie d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les
-contraventions de la cinquième classe, toute personne qui aura contrevenu aux prescriptions des articles L. 330-1, L. 330-2
-ou L. 330-3, et notamment :
-
-1° Aura exercé une activité de transport aérien sans avoir obtenu l'autorisation prévue à l'article L. 330-1 ou sans avoir
-respecté les conditions ou limitations qui lui avaient été imposées dans ladite autorisation ;
-
-2° Aura, contrairement à l'article L. 330-3, omis de soumettre à l'homologation les tarifs qu'elle pratique ou pratiqué des
-tarifs différents de ceux qui avaient été homologués.
-
-Sera punie de la même peine, sans préjudice de l'application des autres sanctions prévues par les conventions internationales
-ou par la législation en vigueur, toute personne qui aura contrevenu aux prescriptions des articles R. 330-3, R. 330-7
-(alinéa 2), R. 330-9 (alinéa 2), R. 330-11 ou des règlements pris en application de l'article R. 330-4.
-
-En cas de récidive, la peine d'amende pourra être portée à 3 000 euros.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Arrêté du 22 août 1994 - art. 3 (V)
-	  - Arrêté du 16 février 1996 - art. 5 (V)
-	  - Arrêté du 12 août 1997 - art. 3 (M)
-	  - Arrêté du 17 juillet 2000 - art. 3 (V)
-	  - Arrêté du 31 mai 2002 - art. 4 (V)
-	  - Arrêté du 20 décembre 2004 - art. 8 (V)
-	  - Code de l'aviation civile - art. R330-16 (Ab)
-	  - Code de l'aviation civile - art. R330-17 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 131-13 (M)
-	  - Code de l'aviation civile - art. L330-1 (M)
-	  - Code de l'aviation civile - art. L330-2 (M)
-	  - Code de l'aviation civile - art. L330-3 (M)
-	  - Code de l'aviation civile - art. L330-4 (V)
-	  - Code de l'aviation civile - art. R330-11 (M)
-	  - Code de l'aviation civile - art. R330-3 (M)
-	  - Code de l'aviation civile - art. R330-4 (Ab)
-	  - Code de l'aviation civile - art. R330-7 (M)
-	  - Code de l'aviation civile - art. R330-9 (M)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article R330-17
-
-Dans les territoires d'outre-mer, les infractions définies à l'article R. 330-15 seront punies de la peine d'amende prévue
-par le 4° de l'article 131-13 du code pénal pour les contraventions de la quatrième classe autant de fois qu'il est prévu à
-l'article R. 330-16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code pénal - art. 131-13 (M)
-	  - Code de l'aviation civile - art. R330-15 (M)
-	  - Code de l'aviation civile - art. R330-16 (Ab)
 
 
 ### TITRE IV : SOCIETE AIR FRANCE.
