@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1980-11-21
+Version Consolidée au 1981-08-19
 
 # Partie législative
 
@@ -8212,6 +8212,63 @@ Ces droits pourront être exercés par les personnes privées éventuellement ch
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R243-1
+
+
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.
+
+###### Article R244-1
+
+A l'extérieur des zones grevées de servitudes de dégagement en application du présent titre, l'établissement de certaines
+installations qui, en raison de leur hauteur, pourraient constituer des obstacles à la navigation aérienne est soumis à une
+autorisation spéciale du ministre chargé de l'aviation civile et du ministre chargé des armées. (1)
+
+Des arrêtés ministériels déterminent les installations soumises à autorisation.
+
+L'autorisation peut être subordonnée à l'observation de conditions particulières d'implantation, de hauteur ou de balisage
+suivant les besoins de la navigation aérienne dans la région intéressée.
+
+Lorsque les installations en cause ainsi que les installations visées par la loi du 15 juin 1906 sur les distributions
+d'énergie qui existent à la date du 8 janvier 1959 constituent des obstacles à la navigation aérienne, leur suppression ou
+leur modification peut être ordonnée par décret pris après avis de la commission visée à l'article R. 242-1 (2).
+
+Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables (2).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-92 1959-01-03 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 1980-11-17 art. 7-X JORF 17 novembre 1980
+	  - Décret n°81-788 1981-08-12 art. 7 JORF 19 août 1981
+
+	**Cité par**:
+
+	  - Arrêté du 25 juillet 1990 - art. 2 (V)
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+	  - Arrêté du 13 novembre 2009 - art. 1 (V)
+	  - Arrêté du 26 août 2011 - art. 11 (V)
+	  - Code de justice administrative - art. R311-4 (VD)
+	  - Code de l'aviation civile - art. D244-1 (Ab)
+	  - Code de l'aviation civile - art. D244-4 (V)
+	  - Code de l'aviation civile - art. R243-2 (VT)
+	  - Code de l'urbanisme - art. II (M)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+	  - Code de l'urbanisme - art. R*421-38-13 (Ab)
+	  - Code de l'urbanisme - art. R*425-9 (V)
+	  - Code de l'urbanisme - art. R*431-36 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R242-1 (M)
+	  - Code de l'aviation civile - art. R242-3 (M)
+	  - Loi n°1906-06-15
 
 
 #### CHAPITRE V : TERRAINS RESERVES.
