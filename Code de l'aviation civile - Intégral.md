@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-07-21
+Version Consolidée au 1991-03-09
 
 # Partie législative
 
@@ -6359,8 +6359,10 @@ au-dessus d'une agglomération ou de la partie d'un aérodrome ouverte au public
 
 ###### Article R131-3
 
-Les évolutions des aéronefs constituant des spectacles publics ne peuvent avoir lieu qu'avec autorisation donnée par le
-préfet, après avis du maire.
+Les évolutions des aéronefs constituant des spectacles publics sont soumises à une autorisation préalable donnée par le
+préfet, après avis du maire. Un arrêté conjoint du ministre chargé de l'aviation civile, du ministre de l'intérieur et du
+ministre de la défense détermine les conditions de nature à assurer la sécurité de ces manifestations ; il fixe également les
+modalités de délivrance de l'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -6373,6 +6375,10 @@ préfet, après avis du maire.
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 1 () JORF 9 mars 1991
+
 	**Cité par**:
 
 	  - Arrêté du 4 avril 1996 - art. 1 (V)
@@ -6383,9 +6389,9 @@ préfet, après avis du maire.
 	  - Code de l'aviation civile - art. R151-1 (V)
 	  - Code de l'environnement - art. R414-19 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°70-891 1970-09-25 art. 1 JORF 2 octobre 1970
+	  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 13
 
 
 ###### Article R131-4
@@ -6677,6 +6683,46 @@ b) Soit d'un laissez-passer provisoire assorti de toutes restrictions jugées ut
 	  - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 3 (Ab)
 
 
+###### Article R133-2-1
+
+Doivent se trouver à bord ceux des documents suivants qui sont exigés, en fonction du type d'aéronef et de la nature du vol,
+par les arrêtés prévus au d de l'article R. 133-3 :
+
+- le certificat d'immatriculation ;
+
+- le document de navigabilité ;
+
+- le certificat de limitation de nuisances ;
+
+- les licences ou certificats de l'équipage ;
+
+- le carnet de route ;
+
+- le manuel d'exploitation ;
+
+- la licence de station d'aéronef ;
+
+- le certificat d'exploitation de l'installation radioélectrique de bord ;
+
+- la liste nominative des passagers ;
+
+- le manifeste du fret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30 JORF 9 avril 1967)
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 2 () JORF 9 mars 1991
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R133-5 (M)
+
+
 ###### Article R133-3
 
 Des arrêtés du ministre chargé de l'aviation civile fixent :
@@ -6688,13 +6734,17 @@ b) Les conditions du maintien de l'aptitude au vol et de son contrôle ;
 
 c) Les règles d'utilisation des aéronefs mentionnées à l'article R. 133-1 (1°, c) et du contrôle y afférent ;
 
-d) Les documents relatifs à la navigabilité et aux limitations de nuisances qui doivent être emportés à bord de l'aéronef.
+d) La liste et le contenu des documents de bord déterminés en fonction des types d'aéronefs et de la nature des vols.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 2 () JORF 9 mars 1991
 
 	**Cité par**:
 
@@ -6705,11 +6755,6 @@ d) Les documents relatifs à la navigabilité et aux limitations de nuisances qu
 
 	  - Code de l'aviation civile - art. R133-1 (M)
 	  - Code de l'aviation civile - art. R133-2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
-	  - Décret n°84-459 1984-06-14 art. 2 JORF 17 juin 1984 en vigueur le 1er avril 1984
 
 
 ###### Article R133-4
@@ -7346,26 +7391,20 @@ tenu informé.
 
 ###### Article R151-1
 
-Sont punis d'une amende de 3 000 F à 6 000 F [*(1)*] inclusivement et peuvent l'être en outre d'un emprisonnement de dix
-jours  à un mois :
+Seront punis des peines applicables aux contraventions de la 5e classe :
 
-1° Le pilote qui n'a pas tenu un quelconque des livres de bord ;
+" 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de l'aéronef lorsque ce document est exigé par la
+réglementation en vigueur ;
 
-2° Le propriétaire qui a omis de conserver un quelconque des livres de bord pendant les trois ans à partir de la dernière
+" 2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef pendant les trois ans qui suivent la dernière
 inscription ;
 
-3° Ceux qui ont contrevenu à l'article R. 131-3 ainsi qu'aux textes pris pour son application ;
+" 3° Ceux qui auront contrevenu aux articles R. 131-1 et R. 131-2 ;
 
-4° Ceux qui ont contrevenu aux articles R. 131-1 et R. 131-2 ;
+" 4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront pas obtenu l'autorisation requise par
+l'article R. 131-3 et les pilotes qui auront participé à ces manifestations ;
 
-5° Ceux qui ont contrevenu à l'article R. 133-12. (3)
-
-En cas de récidive la peine d'emprisonnement prévue par l'article R. 37 du code pénal est prononcée (2).
-
-**Nota:**
-
-[*(1) Taux résultant du décret 89-989 1989-12-29 art. 1er*] (2) l'article R. 37 du code pénal a été abrogé par le décret
-85-956 du 11 septembre 1985 art. 1er.
+" 5° Ceux qui auront contrevenu à l'article R. 133-12. "
 
 **Liens relatifs à cet article**
 
@@ -7378,10 +7417,13 @@ En cas de récidive la peine d'emprisonnement prévue par l'article R. 37 du cod
 
 	  - Décret n°67-334 1967-03-30
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 13
+
 	**Modifié par**:
 
-	  - Décret n°82-171 1982-02-16 art. 2 JORF 20 février 1982
-	  - Décret n°84-459 1984-06-14 art. 6 JORF 17 juin 1984 en vigueur le 1er avril 1984
+	  - Décret n°91-262 du 4 mars 1991 - art. 3 () JORF 9 mars 1991
 
 	**Cité par**:
 
@@ -7389,40 +7431,10 @@ En cas de récidive la peine d'emprisonnement prévue par l'article R. 37 du cod
 
 	**Cite**:
 
-	  - Code pénal R37
 	  - Code de l'aviation civile - art. R131-1 (V)
 	  - Code de l'aviation civile - art. R131-2 (V)
 	  - Code de l'aviation civile - art. R131-3 (M)
 	  - Code de l'aviation civile - art. R133-12 (Ab)
-
-
-###### Article R151-2
-
-Le propriétaire ou l'exploitant qui met ou laisse en service un aéronef en contravention avec l'article R. 133-1 (1°, b et
-c), les textes pris pour son application et les arrêtés pris pour l'application du 3° du même article est puni des peines
-prévues à l'article R. 40 du code pénal.
-
-Tout pilote qui utilise un aéronef en contravention avec l'article R. 133-1 (1°, b et c), les textes pris pour son
-application et les arrêtés pris pour l'application du 3° du même article est passible des mêmes peines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°91-262 du 4 mars 1991 - art. 3 () JORF 9 mars 1991
-
-	**Cite**:
-
-	  - Code pénal R40
-	  - Code de l'aviation civile - art. R133-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°84-459 1984-06-14 art. 7 JORF 17 juin 1984 en vigueur le 1er avril 1984
 
 
 ###### Article R151-3
@@ -7460,12 +7472,8 @@ Toute contravention à l'article R. 142-1 est punie des peines prévues à l'art
 
 ###### Article R151-4
 
-Toute infraction aux dispositions des articles R. 142-2 (alinéas 1 à 3) et R. 142-3 sera punie d'une amende de 3000 F à 6 000
-F. En cas de récidive, l'amende sera de 6 000 F à 12 000 F [*(1)*].
-
-**Nota:**
-
-[*(1) Taux résultant du décret 89-989 du 29 décembre 1989*]
+Toute infraction aux dispositions des articles R. 142-2 et R. 142-3 sera punie des peines prévues pour les contraventions de
+la 4° classe.
 
 **Liens relatifs à cet article**
 
@@ -7473,10 +7481,13 @@ F. En cas de récidive, l'amende sera de 6 000 F à 12 000 F [*(1)*].
 
 	  - Décret n°67-334 1967-03-30
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 13
+
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 3 () JORF 21 novembre 1980
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°91-262 du 4 mars 1991 - art. 4 () JORF 9 mars 1991
 
 	**Cité par**:
 
@@ -7486,6 +7497,137 @@ F. En cas de récidive, l'amende sera de 6 000 F à 12 000 F [*(1)*].
 
 	  - Code de l'aviation civile - art. R142-2 (Ab)
 	  - Code de l'aviation civile - art. R142-3 (Ab)
+
+
+###### Article R151-5
+
+La commission prévue par l'article L. 150-13 est délivrée par le ministre chargé de l'aviation civile.
+
+Elle mentionne l'objet du commissionnement et la circonscription géographique dans laquelle l'agent commissionné a vocation,
+en raison de son affectation, à constater les infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+
+	**Cité par**:
+
+	  - Décret n°2000-1114 du 16 novembre 2000 - art. 1 (V)
+	  - Code de l'aviation civile - art. R151-6 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L150-13 (M)
+
+
+###### Article R151-6
+
+Les agents commissionnés en application de l'article R. 151-5 prêtent serment devant le tribunal de grande instance de leur
+résidence administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R151-5 (M)
+
+
+###### Article R151-7
+
+La formule du serment est la suivante :
+
+"Je jure de procéder avec exactitude et probité, dans les limites des lois et règlements en vigueur, à la constatation des
+infractions au livre Ier du code de l'aviation civile et aux décrets pris pour son application.
+
+"Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
+fonctions".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+
+
+###### Article R151-8
+
+I.-La proposition de transaction prévue à l'article L. 150-16-1 est faite, lorsque l'infraction a été commise dans sa
+circonscription territoriale : 
+
+1° Par le directeur régional de l'aviation civile, en métropole ou dans les départements du groupe Antilles-Guyane ; 
+
+2° Par le chef du service de l'aviation civile de la Réunion, de Mayotte et des îles Eparses ; 
+
+3° Par le chef du service de l'aviation civile dans l'archipel de Saint-Pierre-et-Miquelon ; 
+
+4° Par le chef du service d'Etat de l'aviation civile dans les territoires d'outre-mer. 
+
+II.-La proposition de transaction est adressée au procureur de la République dans le délai de quatre mois à compter de la
+clôture du procès-verbal. 
+
+Cette proposition précise la somme que l'auteur de l'infraction sera invité à payer au Trésor public ainsi que le délai
+correspondant. Elle rappelle le cas échéant les mesures imposées en application notamment des articles R. 133-3 et R. 330-4
+par les autorités chargées du contrôle technique. 
+
+III.-Lorsque le procureur de la République a donné son accord sur la proposition de transaction, l'autorité mentionnée au I
+ci-dessus la notifie en double exemplaire à l'auteur de l'infraction. Ce dernier dispose d'un mois pour l'accepter et, en ce
+cas, retourner un exemplaire signé de la proposition. 
+
+IV.-L'action publique est éteinte lorsque l'auteur de l'infraction a payé la somme fixée dans le délai imparti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L150-16-1 (V)
+	  - Code de l'aviation civile - art. R133-3 (V)
+	  - Code de l'aviation civile - art. R330-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R330-18 (V)
 
 
 ## LIVRE II : AERODROMES.
@@ -7701,6 +7843,56 @@ les conditions définies par le présent chapitre.
 	**Créé par**:
 
 	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+
+##### Section 2 : Police de la conservation
+
+###### Article R213-1-1
+
+Sans préjudice des compétences reconnues aux officiers et agents de police judiciaire, ainsi qu'aux agents mentionnés à
+l'article 2 de la loi du 29 floréal an X, les contraventions de grande voirie sur les aérodromes peuvent être constatées par
+les ingénieurs de l'aviation civile et les ingénieurs des études et de l'exploitation de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 6 () JORF 9 mars 1991
+
+	**Cité par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 13 (V)
+	  - Arrêté du 29 août 2007 - art. 1 (Ab)
+	  - Code de l'aviation civile - art. R213-1-2 (V)
+	  - Code de l'aviation civile - art. R213-1-3 (V)
+	  - Code de l'aviation civile - art. R213-1-4 (V)
+	  - Code de l'aviation civile - art. R213-10 (VT)
+	  - Code de l'aviation civile - art. R213-12 (VT)
+	  - Code de l'aviation civile - art. R213-14 (Ab)
+	  - Code de l'aviation civile - art. R213-3 (V)
+	  - Code de l'aviation civile - art. R213-3-3 (V)
+	  - Code de l'aviation civile - art. R213-4 (Ab)
+	  - Code de l'aviation civile - art. R213-6-1 (V)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R217-3 (V)
+	  - Code de l'aviation civile - art. R217-3-3 (V)
+	  - Code de l'aviation civile - art. R321-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'aviation civile - art. R213-1-5 (V)
+
+	**Cite**:
+
+	  - Loi n°29 floréal an X art. 2
 
 
 ##### Section 3 : Police de l'exploitation
@@ -10383,23 +10575,103 @@ L'aéroport de Bâle-Mulhouse est admis au bénéfice des dispositions prévues 
 
 ### TITRE VIII : DISPOSITIONS PENALES
 
+#### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.
+
+###### Article R281-1
+
+La commission prévue par l'article L. 281-4 est délivrée par le ministre chargé de l'aviation civile ou, pour les aérodromes
+ou itinéraires qui le concernent, par le ministre de la défense.
+
+Elle mentionne l'objet du commissionnement et la circonscription géographique dans laquelle l'agent commissionné a vocation,
+en raison de son affectation, à constater les infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 7 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L281-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R281-2 (V)
+
+
+###### Article R281-2
+
+Les agents commissionnés en application de l'article R. 281-1 prêtent serment devant le tribunal de grande instance de leur
+résidence administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 7 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R281-1 (V)
+
+
+###### Article R281-3
+
+La formule du serment est la suivante :
+
+"Je jure de procéder avec exactitude et probité, dans la limite des lois et réglements en vigueur, à la constatation des
+infractions mentionnées à l'article L. 281-1 du code de l'aviation civile".
+
+"Je jure également de ne rien révéler ou utiliser de ce qui se ra porté à ma connaissance à l'occasion de l'exercice de mes
+fonctions."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 7 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L281-1 (M)
+
+
 #### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
 
 ###### Article R282-1
 
-Sans préjudice de l'application des dispositions régissant le cas de contraventions de grande voirie, ceux qui ont contrevenu
-aux dispositions de l'arrêté préfectoral réglementant les conditions d'exploitation de l'aérodrome sont punis d'une amende :
+Sans préjudice de l'application de dispositions régissant le cas des contraventions de grande voirie, ceux qui auront
+contrevenu aux dispositions de l'arrêté préfectoral réglementant les conditions d'exploitation de l'aérodrome seront punis :
 
-De 1300 à 3000 F, lorsque l'infraction aura été commise dans un secteur accessible aux aéronefs ;
+" 1° De l'amende prévue pour les contraventions de la 4e classe, lorsque l'infraction aura été commise dans une zone non
+librement accessible au public ;
 
-De 600 à 1300 F [*(1)*] dans les autres cas. 
-
-En cas de récidive, il peut être prononcé au maximum une peine d'emprisonnement de dix jours au plus dans le premier cas et
-de huit jours au plus dans le second.
-
-**Nota:**
-
-[* (1) Taux résultant du décret 89-989 1989-12-29*].
+" 2° De l'amende prévue pour les contraventions de la 3e classe dans les autres cas. "
 
 **Liens relatifs à cet article**
 
@@ -10409,15 +10681,101 @@ de huit jours au plus dans le second.
 
 	**Modifié par**:
 
-	  - Décret n°74-77 1974-02-01 art. 2 JORF 2 février 1974
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur 1er janvier 1990
+	  - Décret n°91-262 du 4 mars 1991 - art. 8 () JORF 9 mars 1991
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R282-1-1 (V)
 	  - Code de l'aviation civile - art. R282-2 (V)
 	  - Code de l'aviation civile - art. R282-4 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 13
+
+
+###### Article R282-2
+
+Pour la constatation des infractions aux dispositions des arrêtés préfectoraux pris en application des articles R. 213-4 et
+R. 213-6, l'habilitation prévue à l'article L. 282-11 est prononcée par le ministre chargé de l'aviation civile. Elle
+mentionne son objet et la circonscription géographique dans laquelle l'agent habilité a vocation, en raison de son
+affectation, à constater ces infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 9 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-11 (V)
+	  - Code de l'aviation civile - art. R213-4 (M)
+	  - Code de l'aviation civile - art. R213-6 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R282-1 (V)
+	  - Code de l'aviation civile - art. R282-1-2 (V)
+
+
+###### Article R282-3
+
+Les agents habilités en application de l'article R. 282-2 prêtent serment devant le tribunal de grande instance de leur
+résidence administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 9 () JORF 9 mars 1991
+
+
+###### Article R282-4
+
+La formule du serment est la suivante :
+
+"Je jure de procéder avec exactitude et probité, dans la limite de lois et règlements en vigueur, à la constatation des
+infractions aux dispositions des arrêtés préfectoraux réglementant les conditions d'exploitation des aérodromes".
+
+"Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
+fonctions".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
+
+	**Créé par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 9 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-11 (V)
+	  - Code de l'aviation civile - art. R213-4 (M)
+	  - Code de l'aviation civile - art. R213-6 (M)
 
 
 ## LIVRE III : TRANSPORT AERIEN
@@ -11327,39 +11685,24 @@ compagnie nationale.
 
 ###### Article R342-2
 
-Les dispositions du livre IV, titre III, du code du travail, relatives aux comités d'entreprise, (1) sont applicables à la
-Compagnie nationale Air France, sous réserve des dispositions ci-après.
+Pour leur application à la Compagnie nationale Air France, les dispositions du titre III du livre IV du code du travail font
+l'objet des adaptations ci-dessous :
 
-En vue d'assurer la participation des représentants du personnel navigant professionnel d'Air France aux travaux des comités
-d'établissement et du comité d'entreprise, les représentants du personnel dans ces comités sont élus :
+" I. - Les représentants du personnel aux comités d'établissement sont élus dans les conditions fixées par l'article L. 433-2
+du code du travail :
 
-1° Par les ouvriers et employés ;
+" 1. Par les ouvriers et employés ;
 
-2° Par les ingénieurs, chefs de service, agents de maîtrise et assimilés ;
+" 2. Par les ingénieurs, chefs de service, techniciens, agents de maîtrise et assimilés ;
 
-3° Par les personnels navigants professionnels,
+" 3. Par les personnels navigants professionnels.
 
-sur des listes établies par les organisations syndicales les plus représentatives pour chacune de ces catégories de
-personnels.
-
-La répartition des sièges dans les comités d'établissements entre les différentes catégories et la répartition du personnel
-dans les collèges électoraux feront l'objet d'un accord entre la direction et les organisations syndicales intéressées. Dans
-les cas où cet accord s'avérera impossible, la répartition sera faite par décision de l'inspecteur régional du travail et de
-la main-d'oeuvre des transports chargé des transports aériens.
-
-Le comité central d'entreprise sera composé de délégués élus des comités d'établissements à raison de un ou deux délégués et
-d'un nombre égal de suppléants pour chaque établissement. Toutefois, les établissements dans lesquels il existe un collège de
-personnels navigants pourront avoir plus de deux délégués au comité central d'entreprise soit par voie d'accord entre la
-direction et les organisations syndicales intéressées, soit, à défaut, par décision de l'inspecteur régional du travail et de
-la main- d'oeuvre des transports chargé des transports aériens.
-
-Les personnels navigants disposeront de deux sièges au comité central d'entreprise.
-
-Le nombre total des membres titulaires de ce comité central ne pourra excéder quatorze.
-
-La répartition des sièges au comité central d'entreprise entre les différents établissements et les différentes catégories,
-et notamment la répartition entre les différentes spécialités de navigants des deux sièges réservés aux personnels navigants,
-se fera suivant les modalités prévues ci-dessus pour la répartition des sièges dans les comités d'établissements.
+" II. - Le nombre total des membres du comité central d'entreprise est déterminé comme il est dit à l'article D. 435-1 du
+code du travail. Le collège du personnel navigant professionnel est représenté au sein de ce comité par trois délégués
+titulaires et trois délégués suppléants. La répartition de ces sièges entre les différentes spécialités de navigants fait
+l'objet d'un accord entre la compagnie et les organisations syndicales représentatives ; à défaut, l'inspection du travail
+des transports décide de cette répartition. Pour permettre cette représentation, chaque établissement dans lequel il existe
+un collège de personnels navigants peut être représenté par plus de deux délégués. "
 
 **Liens relatifs à cet article**
 
@@ -11373,7 +11716,16 @@ se fera suivant les modalités prévues ci-dessus pour la répartition des sièg
 
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+	  - Décret n°91-262 du 4 mars 1991 - art. 11 () JORF 9 mars 1991
+
+	**Cite**:
+
+	  - Code du travail - art. D435-1 (M)
+	  - Code du travail - art. L433-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 14
 
 
 ###### Article R342-3
@@ -14525,18 +14877,15 @@ l'année à laquelle correspond le traitement retenu pour l'assiette.
 
 ###### Article R427-1
 
-Par dérogation aux dispositions de l'article R. 261-3 du code du travail, sera puni d'une amende de 3 000 F à 6 000 F [*(1)*]
-tout employeur qui, en ce qui concerne le personnel navigant, aura contrevenu aux dispositions des articles L. 212-1 et R.
-212-1 à R. 212-11 de ce code.
+" Sera puni de l'amende prévue pour les contraventions de la 5e classe tout employeur qui, en ce qui concerne le personnel
+navigant, aura contrevenu aux dispositions de l'article L. 212-1 du code du travail et des décrets mentionnés à l'article L.
+212-2 du même code. Les contraventions donneront lieu à autant d'amendes qu'il y aura de navigants employés en méconnaissance
+des dispositions précitées."
 
 Toute infraction à la réglementation relative à la durée du travail du personnel navigant entraîne le retrait de la licence
 du contrevenant, qui est prononcé par le ministre chargé de l'aviation civile en ce qui concerne les catégories Transport
 aérien et Travail aérien, et par le ministre des armées en ce qui concerne le personnel de catégorie Essais et receptions,
 pour une durée qui ne pourra être inférieure à quinze jours ni supérieure à deux mois.
-
-**Nota:**
-
-[*(1) taux résultant du décret 89-989 1989-12-29*]
 
 **Liens relatifs à cet article**
 
@@ -14551,12 +14900,12 @@ pour une durée qui ne pourra être inférieure à quinze jours ni supérieure �
 
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°91-262 du 4 mars 1991 - art. 12 () JORF 9 mars 1991
 
 	**Cite**:
 
-	  - Code de l'aviation civile L212-1, R212-1, R212-11, R261-3
+	  - Code du travail - art. L212-1 (M)
+	  - Code du travail - art. L212-2 (M)
 
 
 #### CHAPITRE VIII : DISPOSITIONS COMMUNES.
