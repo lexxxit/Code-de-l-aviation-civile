@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1978-04-06
 
 # Partie législative
 
@@ -14636,6 +14636,37 @@ navigant professionnel apte à exercer ses fonctions jusqu'à la décision du co
 	  - Décret n°72-444 1972-05-26 art. 1 JORF 1er juin 1972
 
 
+###### Article D424-4
+
+Les membres du conseil médical sont convoqués individuellement à chaque séance par le président.
+
+En cas d'absence ou d'empêchement, le président est remplacé par le vice président.
+
+Le conseil ne peut valablement délibérer que si cinq au moins de ses membres à voix délibérative sont présents, compte tenu
+des cas d'incompatibilité prévus à l'alinéa ci-après.
+
+Les membres du conseil ne peuvent prendre part aux délibérations portant sur l'examen des cas individuels dont ils ont déjà
+eu à connaître à l'occasion de leur activité extérieure au conseil.
+
+Les délibérations ont lieu à huis clos. Les décisions et avis sont prononcés à la majorité des voix. En cas de partage égal
+des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-1348 1955-10-05 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°72-444 1972-05-26 art. 3 JORF 1er juin 1972
+	  - Décret n°78-513 1978-04-04 art. 2 JORF 6 avril 1978
+
+
 ###### Article D424-5
 
 Le président du conseil médical peut appeler à siéger au conseil, avec voix consultative, des personnalités qu'il juge
@@ -14685,6 +14716,38 @@ devant le conseil par un médecin de leur choix.
 	**Cite**:
 
 	  - Code de l'aviation civile - art. D424-2 (M)
+
+
+###### Article D424-7
+
+Le secrétariat du conseil médical de l'aéronautique civile est assuré par le bureau médical du personnel navigant. Les
+affaires mentionnées au second alinéa de l'article D. 424-2 seront rapportées par le chef du bureau médical qui est docteur
+en médecine et possède une compétence en médecine aéronautique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-1348 1955-10-05 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°78-513 1978-04-04 art. 3 JORF 6 avril 1978
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2008 - art. 15 (Ab)
+	  - Arrêté du 13 octobre 2014 - art. 15 (Ab)
+	  - Arrêté du 7 décembre 2015 - art. 17 (V)
+	  - Code de l'aviation civile - art. D424-6 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D424-2 (V)
 
 
 ### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL
