@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2001-06-22
+Version Consolidée au 2001-07-01
 
 # Partie législative
 
@@ -23381,6 +23381,541 @@ l'objet d'avis aux navigateurs aériens.
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
+
+##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs
+
+###### Article D213-1
+
+Le service de sauvetage et de lutte contre l'incendie des aéronefs a pour objet principal de sauver des vies humaines en cas
+d'accident ou d'incident d'aéronef par la mise en place, sur les aérodromes visés aux articles R. 221-1 et D. 232-1 où le
+préfet exerce le pouvoir de police, de moyens et d'une organisation adaptés au niveau de protection requis. 
+
+Les dispositions établies par les articles D. 213-1-1 à D. 213-1-12 ne s'appliquent pas aux aérodromes réservés aux
+hélicoptères.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 18 (V)
+	  - Arrêté du 18 janvier 2007 - art. 1 (V)
+	  - Arrêté du 18 janvier 2007 - art. 18 (V)
+	  - Décret n°2016-1061 du 3 août 2016 (V)
+	  - Code de l'aviation civile - art. D213-1-3 (V)
+	  - Code de l'aviation civile - art. D213-1-9 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-1 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-10 (M)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-11 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-12 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-2 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-3 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-4 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-5 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-6 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-7 (VT)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-8 (V)
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-9 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D213-1-1 (V)
+	  - Code de l'aviation civile - art. D232-1 (V)
+	  - Code de l'aviation civile - art. R221-1 (V)
+
+
+##### Sous-section 1 : Définition des moyens
+
+###### Article D213-1-1
+
+I. - Aux fins de la présente sous-section, on entend par :
+
+a) "Avion", tout aéronef sustenté en vol par des réactions aérodynamiques sur des surfaces restant fixes dans des conditions
+données de vol et entraîné par un ou plusieurs organes moteurs maintenus en fonctionnement, au moins partiellement, dans les
+circonstances normales de vol, à l'exclusion toutefois des aéronefs ultralégers motorisés (dits ULM) répondant à ces
+caractéristiques ;
+
+b) "Mouvement", chaque décollage ou chaque atterrissage d'avion ;
+
+c) "Trois mois consécutifs de plus fort trafic", la période de trois mois durant laquelle l'aérodrome est fréquenté par les
+aéronefs des classes les plus élevées ;
+
+d) "Classe d'avions la plus élevée, A", la classe la plus élevée au regard des principes posés à l'article D. 213-1-2 dont le
+nombre de mouvements d'avions, cumulé avec celui des classes supérieures, dépasse 24 pendant les trois mois consécutifs de
+plus fort trafic sur l'aérodrome ;
+
+e) "Classes supérieures non retenues", les classes d'avions supérieures à la classe d'avions la plus élevée, A ;
+
+f) "Vol régulier", un vol qui présente chacune des caractéristiques suivantes :
+
+- effectué au moyen d'avions destinés à transporter des passagers, du fret ou du courrier, dans des conditions telles que,
+sur chaque vol, des places sont mises à la disposition du public soit directement par le transporteur aérien, soit par ses
+agents agréés ;
+
+- organisé de façon à assurer la liaison entre deux points ou plus :
+
+- soit selon un horaire publié ;
+
+- soit avec une régularité ou une fréquence telle qu'il fait partie d'une série systématique évidente ;
+
+g) "Vol non régulier", un vol qui ne répond pas aux caractéristiques définies au f ci-dessus ;
+
+II. - a) Le ministre chargé de l'aviation civile détermine, après consultation de l'exploitant d'aérodrome, le niveau de
+protection, N, d'un aérodrome, correspondant à la classe d'avions la plus élevée, A.
+
+Toutefois, lorsque le nombre de mouvements des avions relevant de la classe A et des classes supérieures non retenues est
+inférieur à 700 pendant les trois mois consécutifs de plus fort trafic, le niveau N de protection pourra correspondre à A-1.
+
+b) La détermination du nombre de mouvements par classe d'avions tient compte :
+
+- pour les vols réguliers, des mouvements réalisés l'année antérieure pendant les trois mois consécutifs de plus fort
+trafic ;
+
+- pour les vols non réguliers, des mouvements réalisés en moyenne sur les trois dernières années pendant les trois mois
+consécutifs de plus fort trafic ;
+
+Toutefois, si le programme prévisionnel du trafic de l'aérodrome laisse apparaître des modifications substantielles dans la
+répartition des avions par classe, il est tenu compte du nombre de mouvements par classe prévu par le programme précité
+pendant les trois mois consécutifs de plus fort trafic.
+
+III. - Les aérodromes qui ne justifient pas un classement dans un niveau ont par défaut un niveau de protection 1. De même,
+lorsqu'un aérodrome de niveau de protection 1 est fréquenté par des avions de classe supérieure assurant des vols réguliers,
+sa protection est de niveau 2.
+
+IV. - Le niveau de protection et ses éventuelles modulations programmées en fonction des variations de trafic sur l'aérodrome
+sont publiés au Journal officiel de la République française et font l'objet d'un avis aux navigateurs aériens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 4 (V)
+	  - Arrêté du 18 janvier 2007 - art. 3 (VD)
+	  - Arrêté du 18 janvier 2007 - art. 4 (V)
+	  - Arrêté du 18 août 2010 - art. 1 (V)
+	  - Code de l'aviation civile - art. D213-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D213-1-2 (V)
+
+
+###### Article D213-1-2
+
+Les classes d'avions permettant de déterminer les classes A et A-1 visées à l'article D. 213-1-1 sont au nombre de 10 et
+regroupent par ordre croissant les avions en fonction de leur longueur hors tout et de la largeur de leur fuselage. Ces
+classes sont déterminées par arrêté du ministre chargé de l'aviation civile. Ce dernier peut tenir compte des conditions
+d'utilisation d'un avion pour le classer dans une catégorie inférieure ou supérieure à sa dimension réelle. La longueur hors
+tout prise en compte ne peut toutefois être inférieure au tiers de la dimension réelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 1 (V)
+	  - Arrêté du 9 janvier 2001 - art. 2 (V)
+	  - Arrêté du 18 janvier 2007 - art. 2 (V)
+	  - Code de l'aviation civile - art. D213-1-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-3
+
+Le service de sauvetage et de lutte contre l'incendie des aéronefs est doté sur chaque aérodrome d'infrastructures, de moyens
+en personnel, en produits extincteurs, en véhicules de lutte contre l'incendie et en matériels divers permettant d'atteindre
+l'objet prévu à l'article D. 213-1 au regard du niveau de protection de la plate-forme.
+
+Ces infrastructures et moyens sont définis par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé
+de la sécurité civile et sont adaptés aux circonstances dans lesquelles le service intervient telles que la configuration
+géographique de l'aérodrome et les variations de trafic des aéronefs durant l'année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 1 (V)
+	  - Arrêté du 9 janvier 2001 - art. 3 (V)
+	  - Arrêté du 9 janvier 2001 - art. 5 (V)
+	  - Arrêté du 9 janvier 2001 - art. ANNEXE 1 (V)
+	  - Arrêté du 18 janvier 2007 - art. 3 (VD)
+	  - Arrêté du 18 janvier 2007 - art. 5 (V)
+	  - Arrêté du 18 janvier 2007 - art. Annexe I (VD)
+	  - Arrêté du 3 août 2016 - art.
+	  - Arrêté du 3 août 2016 - art. 1
+	  - Code de l'aviation civile - art. D213-1-4 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D213-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+##### Sous-section 2 : Organisation du service
+
+##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs
+
+###### Article D213-1-4
+
+Les fonctions d'encadrement du service de sauvetage et de lutte contre l'incendie des aéronefs sont exercées par un
+responsable du service de sauvetage et de lutte contre l'incendie des aéronefs, chargé :
+
+- d'encadrer et de veiller au maintien en état opérationnel d'intervention des moyens dont est doté l'aérodrome en
+application de l'article D. 213-1-3 ;
+
+- de veiller à l'application des consignes opérationnelles prévues à l'article D. 213-1-9 ;
+
+- de rédiger et transmettre les comptes rendus ;
+
+- de proposer diverses mesures relatives aux procédures d'intervention des moyens du service et à leur coordination avec ceux
+susceptibles d'être fournis par d'autres personnes dans le cadre des dispositions fixées par le plan de secours spécialisé de
+l'aérodrome. 
+
+En outre, sur les aérodromes ayant un niveau de protection supérieur ou égal à 6, un ou plusieurs chefs de manoeuvre, placés
+sous les ordres du responsable du service, sont chargés de conduire et diriger sur le lieu d'intervention les pompiers
+d'aérodrome.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 27 (V)
+	  - Arrêté du 18 janvier 2007 - art. 27 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D213-1-3 (V)
+	  - Code de l'aviation civile - art. D213-1-9 (V)
+
+
+###### Article D213-1-5
+
+Les fonctions d'exécution du service de sauvetage et de lutte contre l'incendie des aéronefs sont exercées par des pompiers
+d'aérodrome chargés de mettre en oeuvre le matériel mis à leur disposition, d'intervenir conformément aux consignes établies
+et d'assurer toutes tâches visant à améliorer la sécurité des personnes et des biens, à prévenir les incendies ou accidents
+d'aéronefs et à assurer le sauvetage, l'évacuation et la dispense des premiers secours aux personnes accidentées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 27 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-6
+
+L'exercice, sur un aérodrome déterminé, des fonctions de chef de manoeuvre, de pompier d'aérodrome et, sur les aérodromes
+ayant un niveau de protection supérieur ou égal à 6, de responsable du service de sauvetage et de lutte contre l'incendie des
+aéronefs est soumis à l'obtention d'un agrément délivré par le préfet exerçant les pouvoirs de police sur cet aérodrome.
+
+Les conditions d'octroi, de maintien, de retrait et de suspension de l'agrément sont définies par arrêté conjoint du ministre
+chargé de l'aviation civile et du ministre chargé de la sécurité civile, compte tenu notamment des fonctions devant être
+exercées, du niveau de protection de l'aérodrome où doit s'exercer l'activité et des compétences techniques exigées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 10 (V)
+	  - Arrêté du 9 janvier 2001 - art. 11 (V)
+	  - Arrêté du 9 janvier 2001 - art. 6 (V)
+	  - Arrêté du 9 janvier 2001 - art. 8 (V)
+	  - Arrêté du 9 janvier 2001 - art. 9 (V)
+	  - Arrêté du 18 janvier 2007 - art. 10 (V)
+	  - Arrêté du 18 janvier 2007 - art. 10 ter (M)
+	  - Arrêté du 18 janvier 2007 - art. 11 (V)
+	  - Arrêté du 18 janvier 2007 - art. 6 (V)
+	  - Arrêté du 18 janvier 2007 - art. 8 (V)
+	  - Arrêté du 18 janvier 2007 - art. 9 (V)
+	  - Arrêté du 17 août 2010 - art. 2 (V)
+	  - Arrêté du 17 août 2010 - art. 5 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Arrêté du 22 décembre 2015 - art. 2
+	  - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
+	  - Arrêté du 3 mai 2017 - art. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs
+
+###### Article D213-1-7
+
+Le ministre chargé de l'aviation civile et le ministre chargé de la sécurité civile déterminent par arrêté conjoint les
+règles techniques relatives aux produits extincteurs, véhicules et équipements affectés sur un aérodrome au service de
+sauvetage et de lutte contre l'incendie des aéronefs, ainsi que les conditions dans lesquelles il est attesté de la
+conformité de ces divers matériels aux règles techniques en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 15 (V)
+	  - Arrêté du 18 janvier 2007 - art. 15 (VT)
+	  - Arrêté du 17 août 2010 - art. 4 (V)
+	  - Arrêté du 12 juillet 2012 - art. (VT)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Décret n°2016-1061 du 3 août 2016 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1061 du 3 août 2016 - art. 1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-8
+
+Les postes d'incendie affectés sur un aérodrome au service de sauvetage et de lutte contre l'incendie des aéronefs font
+l'objet de prescriptions techniques définies par arrêté conjoint du ministre chargé de l'aviation civile et du ministre
+chargé de la sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+##### 3. Règles d'intervention
+
+###### Article D213-1-9
+
+Sur chaque aérodrome, l'exploitant d'aérodrome ou l'organisme auquel il a confié l'exécution du service établit, suivant des
+règles et un modèle type définis par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la
+sécurité civile, des consignes opérationnelles permettant d'atteindre l'objet prévu à l'article D. 213-1. 
+
+Les consignes opérationnelles fixent notamment :
+
+- les modalités d'intervention des divers moyens selon les circonstances en présence et le niveau de protection de
+l'aérodrome ;
+
+- les conditions dans lesquelles il est rendu compte du fonctionnement du service ;
+
+- les conditions de maintenance et d'entretien des matériels et infrastructures du service. 
+
+Ces consignes et leurs éventuelles modifications sont communiquées sans délai au préfet exerçant les pouvoirs de police sur
+l'aérodrome concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 30 (V)
+	  - Arrêté du 18 janvier 2007 - art. 30 (V)
+	  - Code de l'aviation civile - art. D213-1-10 (V)
+	  - Code de l'aviation civile - art. D213-1-14 (V)
+	  - Code de l'aviation civile - art. D213-1-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D213-1 (V)
+
+
+##### Sous-section 3 : Contrôle de l'Etat
+
+###### Article D213-1-10
+
+Le préfet exerçant les pouvoirs de police sur l'aérodrome contrôle le respect des dispositions du présent chapitre par
+l'exploitant d'aérodrome ou l'organisme auquel il a confié le service.
+
+A cette fin, celui-ci peut :
+
+- obtenir communication des différents comptes rendus établis conformément à l'article D. 213-1-9 ;
+
+- effectuer toute visite dans l'enceinte aéroportuaire et obtenir communication de toute pièce justifiant le respect de la
+réglementation en vigueur par l'exploitant ou l'organisme auquel il a confié le service, notamment de l'obtention et de la
+validité des divers agréments ;
+
+- recommander les améliorations ou modifications qu'il y a lieu d'apporter dans l'organisation ou le fonctionnement du
+service ;
+
+- prescrire les mesures nécessaires au respect de la présente réglementation, notamment lors de la communication des
+consignes opérationnelles et de leur modification.
+
+Le contrôle exercé ne dégage pas l'exploitant d'aérodrome ou l'organisme auquel il a confié le service des responsabilités
+qui lui incombent en application de l'article L. 213-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 9 janvier 2001 - art. 30 (V)
+	  - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D213-1-9 (V)
+	  - Code de l'aviation civile - art. L213-3 (M)
+
+
+###### Article D213-1-11
+
+Après mise en demeure restée infructueuse, le préfet peut prendre toute mesure destinée à pallier le non-respect de la
+réglementation du présent chapitre par l'exploitant d'aérodrome, ou l'organisme auquel a été confié le service selon la
+personne responsable du manquement.
+
+A cette fin, le préfet peut notamment faire exécuter d'office le service par des personnels et matériels agréés ou décider la
+cessation totale ou partielle de l'activité aéroportuaire. Ces mesures sont décidées aux frais, risques et périls financiers
+de l'exploitant d'aérodrome.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-12
+
+Pour l'exercice des missions conférées par la présente section, le préfet peut déléguer sa signature au directeur de
+l'aviation civile en métropole, au directeur régional de l'aviation civile Antilles-Guyane en Guadeloupe, Martinique et
+Guyane et au chef du service de l'aviation civile territorialement compétent pour la Réunion et pour la collectivité
+territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
 #### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.
