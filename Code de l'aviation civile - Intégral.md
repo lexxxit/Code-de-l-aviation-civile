@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1980-08-06
+Version Consolidée au 1980-11-17
 
 # Partie législative
 
@@ -7345,6 +7345,81 @@ pour prononcer cette déclaration.
 	  - Code de l'aviation civile - art. R244-1 (V)
 
 
+###### Article R242-2
+
+En cas d'urgence des mesures provisoires de sauvegarde peuvent être prises par arrêté ministériel après enquête publique et
+avis de la commission mentionnée à l'article précédent.
+
+Ces mesures provisoires cessent d'être applicables si, dans un délai de deux ans à compter de cet arrêté, elles n'ont pas été
+reprises dans un plan de dégagement régulièrement approuvé.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 242-2 abrogé par l'article 7 de
+ladite ordonnance, les mots "par arrêté ministériel" et : "et avis de la commission mentionnée à l'article précédent" ; sont
+maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementaires du code des transports.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-92 1959-01-03 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6351-2 (V)
+	  - Code des transports - art. L6351-4 (V)
+
+
+###### Article R242-3
+
+Sont applicables aux servitudes aéronautiques de dégagement les dispositions des articles L. 55 et L. 56 du code des postes
+et télécommunications, l'expropriation prévue à l'article L. 55 ayant lieu conformément aux dispositions du code de
+l'expropriation pour cause d'utilité publique.
+
+Les frais et indemnités qui résultent de l'application de ces dispositions incombent à l'Etat, sous réserve des dispositions
+de l'article R. 221-6 du code de l'aviation civile et des dispositions particulières concernant les aérodromes visés à
+l'article R. 241-2 b.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L55, L56
+	  - Code de l'aviation civile - art. R221-6 (V)
+	  - Code de l'aviation civile - art. R241-2 (M)
+	  - Code de l'aviation civile L55, R221-6, R241-2
+
+	**Anciens textes**:
+
+	  - Décret n°59-92 1959-01-03 art. 13
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 1980-11-17 art. 7-VIII JORF 21 novembre 1980
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R244-1 (V)
+
+
 #### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.
 
 ###### Article R243-1
@@ -7467,6 +7542,46 @@ Ces droits pourront être exercés par les personnes privées éventuellement ch
 
 
 #### CHAPITRE V : TERRAINS RESERVES.
+
+###### Article R245-1
+
+Lorsque, pour les besoins du trafic aérien, l'autorité compétente décide l'extension ou la création d'aérodromes ou
+d'installations destinées à assurer la sécurité de la navigation aérienne, les terrains nécessaires s'ils n'ont pas été
+réservés à cette destination par un plan d'occupation des sols, rendu public ou approuvé, un plan d'urbanisme approuvé ou un
+plan d'aménagement communal ou intercommunal, pris en considération ou approuvé, peuvent être déclarés réservés par décret en
+Conseil d'Etat après enquête publique dans les formes fixée par le code de l'expropriation pour cause d'utilité publique.
+
+Les dispositions de l'article L. 123-9 du code de l'urbanisme sont dans ce cas applicables.
+
+La réserve des terrains peut être complétée par l'institution de servitudes aéronautiques conformément à un plan de
+dégagement établi comme il est dit à l'article R. 241-4 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-92 1959-01-03 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 1980-11-17 art. 7-XI JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-9 (M)
+	  - CODE DE L'AVIATION CIVILE R241-4
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D245-1 (V)
+	  - Code de l'aviation civile - art. D245-2 (V)
+	  - Code de l'urbanisme - art. II (M)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+
 
 ###### Article R245-2
 
