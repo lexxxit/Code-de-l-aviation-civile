@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-02-17
 
 # Partie législative
 
@@ -8733,11 +8733,7 @@ Occupation de terrains et d'immeubles ;
 
 Visite de tout ou partie des zones réservées de l'aérodrome.
 
-Mise en place et fonctionnement des dispositifs destinés à assurer la sûreté des usagers du transport aérien ; ces
-dispositifs comprennent exclusivement ceux qui sont nécessaires pour compléter les moyens dont disposent normalement les
-services chargés de la police en vue d'assurer l'ordre public sur les aérodromes. 
-
-Les redevances doivent être appropriées aux services rendus.
+Les redevances devront être appropriées aux services rendus.
 
 Les redevances revenant à l'Etat, à des collectivités publiques et établissements publics sont perçues par un comptable
 public. 
@@ -8746,11 +8742,6 @@ Elles sont recouvrées selon les règles propres à la collectivité ou à l'ét
 l'Etat, selon les règles prévues en matière de créances domaniales ou en vertu de titres de perception émis par les préfets. 
 
 Lorsque les redevances sont perçues au comptant leur encaissement peut être assuré par un régisseur.
-
-**Nota:**
-
-: Le Conseil d'Etat, statuant au contentieux, a annulé le décret n° 84-28 du 11 janvier 1984 modifiant les articles R224-1 et
-R224-2 du code de l'aviation civile JORF 5 mars 1988.
 
 **Liens relatifs à cet article**
 
@@ -8782,9 +8773,9 @@ R224-2 du code de l'aviation civile JORF 5 mars 1988.
 
 	  - Décret n°67-334 1967-03-30 JORF 9 AVRIL 1967
 
-	**Annulé par**:
+	**Modifié par**:
 
-	  - Conseil d'Etat n°57652 et 57653 1987-11-13
+	  - Décret n°90-149 1990-02-13 art. 1 JORF 17 février 1990
 
 
 ###### Article R224-2
@@ -8800,7 +8791,7 @@ Stationnement des aéronefs de six tonnes et plus ;
 Usage des installations aménagées pour la réception des passagers et des marchandises ;
 
 Installations de distribution de carburants d'aviation, sont déterminées par arrêté interministériel après avis du conseil
-supérieur de l'aviation marchande. 
+supérieur de l'aviation marchande.
 
 B - Les taux de ces redevances sont fixés par une décision prise :
 
@@ -8810,30 +8801,16 @@ Pour les autres aérodromes par l'exploitant ; en ce qui concerne les aérodrome
 économique en application des dispositions du décret susvisé
 
 n° 60-652 du 28 juin 1960, modifié par le décret n° 73-287 du 13 mars 1973, la décision est prise après avis de ladite
-commission. 
+commission.
 
 En l'absence de dispositions législatives contraires, la décision mentionnée à l'alinéa précédent est notifiée aux ministres
 intéressés. Elle prend effet dès son approbation par le ministre des transports et par le ministre de l'économie et des
 finances, ou, à défaut d'approbation expresse, à l'expiration d'un délai de deux mois à compter de sa notification, sauf si,
-dans ce délai, l'un de ces deux ministres y fait opposition. 
+dans ce délai, l'un de ces deux ministres y fait opposition.
 
 C - Les dispositions du présent article ne font pas obstacle, en ce qui concerne la redevance pour installations de
 distribution de carburants d'aviation, à l'application, en dehors des territoires d'outre-mer, de l'article 195 bis du Code
-des douanes, dans la mesure où cette redevance s'applique aux quantités de produits pétroliers distribués. 
-
-D - Par dérogation aux dispositions de l'article R. 224-1, la redevance pour mise en place et fonctionnement des dispositifs
-destinés à assurer la sûreté des usagers du transport aérien est perçue par la collectivité ou l'établissement gestionnaire
-de l'aérodrome selon les règles de recouvrement qui lui sont propres. Les conditions d'établissement et de perception ainsi
-que les taux de cette redevance sont fixés par arrêté ministériel après avis du conseil supérieur de l'aviation marchande.
-Les taux sont établis pour chaque aérodrome ou catégories d'aérodromes en fonction des dépenses qui y sont exposées pour
-assurer la sûreté. Cet arrêté détermine également les conditions de répartition du produit de la redevance entre l'Etat et
-les collectivités ou établissements gestionnaires en fonction des dépenses qu'ils supportent respectivement au titre des
-dispositifs ci-dessus mentionnés.
-
-**Nota:**
-
-: Le Conseil d'Etat, statuant au contentieux, a annulé le décret n° 84-28 du 11 janvier 1984 modifiant les articles R224-1 et
-R224-2 du code de l'aviation civile JORF 5 mars 1988.
+des douanes, dans la mesure où cette redevance s'applique aux quantités de produits pétroliers distribués.
 
 **Liens relatifs à cet article**
 
@@ -8874,15 +8851,15 @@ R224-2 du code de l'aviation civile JORF 5 mars 1988.
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30 JORF 9 AVRIL 1967
+	  - Décret n°67-334 1967-03-30 JORF 9 avril 1967
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°84-29 du 11 janvier 1984 - art. 3 (An)
 
-	**Annulé par**:
+	**Modifié par**:
 
-	  - Conseil d'Etat n°57652 et 57653 1987-11-13
+	  - Décret n°90-149 1990-02-13 art. 1 JORF 17 février 1990
 
 
 ###### Article R224-3
