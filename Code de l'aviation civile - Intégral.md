@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1999-01-27
+Version Consolidée au 1999-02-05
 
 # Partie législative
 
@@ -6843,7 +6843,19 @@ prescrits par le livre IV du présent code.
 
 II. - 1° Un certificat de navigabilité est délivré par le ministre chargé de l'aviation civile pour un aéronef lorsque :
 
-a) Le postulant a démontré la conformité de cet aéronef à un type déjà certifié dans les conditions fixées au 2° ci-après ;
+a) Le postulant a démontré la conformité de cet aéronef :
+
+- soit à un type déjà certifié dans les conditions fixées au 2° ci-après ;
+
+- soit, lorsque l'aéronef était précédemment en service dans un Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'Espace économique européen, aux conditions techniques de cet Etat présentant un niveau de sécurité équivalant aux
+conditions relatives à la sécurité notifiées pour le type correspondant dans les conditions fixées au 2° ci-après ;
+
+- soit à un aéronef pour lequel il n'était pas exigé de certificat de type par la réglementation en vigueur à la date de la
+première immatriculation d'un appareil de ce type. Dans ce cas, il doit exister à la date de la demande un autre exemplaire
+détenant un certificat de navigabilité français valide ou périmé depuis moins d'un an. Le postulant doit apporter en outre la
+preuve que l'aéronef était précédemment en service dans un Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'Espace économique européen.
 
 b) Le postulant a attesté de cette conformité auprès du ministre chargé de l'aviation civile ;
 
@@ -6920,10 +6932,11 @@ chargé de l'aviation civile dans l'intérêt de la sécurité des tiers et rela
 	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 4 (Ab)
 	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 5 (Ab)
 	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 6 (Ab)
+	  - SPEC_APPLI: Décret n°99-74 du 2 février 1999 - art. 3 (V)
 
 	**Modifié par**:
 
-	  - Décret n°95-444 du 21 avril 1995 - art. 1 () JORF 25 avril 1995
+	  - Décret n°99-74 du 2 février 1999 - art. 1 () JORF 5 février 1999
 
 
 ###### Article R133-1-1
@@ -7063,7 +7076,7 @@ f) Les fusées.
 
 ###### Article R133-1-3
 
-Les entreprises détenant un certificat d'agrément, ou sollicitant un tel certificat, en application de l'article L. 133-1-1,
+Les entreprises détenant un certificat d'agrément, ou sollicitant un tel certificat, en application de l'article R. 133-1-1,
 font l'objet d'un contrôle de l'Etat portant sur l'application des dispositions fixées par les conventions internationales,
 les lois et les règlements en vigueur dans les domaines prévus aux articles R. 133-1, R. 133-1-1 et R. 133-2.
 
@@ -7076,22 +7089,25 @@ l'accès aux installations de l'entreprise nécessaire à l'exercice de leur mis
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°95-444 du 21 avril 1995 - art. 1 () JORF 25 avril 1995
-
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
 	  - Code de l'aviation civile - art. R330-12 (M)
 	  - Code de l'aviation civile - art. R330-13 (V)
 
+	**Modifié par**:
+
+	  - Décret n°99-74 du 2 février 1999 - art. 2 () JORF 5 février 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006
+
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R133-1 (M)
 	  - Code de l'aviation civile - art. R133-1-1 (M)
 	  - Code de l'aviation civile - art. R133-2 (V)
-	  - Code de l'aviation civile L133-1-1, R133-1, R133-1-1, R133-2
 
 
 ###### Article R133-2
