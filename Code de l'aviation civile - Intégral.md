@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1980-08-06
 
 # Partie législative
 
@@ -2134,6 +2134,36 @@ L. 223-1 les mots " le ministre chargé de l'aviation civile " (Fin de vigueur :
 	  - Code des transports - art. L6321-4 (V)
 
 
+###### Article L223-2
+
+Pour des raisons de défense nationale, un décret rendu en Conseil d'Etat peut prescrire que l'Etat est substitué
+temporairement ou définitivement à l'exploitant d'un aérodrome. Les conditions de cette substitution sont fixées par un
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 82
+	  - Décret n°53-893 1953-09-24 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6311-3 (V)
+
+
 ### TITRE V : AEROPORTS DE PARIS
 
 #### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES.
@@ -2334,6 +2364,45 @@ Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel
 	**Cite**:
 
 	  - Loi n°1932-03-31
+
+	**Abrogé par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 23 janvier 2005 en vigueur le 22 juillet 2005
+
+
+#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE.
+
+###### Article L252-1
+
+L'Aéroport de Paris est géré par un conseil d'administration assisté d'un directeur général nommé par décret.
+
+La composition du conseil d'administration, les attributions respectives du conseil d'administration et du directeur général,
+les règles relatives au régime administratif et financier de l'aéroport sont déterminées par un décret en Conseil d'Etat.
+
+Ce décret détermine également les règles de contrôle financier auxquelles l'aéroport est soumis ainsi que la tenue des
+comptes de l'aéroport.
+
+**Nota:**
+
+: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
+publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
+
+Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 105
+	  - Ordonnance 45-2488 1945-10-24 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
 
 	**Abrogé par**:
 
