@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1994-07-20
+Version Consolidée au 1994-10-22
 
 # Partie législative
 
@@ -17602,13 +17602,25 @@ des aéronefs spécialisés de la direction générale de l'aviation civile.
 	  - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
 
 
-##### Section 3 : Radiocommunications des services aériens.
+##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.
 
 ###### Article D133-19
 
-L'installation et l'exploitation de stations radioélectriques pour les besoins de l'aéronautique, en application de l'article
-R. 133-3 du code de l'aviation civile sont régis par les dispositions du livre II, titre VI, chapitre IV, du code des postes
-et télécommunications relatives au service aérien (2).
+Les dispositions de la présente section s'appliquent aux stations des services radioélectriques suivants, tels que définis à
+l'article 1er du chapitre Ier du règlement des radiocommunications de l'Union internationale des télécommunications :
+
+- service mobile aéronautique ;
+
+- service mobile aéronautique par satellite ;
+
+- service de radionavigation aéronautique ;
+
+- service de radionavigation aéronautique par satellite.
+
+Les stations correspondantes sont installées soit au sol (y compris à bord de mobiles terrestres), soit à bord d'aéronefs ;
+elles sont établies et exploitées soit par les organismes relevant du ministre chargé de l'aviation civile, soit par toute
+personne physique ou morale, notamment des exploitants d'aéronefs ou d'aérodromes, ou des aéroclubs relevant du livre V du
+présent code.
 
 **Liens relatifs à cet article**
 
@@ -17622,16 +17634,260 @@ et télécommunications relatives au service aérien (2).
 
 	**Modifié par**:
 
-	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre 1994
 
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
 	  - Code de l'aviation civile - art. D133-19-6 (V)
 
+
+###### Article D133-19-1
+
+Le ministre chargé de l'aviation civile fixe pour ces stations, en conformité avec le règlement des radiocommunications de
+l'Union internationale des télécommunications et avec la convention relative à l'aviation civile internationale ainsi que ses
+annexes :
+
+- les caractéristiques techniques et d'installations de matériels qui les composent, notamment les fréquences, puissances et
+classes d'émission ;
+
+- les conditions dans lesquelles elles sont entretenues afin de maintenir leurs caractéristiques techniques ;
+
+- les conditions d'exploitation, et notamment l'indicatif d'appel et les heures de service le cas échéant ;
+
+- les conditions dans lesquelles elles sont soumises à son contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de l'aviation civile - art. D133-19-3 (V)
+	  - Code de l'aviation civile - art. D133-19-8 (V)
+	  - Code de l'aviation civile - art. D133-19-9 (V)
+
+
+###### Article D133-19-2
+
+Le ministre chargé de l'aviation civile fixe la composition minimale des stations installées à bord des aéronefs, en fonction
+des exigences de communication, de navigation, de surveillance et de sauvetage liées au type de vol qu'ils sont autorisés à
+entreprendre.
+
+Tout matériel radioélectrique d'une station d'aéronefs inscrit au registre français d'immatriculation, ou d'une station
+d'engin de sauvetage installée à bord d'un aéronef inscrit au registre français d'immatriculation, doit être d'un type
+homologué par le ministre chargé de l'aviation civile.
+
+Le ministre chargé de l'aviation civile peut exiger que le montage et l'entretien des stations de bord des aéronefs soient
+assurés par des personnes physiques ou morales détenant un agrément ou un titre portant sur leurs compétences.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+
+	**Cité par**:
+
+	  - Arrêté du 10 juillet 2000 - art. 1 (V)
+	  - Arrêté du 10 juillet 2000 - art. 7 (V)
+	  - Code de l'aviation civile - art. D133-19-3 (V)
+	  - Code de l'aviation civile - art. D133-19-9 (V)
+
+
+###### Article D133-19-3
+
+Les stations d'émission, à l'exception de celles visées à l'article D. 133-19-6, ne peuvent être établies et exploitées
+qu'après délivrance d'une licence par le ministre chargé de l'aviation civile et sous réserve du respect des conditions
+fixées aux articles D. 133-19-1 et D. 133-19-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre 1994
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R133-3 (M)
+	  - Code de l'aviation civile - art. D133-19-1 (V)
+	  - Code de l'aviation civile - art. D133-19-2 (V)
+	  - Code de l'aviation civile - art. D133-19-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-19-9 (V)
+
+
+###### Article D133-19-4
+
+Le ministre chargé de l'aviation civile arrête la liste des titres ou documents tenant lieu de certificat d'opérateur, dont
+la possession est obligatoire pour la manoeuvre des stations d'émission, conformément à l'article L. 90 du code des postes et
+télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L90
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+
+
+###### Article D133-19-5
+
+Les communications entre les différentes stations des services mobiles aéronautiques doivent être limitées à la sécurité, à
+la régularité du trafic aérien et à la facilitation des vols ou à des essais concernant le matériel employé.
+
+Les messages radiotéléphoniques échangés doivent être conformes à la phraséologie aéronautique établie par le ministre chargé
+de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-19-10 (V)
+
+
+###### Article D133-19-6
+
+Le ministre chargé de l'aviation civile établit et exploite des stations de terre des services radioélectriques définis à
+l'article D. 133-19 qui sont nécessaires pour rendre les services de la circulation aérienne, pour permettre la
+radionavigation des aéronefs et pour faciliter les opérations des aéronefs d'Etat qu'il exploite. 
+
+Il prend directement les dispositions nécessaires afin de s'assurer que ces stations sont exploitées conformément aux
+conventions et règlements internationaux relatifs aux radiocommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D133-19 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-19-3 (V)
+
+
+###### Article D133-19-7
+
+Les stations qui ne sont pas établies et exploitées par un organisme relevant du ministre chargé de l'aviation civile peuvent
+être astreintes, par décision de ce dernier, à l'exécution gratuite de certains services généraux relatifs à la sécurité et à
+l'exploitation des aéronefs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+
+
+###### Article D133-19-8
+
+Pour les stations d'aéronefs, le contrôle fixé à l'article D. 133-19-1 peut être effectué en vol ou au sol par des agents du
+ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D133-19-1 (V)
+
+
+###### Article D133-19-9
+
+La licence visée à l'article D. 133-19-3 peut être retirée ou suspendue par le ministre chargé de l'aviation civile en cas de
+non-respect des articles D. 133-19-1 ou D. 133-19-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre 1994
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D133-19-1 (V)
+	  - Code de l'aviation civile - art. D133-19-2 (V)
+	  - Code de l'aviation civile - art. D133-19-3 (V)
+
+
+###### Article D133-19-10
+
+Lorsque les stations assurent des communications autres que celles visées à l'article D. 133-19-5 du présent code,
+l'établissement du réseau et la fourniture du service de télécommunications correspondant sont autorisés par le ministre
+chargé des télécommunications, conformément au code des postes et télécommunications, et notamment ses articles L. 33-1, L.
+33-2, L. 34-3 et L. 89. Les caractéristiques techniques d'installation des stations radioélectriques visées au présent
+article sont fixées par le ministre chargé de l'aviation civile. Les installations radioélectriques sont agréées dans les
+conditions des articles R. 20-1 et suivants du code des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-1, L33-2, L34-3, L89, R20-1
+	  - Code de l'aviation civile - art. D133-19-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
 
 
 ##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.
