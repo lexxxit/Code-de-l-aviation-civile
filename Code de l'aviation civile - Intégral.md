@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-06-30
+Version Consolidée au 2004-07-10
 
 # Partie législative
 
@@ -14361,8 +14361,8 @@ lesquels des zones de dégagement doivent être établies sur le territoire fran
 
 c) Aux installations d'aides à la navigation aérienne, de télécommunications aéronautiques et aux installations de la
 météorologie intéressant la sécurité de la navigation aérienne, sans préjudice de l'application des dispositions des articles
-L. 54 à L. 64 et R. 21, R. 24 à R. 28, R. 30 à R. 38, R. 40 à R. 42 du code des postes et télécommunications relatives aux
-servitudes établies dans l'intérêt des transmissions et réceptions radio-électriques ;
+L. 54 à L. 64 et R. 21, R. 24 à R. 28, R. 30 à R. 38, R. 40 à R. 42 du code des postes et des communications électroniques
+relatives aux servitudes établies dans l'intérêt des transmissions et réceptions radio-électriques ;
 
 d) A certains emplacements correspondant à des points de passages préférentiels pour la navigation aérienne.
 
@@ -14376,6 +14376,10 @@ d) A certains emplacements correspondant à des points de passages préférentie
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
 	**Cité par**:
 
 	  - Arrêté du 7 juin 2007 - art. 1 (V)
@@ -14385,9 +14389,17 @@ d) A certains emplacements correspondant à des points de passages préférentie
 	  - Code de l'aviation civile - art. R243-2 (VT)
 	  - Code de l'urbanisme - art. II (M)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6350-1 (V)
+
 	**Cite**:
 
-	  - Code des postes et des télécommunications L54, L55, L56, L57, L58, L59, L60, L61, L62, L63, L64, R21, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R40, R41, R42
+	  - Code des postes et des communications électroniques
 
 
 ###### Article R241-3
@@ -14524,8 +14536,8 @@ maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementai
 ###### Article R242-3
 
 Sont applicables aux servitudes aéronautiques de dégagement les dispositions des articles L. 55 et L. 56 du code des postes
-et télécommunications, l'expropriation prévue à l'article L. 55 ayant lieu conformément aux dispositions du code de
-l'expropriation pour cause d'utilité publique.
+et des communications électroniques, l'expropriation prévue à l'article L. 55 ayant lieu conformément aux dispositions du
+code de l'expropriation pour cause d'utilité publique.
 
 Les frais et indemnités qui résultent de l'application de ces dispositions incombent à l'Etat, sous réserve des dispositions
 de l'article R. 221-6 du code de l'aviation civile et des dispositions particulières concernant les aérodromes visés à
@@ -14533,24 +14545,32 @@ l'article R. 241-2 b.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et télécommunications L55, L56
-	  - Code de l'aviation civile - art. R221-6 (V)
-	  - Code de l'aviation civile - art. R241-2 (M)
-	  - Code de l'aviation civile L55, R221-6, R241-2
-
 	**Anciens textes**:
 
 	  - Décret n°59-92 1959-01-03 art. 13
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°80-909 1980-11-17 art. 7-VIII JORF 21 novembre 1980
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6351-5 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L55
+	  - Code des postes et des communications électroniques - art. L56
+	  - Code de l'aviation civile - art. R221-6
+	  - Code de l'aviation civile - art. R241-2
 
 	**Cité par**:
 
@@ -25176,22 +25196,22 @@ fixées aux articles D. 133-19-1 et D. 133-19-2.
 ###### Article D133-19-4
 
 Le ministre chargé de l'aviation civile arrête la liste des titres ou documents tenant lieu de certificat d'opérateur, dont
-la possession est obligatoire pour la manoeuvre des stations d'émission, conformément à l'article L. 90 du code des postes et
-télécommunications.
+la possession est obligatoire pour la manoeuvre des stations d'émission, conformément à l'article L. 42-4 du code des postes
+et des communications électroniques.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L90
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L42-4 (V)
 
 
 ###### Article D133-19-5
@@ -25308,25 +25328,28 @@ non-respect des articles D. 133-19-1 ou D. 133-19-2.
 
 Lorsque les stations assurent des communications autres que celles visées à l'article D. 133-19-5 du présent code,
 l'établissement du réseau et la fourniture du service de télécommunications correspondant sont autorisés par le ministre
-chargé des télécommunications, conformément au code des postes et télécommunications, et notamment ses articles L. 33-1, L.
-33-2, L. 34-3 et L. 89. Les caractéristiques techniques d'installation des stations radioélectriques visées au présent
-article sont fixées par le ministre chargé de l'aviation civile. Les installations radioélectriques sont agréées dans les
-conditions des articles R. 20-1 et suivants du code des postes et télécommunications.
+chargé des télécommunications, conformément au code des postes et des communications électroniques, et notamment ses articles
+L. 33-1, L. 33-2, L. 34-3 et L. 41-1. Les caractéristiques techniques d'installation des stations radioélectriques visées au
+présent article sont fixées par le ministre chargé de l'aviation civile. Les installations radioélectriques sont agréées dans
+les conditions des articles R. 20-1 et suivants du code des postes et des communications électroniques.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L33-2, L34-3, L89, R20-1
-	  - Code de l'aviation civile - art. D133-19-5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L33-1 (VT)
+	  - Code des postes et des communications électroni... - art. L34-3 (V)
+	  - Code des postes et des communications électroni... - art. L41-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-1 (V)
+	  - Code de l'aviation civile - art. D133-19-5 (V)
 
 
 ##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.
