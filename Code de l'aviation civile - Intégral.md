@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-12-09
 
 # Partie législative
 
@@ -11480,6 +11480,43 @@ Les débats ne sont pas publics.
 	  - Code de l'aviation civile - art. R425-14 (V)
 
 
+###### Article R425-14
+
+Les délibérations du conseil et des sections ont lieu hors la présence de l'intéressé et de son représentant ou défenseur.
+
+Les délibérations sont secrètes. Les ministres compétents peuvent prononcer la radiation des membres ou rapporteurs qui
+auraient méconnu cette disposition.
+
+Un vote ne peut avoir lieu que si la moitié au moins des membres titulaires ou suppléants sont présents.
+
+Les votes ont lieu au scrutin secret et à la majorité des voix. En cas de partage des voix, le président fait connaître le
+sens de son vote et fait jouer sa voix prépondérante.
+
+Le rapporteur ne prend pas part au vote s'il n'est pas membre titulaire du conseil ou de la section ou s'il ne remplace pas
+un membre titulaire.
+
+Le conseil ou les sections doivent faire connaître leur avis au ministre compétent dans un délai de vingt jours après la fin
+des auditions prévues à l'article R. 425-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°83-1048 1983-12-06 art. 2 JORF 9 décembre 1983
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D435-1 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R425-13 (M)
+
+
 ###### Article R425-15
 
 Le secrétariat de la section des essais et réceptions est assuré par le personnel du ministre chargé des armées. Celui de la
@@ -11543,6 +11580,43 @@ l'organisation judiciaire.
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. D435-1 (M)
+
+
+###### Article R425-18
+
+Les sanctions disciplinaires relevant de la compétence du conseil de discipline sont :
+
+Le blâme ;
+
+Le retrait temporaire avec ou sans sursis d'une ou de plusieurs licences ou qualifications ;
+
+Le retrait définitif d'une ou de plusieurs licences ou qualifications ;
+
+La radiation du registre prévu à l'article L. 421-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°83-1048 1983-12-06 art. 4 JORF 9 décembre 1983
+
+	**Cité par**:
+
+	  - Décret n°94-1047 du 6 décembre 1994 - art. 8 (Ab)
+	  - Décret n°2004-87 du 27 janvier 2004 - art. 16 (V)
+	  - Décret n°2005-621 du 30 mai 2005 - art. 14 (V)
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 10 (V)
+	  - Code de l'aviation civile - art. D421-8 (V)
+	  - Code de l'aviation civile - art. D435-1 (M)
+	  - Code de l'aviation civile - art. R425-9 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L421-4 (V)
 
 
 ###### Article R425-19
