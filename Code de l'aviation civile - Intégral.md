@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-02-15
+Version Consolidée au 1973-03-10
 
 # Partie législative
 
@@ -5210,6 +5210,168 @@ b) Soit d'un laissez-passer provisoire assorti de toutes restrictions jugées ut
 	  - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 2 (Ab)
 	  - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 3 (Ab)
+
+
+###### Article R133-4
+
+Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des certificats et
+laissez-passer mentionnés aux articles R. 133-1 et R. 133-2 sont à la charge du postulant dans les conditions fixées par un
+décret pris sur le rapport du ministre chargé de l'aviation civile et du ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 16 octobre 1987
+	  - TXT_SOURCE: Arrêté du 16 octobre 1987 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 3 JORF 10 mars 1973
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1680 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-1 (V)
+	  - Code de l'aviation civile - art. R133-5 (M)
+	  - Code de l'aviation civile - art. R330-12 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (M)
+	  - Code de l'aviation civile - art. R133-2 (V)
+
+
+###### Article R133-6
+
+Sauf autorisation spéciale, est interdit le transport par aéronefs des explosifs, armes et munitions de guerre, pigeons
+voyageurs, objets de correspondance compris dans le monopole postal.
+
+Le transport et l'usage des appareils photographiques peuvent être interdits par arrêté ministériel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 28
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+
+###### Article R133-7
+
+Aucun appareil radiotélégraphique ou radiotéléphonique ne peut être installé à bord d'un aéronef sans autorisation spéciale.
+
+Les aéronefs affectés à un service public de transport de voyageurs doivent être munis d'un dispositif de
+radiotélécommunication dans les conditions qui sont déterminées par décret.
+
+Dans tous les cas, les hommes de l'équipage affectés au service des radiotélécommunications doivent être munis d'une licence
+spéciale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 29
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+
+###### Article R133-8
+
+Tout aéronef qui atterrit ou décolle est soumis au contrôle et à la surveillance des autorités administratives quel que soit
+le lieu ou s'effectue le décollage ou l'atterrissage.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 30
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006
+
+
+###### Article R133-9
+
+Tout aéronef en circulation en quelque lieu qu'il se trouve doit se soumettre aux injonctions des services de police et de
+douane, sous quelque forme que ces injonctions lui soient données.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 31
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R133-5 (M)
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+
+###### Article R133-10
+
+Les aéronefs évoluant exclusivement dans les aérodromes et dans les régions agréées par l'autorité administrative comme
+champs d'expérience ne sont pas soumis aux dispositions des articles R. 133-1 à R. 133-7 tant que les évolutions ne donnent
+pas lieu à un spectacle public. Ils ne peuvent toutefois transporter des passagers que s'ils sont munis du certificat de
+navigabilité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 32
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 30 juillet 1975 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
 
 
 #### CHAPITRE IV : REDEVANCES.
