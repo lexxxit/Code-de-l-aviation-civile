@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-01-02
+Version Consolidée au 1973-01-05
 
 # Partie législative
 
@@ -1824,6 +1824,101 @@ sans délai au procureur de la République.
 
 ## LIVRE II : AERODROMES
 
+### TITRE Ier : DISPOSITIONS GENERALES
+
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
+
+###### Article L213-1
+
+Les dispositions du présent code relatives à la police des aérodromes et des installations à usage aéronautique sont, sans
+préjudice de l'application éventuelle des dispositions douanières et des mesures dont l'application incombe au service des
+douanes, applicables :
+
+Sur les aérodromes ouverts à la circulation aérienne publique ;
+
+Sur les aérodromes réservés à l'usage d'administrations de l'Etat, sans préjudice de l'application, sur les aérodromes
+militaires, des articles 70 et suivants du code pénal, et, le cas échéant, de dispositions spéciales ;
+
+Sur les aérodromes à usage restreint autres que les aérodromes réservés à l'usage d'administrations de l'Etat ;
+
+En tous lieux où il existe des installations destinées à assurer le contrôle de la circulation aérienne, les
+télécommunications aéronautiques, l'aide à la navigation aérienne et l'assistance météorologique, y compris les réseaux de
+câbles et canalisations qui les desservent ;
+
+Sur les dépendances des aérodromes et des installations à usage aéronautique qui ne sont pas librement accessibles au public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cité par**:
+
+	  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (VT)
+	  - Code de l'aviation civile - art. L282-15 (VT)
+	  - Code de l'aviation civile - art. L282-3 (VT)
+	  - Code de l'aviation civile - art. L282-5 (VT)
+	  - Code de l'aviation civile - art. R213-1 (V)
+	  - Code de l'aviation civile - art. R213-4 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 70 et suivants
+
+
+###### Article L213-2
+
+La police des aérodromes et des installations aéronautiques, tels qu'ils sont définis à l'article précédent, est assurée,
+sous réserve des pouvoirs de l'autorité militaire à l'égard des aérodromes et installations dépendant de la défense
+nationale, par le préfet qui exerce, à cet effet dans leur emprise, les pouvoirs impartis au maire par l'article L. 131-2 du
+code des communes.
+
+Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de l'alinéa précédent ainsi que les
+conditions dans lesquelles un préfet sera chargé des pouvoirs visés audit alinéa, lorsque l'emprise de l'aérodrome s'étend
+sur plusieurs départements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cité par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 6 (V)
+	  - Arrêté du 1 février 1974 - art. 1 (V)
+	  - Décret n°74-78 du 1 février 1974 - art. 1 (V)
+	  - Arrêté du 6 octobre 1978 - art. 1 (V)
+	  - Arrêté du 18 mars 1998 - art. 1 (V)
+	  - Décret n°99-1162 du 29 décembre 1999 - art. 2 (Ab)
+	  - Décret n°2000-1162 du 28 novembre 2000 - art. 5 (Ab)
+	  - Arrêté du 12 décembre 2000 - art. 2 (V)
+	  - Code de l'aviation civile - art. L213-3 (VT)
+	  - Code de l'aviation civile - art. R213-1 (M)
+	  - Code de l'aviation civile - art. R213-1-2 (V)
+	  - Code de l'aviation civile - art. R213-3 (V)
+	  - Code de l'aviation civile - art. R213-4 (M)
+	  - Code de l'aviation civile - art. R213-6 (M)
+	  - Code de l'aviation civile - art. R216-14 (V)
+	  - Code de l'aviation civile - art. R224-2 (M)
+	  - Code de l'urbanisme - art. R*441-7-4 (Ab)
+	  - Code de la défense. - art. R1321-21 (V)
+	  - Code de la défense. - art. R1321-24-1 (V)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L131-2 (M)
+
+
 ### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE
 
 #### CHAPITRE Ier : CREATION.
@@ -2320,6 +2415,561 @@ Ces procès-verbaux font foi jusqu'à preuve du contraire.
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R281-1 (V)
+
+
+#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
+
+##### Section 1 : Répression des crimes et délits.
+
+###### Article L282-1
+
+Sera puni de l'emprisonnement de deux à cinq ans et d' une amende de 10 000 F à 120 000 F (1) ou de l'une de ces deux peines
+seulement sans préjudice, le cas échéant, de l'application des articles 434 à 437 du code pénal, quiconque aura
+volontairement :
+
+1° Détruit ou endommagé les immeubles ou installations destinés à assurer le contrôle de la circulation des aéronefs, les
+télécommunications aéronautiques, l'aide à la navigation aérienne ou l'assistance météorologique ;
+
+2° Troublé, par quelque moyen que ce soit, le fonctionnement de ces installations ;
+
+3° Détruit ou endommagé un aéronef dans l'emprise d'un aérodrome ;
+
+4° Entravé, de quelque manière que ce soit, la navigation ou la circulation des aéronefs, hors les cas prévus dans l'article
+462 du code pénal.
+
+La tentative des délits visés à l'article précédent est punie des peines prévues pour ces délits.
+
+**Nota:**
+
+(1) La mention du taux des amendes a été modifiée par décret n° 80-908 du 17 novembre 1980 (art. 8-I, II et III) en exécution
+des lois n° 53-515 du 28 mai 1953 et n° 77-1968 du 30 décembre 1977 (art. 16). Le taux est également à modifier depuis lors
+en application de la loi n° 85-835 du 7 août 1985, articles 7 et 8 (cf. volume II, 1re partie).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cite**:
+
+	  - Code pénal 434, 435, 436, 437, 462
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L282-4-1 (M)
+	  - Code de procédure pénale - art. 689-7 (V)
+
+
+###### Article L282-2
+
+S'il est résulté de ces faits des blessures ou maladies, la peine sera celle de la réclusion criminelle à temps de dix à
+vingt ans.
+
+S'il en est résulté la mort d'une ou plusieurs personnes, la peine sera celle de la réclusion criminelle à perpétuité, sans
+préjudice, s'il y a lieu, de l'application des articles 295 à 304 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cite**:
+
+	  - Code pénal 295, 296, 297, 298, 299, 300, 301, 302, 303, 304
+
+
+###### Article L282-3
+
+L'attaque ou la résistance avec violence et voies de fait envers les agents, préposés à la garde ou au fonctionnement des
+aérodromes ou installations mentionnés à l'article L. 213-1, dans l'exercice de leurs fonctions, sera punie des peines
+applicables à la rébellion, suivant les distinctions faites par les articles 209 à 218 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cite**:
+
+	  - Code pénal 209, 210, 211, 212, 213, 214, 215, 216, 217, 218
+	  - Code de l'aviation civile - art. L213-1 (M)
+
+
+###### Article L282-4
+
+Si les actions visées dans les articles précédents ont été commises en bande, les chefs, instigateurs et provocateurs seront
+punis des peines prévues pour les auteurs du crime ou du délit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+##### Section 2 : Police de la conservation.
+
+###### Article L282-5
+
+Si un procès-verbal est dressé pour constater, sur un aérodrome ou dans l'un des lieux visés à l'article L. 213-1, des
+dégradations ou l'exécution d'ouvrages ou de travaux pouvant porter atteinte à la sécurité de la navigation aérienne ou
+entraver l'exploitation des services aéronautiques, l'autorité compétente visée à l'article L. 282-6 peut adresser aux
+contrevenants une mise en demeure pour leur enjoindre de cesser les travaux et, le cas échéant, de rétablir les lieux dans
+leur état initial.
+
+Si les intéressés n'optempèrent pas, l'autorité compétente ou l'exploitant de l'aérodrome fait, en tant que de besoin,
+exécuter d'office les travaux nécessaires à la remise en état des lieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6371-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-1
+	  - Code de l'aviation civile - art. L282-6
+
+
+###### Article L282-6
+
+Les autorités ci-après désignées reçoivent copie des procès-verbaux dressés pour constater les infractions à la police de la
+conservation des installations et ouvrages du domaine aéronautique et peuvent adresser au ministère public leur avis sur la
+gravité des faits relevés et présenter des observations devant la juridiction saisie des poursuites :
+
+Le directeur général de l'Aéroport de Paris, pour les aérodromes et installations faisant partie de l'ensemble constitué par
+cet établissement public ;
+
+Les directeurs de région aéronautique, pour les aérodromes et installations de leur région ne relevant pas d'un aéroport
+principal ;
+
+Les directeurs d'aéroport principal, pour les aérodromes et installations faisant partie de l'aéroport principal ;
+
+Les ingénieurs en chef du service des bases aériennes, pour les aérodromes et installations de leur circonscription ;
+
+Les commandants de base aérienne militaire, pour l'aérodrome ou la zone relevant de leur autorité.
+
+Les mêmes prérogatives appartiennent au commandant de l'aéroport de Bâle-Mulhouse pour faire réprimer les infractions à la
+police de la conservation des terrains et de l'ensemble des ouvrages et installations réalisés en application de la
+convention franco-suisse du 4 juillet 1949.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cité par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 6 (V)
+	  - Code de l'aviation civile - art. L282-14 (VT)
+	  - Code de l'aviation civile - art. L282-17 (VT)
+	  - Code de l'aviation civile - art. L282-5 (VT)
+
+	**Cite**:
+
+	  - Convention France Suisse 1949-07-04
+
+
+##### Section 3 : Police de l'exploitation.
+
+###### Article L282-7
+
+Les autorités ci-après désignées reçoivent copie des procès-verbaux dressés pour constater les infractions à la police de
+l'exploitation des aérodromes et des installations à usage aéronautique du domaine public et peuvent adresser au ministère
+public leur avis sur la gravité des faits relevés et présenter des observations devant la juridiction saisie des poursuites :
+
+Le directeur général de l'Aéroport de Paris, pour les aérodromes et installations faisant partie de l'ensemble constitué par
+cet établissement public ;
+
+Les directeurs de région aéronautique, pour les aérodromes et installations de leur région ne relevant pas d'un aéroport
+principal ;
+
+Les directeurs d'aéroport principal, pour les aérodromes et installations faisant partie de l'aéroport principal ;
+
+Les commandants de base aérienne militaire, pour l'aérodrome ou la zone relevant de leur autorité.
+
+Les mêmes prérogatives appartiennent au commandant de l'aéroport de Bâle-Mulhouse pour faire réprimer les infractions à la
+police de l'exploitation de l'aérodrome et de l'ensemble des ouvrages et installations réalisés en application de la
+convention franco-suisse du 4 juillet 1949.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention France Suisse 1949-07-04
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cité par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 6 (V)
+	  - Décret n°97-547 du 29 mai 1997 - art. ANNEXE (M)
+	  - Code de l'aviation civile - art. L282-10 (VT)
+	  - Code de l'aviation civile - art. L282-17 (VT)
+	  - Code de l'aviation civile - art. R213-3 (V)
+	  - Code de l'aviation civile - art. R213-5 (M)
+	  - Code de l'aviation civile - art. R213-6 (M)
+
+
+###### Article L282-8
+
+Lorsque la sûreté des vols l'exige, les officiers de police judiciaire, assistés des agents de police judiciaire, peuvent,
+pour les transports par air effectués en régime intérieur, procéder à la visite des personnes, des bagages, du fret et des
+colis postaux.
+
+Pour les transports par air effectués en régime international, ces officiers et agents peuvent, dans les mêmes conditions,
+procéder, en liaison avec le service des douanes, à la visite des bagages ainsi que des personnes s'apprêtant à prendre place
+à bord d'un aéronef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Cité par**:
+
+	  - Décret n°97-547 du 29 mai 1997 - art. ANNEXE (M)
+	  - Arrêté du 22 décembre 1997 - art. 5 (V)
+	  - Arrêté du 29 décembre 1997 - art. 1 (Ab)
+	  - Arrêté du 29 décembre 1997 - art. 5 (Ab)
+	  - Arrêté du 18 novembre 1998 - art. 1 (V)
+	  - Loi n°98-1171 du 18 décembre 1998 - art. 2 (V)
+	  - Arrêté du 10 octobre 2000 - art. 1 (V)
+	  - Arrêté du 10 octobre 2000 - art. 6 (V)
+	  - Arrêté du 20 décembre 2000 - art. 1 (Ab)
+	  - Décret n°2002-424 du 28 mars 2002 - art. 1 (Ab)
+	  - Décret n°2002-1026 du 31 juillet 2002 - art. 24 (V)
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 65 (V)
+	  - Arrêté du 1 septembre 2003 - art. 2 (V)
+	  - Arrêté du 1 septembre 2003 - art. 22 (VT)
+	  - Arrêté du 12 novembre 2003 - art. 1 (Ab)
+	  - Arrêté du 12 novembre 2003 - art. 2 (Ab)
+	  - Arrêté du 14 février 2005 - art. 5 (VT)
+	  - Arrêté du 14 février 2005 - art. ANNEXE (M)
+	  - Décret n°2005-1122 du 6 septembre 2005 - art. 1 (V)
+	  - Décret n°2005-1122 du 6 septembre 2005 - art. 3-1 (V)
+	  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (VT)
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 9 (V)
+	  - Arrêté du 6 juin 2006 - art. 132-2 (M)
+	  - Arrêté du 6 juin 2006 - art. 263-8 (M)
+	  - Code de l'aviation civile - art. L213-3 (VT)
+	  - Code de l'aviation civile - art. L251-2 (M)
+	  - Code de l'aviation civile - art. R213-1 (M)
+	  - Code de l'aviation civile - art. R213-1-1 (V)
+	  - Code de l'aviation civile - art. R213-1-2 (V)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R282-5 (Ab)
+	  - Code de l'aviation civile - art. R282-6 (Ab)
+	  - Code de l'aviation civile - art. R282-8 (Ab)
+	  - Code de l'aviation civile - art. R321-9 (M)
+	  - Code monétaire et financier - art. R153-5 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 16 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 17 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. ANNEXE I (Ab)
+	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. ANNEXE II (Ab)
+	  - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002
+	  - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002 - art. 2 (V)
+
+
+###### Article L282-9
+
+L'enlèvement d'un aéronef qui encombre, pour quelque cause que ce soit, une piste, une bande, une voie de circulation, une
+aire ou leurs dégagements doit être effectué par le propriétaire ou par l'exploitant de l'aéronef sur l'ordre qu'il reçoit
+des autorités aéroportuaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6371-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R213-9 (Ab)
+
+
+###### Article L282-10
+
+Dans le cas où le propriétaire ou l'exploitant de l'aéronef ne ferait pas diligence pour procéder aux opérations
+d'enlèvement, l'autorité compétente mentionnée à l'article L. 282-7 ou son représentant responsable de la circulation
+aérienne sur l'aérodrome, peut prendre d'office toutes les dispositions utiles pour faire dégager les pistes, bandes, voies
+de circulation ou aires ainsi que leurs dégagements, aux frais et risques du propriétaire ou de l'exploitant de l'aéronef.
+
+Les mêmes dispositions peuvent être prises par l'autorité compétente désignée à l'alinéa précédent ou par son représentant
+dans le cas où le gardien d'un véhicule, d'un objet ou d'animaux constituant un obstacle ne ferait pas diligence pour
+procéder aux opérations d'enlèvement ; dans ce cas, l'enlèvement a lieu aux frais et risques dudit gardien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6371-3 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-7
+
+
+##### Section 4 : Dispositions communes.
+
+###### Article L282-11
+
+Sans préjudice de la compétence reconnue à d'autres fonctionnaires et aux militaires de la gendarmerie par les lois et
+règlements en vigueur, les infractions aux dispositions du présent chapitre peuvent être constatées par des procès-verbaux
+dressés par tous agents civils et militaires habilités à cet effet et assermentés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L213-4 (VT)
+	  - Code de l'aviation civile - art. L321-7 (V)
+	  - Code de l'aviation civile - art. R217-2 (V)
+	  - Code de l'aviation civile - art. R282-2 (V)
+	  - Code de l'aviation civile - art. R282-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6372-1 (V)
+
+
+###### Article L282-12
+
+Les procès-verbaux établis pour contravention aux dispositions du présent chapitre sont transmis sans délai à l'autorité
+compétente pour engager les poursuites.
+
+Ces procès-verbaux font foi jusqu'à preuve du contraire.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+282-12 (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L282-13
+
+Les infractions mentionnées dans le présent chapitre sont poursuivies devant les juridictions judiciaires de droit commun,
+sous réserve de la compétence des juridictions militaires dans les cas prévus par le code de la justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L282-15
+
+Les tribunaux judiciaires de droit commun peuvent condamner à la réparation de l'atteinte portée aux aérodromes ou
+installations mentionnées à l'article L. 213-1 qui ne font pas partie du domaine public, et notamment à l'enlèvement des
+ouvrages faits. Les personnes condamnées supportent les frais des mesures provisoires et urgentes que l'administration a pu
+être amenée à prendre pour faire cesser le trouble provoqué par cette infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6372-5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-1
+
+
+##### Section 5 : Dispositions diverses.
+
+###### Article L282-16
+
+Les modalités d'application à l'aéroport de Bâle-Mulhouse des dispositions du présent code relatives à la police des
+aérodromes et des installations à usage aéronautique, seront, en tant que de besoin précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6332-5 (V)
+
+
+###### Article L282-17
+
+Dans les départements d'outre-mer, les prérogatives prévues aux articles L. 282-6 et L. 282-7 appartiennent au chef du
+service de l'aviation civile.
+
+L'ingénieur en chef du service des bases aériennes peut exercer les prérogatives prévues à l'article L. 282-6 pour les
+aérodromes et installations de sa circonscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-6
+	  - Code de l'aviation civile - art. L282-7
 
 
 ## LIVRE III : TRANSPORT AERIEN
