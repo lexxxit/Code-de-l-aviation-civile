@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-12-28
+Version Consolidée au 1974-02-02
 
 # Partie législative
 
@@ -5631,6 +5631,299 @@ définies par décret.
 
 	  - Code de l'aviation civile - art. R211-2-2 (V)
 	  - Code de l'aviation civile - art. R211-2-2 (VT)
+
+
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
+
+##### Section 1 : Champ d'application et compétence
+
+###### Article R213-1
+
+Pour l'application de l'article L. 213-2 du code de l'aviation civile, la police de la conservation et la police de
+l'exploitation des aérodromes et des installations à usage aéronautique mentionnées à l'article L. 213-1 sont exercées dans
+les conditions définies par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 6 octobre 1978 - art. 1 (V)
+	  - Arrêté du 4 avril 1996 - art. 38 (V)
+	  - Arrêté du 4 avril 1996 - art. 64 (V)
+	  - Arrêté du 1 septembre 2003 - art. 20 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 22 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 24 (VT)
+	  - Arrêté du 1 septembre 2003 - art. 25 (VT)
+	  - Arrêté du 12 novembre 2003 - art. 13 (Ab)
+	  - Arrêté du 12 novembre 2003 - art. 39 (Ab)
+	  - Arrêté du 12 novembre 2003 - art. 66 (Ab)
+	  - Code de l'aviation civile - art. D213-3 (V)
+	  - Code de l'aviation civile - art. R213-10 (M)
+	  - Code de l'aviation civile - art. R213-12 (M)
+	  - Code de l'aviation civile - art. R213-7 (M)
+	  - Code de l'aviation civile - art. R217-1 (M)
+	  - Code de l'aviation civile - art. R282-5 (Ab)
+	  - Code de l'aviation civile - art. R611-5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-1 (M)
+	  - Code de l'aviation civile - art. L213-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+
+##### Section 3 : Police de l'exploitation
+
+###### Article R213-2
+
+L'emprise des aérodromes affectés à titre exclusif, principal ou secondaire à l'aviation civile comprend :
+
+Une zone publique ;
+
+Une zone réservée dont l'accès est soumis à des consignes particulières et à la possession de titres spéciaux définis par une
+instruction conjointe des ministres intéressés.
+
+La zone publique et la zone réservée peuvent, suivant leur utilisation, comporter plusieurs secteurs.
+
+Les aérodromes mixtes comprennent, en outre, une zone militaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R213-1 (M)
+	  - Code de l'aviation civile - art. R321-12-1 (Ab)
+
+
+###### Article R213-3
+
+La zone publique peut comporter des parties librement accessibles au public et d'autres parties dont l'accès est règlementé.
+
+L'accès à certaines parties de la zone publique peut être subordonné au paiement d'une redevance.
+
+Un droit d'occupation privative peut également être accordé sur certaines parcelles de la zone publique pour l'exercice
+d'activités intéressant le public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 21 avril 2010 - art. 1 (V)
+	  - Arrêté du 16 septembre 2016 - art. 1 (V)
+	  - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
+	  - Code de l'aviation civile - art. D213-3 (V)
+	  - Code de l'aviation civile - art. R213-1-4 (V)
+	  - Code de l'aviation civile - art. R213-3-1 (V)
+	  - Code de l'aviation civile - art. R213-3-3 (V)
+	  - Code de l'aviation civile - art. R213-4 (Ab)
+	  - Code de l'aviation civile - art. R213-6-1 (V)
+	  - Code de l'aviation civile - art. R213-7 (Ab)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R217-3 (V)
+	  - Code de l'aviation civile - art. R282-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+
+###### Article R213-4
+
+Un arrêté préfectoral détermine et délimite, en dehors de la zone militaire existant sur les aérodromes mixtes, la zone
+publique et la zone réservée ainsi que les secteurs dont elles peuvent être composées. Cet arrêté fixe les dispositions
+relatives à l'exercice de la police de l'exploitation.
+
+Lorsque l'emprise d'un aérodrome s'étend sur plusieurs départements, le préfet chargé d'y exercer les pouvoirs de police
+prévus à l'article L. 213-2 est désigné par arrêté du ministre de l'intérieur après avis du ministre chargé de l'aviation
+civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 3 mars 1993 - art. 8 (Ab)
+	  - Arrêté du 4 avril 1996 - art. 11 (V)
+	  - Arrêté du 1 septembre 2003 - art. 6 (V)
+	  - Arrêté du 1 septembre 2003 - art. 7 (V)
+	  - Arrêté du 12 novembre 2003 - art. 58 (Ab)
+	  - Arrêté du 12 novembre 2003 - art. 72 (Ab)
+	  - Arrêté du 12 novembre 2003 - art. 8 (V)
+	  - Arrêté du 25 février 2004 - art. 1 (V)
+	  - Code de l'aviation civile - art. R213-1-1 (V)
+	  - Code de l'aviation civile - art. R213-17 (Ab)
+	  - Code de l'aviation civile - art. R213-2 (V)
+	  - Code de l'aviation civile - art. R213-5 (V)
+	  - Code de l'aviation civile - art. R213-6 (V)
+	  - Code de l'aviation civile - art. R213-7 (Ab)
+	  - Code de l'aviation civile - art. R216-14 (V)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R282-2 (M)
+	  - Code de l'aviation civile - art. R282-4 (M)
+	  - Code de l'aviation civile - art. R321-12-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+
+###### Article R213-5
+
+L'arrêté prévu à l'article R. 213-4, premier alinéa, est pris après avis ou proposition des autorités visées à l'article L.
+282-7 ainsi que du chef du service des douanes et de l'autorité militaire territorialement compétents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 25 février 2004 - art. 3 (V)
+	  - Code de l'aviation civile - art. R213-6-1 (V)
+	  - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-4 (V)
+	  - Code de l'aviation civile - art. L282-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+
+###### Article R213-6
+
+Les pouvoirs de police exercés par les préfets sur l'emprise des aérodromes en application de l'article L. 213-2 comprennent
+tout ce qui concerne le bon ordre, la sûreté, la sécurité et la salubrité, et notamment le soin de fixer par voie
+réglementaire :
+
+a) Les conditions de circulation et de stationnement dans la zone publique des personnes et des véhicules, et notamment des
+taxis, voitures de louage et véhicules de transport ;
+
+b) Les conditions d'accès, de circulation et de stationnement des personnes et des véhicules admis à pénétrer en zone
+réservée ;
+
+c) Les zones accessibles au stationnement et à la circulation des aéronefs ;
+
+d) Les dispositions applicables sur les aires de stationnement des aéronefs, en plus de celles qui sont édictées par la
+réglementation sur la circulation aérienne ;
+
+e) Les mesures de protection contre l'incendie ;
+
+f) Les prescriptions sanitaires ;
+
+g) Les dispositions applicables à la garde et à la conservation des aéronefs, véhicules, matériels et marchandises utilisant
+la plate-forme ou les installations de l'aérodrome.
+
+Les mesures particulières d'application des règles générales ainsi définies sont fixées par les autorités énumérées à
+l'article L. 282-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+	  - Arrêté du 12 novembre 2003 - art. 8 (V)
+	  - Arrêté du 25 février 2004 - art. 1 (V)
+	  - Arrêté du 25 février 2004 - art. 3 (V)
+	  - Code de l'aviation civile - art. R213-7 (Ab)
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R217-2-1 (V)
+	  - Code de l'aviation civile - art. R282-2 (M)
+	  - Code de l'aviation civile - art. R282-4 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-2 (M)
+	  - Code de l'aviation civile - art. L282-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+
+###### Article R213-8
+
+Le propriétaire ou l'exploitant d'un aéronef ou le gardien d'un véhicule, d'un objet ou d'animaux qui encombrent une piste,
+une bande, une voie de circulation, une aire ou leurs dégagements réglementaires, doit immédiatement prendre, dans le cadre
+des directives qu'il reçoit de l'autorité aéroportuaire, toutes les dispositions nécessaires pour que l'enlèvement soit
+effectué dans le meilleur délai possible, compte tenu, le cas échéant, des nécessités des enquêtes auxquelles doivent donner
+lieu les événements ayant occasionné l'encombrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
+
+###### Article R213-9
+
+En application de l'article L. 282-9, pour chaque opération d'enlèvement, un délai limite peut être fixé par l'autorité
+aéroportuaire, en fonction de l'importance du trafic et de l'utilisation de l'ouvrage à dégager ainsi que, le cas échéant,
+des moyens de manutention susceptibles d'être utilisés.
+
+S'il s'agit d'un aéronef accidenté, le délai d'enlèvement doit être déterminé en tenant compte des nécessités de
+l'information judiciaire et de l'enquête technique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-9
+
+	**Créé par**:
+
+	  - Décret n°74-77 1974-02-01 art. 1 JORF 2 février 1974
+
+	**Codifié par**:
+
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 
 ### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
