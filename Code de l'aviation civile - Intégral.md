@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1986-03-20
+Version Consolidée au 1987-06-20
 
 # Partie législative
 
@@ -1086,6 +1086,58 @@ autre aéronef ayant le même propriétaire.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L6123-3 (V)
+
+
+###### Article L123-2
+
+Sans préjudice des procédures spéciales prévues par le présent code, les aéronefs français et étrangers, affectés à un
+service d'Etat ou à des transports publics, ne peuvent faire l'objet d'une ordonnance de saisie conservatoire que si la
+créance porte sur les sommes dues par le propriétaire à raison de l'acquisition de ces aéronefs ou de contrats de formation
+ou de maintenance liés à leur exploitation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 16
+	  - Loi n°1924-05-31 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6123-1 (V)
+
+
+###### Article L123-3
+
+En outre, l'autorité publique a le droit de retenir tout aéronef français ou étranger qui ne remplit pas les conditions
+prévues par le présent livre pour se livrer à la circulation aérienne ou dont le pilote a commis une infraction au sens du
+présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6231-1 (V)
 
 
 ### TITRE III : CIRCULATION DES AERONEFS
