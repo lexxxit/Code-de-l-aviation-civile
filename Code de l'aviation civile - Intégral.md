@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-11-11
 
 # Partie législative
 
@@ -9108,107 +9108,6 @@ circonscription duquel la victime a été obligée d'atterrir après l'avarie.
 
 #### CHAPITRE II : ASSISTANCE, SAUVETAGE, DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS OU D'INCIDENTS.
 
-###### Article R142-1
-
-Sous réserve des dispositions de l'article L. 142-1, toute personne qui trouve une épave d'aéronef doit en faire la
-déclaration à l'autorité municipale dans les quarante-huit heures de la découverte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 41 , alinéa 1 1re phrase
-	  - Loi n°1924-05-31 art. 58, alinéa 1, 1re phrase
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
-	  - Code de l'aviation civile - art. R151-3 (Ab)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L142-1 (V)
-
-
-###### Article R142-2
-
-Tout accident ou tout incident affectant ou pouvant affecter la sécurité d'un aéronef, survenu au sol ou dans l'espace aérien
-soumis à la souveraineté française, doit être déclaré par le commandant de bord soit au commandant d'aérodrome le plus
-proche, soit au centre de contrôle régional avec lequel il est en liaison. Il est précisé dans la déclaration si l'accident
-ou l'incident a causé des dommages aux personnes ou aux biens.
-
-Si le commandant de bord est hors d'état de faire la déclaration mentionnée à l'alinéa précédent, celle-ci incombe aux
-dirigeants de la compagnie exploitant l'aéronef, au président de l'aéroclub dont dépend cet aéronef ou au propriétaire de
-l'appareil. La déclaration est faite, dans ce cas, au service du ministère chargé de l'aviation civile qui est responsable
-des enquêtes sur les accidents ou incidents d'aéronefs.
-
-Lorsque l'accident ou l'incident est survenu hors du territoire français ou hors de l'espace aérien soumis à la souveraineté
-française, la déclaration prévue aux alinéas ci-dessus est effectuée par les dirigeants de la compagnie exploitant l'aéronef,
-le président de l'aéroclub ou le propriétaire de l'appareil auprès du service ci-dessus mentionné.
-
-Les accidents ou incidents survenus à des aéronefs en cours d'essai ou de reception sont déclarés au centre d'essai en vol du
-ministère de la défense par le propriétaire ou l'exploitant de l'aéronef.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°80-909 du 17 novembre 1980 - art. 2 () JORF 21 novembre 1980
-
-	**Abrogé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
-	  - Code de l'aviation civile - art. R142-3 (Ab)
-	  - Code de l'aviation civile - art. R151-4 (Ab)
-
-
-###### Article R142-3
-
-Les dirigeants des sociétés de construction aéronautique, des ateliers d'entretien ou de révision ou des sociétés de
-classification sont tenus, dans un délai de trente jours à compter de la constatation dans ces sociétés ou ateliers de
-défauts résultant d'un accident ou d'un incident et susceptibles de compromettre la sécurité d'un aéronef, de déclarer ces
-défauts au service mentionné à l'article R. 142-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°80-909 du 17 novembre 1980 - art. 2 () JORF 21 novembre 1980
-
-	**Abrogé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
-	  - Code de l'aviation civile - art. R151-4 (Ab)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R142-2 (Ab)
-
-
 ###### Article R142-4
 
 Si l'accident ou l'incident entraîne des dommages aux personnes ou aux biens transportés, le procureur de la République est
@@ -9270,69 +9169,6 @@ l'article R. 131-3 et les pilotes qui auront participé à ces manifestations ;
 	  - Code de l'aviation civile - art. R131-2 (V)
 	  - Code de l'aviation civile - art. R131-3 (M)
 	  - Code de l'aviation civile - art. R133-12 (Ab)
-
-
-###### Article R151-3
-
-Toute contravention à l'article R. 142-1 est punie des peines prévues à l'article R. 30 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 41 , alinéa 1 2e phrase
-	  - Loi n°1924-05-31, art. 58, al. 1 2e phrase
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°80-909 du 17 novembre 1980 - art. 3 () JORF 21 novembre 1980
-
-	**Abrogé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code pénal R30
-	  - Code de l'aviation civile - art. R142-1 (Ab)
-
-
-###### Article R151-4
-
-Toute infraction aux dispositions des articles R. 142-2 et R. 142-3 sera punie de la peine d'amende prévue par le 4° de
-l'article 131-13 du code pénal pour les contraventions de la quatrième classe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-13 (M)
-	  - Code de l'aviation civile - art. R142-2 (Ab)
-	  - Code de l'aviation civile - art. R142-3 (Ab)
 
 
 ###### Article R151-5
@@ -17499,20 +17335,17 @@ sous quelque forme que ce soit, par les employeurs du personnel navigant ou les 
 
 ###### Article R425-1
 
-Le commandant de bord est tenu d'établir un rapport circonstancié dans les quarante-huit heures suivant tout accident ou
-incident affectant ou pouvant affecter la sécurité d'un aéronef et survenu soit au sol, soit en vol. Il en est de même pour
-toute infraction aux règlements de la circulation aérienne.
+Tout commandant de bord appartenant à la catégorie des essais et réceptions est tenu d'établir un rapport circonstancié dans
+les quarante-huit heures suivant tout accident ou incident affectant ou pouvant affecter la sécurité d'un aéronef et survenu
+soit au sol, soit en vol. Il en est de même pour toute infraction aux règlements de la circulation aérienne.
 
 Ce rapport, établi en trois exemplaires, est adressé :
 
-Aux représentants qualifiés de l'aéronautique civile ou du ministre des armées suivant que le commandant de bord appartient
-aux catégories Transport aérien ou Travail aérien ou à la catégorie Essais et réceptions ;
+- aux représentants qualifiés du ministre chargé des armées ;
 
-A la direction de l'entreprise intéressée ;
+- à la direction de l'entreprise intéressée ;
 
-Au conseil du personnel navigant.
-
-Le dépôt du rapport prescrit au premier alinéa du présent article tient lieu de la déclaration prévue à l'article R. 142-2..
+- au président de la section des essais et réceptions du conseil du personnel navigant.
 
 **Liens relatifs à cet article**
 
@@ -17525,15 +17358,20 @@ Le dépôt du rapport prescrit au premier alinéa du présent article tient lieu
 
 	  - Décret n°67-334 1967-03-30
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 3 () JORF 21 novembre 1980
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 2 () JORF 11 novembre 2001
 
 
 ###### Article R425-2
 
-Le ministre chargé de l'aviation civile ou, s'il s'agit des essais et réceptions, le ministre des armées fait procéder à
-toutes investigations et enquêtes en vue de rechercher et de constater les causes des accidents ou incidents.
+S'il s'agit des essais et réceptions, le ministre des armées fait procéder à toutes investigations et enquêtes en vue de
+rechercher et de constater les causes des accidents ou incidents.
 
 **Liens relatifs à cet article**
 
@@ -17546,6 +17384,15 @@ toutes investigations et enquêtes en vue de rechercher et de constater les caus
 
 	  - Décret n°67-334 1967-03-30
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 3 () JORF 11 novembre 2001
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R425-3 (V)
@@ -17553,15 +17400,11 @@ toutes investigations et enquêtes en vue de rechercher et de constater les caus
 
 ###### Article R425-3
 
-Le ministre chargé de l'aviation civile ou le ministre des armées peut instituer une commission d'enquête dont la composition
-est fixée par arrêté et qui comprend obligatoirement un contrôleur en vol.
+Dans le cas prévu à l'article R. 425-2 le ministre des armées peut instituer une commission d'enquête dont la composition est
+fixée par arrêté.
 
 Cette commission d'enquête entend obligatoirement les représentants des entreprises intéressées ainsi que le personnel
 navigant mis en cause ou ses représentants.
-
-Les rapports d'enquête sont adressés aux magistrats sur leur demande et sur décision du ministre chargé de l'aviation civile
-et du ministre des armées, aux Etats étrangers ayant participé à l'enquête, aux départements ministériels, aux compagnies
-exploitantes, aux aéro-clubs, aux propriétaires de l'aéronef intéressé à l'accident et au Journal officiel pour publication.
 
 **Liens relatifs à cet article**
 
@@ -17573,6 +17416,19 @@ exploitantes, aux aéro-clubs, aux propriétaires de l'aéronef intéressé à l
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 4 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R425-2 (M)
 
 
 ###### Article R425-4
@@ -17911,27 +17767,6 @@ Le secrétariat assiste aux séances et aux délibérations. Il est tenu au secr
 
 	**Cité par**:
 
-	  - Code de l'aviation civile - art. D435-1 (M)
-
-
-###### Article R425-16
-
-Quand la commission d'enquête prévue à l'article R. 425-3 conclut à une faute professionnelle, un double du dossier est
-adressé directement au conseil de discipline de l'aéronautique civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
 	  - Code de l'aviation civile - art. D435-1 (M)
 
 
@@ -20226,6 +20061,613 @@ matière de fonds de concours pour dépenses d'intérêt public.
 	**Anciens textes**:
 
 	  - Loi n°48-1992 1948-12-31 art. 8
+
+
+## LIVRE VII : ENQUÊTE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS
+
+### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+###### Article R711-1
+
+L'organisme permanent spécialisé chargé, en application des articles L. 711-1 et L. 711-2, de procéder aux enquêtes
+techniques relatives aux accidents ou incidents dans l'aviation civile est un service à compétence nationale placé auprès du
+chef de l'inspection générale de l'aviation civile, qui a pour nom : "bureau d'enquêtes et d'analyses pour la sécurité de
+l'aviation civile" et pour sigle "BEA".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cité par**:
+
+	  - Décret n°2007-1572 du 6 novembre 2007 - art. 3 (V)
+	  - Décret n°2008-680 du 9 juillet 2008 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1 (M)
+	  - Code de l'aviation civile - art. L711-2 (M)
+
+
+###### Article R711-2
+
+Le BEA propose au ministre chargé de l'aviation civile la réglementation relative à la préservation des éléments de l'enquête
+technique ainsi qu'à l'utilisation générale des enregistreurs de bord.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+###### Article R711-3
+
+Le BEA comporte un secrétariat général, des départements et des divisions. Il comprend une unité chargée de la communication.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+###### Article R711-4
+
+Le directeur du BEA est nommé, pour une durée de sept ans, par arrêté du ministre chargé de l'aviation civile, sur la
+proposition du chef de l'inspection générale de l'aviation civile, parmi les fonctionnaires de l'Etat de catégorie A ayant au
+moins vingt ans d'expérience professionnelle dans des domaines de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+###### Article R711-5
+
+Le BEA comprend des enquêteurs techniques et des agents techniques ou administratifs, qui sont des fonctionnaires affectés
+après avis du directeur du BEA, ou, à défaut, des agents contractuels recrutés après avis de ce dernier conformément aux
+dispositions législatives et réglementaires en vigueur.
+
+Les enquêteurs techniques sont désignés parmi les fonctionnaires de catégorie A ou les agents contractuels de même niveau.
+Sur la proposition du directeur du BEA, ils sont commissionnés par le ministre chargé de l'aviation civile sous réserve de
+n'avoir subi aucune condamnation incompatible avec l'exercice de leur fonction. Le commissionnement des enquêteurs techniques
+peut leur être retiré dans l'intérêt du service selon la même procédure.
+
+Le BEA peut faire appel à des experts, qui peuvent appartenir à des organismes homologues d'Etats membres de l'organisation
+de l'aviation civile internationale. Les experts sont soumis au secret professionnel dans les mêmes conditions que les agents
+du BEA.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+###### Article R711-6
+
+Les enquêteurs de première information prévus à l'article L. 711-3 sont agréés par le directeur du BEA, sur la proposition
+des chefs des services déconcentrés de l'aviation civile dont ils dépendent, parmi les fonctionnaires des corps techniques de
+l'aviation civile ayant accompli au moins trois années de services effectifs dans leur corps après leur titularisation.
+
+Le directeur du BEA peut également agréer en qualité d'enquêteurs de première information des agents techniques de son
+service.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-3 (M)
+
+
+###### Article R711-7
+
+Le directeur du BEA dirige l'action du BEA. Il a autorité sur tous les personnels. Il détermine l'organisation particulière
+de celui-ci.
+
+Il est l'ordonnateur secondaire des recettes et des dépenses du service.
+
+Il peut donner par décisions expresses délégation aux fonctionnaires et agents relevant de son autorité pour signer tous
+actes, décisions, contrats, conventions et avenants, ainsi que tous bons de commande et pièces comptables.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+###### Article R711-8
+
+Le directeur du BEA fixe le champ d'investigation et les méthodes de chaque enquête technique au regard des objectifs fixés à
+l'article L. 711-1.
+
+Il désigne l'enquêteur technique chargé d'en assurer l'organisation, la conduite et le contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+###### Article R711-9
+
+Le directeur du BEA peut déléguer à un Etat étranger la réalisation de tout ou partie d'une enquête technique dans les
+conditions fixées au IV de l'article L. 711-1.
+
+Il peut accepter la délégation par un Etat étranger de la réalisation de tout ou partie d'une enquête technique.
+
+Il organise la participation française aux enquêtes techniques menées par un Etat étranger et fixe les règles relatives à
+cette participation dans les conditions prévues par les conventions internationales auxquelles la France est partie et par la
+directive 94/56/CE du Conseil du 21 novembre 1994 établissant les principes fondamentaux régissant les enquêtes sur les
+accidents et les incidents dans l'aviation civile. Dans les mêmes conditions, les représentants des Etats concernés par un
+accident ou un incident peuvent participer à l'enquête technique sous le contrôle du BEA.
+
+Lorsqu'il en a connaissance, il informe l'autorité judiciaire compétente de tout accident d'aviation civile survenu en dehors
+du territoire et de l'espace aérien français et ayant entraîné le décès d'une ou de plusieurs personnes de nationalité
+française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1 (M)
+	  - Directive 94-56 1994-11-21
+
+
+###### Article R711-10
+
+La commission d'enquête prévue à l'article L. 711-2 est présidée par un membre ou un ancien membre de l'inspection générale
+de l'aviation civile.
+
+Elle comprend, outre le président :
+
+- un membre ou un ancien membre du Conseil d'Etat ;
+
+- un membre de la section sécurité et navigation aérienne de l'inspection générale de l'aviation civile ;
+
+- un membre du personnel navigant professionnel de l'aéronautique civile désigné pour sa connaissance du milieu
+professionnel ;
+
+- une personne désignée pour sa connaissance de la conduite des aéronefs ;
+
+- une personne désignée pour sa connaissance de l'exploitation des aéronefs ;
+
+- une personne désignée pour sa connaissance de la construction aéronautique ;
+
+- deux personnes désignées pour leurs compétences particulières en rapport avec le type d'accident, objet de l'enquête.
+
+Les membres de la commission d'enquête sont nommés par arrêté du ministre chargé de l'aviation civile sur la proposition du
+chef de l'inspection générale de l'aviation civile.
+
+La commission d'enquête est tenue informée du déroulement de l'enquête technique. Elle peut proposer au BEA des recherches
+complémentaires. Elle est consultée sur le projet de rapport d'enquête.
+
+Les réunions de la commission d'enquête ne sont pas publiques.
+
+Le directeur du BEA ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions.
+
+L'activité de la commission d'enquête prend fin à la publication du rapport d'enquête.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-2 (M)
+
+
+### TITRE II : DÉCOUVERTE D'ÉPAVES ET DÉCLARATIONS D'ACCIDENTS OU D'INCIDENTS
+
+###### Article R722-1
+
+Sous réserve des dispositions de l'article L. 142-1, toute personne qui découvre une épave ou un élément d'aéronef doit en
+faire la déclaration sans délai au service de police ou de gendarmerie le plus proche.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L142-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R741-1 (V)
+
+
+###### Article R722-2
+
+Sur proposition du directeur du BEA, le ministre chargé de l'aviation civile arrête la liste des incidents qui, outre les
+accidents, doivent être portés à la connaissance du service. Cette liste comprend au moins les incidents graves figurant en
+annexe à la directive 94/56/CE du Conseil du 24 novembre 1994 établissant les principes fondamentaux régissant les enquêtes
+sur les accidents et les incidents dans l'aviation civile. Elle est publiée au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R722-3 (V)
+	  - Code de l'aviation civile - art. R722-4 (V)
+	  - Code de l'aviation civile - art. R722-5 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Cite**:
+
+	  - Directive 94-56 1994-11-21
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+###### Article R722-3
+
+Le commandant de bord d'un aéronef visé au II de l'article L. 711-1 et effectuant un vol dans l'espace aérien français
+déclare sans retard à l'organisme de la circulation aérienne avec lequel il est en contact ou, à défaut, au responsable de
+l'aérodrome le plus proche tout accident ou tout incident mentionné dans la liste prévue à l'article R. 722-2, impliquant son
+aéronef et constaté par lui.
+
+Dans le cas où le commandant de bord est empêché de faire cette déclaration ou lorsque l'accident ou l'incident est survenu
+hors de l'espace aérien français à un aéronef immatriculé en France ou exploité par une personne physique ou morale ayant en
+France son principal établissement ou son siège statutaire, la déclaration est faite sans retard au BEA par l'exploitant de
+l'aéronef, le président de l'aéro-club dont dépend l'aéronef ou le propriétaire de l'aéronef.
+
+Dans les entreprises ou organismes ayant organisé et mis en oeuvre des procédures agréées par le BEA pour garantir la
+préservation et la bonne transmission des informations, la déclaration prévue au premier alinéa peut être transmise par
+l'employeur au BEA.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1 (M)
+	  - Code de l'aviation civile - art. R722-2 (M)
+
+
+###### Article R722-4
+
+Les agents chargés du contrôle ou de l'information de la circulation aérienne générale qui constatent ou sont informés d'un
+accident ou d'un incident mentionné dans la liste prévue à l'article R. 722-2 en informent le BEA selon les modalités fixées
+par arrêté du ministre chargé de l'aviation civile, pris sur proposition du directeur du BEA. Ils prennent les dispositions
+de nature à préserver les informations pouvant être utiles à une enquête technique.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001 rectificatif JORF 15 décembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R722-2 (M)
+
+
+###### Article R722-5
+
+Les dirigeants des entreprises assurant la conception, la fabrication, l'entretien ou le contrôle des aéronefs, de leurs
+moteurs ou de leurs équipements, et ayant en France leur siège statutaire ou leur principal établissement informent sans
+retard le BEA de tout accident ou de tout incident mentionné dans la liste prévue à l'article R. 722-2 et survenu à ces
+aéronefs, moteurs ou équipements, dès qu'ils en ont connaissance et quel que soit le lieu où l'événement s'est produit.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R722-2 (M)
+
+
+### TITRE III : RAPPORTS D'ENQUÊTE ET RECOMMANDATIONS DE SÉCURITÉ.
+
+###### Article R731-1
+
+Le directeur du BEA et, le cas échéant, le président de la commission d'enquête, habilités en application du II de l'article
+L. 731-1 à communiquer sur les constatations faites, le déroulement de l'enquête technique et éventuellement ses conclusions
+provisoires, utilisent les moyens qu'ils estiment appropriés tels que communiqués, conférences de presse, entretiens avec des
+journalistes ou insertions d'informations par tout support d'information à distance. Ils peuvent recevoir les victimes
+d'accidents d'aviation civile, leurs familles et leurs associations représentatives.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L731-1 (M)
+
+
+###### Article R731-2
+
+Les destinataires de recommandations de sécurité mentionnées au I de l'article L. 711-1 font connaître au BEA, dans un délai
+de quatre-vingt-dix jours après leur réception, les suites qu'ils entendent leur donner et, le cas échéant, le délai
+nécessaire à leur mise en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1 (M)
+
+
+###### Article R731-3
+
+Les rapports d'enquête ainsi que les études et les statistiques établies par le BEA sont publics. Ils sont communicables dans
+les conditions prévues au titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
+relations entre l'administration et le public. Ils sont mis à la disposition du public par tout moyen.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+
+### TITRE IV : DISPOSITIONS PÉNALES
+
+###### Article R741-1
+
+Le fait par une personne ayant découvert une épave ou un élément d'aéronef de ne pas faire la déclaration prescrite à
+l'article R. 722-1 est puni de l'amende prévue pour les contraventions de 2e classe.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
+	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R722-1 (M)
 
 
 # Partie réglementaire - Décrets simples
