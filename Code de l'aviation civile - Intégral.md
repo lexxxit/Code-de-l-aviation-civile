@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1976-07-29
+Version Consolidée au 1976-12-15
 
 # Partie législative
 
@@ -7236,6 +7236,59 @@ Des décrets préciseront les modalités d'application du présent titre.
 
 ##### Section 1 : Administration et gestion.
 
+##### Paragraphe 1 : Conseil d'administration.
+
+###### Article R252-13
+
+Doivent être soumises à l'approbation du ministre chargé de l'aviation civile les délibérations portant sur des matières
+touchant aux réglementations nationales et internationales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 3 JORF 15 décembre 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R252-15
+
+Les délibérations relatives aux objets sur lesquels le conseil peut décider sans soumettre sa décision à l'approbation du
+ministre deviennent immédiatement exécutoires si le commissaire du Gouvernement n'y fait pas opposition en séance. S'il y est
+fait opposition, elles deviennent exécutoires si elles n'ont pas été annulées par le ministre chargé de l'aviation civile
+dans un délai de quinze jours à compter de la date à laquelle il a reçu notification du procès-verbal de la délibération.
+
+Les délibérations du conseil d'administration ne peuvent être annulées que par décision motivée.
+
+Les dispositions du présent article ne font pas obstacle à l'application des autres dispositions du présent code prévoyant
+des règles de contrôle particulières à certaines délibérations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 4 JORF 15 décembre 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
 ##### Paragraphe 2 : Directeur général.
 
 ###### Article R252-20
@@ -7307,6 +7360,80 @@ après avis du contrôleur d'Etat.
 	  - Décret n°67-334 1967-03-30
 
 
+###### Article R252-12
+
+Le conseil définit la politique générale de l'aéroport.
+
+Il a l'initiative des mesures nécessaires à la création des ressources destinées à couvrir les charges d'administration,
+d'entretien, d'exploitation et d'amélioration de l'aéroport. Il établit sur ces mesures un rapport annuel et le transmet au
+ministre chargé de l'aviation civile.
+
+Il donne au ministre chargé de l'aviation civile son avis sur toutes les questions relevant des divers services publics et
+intéressant directement l'exploitation de l'aéroport.
+
+Il exerce toutes actions judiciaires tant en demande qu'en défense.
+
+Il passe tous actes, contrats, traités et marchés dans les conditions fixées par arrêté du ministre chargé de l'aviation
+civile et du ministre de l'économie et des finances.
+
+Il nomme aux emplois de direction.
+
+Il arrête le plan d'organisation et de fonctionnement des services de l'aéroport autres que ceux assurés directement par le
+ministre chargé de l'aviation civile et fixe les tableaux d'effectifs par catégories générales.
+
+Il établit les statuts du personnel visé à l'alinéa précédent ainsi que ses échelles de traitements, salaires et indemnités
+qui sont approuvés par décision commune du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
+
+Il fixe les traitements, salaires et indemnités dans le cadre des échelles approuvées et en se conformant aux règles des
+statuts du personnel ; il arrête les tableaux d'avancement.
+
+Il soumet à l'approbation du ministre chargé de l'aviation civile les activités aériennes autorisées sur chacun des aéroports
+et aérodromes en exploitation.
+
+Il arrête chaque année, dans le cadre de la section d'opérations en capital de l'état de prévisions de recettes et de
+dépenses, le programme général des travaux qui est soumis à l'approbation du ministre chargé de l'aviation civile.
+
+Il adopte l'état de prévisions de recettes et de dépenses ainsi que les comptes financiers et soumet ces documents à
+l'approbation du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
+
+Il prend toutes les mesures nécessaires à la réalisation des emprunts que l'aéroport est autorisé à émettre.
+
+Il décide la mise à la disposition des usagers, sous le régime de l'occupation temporaire du domaine public, des terrains,
+ouvrages et installations de l'aéroport, sous réserve de l'approbation du contrôleur d'Etat et du commissaire du Gouvernement
+lorsque l'occupation temporaire est prévue pour une durée supérieure à cinq ans.
+
+Il présente au ministre chargé de l'aviation civile ses propositions concernant les conditions d'établissement et de
+perception des redevances mentionnées au paragraphe A de l'article R. 224-2 et fixe le taux de ces redevances dans les
+conditions prévues au paragraphe B du même article. Il fixe les modalités d'établissement et de perception ainsi que les taux
+des redevances mentionnées à l'article R. 224-3 dans les conditions prévues audit article.
+
+Il présente au ministre chargé de l'aviation civile et au ministre de l'économie et des finances ses propositions concernant
+les participations financières et les concessions d'affermages qu'il peut avoir intérêt à autoriser.
+
+Il peut déléguer une partie de ses attributions à son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 2 JORF 15 décembre 1976
+	  - Décret n°75-509 1975-06-19 art. 2 JORF 27 juin 1975
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R224-2 (An)
+	  - Code de l'aviation civile - art. R224-3 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-18 (M)
+	  - Code de l'aviation civile - art. R253-1 (Ab)
+
+
 ###### Article R252-14
 
 Le conseil d'administration accepte ou refuse sans autorisation spéciale les dons et legs faits sans charges ni conditions.
@@ -7368,6 +7495,49 @@ arrêté du ministre chargé de l'aviation civile.
 	  - Code de l'aviation civile - art. R252-19 (M)
 
 
+###### Article R252-18
+
+Le directeur général est chargé de la préparation et de l'exécution de l'état de prévisions de recettes et de dépenses ainsi
+que de l'exécution des décisions du conseil d'administration.
+
+Il reçoit délégation permanente dans les limites fixées par arrêté du ministre chargé de l'aviation civile et du ministre de
+l'économie et des finances, pris sur la proposition du conseil d'administration pour l'approbation des marchés, des baux et
+locations d'immeubles, des achats, ventes et réformes d'objets mobiliers ainsi que des transactions en cas de litige.
+
+Par délégation générale du conseil et dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à celui
+d'agent comptable et à ceux qui sont prévus aux articles R. 252-12 et R. 252-19.
+
+Il est consulté sur les nominations aux emplois de direction.
+
+Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à la disposition de l'aéroport suivant la
+réglementation en vigueur dans leurs corps. Ils peuvent toujours être remis à la disposition de leur administration, sans que
+cette mesure ait un caractère disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°75-509 1975-06-19 art. 4 JORF 27 juin 1975
+	  - Décret n°76-1143 1976-12-10 art. 5 JORF 15 décembre 1976
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R252-12 (M)
+	  - Code de l'aviation civile - art. R252-19 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-12-4 (Ab)
+
+
 ###### Article R252-19
 
 Le directeur général en tant qu'agent du pouvoir central assure dans la zone de l'aéroport la direction des services de
@@ -7394,6 +7564,123 @@ référé au ministre intéressé par ce fonctionnaire et au ministre chargé de
 	  - Code de l'aviation civile - art. R252-12-2 (Ab)
 	  - Code de l'aviation civile - art. R252-17 (Ab)
 	  - Code de l'aviation civile - art. R252-18 (Ab)
+
+
+##### Section 2 : Contrôle.
+
+###### Article R252-21
+
+Un inspecteur général désigné par le ministre chargé de l'aviation civile vérifie sur place, au moins une fois par an, le
+fonctionnement des services de l'aéroport.
+
+Il correspond directement, pour les besoins du service, avec le président du conseil d'administration et avec le directeur
+général.
+
+Il a le droit de prendre connaissance, à toute époque, des procès-verbaux des délibérations du conseil d'administration, des
+registres, écritures et correspondances des fonctionnaires et agents de l'aéroport, et généralement de tous les documents
+qu'il juge nécessaires pour apprécier la situation de l'aéroport.
+
+Il établit chaque année un rapport d'ensemble ayant pour objet de rendre compte de la situation de l'aéroport, à la fin de
+l'exercice précédent, au point de vue technique, économique et financier. Ce rapport indique, s'il y a lieu, les
+améliorations susceptibles d'être introduites dans le fonctionnement des différents services.
+
+Ce rapport est adressé au ministre, qui le communique au président du conseil d'administration. Le conseil examine le rapport
+et établit ses observations, qui sont communiquées au ministre.
+
+En outre, indépendamment du contrôle économique et financier de l'Etat, le ministre chargé de l'aviation civile peut faire
+inspecter et vérifier le fonctionnement de tous les services de l'aéroport par des fonctionnaires de son département
+habilités à cet effet et chargés de procéder en son nom à toutes les constatations nécessaires. (1)
+
+Ces contrôleurs spéciaux ont, pour l'accomplissement de leur mission, les mêmes pouvoirs que l'inspecteur général.
+
+L'inspecteur général et les contrôleurs spéciaux peuvent se faire assister dans l'exécution de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 21
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 6 JORF 15 décembre 1976
+
+
+#### CHAPITRE III : RÉGIME FINANCIER
+
+###### Article R253-1
+
+Est établi chaque année un état de prévisions de recettes et de dépenses relatif à l'exercice suivant, comportant :
+
+Une section d'exploitation ;
+
+Une section d'opérations en capital. Pour cette dernière section, tous les chapitres relatifs aux dépenses d'investissement
+ont un caractère limitatif.
+
+L'état de prévisions est présenté par le directeur général au conseil d'administration, qui l'adopte dans les conditions
+prévues à l'article R. 252-12.
+
+Les modifications reconnues nécessaires en cours d'exercice sont présentées et adoptées dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R252-12 (M)
+
+
+###### Article R253-4
+
+Les marchés passés par Aéroport de Paris sont soumis au régime des marchés publics. Dans le cadre de ce régime, des règles
+particulières aux marchés d'Aéroport de Paris peuvent être fixées par le conseil d'administration, sous réserve de
+l'approbation du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
+
+
+###### Article R253-5
+
+Les immeubles dépendant du domaine public ou privé de l'Etat dont l'administration et la jouissance sont remises à Aéroport
+de Paris pour lui permettre d'accomplir sa mission ne peuvent être déclassés, faire l'objet d'un transfert de gestion ou
+d'une affectation, d'une aliénation ou d'une location que dans les conditions et suivant les procédures prévues par le code
+du domaine de l'Etat pour les biens domaniaux.
+
+Le produit des ventes ainsi qu'éventuellement les indemnités d'affectation sont encaissés par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-12 (M)
+	  - Code de l'aviation civile - art. R252-12-3 (Ab)
 
 
 #### CHAPITRE IV : DISPOSITIONS DIVERSES.
