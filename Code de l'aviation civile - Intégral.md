@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-07-21
 
 # Partie législative
 
@@ -4281,36 +4281,6 @@ fabrication de matériel aéronautique, ni prendre de participation dans de tell
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R341-1 (Ab)
-
-
-###### Article L341-2
-
-A concurrence de 30 p. 100 du capital, l'Etat doit céder des actions de la Compagnie nationale Air France :
-
-1° A des collectivités et établissements publics intéressés de la République française en métropole et outre-mer ;
-
-2° A des personnes privées françaises, physiques ou morales.
-
-En aucun cas, le total des actions souscrites par la deuxième catégorie ne pourra excéder 15 p. 100 du capital.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 138
-	  - Loi n°48-976 1948-06-16 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Abrogé par**:
-
-	  - Loi n°93-923 du 19 juillet 1993 - art. 23 (Ab) JORF 21 juillet 1993
-
-	**Cité par**:
-
-	  - Loi n°93-923 du 19 juillet 1993 - art. 23 (Ab)
 
 
 #### CHAPITRE II : FONCTIONNEMENT.
@@ -17292,6 +17262,39 @@ ayant entraîné des dégâts supérieurs ou égaux à 60 % de sa valeur neuf.
 	**Modifié par**:
 
 	  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+
+###### Article D133-5
+
+Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des certificats de
+type mentionnés aux articles R. 133-1 et R. 133-2 du code de l'aviation civile, mis à la charge des postulants par l'article
+R. 133-4, comprennent : 
+
+1° Une somme forfaitaire représentant le montant des frais administratifs d'établissement des certificats de type et des
+frais de contrôle, fixée annuellement pour chaque postulant par arrêté du ministre chargé de l'aviation civile ; 
+
+2° Les frais des missions et déplacements relatifs aux contrôles effectués pour chacun des postulants. 
+
+Les sommes ainsi perçues sont recouvrées par les agents comptables du budget annexe de l'aviation civile. 
+
+Toutefois, les organismes techniques extérieurs à l'administration habilités en application de l'article R. 133-5 du code de
+l'aviation civile, peuvent percevoir directement les sommes correspondant aux contrôles qu'ils ont été chargés d'effectuer
+dans le cadre de leur habilitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (V)
+	  - Code de l'aviation civile - art. R133-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°93-921 1993-07-13 art. 1 JORF 21 juillet 1993
 
 
 ##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.
