@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2001-01-05
+Version Consolidée au 2001-01-17
 
 # Partie législative
 
@@ -4487,6 +4487,53 @@ applicables au transport aérien public, quelle que soit l'utilisation faite par
 	  - Code des transports - art. L6412-6 (V)
 
 
+#### CHAPITRE IV : PRIX ABUSIVEMENT BAS EN MATIERE DE TRANSPORT AERIEN.
+
+###### Article L324-1
+
+Est puni d'une amende de 100 000 F le fait pour tout transporteur aérien, ou tout prestataire de services de transport
+aérien, y compris les auxiliaires de transport, de ne pas s'être conformé à une décision administrative visant à interdire de
+nouvelles baisses des tarifs des services aériens intracommunautaires, prise en application de l'article 6 du règlement (CEE)
+n° 2409/92 du Conseil du 23 juillet 1992 sur les tarifs des passagers et de fret des services aériens.
+
+Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
+pénal, de l'infraction prévue au présent article. La peine encourue par les personnes morales est l'amende, suivant les
+modalités prévues à l'article 131-38 du code pénal.
+
+Les infractions sont recherchées et constatées dans les conditions prévues aux articles 45 (premier et troisième alinéa), 46,
+47, 51 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence. Le
+procureur de la République est préalablement avisé des opérations envisagées. Les procès-verbaux qui font foi jusqu'à preuve
+du contraire lui sont transmis sans délai. Copie en est adressée à l'intéressé.
+
+Le transporteur aérien, le prestataire de services de transport aérien ou l'auxiliaire de transport évincé en raison d'un
+prix abusivement bas, les organisations professionnelles de transporteurs ou prestataires de services de transport par voie
+aérienne, d'auxiliaires de transport ou de loueurs d'aéronefs avec équipage, représentatives au niveau national, peuvent se
+porter partie civile.
+
+L'action est prescrite dans un délai d'un an à compter de la date de fin d'exécution du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cite**:
+
+	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47, art. 51, art. 52
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Règlement CEE 92-2409 1992-07-23
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 19 () JORF 17 janvier 2001
+
+
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
 
 ###### Article L330-1
@@ -5163,8 +5210,31 @@ reproduit provisoirement pour mémoire.
 ###### Article L410-1
 
 Le commandant, les pilotes, les mécaniciens et toute personne faisant partie du personnel chargé de la conduite d'un aéronef
-doivent être pourvus d'un brevet d'aptitude dans les conditions qui sont déterminées par le ministre chargé de l'aviation
-civile.
+doivent être pourvus de titres aéronautiques et de qualifications dans des conditions déterminées par arrêté du ministre
+chargé de l'aviation civile et, le cas échéant, du ministre de la défense.
+
+Les titres aéronautiques désignés sous l'appellation de brevets, licences ou certificats attestent l'acquisition de
+connaissances générales théoriques et pratiques et ouvrent le droit à leurs titulaires de remplir les fonctions
+correspondantes, sous réserve, le cas échéant, de la possession des qualifications propres à un type d'appareil, à un
+équipement ou aux conditions de vol et de l'aptitude médicale requise correspondante.
+
+Les brevets sont délivrés par le ministre chargé de l'aviation civile et, le cas échéant, le ministre de la défense après
+examen et sont définitivement acquis. Les licences, les certificats et les qualifications sont délivrés par les mêmes
+autorités ministérielles après examen et sont soit acquis définitivement, soit valables pour une période limitée. Dans ce
+dernier cas, le maintien de leur validité est soumis à la vérification des aptitudes requises. Lorsqu'il n'est pas délivré de
+brevet associé à la licence, celle-ci a valeur de brevet et est définitivement acquise.
+
+Certains aéronefs monoplaces ou biplaces non motorisés, en raison de leurs caractéristiques particulières, notamment de masse
+et de vitesse, peuvent être pilotés sans titre aéronautique dans des conditions fixées par arrêté du ministre chargé de
+l'aviation civile.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 410-1 : au deuxième alinéa, les mots " le ministre chargé de l'aviation civile ", aux premier et troisième alinéas, les
+mots " par arrêté du ministre chargé de l'aviation civile et, le cas échéant, du ministre de la défense " et au troisième
+alinéa, les mots " par les mêmes autorités ministérielles " (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -5176,10 +5246,6 @@ civile.
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°67-487 1967-06-23 art. 2 JORF 25 juin 1967
 
 	**Cité par**:
 
@@ -5197,6 +5263,240 @@ civile.
 	  - Code de l'aviation civile - art. R410-2 (V)
 	  - Code de l'aviation civile - art. R421-7 (V)
 	  - Code de l'aviation civile - art. R611-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 16 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6511-1 (V)
+	  - Code des transports - art. L6511-2 (V)
+	  - Code des transports - art. L6511-3 (V)
+
+
+###### Article L410-2
+
+Les centres d'expertise de médecine aéronautique et les médecins examinateurs délivrent, pour le personnel navigant, après
+examen, les certificats médicaux exigés pour exercer les fonctions correspondant aux titres aéronautiques.
+
+A cet effet, pour les licences relevant de la compétence du ministre chargé de l'aviation civile, ils doivent être agréés par
+le ministre chargé de l'aviation civile dans des conditions fixées par décret. Celles-ci portent notamment sur les moyens
+matériels spécifiques mis en oeuvre et sur la formation en médecine aéronautique du personnel médical.
+
+Le conseil médical de l'aéronautique civile, s'il est saisi d'un recours par le ministre chargé de l'aviation civile,
+l'intéressé ou l'employeur, à la suite des décisions prises par les centres de médecine aéronautique et les médecins
+examinateurs, décide de l'aptitude du personnel navigant.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 410-2, les mots " par le ministre chargé de l'aviation civile dans des conditions fixées par décret " et " le conseil
+médical de l'aéronautique civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 17 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6511-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D410-1 (Ab)
+	  - Code de l'aviation civile - art. D410-2 (Ab)
+	  - Code de l'aviation civile - art. L410-5 (VT)
+	  - Code de l'aviation civile - art. L410-6 (VT)
+
+
+###### Article L410-3
+
+Les organismes dispensant la formation pour l'obtention et le maintien des titres aéronautiques du personnel navigant
+professionnel et, sur leur demande, des autres titres aéronautiques ainsi que les organismes ou, le cas échéant, les
+personnes physiques dispensant la formation pour l'obtention et le maintien des qualifications doivent être agréés par le
+ministre chargé de l'aviation civile. Les conditions d'agrément sont fixées par arrêté ministériel. Elles portent sur
+l'organisation, les moyens humains et matériels, les garanties financières ainsi que sur les programmes de formation et
+d'opérations.
+
+Les organismes de formation aux licences non professionnelles peuvent ne pas être agréés et doivent déclarer leur activité au
+ministre chargé de l'aviation civile, dans des conditions fixées par arrêté ministériel.
+
+Les entraîneurs synthétiques de vol destinés à la formation ou au maintien des compétences du personnel navigant doivent être
+homologués selon des conditions techniques définies par arrêté ministériel. Cette homologation est en outre soumise à la
+démonstration par l'opérateur de sa capacité à maintenir la conformité du matériel à ces conditions techniques.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 410-3, au premier alinéa, les mots " le ministre chargé de l'aviation civile ", au deuxième alinéa, les mots " au ministre
+chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 17 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L410-5 (M)
+	  - Code de l'aviation civile - art. L410-6 (VT)
+	  - Code de l'aviation civile - art. R410-2 (V)
+	  - Code de l'aviation civile - art. R611-4 (V)
+	  - Code de l'aviation civile - art. R611-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6511-5 (V)
+	  - Code des transports - art. L6511-6 (V)
+	  - Code des transports - art. L6511-7 (V)
+
+
+###### Article L410-4
+
+Les examinateurs qui font passer les épreuves d'aptitude et les contrôles de compétence pour l'obtention et le renouvellement
+des titres aéronautiques et des qualifications peuvent être en outre habilités par le ministre chargé de l'aviation civile à
+procéder eux-mêmes au renouvellement des qualifications. Les conditions d'habilitation sont fixées par arrêté ministériel.
+Elles portent notamment sur la détention des titres aéronautiques et de qualifications requis.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 410-4, les mots " le ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 17 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L410-5 (M)
+	  - Code de l'aviation civile - art. L410-6 (VT)
+	  - Code de l'aviation civile - art. R410-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6511-8 (V)
+
+
+###### Article L410-5
+
+L'agrément des organismes de formation, des centres d'expertise de médecine aéronautique et des médecins examinateurs ainsi
+que l'habilitation des examinateurs prévus aux articles L. 410-2, L. 410-3 et L. 410-4 peuvent être retirés lorsque l'une des
+conditions d'agrément ou d'habilitation cesse d'être satisfaite ou lorsque l'organisme ou les personnes physiques présentent
+par leurs méthodes de travail, leur comportement ou les matériels utilisés un risque pour la sécurité et après que la
+personne concernée a été mise en mesure de présenter ses observations. En cas d'urgence, l'agrément peut être suspendu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 17 () JORF 17 janvier 2001
+
+	**Cité par**:
+
+	  - Arrêté du 24 novembre 2003 - art. 7 (V)
+	  - Arrêté du 7 février 2005 - art. 6 (V)
+	  - Code de l'aviation civile - art. D410-3 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L410-2 (V)
+	  - Code de l'aviation civile - art. L410-3 (V)
+	  - Code de l'aviation civile - art. L410-4 (V)
+
+
+###### Article L410-6
+
+Les certificats médicaux, les formations, les épreuves d'aptitude et les contrôles de compétence ainsi que les homologations
+d'entraîneurs synthétiques de vol, obtenus ou effectués dans un Etat membre de la Communauté européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen dans des conditions équivalentes à celles établies par le présent livre et
+les dispositions prises pour son application sont reconnus valables au même titre que les certificats médicaux, les
+formations, les épreuves et contrôles de compétence et les homologations d'entraîneurs synthétiques de vol prévus aux
+articles L. 410-2, L. 410-3 et L. 410-4 dans des conditions fixées par arrêté ministériel.
+
+En cas de doute sur l'équivalence de ces conditions, des épreuves complémentaires peuvent être exigées dans des conditions
+fixées par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 2 décembre 1988 - art. 4 (V)
+	  - Arrêté du 18 septembre 2002 - art. 4 (V)
+	  - Arrêté du 27 janvier 2005 - art. 3 (V)
+	  - Arrêté du 26 octobre 2007 - art. 7 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 17 () JORF 17 janvier 2001
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 18 septembre 2002
+	  - TXT_SOURCE: Arrêté du 18 septembre 2002 - art. 1 ()
+	  - TXT_SOURCE: Arrêté du 18 septembre 2002 - art. 2 ()
+	  - TXT_SOURCE: Arrêté du 18 septembre 2002 - art. 3 ()
+	  - TXT_SOURCE: Arrêté du 18 septembre 2002 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 18 septembre 2002 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6511-10 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L410-2
+	  - Code de l'aviation civile - art. L410-3
+	  - Code de l'aviation civile - art. L410-4
 
 
 ### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL
@@ -5380,63 +5680,6 @@ réservées par l'article L. 421-1 au personnel navigant professionnel de l'aér
 
 	  - Code de l'aviation civile - art. L421-8 (VT)
 	  - Code de l'aviation civile - art. R421-4 (Ab)
-
-
-###### Article L421-6
-
-Les titres désignés sous le nom de Brevets et Certificats sanctionnent un ensemble de connaissances générales théoriques et
-pratiques. Ils sont délivrés après examen et sont définitivement acquis à leurs titulaires.
-
-Les titres désignés sous le nom de Licences sanctionnent l'aptitude et le droit, pour les titulaires de brevets, de remplir
-les fonctions correspondantes sous réserve des qualifications prévues à l'article suivant. Les licences ne sont valables que
-pour une période limitée ; elles sont renouvelables pour vérifications périodiques des diverses aptitudes requises.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 153 alinéas 1 et 2
-	  - Loi n°53-285 1953-04-04 art. 8, alinéas 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Cité par**:
-
-	  - Décret n°97-598 du 29 mai 1997 - art. 3 (V)
-	  - Code de l'aviation civile - art. R421-7 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 18 () JORF 17 janvier 2001
-
-
-###### Article L421-7
-
-L'exercice des fonctions correspondant aux différentes licences est subordonné à la possession par le titulaire de
-qualifications professionnelles spéciales eu égard à l'aéronef, à l'équipement ou aux conditions de vols considérés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 154 alinéa 1
-	  - Loi n°53-285 1953-04-04 art. 9, alinéa 1
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Cité par**:
-
-	  - Décret n°97-598 du 29 mai 1997 - art. 3 (V)
-	  - Code de l'aviation civile - art. D410-1 (M)
-	  - Code de l'aviation civile - art. R421-7 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 18 () JORF 17 janvier 2001
 
 
 ###### Article L421-8
