@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1999-03-30
+Version Consolidée au 1999-04-14
 
 # Partie législative
 
@@ -8644,7 +8644,8 @@ l'article 131-13 du code pénal pour les contraventions de la quatrième classe.
 
 ###### Article R151-5
 
-La commission prévue par l'article L. 150-13 est délivrée par le ministre chargé de l'aviation civile.
+La commission prévue par l'article L. 150-13 est délivrée par le ministre chargé de l'aviation civile ou, pour le personnel
+placé sous son autorité, par le ministre chargé des armées.
 
 Elle mentionne l'objet du commissionnement et la circonscription géographique dans laquelle l'agent commissionné a vocation,
 en raison de son affectation, à constater les infractions.
@@ -8655,13 +8656,13 @@ en raison de son affectation, à constater les infractions.
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°99-281 du 12 avril 1999 - art. 1 () JORF 14 avril 1999
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
-
-	**Créé par**:
-
-	  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+	  - SPEC_APPLI: Décret n°99-281 du 12 avril 1999 - art. 2 (V)
 
 	**Cité par**:
 
