@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1975-08-15
+Version Consolidée au 1976-01-01
 
 # Partie législative
 
@@ -9922,6 +9922,43 @@ Le certificat d'immatriculation doit toujours se trouver à bord de l'aéronef l
 	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
 
 
+###### Article D121-12
+
+Les certificats d'immatriculation et les copies conformes des renseignements figurant au registre sont délivrés contre
+remboursement des fournitures et frais résultant des opérations effectuées à cet effet.
+
+Ces frais sont fixés forfaitairement ainsi qu'il suit :
+
+a) Pour la délivrance d'un certificat d'immatriculation : 300 F ;
+
+b) Pour la délivrance d'un duplicata de certificat d'immatriculation : 20 F ;
+
+c) Pour la délivrance d'une copie certifiée conforme des renseignements relatifs à un aéronef : 20 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 juillet 1992
+	  - TXT_SOURCE: Arrêté du 28 juillet 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 25 février 2002
+	  - TXT_SOURCE: Arrêté du 25 février 2002 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 28 juillet 1992 - art. 1 (V)
+	  - Arrêté du 25 février 2002 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+	  - Décret n°76-173 1976-02-13 art. 1 JORF 19 fevrier 1976 en vigueur le 1er janvier 1976
+
+
 ###### Article D121-13
 
 Les opérations qui donnent lieu à inscription, transcription ou mention sur le registre d'immatriculation sont les
@@ -10515,6 +10552,38 @@ en donner l'attestation au pied du dernier enregistrement effectué au registre 
 	**Modifié par**:
 
 	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+
+
+###### Article D121-36
+
+Le fonctionnaire chargé de la tenue du registre d'immatriculation perçoit à son profit un droit fixé uniformément à 10 F pour
+l'ensemble des formalités ausquelles donne lieu, par aéronef, chacune des opérations suivantes :
+
+Inscription d'un aéronef ;
+
+Inscription d'une mutation de propriété ;
+
+Inscription d'un acte constitutif d'hypothèque ou de tout autre acte ou jugement constitutif ou déclaratif de droit réel ;
+
+Inscription d'un acte de location ;
+
+Transcription d'un procès-verbal de saisie ;
+
+Radiation d'une inscription hypothécaire ou d'une transcription du procès-verbal de saisie.
+
+L'accomplissement des formalités prescrites par le présent titre ne peut donner lieu, pour le fonctionnaire chargé de la
+tenue du registre d'immatriculation, à aucune perception autre que celle indiquée ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+	  - Décret n°76-173 1976-02-13 art. 1 JORF 19 février 1976 en vigueur le 1er janvier 1976
 
 
 #### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.
