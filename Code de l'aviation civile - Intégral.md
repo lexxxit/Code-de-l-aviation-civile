@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2002-02-03
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -3021,6 +3021,48 @@ ont pu avoir connaissance en raison de leurs fonctions.
 	**Créé par**:
 
 	  - Loi n°99-588 du 12 juillet 1999 - art. 1 () JORF 13 juillet 1999
+
+
+###### Article L227-10
+
+Pour les aérodromes mentionnés au 3 de l'article 266 septies du code des douanes, la modification de la circulation aérienne
+de départ et d'approche aux instruments, en-dessous d'une altitude fixée par décret en Conseil d'Etat, fait l'objet d'une
+enquête publique préalable organisée par l'autorité administrative, dans les conditions prévues au chapitre III du titre II
+du livre Ier du code de l'environnement.
+
+Les modifications à prendre en compte sont celles revêtant un caractère permanent et ayant pour effet de modifier, de manière
+significative, les conditions de survol.
+
+Le bilan de l'enquête publique est porté à la connaissance de la commission consultative de l'environnement et de l'Autorité
+de contrôle des nuisances sonores aéroportuaires, qui émettent un avis sur la modification de la circulation aérienne
+envisagée.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 133 () JORF 28 février 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-558 du 15 juin 2004
+	  - TXT_SOURCE: Décret n°2004-558 du 15 juin 2004 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2004-558 du 15 juin 2004 - art. 2 ()
+
+	**Cité par**:
+
+	  - Arrêté du 4 avril 2006 - art. 3 (VT)
+	  - Code de l'aviation civile - art. R227-7 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 septies (M)
 
 
 ### TITRE V : AEROPORTS DE PARIS
