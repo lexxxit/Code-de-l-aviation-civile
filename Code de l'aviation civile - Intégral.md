@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1998-01-07
+Version Consolidée au 1998-01-24
 
 # Partie législative
 
@@ -24747,15 +24747,19 @@ légère et sportive, à l'exclusion du parachutisme sportif dont la tutelle rel
 
 ###### Article D510-2
 
-L'Aéro-Club de France est chargé d'assurer, pour toutes les activités aéronautiques, la représentation de la France auprès de
-la fédération aéronautique internationale et les relations avec les aéro-clubs représentatifs des autres nations membres de
-cette fédération.
+L'Aéro-club de France est chargé d'assurer, pour toutes les activités aéronautiques civiles, la représentation de la France
+auprès de la Fédération aéronautique internationale et les relations avec les aéro-clubs représentatifs des autres Etats
+membres de cette fédération.
 
-Il peut bénéficier, pour l'exercice de ses missions, de subventions dans la limite des crédits budgétaires prévus à cet
-effet.
+Pour l'exercice des pouvoirs sportifs relevant de la loi sur le sport, l'Aéro-club de France confie aux personnes désignées
+par les fédérations sportives françaises visées par ladite loi les fonctions de délégué de la France dans les commissions
+sportives avec le droit de vote correspondant auprès de la Fédération aéronautique internationale pour l'exercice des
+pouvoirs sportifs au sein de cette fédération.
 
-Dans le cadre de ses attributions, le ministre chargé des sports exerce conjointement avec le ministre chargé de l'aviation
-civile la tutelle de cette association.
+Le chef de la délégation française auprès de la Fédération aéronautique internationale, désigné par l'Aéro-club de France sur
+proposition du Conseil national des fédérations de l'Aéro-club de France, représente la France à la conférence générale. Il
+émet tout vote concernant les questions sportives en fonction d'un mandat impératif donné par les délégués désignés par
+chacune des fédérations aéronautiques sportives françaises pour les disciplines les concernant.
 
 **Liens relatifs à cet article**
 
@@ -24763,43 +24767,48 @@ civile la tutelle de cette association.
 
 	  - Décret n°67-335 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°98-48 du 21 janvier 1998 - art. 1 () JORF 24 janvier 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-48 du 21 janvier 1998 - art. 7 (V)
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. D510-4 (V)
 	  - Code de l'aviation civile - art. D510-6 (V)
 
-	**Modifié par**:
-
-	  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1980 en vigueur le 1er janvier 1973
-	  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
-
 
 ###### Article D510-3
 
-Les associations aéronautiques (aéro-clubs) dont les membres pratiquent l'une ou plusieurs des activités énumérées à
-l'article D. 510-1 peuvent être affiliées à une fédération reconnue au plan national :
+Les associations aéronautiques dont les membres pratiquent une ou plusieurs des activités énumérées à l'article D. 510-1
+peuvent être affiliées à une fédération reconnue au plan national :
 
-- pour le vol à moteur, la fédération nationale aéronautique (avions et gyravions) ;
+- pour le vol à moteur sur avions, la Fédération nationale aéronautique ;
 
-- pour le vol à voile, la fédération française de vol à voile (planeurs et planeurs à dispositif d'envoi incorporé) ;
+- pour le vol à moteur sur giravions, à l'exclusion de l'autogire ultra-léger, la Fédération française de giraviation ;
 
-- pour l'aéromodélisme, la fédération française d'aéromodélisme ;
+- pour le vol à voile sur planeurs et planeurs à dispositif d'envol incorporé, la Fédération française de vol à voile ;
 
-- pour l'aérostation, la fédération française d'aérostation.
+- pour l'aéromodélisme, la Fédération française d'aéromodélisme ;
 
-" - pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger motorisé. "
+- pour l'aérostation, la Fédération française d'aérostation ;
 
-Ces fédérations :
+- pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger motorisé. 
+
+Ces fédérations : 
 
 1° Ont seules compétence pour assurer la représentation des aéro-clubs qui leur sont affiliés ainsi que pour orienter,
-coordonner leurs activités et favoriser leur équipemement en matériel utile à l'exercice de ces activités ;
+coordonner leurs activités et favoriser leur équipemement en matériel utile à l'exercice de ces activités ; 
 
-2° Sont reconnues comme les organismes représentatifs des associations pratiquant le vol à moteur, la gyraviation, le vol à
-voile, l'aéromodélisme et l'aérostation ; à ce titre elles peuvent proposer aux autorités compétentes toutes mesures propres
-à faciliter et à encourager la pratique et le développement de l'aviation légère et toutes ses applications ;
+2° Sont reconnues comme les organismes représentatifs des associations pratiquant les activités aéronautiques pour lesquelles
+elles sont désignées au présent article ; à ce titre elles peuvent proposer aux autorités compétentes toutes mesures propres
+à faciliter et à encourager la pratique et le développement de l'aviation légère et toutes ses applications ; 
 
 3° Peuvent participer aux actions de propagande aéronautique définies par le ministre chargé de l'aviation civile et
-bénéficier de subventions, dans la limite des crédits budgétaires prévus à cet effet ;
+bénéficier de subventions, dans la limite des crédits budgétaires prévus à cet effet ; 
 
 4° Sont habilitées à organiser au sein des aéro-clubs, en liaison avec les services de l'enseignement technique et avec le
 concours d'établissements de formation professionnelle de l'industrie aéronautique :
@@ -24807,11 +24816,11 @@ concours d'établissements de formation professionnelle de l'industrie aéronaut
 - la préparation à l'apprentissage dans les métiers intéressant l'aéronautique ;
 
 - l'apprentissage dans ces mêmes métiers, en assurant, conformément aux dispositions du code de l'enseignement technique et
-notamment de ses articles 90 à 107 et 150 et 151, le fonctionnement de cours professionnels ;
+notamment de ses articles 90 à 107 et 150 et 151 le fonctionnement de cours professionnels ; 
 
 5° Participent à la préparation militaire en coordonnant l'organisation au sein des aéro-clubs, de l'enseignement des
 spécialités pour les jeunes gens désirant servir dans les forces armées et, éventuellement, de l'entretien de cette
-instruction après retour dans leur foyer.
+instruction après retour dans leur foyer. 
 
 Dans le cadre de ses attributions, le ministre chargé des sports exerce, conjointement avec le ministre chargé de l'aviation
 civile, la tutelle sur ces fédérations.
@@ -24824,13 +24833,16 @@ civile, la tutelle sur ces fédérations.
 
 	**Modifié par**:
 
-	  - Décret n°91-982 du 20 septembre 1991 - art. 1 () JORF 26 septembre 1991
+	  - Décret n°98-48 du 21 janvier 1998 - art. 2 () JORF 24 janvier 1998
+	  - Décret n°98-48 du 21 janvier 1998 - art. 3 () JORF 24 janvier 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-48 du 21 janvier 1998 - art. 7 (V)
 
 	**Cite**:
 
-	  - Code de l'enseignement technique - art. 150 (Ab)
-	  - Code de l'enseignement technique - art. 151 (Ab)
-	  - Code de l'enseignement technique 90 à 107, 150, 151
+	  - Code de l'enseignement technique (Ab)
 	  - Code de l'aviation civile - art. D510-1 (V)
 
 	**Cité par**:
@@ -24907,10 +24919,11 @@ ainsi qu'il résulte des dispositions des articles D. 510-2 et D. 510-3.
 
 ###### Article D521-1
 
-Les jeunes gens de nationalité française, âgés de moins de vingt-cinq ans, pratiquant le vol à moteur ou le vol à voile au
-sein d'un aéro-club peuvent prétendre au bénéfice de bourses de pilotage en vue de la formation de pilote privé avion ou
-pilote de planeur. Celles-ci sont accordées dans des conditions fixées par arrêté du ministre chargé de l'aviation civile et
-du ministre chargé du budget. Elles sont attribuées par le ministre chargé de l'aviation civile.
+Les jeunes gens ressortissants d'un Etat membre de la Communauté européenne ou d'un (des) autre (s) Etat (s) partie (s) à
+l'accord sur l'Espace économique européen, qui n'ont pas atteint l'âge de vingt-cinq ans, pratiquant l'une des activités
+aéronautiques mentionnées à l'article D. 510-3 peuvent prétendre au bénéfice de bourses de pilotage en vue de la formation à
+ces activités aéronautiques. Celles-ci sont accordées dans des conditions fixées par arrêté du ministre chargé de l'aviation
+civile et du ministre chargé du budget. Elles sont attribuées par le ministre chargé de l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -24918,13 +24931,17 @@ du ministre chargé du budget. Elles sont attribuées par le ministre chargé de
 
 	  - Décret n°67-335 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
-
 	**Modifié par**:
 
-	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
+	  - Décret n°98-48 du 21 janvier 1998 - art. 4 () JORF 24 janvier 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-48 du 21 janvier 1998 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D510-3 (V)
 
 
 ###### Article D521-2
@@ -24932,10 +24949,10 @@ du ministre chargé du budget. Elles sont attribuées par le ministre chargé de
 Il peut être alloué aux aéro-clubs, dans des conditions définies par arrêté du ministre chargé de l'aviation civile et du
 ministre chargé du budget, des primes d'efficacité accordées dans la limite des crédits budgétaires ouverts à ce titre. Ces
 primes ont pour objet d'améliorer la sécurité, de favoriser la formation des jeunes et d'encourager l'insertion des aéro-
-clubs dans le milieu local.
+clubs dans le milieu local. 
 
-Elles sont calculées sur proposition de la fédération nationale de vol à moteur ou de celle de vol à voile ; elles tiennent
-compte de l'activité de l'aéro-club, de sa bonne organisation et de son rendement.
+Elles sont calculées sur proposition des fédérations mentionnées à l'article D. 510-3 ; elles tiennent compte de l'activité
+de l'aéro-club, de sa bonne organisation et de son rendement.
 
 **Liens relatifs à cet article**
 
@@ -24943,13 +24960,17 @@ compte de l'activité de l'aéro-club, de sa bonne organisation et de son rendem
 
 	  - Décret n°67-335 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
-
 	**Modifié par**:
 
-	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
+	  - Décret n°98-48 du 21 janvier 1998 - art. 5 () JORF 24 janvier 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-48 du 21 janvier 1998 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D510-3 (V)
 
 
 ###### Article D521-3
@@ -24987,9 +25008,8 @@ nationale consultative de l'aviation légère).
 
 ###### Article D521-4
 
-Des subventions destinées à encourager la construction d'aéronefs, soit par des amateurs, soit par des associations
-aéronautiques, soit par des établissements scolaires et universitaires, peuvent être accordées dans les conditions prévues
-par un arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget.
+Des subventions destinées à encourager la construction d'aéronefs peuvent être accordées au réseau des sports de l'air dans
+les conditions prévues par un arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget. 
 
 Ces subventions sont attribuées par le ministre chargé de l'aviation civile dans les conditions définies à l'article D.
 521-3.
@@ -25000,17 +25020,17 @@ Ces subventions sont attribuées par le ministre chargé de l'aviation civile da
 
 	  - Décret n°67-335 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-910 1980-11-17 art. 3 JORF 21 novembre 1980
+	  - Décret n°98-48 du 21 janvier 1998 - art. 6 () JORF 24 janvier 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-48 du 21 janvier 1998 - art. 7 (V)
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. D521-3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
 ###### Article D521-5
