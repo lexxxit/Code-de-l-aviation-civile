@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1995-03-03
+Version Consolidée au 1995-04-25
 
 # Partie législative
 
@@ -6557,7 +6557,7 @@ l'aérodrome d'arrivée et de départ, la route aérienne à suivre et les signa
 
 ###### Article R133-1
 
-1° Un aéronef ne peut être utilisé pour la circulation aérienne que :
+I. - Un aéronef ne peut être utilisé pour la circulation aérienne que :
 
 a) S'il est muni d'un document de navigabilité en état de validité ; ce document, propre à chaque appareil, peut être soit un
 certificat de navigabilité, soit un certificat de navigabilité spécial, soit un laissez-passer provisoire ;
@@ -6566,42 +6566,55 @@ b) S'il est apte au vol, c'est-à-dire s'il répond à tout moment aux condition
 à la délivrance du document de navigabilité qui lui est propre et aux règles servant de base au maintien en état de validité
 de ce document ;
 
-c) Si cette utilisation est faite conformément aux règles édictées en vue d'assurer la sécurité.
+c) Si cette utilisation est faite conformément aux règles édictées en vue d'assurer la sécurité ;
 
-2° Un certificat de type est délivré dès lors que les conditions relatives à la sécurité notifiées au postulant sont remplies
-pour un type déterminé d'aéronef.
+d) Si les personnes assurant la conduite de l'aéronef ou des fonctions relatives à la sécurité à bord détiennent les titres
+prescrits par le livre IV du présent code.
 
-Un certificat de navigabilité n'est délivré pour un aéronef que si l'appareil est conforme à un type déjà certifié.
+II. - 1° Un certificat de navigabilité est délivré par le ministre chargé de l'aviation civile pour un aéronef lorsque :
 
-Par dérogation provisoire aux dispositions des deux alinéas précédents et dans des conditions fixées par arrêté du ministre
-chargé de l'aviation civile, un aéronef dont le type n'a pas été certifié peut obtenir un certificat de navigabilité français
-si, à la date de la première immatriculation d'un exemplaire de ce type, un certificat de type n'était pas exigé par la
-réglementation en vigueur et si. à la date de la demande, un aéronef de même type est muni d'un certificat de navigabilité
-français valide ou périmé depuis moins d'un an.
+a) Le postulant a démontré la conformité de cet aéronef à un type déjà certifié dans les conditions fixées au 2° ci-après ;
 
-Un certificat de navigabilité spécial n'est délivré pour un aéronef que si l'appareil satisfait à des conditions de sécurité
-qui lui sont propres et qui ont été notifiées au postulant.
+b) Le postulant a attesté de cette conformité auprès du ministre chargé de l'aviation civile ;
 
-Un laissez-passer provisoire n'est délivré pour un aéronef que sous réserve des restrictions imposées par le ministre chargé
-de l'aviation civile dans l'intérêt de la sécurité des tiers et relatives notamment à ses conditions d'utilisation.
+c) Le ministre chargé de l'aviation civile a admis cette conformité en application de procédures administratives fixées soit
+par un règlement de la Communauté européenne, soit par un accord bilatéral portant sur la fabrication des aéronefs conclu
+entre la France et l'Etat de construction, soit par un arrêté du ministre chargé de l'aviation civile.
 
-3° Les aéronefs mentionnés ci-après peuvent faire l'objet de l'exemption de certaines obligations énumérées ci-dessus, à
-condition de respecter des dispositions particulières fixées par arrêté du ministre chargé de l'aviation civile et portant,
-en tant que de besoin, aussi bien sur la conception des appareils que sur les conditions de leur emploi et sur les capacités
-requises des personnes qui les utilisent :
+2° Un certificat de type est délivré par le ministre de l'aviation civile lorsque :
 
-a) Les aéronefs captifs ou tractés à partir de la surface du sol ou de l'eau ;
+a) Le postulant a effectué les essais et les analyses nécessaires pour établir la conformité de l'aéronef aux conditions
+relatives à la sécurité qui lui ont été notifiées ;
 
-b) Les aéronefs qui ne transportent aucune personne à bord ;
+b) Le postulant a attesté de cette conformité auprès du ministre chargé de l'aviation civile ;
 
-c) Les aéronefs monoplace ou biplaces non motorisés ou faiblement motorisés définis par le ministre chargé de l'aviation
-civile ;
+c) Le ministre chargé de l'aviation civile a admis cette conformité en application de procédures administratives applicables
+à l'appareil considéré, fixées soit par un règlement de la Communauté européenne, soit par un accord bilatéral portant sur la
+certification de type des aéronefs conclu entre la France et l'Etat de conception, soit par un arrêté du ministre chargé de
+l'aviation civile.
 
-d) Les ballons ;
+Un certificat de type peut être délivré dans les mêmes conditions pour certains équipements essentiels de l'aéronef (tels que
+les moteurs ou les hélices) pour lesquels des conditions techniques spécifiques sont notifiées.
 
-e) Les parachutes ;
+III. - Un certificat de navigabilité spécial peut être délivré pour un aéronef lorsque :
 
-f) Les fusées autres que celles visées à l'article L. 110-2.
+a) Le postulant a effectué les essais et analyses nécessaires pour établir la conformité de l'aéronef à des conditions
+relatives à la sécurité qui lui sont propres et qui lui ont été notifiées ;
+
+b) Le postulant a attesté de cette conformité auprès du ministre chargé de l'aviation civile ;
+
+c) Le ministre chargé de l'aviation civile a admis cette conformité en application de procédures administratives fixées soit
+par un règlement de la Communauté européenne, soit par un arrêté du ministre chargé de l'aviation civile.
+
+Dans le cas où il existe un accord bilatéral conclu entre la France et un autre Etat et portant sur la validation des
+certificats de navigabilité, un certificat de navigabilité spécial peut également être délivré si l'aéronef est conforme au
+type certifié par l'autorité compétente de cet Etat.
+
+Le certificat de navigabilité spécial est délivré sous réserve des restrictions imposées par le ministre chargé de l'aviation
+civile dans l'intérêt de la sécurité.
+
+IV. - Un laissez-passer provisoire n'est délivré pour un aéronef que sous réserve des restrictions imposées par le ministre
+chargé de l'aviation civile dans l'intérêt de la sécurité des tiers et relatives notamment à ses conditions d'utilisation.
 
 **Liens relatifs à cet article**
 
@@ -6638,14 +6651,177 @@ f) Les fusées autres que celles visées à l'article L. 110-2.
 	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 5 (Ab)
 	  - TXT_SOURCE: Arrêté du 5 novembre 1987 - art. 6 (Ab)
 
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L110-2 (V)
-
 	**Modifié par**:
 
-	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
-	  - Décret n°84-459 1984-06-14 art. 1 JORF 17 juin 1984 en vigueur le 1er avril 1984
+	  - Décret n°95-444 du 21 avril 1995 - art. 1 () JORF 25 avril 1995
+
+
+###### Article R133-1-1
+
+Les règles définies par le ministre chargé de l'aviation civile et relatives tant aux procédures de certification de type et
+certification de navigabilité des aéronefs qu'aux conditions d'aptitude au vol ou d'utilisation des aéronefs, comportent
+l'obligation pour les entreprises concernées de détenir un certificat d'agrément de leurs aptitudes techniques dans les
+conditions ci-après :
+
+1° Pour les entreprises assurant la conception des aéronefs ou des équipements pour lesquels un certificat de type est
+délivré, ainsi que des modifications à ces aéronefs ou équipements, l'agrément prévu par les règles relatives aux procédures
+de certification de type est délivré après enquête technique portant sur les dispositions (organisation générale, moyens
+humains et matériels, procédures, documentation) prises par les entreprises de conception pour démontrer et attester de la
+conformité du produit aux conditions techniques qui ont été notifiées. Il porte notamment sur :
+
+a) La connaissance des règlements de certification et de leurs interprétations ;
+
+b) La réalisation des études, analyses et essais nécessaires pour démontrer la conformité ;
+
+c) La vérification des conclusions de ces études, analyses ou essais avant de déclarer la conformité.
+
+2° Pour les entreprises assurant la production d'aéronefs ou la fabrication d'éléments d'aéronefs, l'agrément prévu par les
+règles relatives aux procédures de certification de navigabilité est délivré après enquête technique portant sur les
+dispositions (organisation générale, moyens humains et matériels, procédures, documentation) prises par l'entreprise pour
+démontrer la conformité des produits au type certifié. Il porte notamment sur :
+
+a) Les liens avec l'organisme responsable de la conception ;
+
+b) La maîtrise de ses procédés de fabrication ;
+
+c) Les contrôles de conformité.
+
+3° Pour les entreprises assurant l'entretien et les réparations des aéronefs, l'agrément prévu par les règles relatives à
+l'aptitude au vol des aéronefs est délivré après enquête technique portant sur les dispositions (organisation générale,
+moyens humains et matériels, procédures, documentation) prises par l'entreprise pour assurer le respect des exigences
+relatives à la maintenance des aéronefs. Cet agrément porte notamment sur :
+
+- le respect des programmes et méthodes d'entretien ;
+
+- les vérifications des travaux effectués ;
+
+- l'approbation des matériels pour remise en service.
+
+4° Pour les entreprises assurant l'exploitation des aéronefs, l'agrément des aptitudes techniques résulte, en ce qui concerne
+les entreprises de transport aérien, de la délivrance du certificat de transporteur aérien exigé par l'article 9 du règlement
+(C.E.E.) n° 2407/92 susvisé.
+
+Le certificat de transporteur aérien ainsi que le certificat d'agrément prévu par les règles relatives à l'utilisation
+d'aéronefs par des entreprises autres que les entreprises de transport aérien sont délivrés après enquête technique portant
+sur les dispositions (organisation générale, moyens humains et matériels, procédures, documentation) prises par l'entreprise
+pour se conformer aux règles d'utilisation notamment en ce qui concerne :
+
+a) Le personnel navigant, la composition et les conditions techniques d'emploi des équipages, la conduite des vols ;
+
+b) Le matériel volant, ses équipements, y compris ceux de secours et de sauvetage, ses instruments de bord, leur entretien ;
+
+c) Les conditions d'emploi des aéronefs, les limitations liées à leurs performances, leur chargement (y compris le transport
+de marchandises réglementées) ;
+
+d) L'application des règles de circulation aérienne dans tous les espaces utilisés.
+
+Les obligations d'agrément mentionnées aux 1° à 4° du présent article s'appliquent dans les domaines et aux dates fixés ci-
+après :
+
+- à compter du 1er janvier 1997, pour la conception d'aéronefs et d'équipements d'aéronefs ;
+
+- à compter du 1er janvier 1998, pour la conception des modifications d'aéronefs et d'équipements d'aéronefs ;
+
+- à compter du 1er juin 1998, pour la production d'aéronefs et la fabrication d'éléments d'aéronefs ;
+
+- à la date de publication du présent décret, pour l'entretien et l'utilisation des aéronefs utilisés en transport public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°95-444 du 21 avril 1995 - art. 1 () JORF 25 avril 1995
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Arrêté du 19 décembre 2013 (V)
+	  - Arrêté du 19 décembre 2013 - art. 3 (V)
+	  - Code de l'aviation civile - art. R133-1-2 (V)
+	  - Code de l'aviation civile - art. R133-1-3 (Ab)
+	  - Code de l'aviation civile - art. R133-5 (M)
+	  - Code de l'aviation civile - art. R330-12 (V)
+	  - Code de l'aviation civile - art. R611-3 (V)
+
+
+###### Article R133-1-2
+
+Les aéronefs mentionnés ci-après peuvent faire l'objet de l'exemption de certaines obligations énumérées aux articles R.
+133-1 et R. 133-1-1 à condition de respecter des dispositions particulières fixées par arrêté du ministre chargé de
+l'aviation civile et portant, en tant que de besoin, aussi bien sur la conception des appareils que sur les conditions de
+leur emploi et sur les capacités requises des personnes qui les utilisent :
+
+a) Les aéronefs captifs ou tractés à partir de la surface du sol ou de l'eau ;
+
+b) Les aéronefs qui circulent sans aucune personne à bord ;
+
+c) Les aéronefs monoplaces ou biplaces non motorisés ou faiblement motorisés définis par le ministre chargé de l'aviation
+civile ;
+
+d) Les ballons ;
+
+e) Les parachutes ;
+
+f) Les fusées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°95-444 du 21 avril 1995 - art. 1 () JORF 25 avril 1995
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de l'aviation civile - art. R133-5 (M)
+	  - Code de l'aviation civile - art. R611-5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (M)
+	  - Code de l'aviation civile - art. R133-1-1 (M)
+
+
+###### Article R133-1-3
+
+Les entreprises détenant un certificat d'agrément, ou sollicitant un tel certificat, en application de l'article L. 133-1-1,
+font l'objet d'un contrôle de l'Etat portant sur l'application des dispositions fixées par les conventions internationales,
+les lois et les règlements en vigueur dans les domaines prévus aux articles R. 133-1, R. 133-1-1 et R. 133-2.
+
+Ces entreprises doivent, sur demande des agents chargés du contrôle, leur communiquer tous les documents et leur permettre
+l'accès aux installations de l'entreprise nécessaire à l'exercice de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°95-444 du 21 avril 1995 - art. 1 () JORF 25 avril 1995
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+	  - Code de l'aviation civile - art. R330-12 (M)
+	  - Code de l'aviation civile - art. R330-13 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (M)
+	  - Code de l'aviation civile - art. R133-1-1 (M)
+	  - Code de l'aviation civile - art. R133-2 (V)
+	  - Code de l'aviation civile L133-1-1, R133-1, R133-1-1, R133-2
 
 
 ###### Article R133-2
@@ -6820,18 +6996,56 @@ décret pris sur le rapport du ministre chargé de l'aviation civile et du minis
 	  - Code de l'aviation civile - art. R133-2 (V)
 
 
+###### Article R133-4-1
+
+Les dépenses entraînées par le contrôle technique que le ministre chargé de l'aviation civile exerce sur les entreprises de
+transport aérien, en vue d'assurer la sécurité aérienne, sont à la charge de ces entreprises. Chaque entreprise a la charge
+des contrôles qui sont exercés spécialement à son égard. Les autres dépenses de contrôle sont réparties entre les entreprises
+proportionnellement au tonnage effectivement transporté. Cette répartition est fixée chaque année par arrêté du ministre
+chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°95-444 du 21 avril 1995 - art. 2 () JORF 25 avrill 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1680 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R330-12 (M)
+
+
 ###### Article R133-5
 
-Le ministre chargé de l'aviation civile peut habiliter des organismes techniques extérieurs à l'administration, à la
-délivrance ou au maintien en état de validité des documents de navigabilité ou de limitation de nuisances, ou à la
-surveillance de l'aptitude au vol ou du respect des règles d'utilisation.
+Les vérifications nécessaires à la délivrance et au maintien en état de validité des certificats et laissez-passer mentionnés
+aux articles R. 133-1 et R. 133-2 ainsi que les contrôles prévus à l'article R. 133-1-1 sont exercés au sol et en vol soit
+par des agents de l'Etat, soit par l'intermédiaire d'organismes techniques ou de personnes extérieurs à l'administration,
+disposant de la qualification technique nécessaire, habilités à cet effet par le ministre chargé de l'aviation civile.
 
-Des arrêtés du ministre chargé de l'aviation civile déterminent les cas, les conditions et les limites dans lesquels ces
-organismes exercent leur action.
+L'habilitation des organismes techniques ou des personnes extérieurs à l'administration peut comporter la délivrance et le
+maintien en état de validité des certificats et laissez-passer mentionnés aux articles R. 133-1 et R. 133-2.
 
-Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la défense peut également habiliter un
-organisme technique extérieur à l'administration à procéder à certaines tâches relatives à la certification de type prévue à
-l'article R. 133-1 (2°), premier alinéa.
+Des arrêtés du ministre chargé de l'aviation civile déterminent les cas, les conditions et les limites dans lesquels les
+agents de l'Etat, les organismes techniques ou les personnes extérieurs à l'administration habilités à cet effet exercent
+leur action.
+
+Si cette habilitation porte sur des contrôles et des vérifications en vue de la certification de type prévue à l'article R.
+133-1 ou en vue de la délivrance du certificat d'agrément prévu au 1° de l'article R. 133-1-1, l'arrêté est contresigné par
+le ministre de la défense.
+
+Les contrôleurs auront, pour l'exercice de leur fonction et sur présentation d'un ordre de mission, accès à bord des
+aéronefs.
+
+En ce qui concerne les contrôles en vol effectués à l'égard des transporteurs aériens, la liste des contrôleurs sera
+communiquée aux entreprises soumises à ces contrôles. Un titre de transport devra leur être délivré gratuitement.
 
 **Liens relatifs à cet article**
 
@@ -6854,11 +7068,12 @@ l'article R. 133-1 (2°), premier alinéa.
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R133-1 (M)
+	  - Code de l'aviation civile - art. R133-1-1 (M)
+	  - Code de l'aviation civile - art. R133-2 (V)
 
 	**Modifié par**:
 
-	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
-	  - Décret n°84-459 1984-06-14 art. 4 JORF 17 juin 1984 en vigueur le 1er avril 1984
+	  - Décret n°95-44 1995-04-21 art. 3 JORF 25 avril 1995
 
 
 ###### Article R133-6
@@ -11096,80 +11311,6 @@ renseignements statistiques sur le trafic.
 	  - Code de l'aviation civile - art. R330-13 (V)
 	  - Code de l'aviation civile - art. R330-15 (M)
 	  - Code de l'aviation civile - art. R330-20 (V)
-
-
-###### Article R330-4
-
-Les entreprises autorisées sont soumises au contrôle que l'Etat exerce pour l'application des dispositions fixées par les
-conventions internationales, les lois et les règlements en vigueur concernant le personnel navigant, le matériel volant et
-l'exploitation technique de ce matériel.
-
-Le contrôle de l'exploitation technique porte notamment sur :
-
-L'application des règles de la circulation aérienne ;
-
-La conduite des vols ;
-
-Les conditions d'emploi des aéronefs ;
-
-Les équipements et instruments de bord ;
-
-Les équipements de secours et de sauvetage ;
-
-L'entretien des aéronefs ;
-
-Les documents et livres de bord, en particulier les manuels d'exploitation ;
-
-La composition et les conditions d'emploi des équipages de conduite ;
-
-Le transport des matières dangereuses ou infectes.
-
-Des arrêtés du ministre chargé de l'aviation civile préciseront les modalités d'application de l'alinéa précédent.
-
-Ces contrôles sont exercés au sol et en vol soit directement par des agents de l'Etat, dans des conditions qui seront
-définies par arrêté du ministre chargé de l'aviation civile, soit par l'intermédiaire d'organismes délégués à cet effet par
-le ministre chargé de l'aviation civile.
-
-Les contrôleurs dont la liste sera communiquée aux entreprises auront, pour l'exercice de leurs fonctions et sur présentation
-d'un ordre de mission, accès à bord des appareils. A cet effet, un titre de transport devra leur être délivré gratuitement.
-
-Les dépenses entraînées par les contrôles sont à la charge des entreprises. Chaque entreprise a la charge des contrôles qui
-sont exercés spécialement à son égard. Les autres dépenses de contrôle sont réparties entre les entreprises
-proportionnellement au tonnage effectivement transporté. Cette répartition est fixée chaque année par arrêté du ministre
-chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 12 janvier 1990
-	  - TXT_SOURCE: Arrêté du 12 janvier 1990 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 19 novembre 1990
-	  - TXT_SOURCE: Arrêté du 19 novembre 1990 - art. 1 (V)
-	  - SPEC_APPLI: Décret n°95-444 du 21 avril 1995 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 12 janvier 1990 - art. 1 (V)
-	  - Arrêté du 19 novembre 1990 - art. 1 (V)
-	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
-	  - Code de l'aviation civile - art. D330-1 (V)
-	  - Code de l'aviation civile - art. R151-8 (V)
-	  - Code de l'aviation civile - art. R330-13 (M)
-	  - Code de l'aviation civile - art. R330-15 (M)
-	  - Code de l'aviation civile - art. R330-19-1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°95-444 du 21 avril 1995 - art. 4 () JORF 25 avril 1995
 
 
 ###### Article R330-5
