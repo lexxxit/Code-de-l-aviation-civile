@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1982-04-29
+Version Consolidée au 1982-05-07
 
 # Partie législative
 
@@ -3574,6 +3574,44 @@ régulièrement autorisés à atterrir au point d'arrivée et aux escales prévu
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L6421-2 (V)
+
+
+###### Article L322-3
+
+La responsabilité du transporteur de personnes est régie par les dispositions de la Convention de Varsovie comme prévu aux
+articles L. 321-3, L. 321-4 et L. 321-5. Toutefois, la limite de la responsabilité du transporteur relative à chaque
+passager, prévue par le paragraphe premier de l'article 22 de ladite convention, est fixée à 500 000 F. Si, en raison d'une
+modification apportée à la Convention de Varsovie, la limite de responsabilité du transporteur aérien se trouve portée à un
+niveau supérieur au chiffre susvisé, cette nouvelle limite se substitue à celle de 500 000 F à compter de la mise en vigueur
+pour la France de la modification de ladite convention. En outre, sauf stipulations conventionnelles contraires, la
+responsabilité du transporteur effectuant un transport gratuit ne sera engagée dans la limite prévue ci-dessus, que s'il est
+établi que le dommage a pour cause une faute imputable au transporteur ou à ses préposés.
+
+La responsabilité du transporteur par air ne peut être recherchée que dans les conditions et limites prévues ci-dessus,
+quelles que soient les personnes qui la mettent en cause et quel que soit le titre auquel elles prétendent agir.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 123
+	  - Loi n°1924-05-31 art. 48
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L321-3 (V)
+	  - Code de l'aviation civile - art. L321-4 (V)
+	  - Code de l'aviation civile - art. L321-5 (V)
+	  - Convention 1929-10-12, signée à Varsovie 22
+
+	**Modifié par**:
+
+	  - Décret n°76-529 1976-06-18 art. 1, art. 2 JORF 19 juin 1976
+	  - Décret n°82-375 1982-05-06 art. 1 JORF 7 mai 1982
 
 
 ###### Article L322-4
