@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1985-09-10
+Version Consolidée au 1985-10-01
 
 # Partie législative
 
@@ -1983,6 +1983,59 @@ sans délai au procureur de la République.
 	  - Décret n°67-333 1967-03-30
 
 
+###### Article L150-17
+
+Dans les territoires d'outre-mer sont punis [*sanction*] d'une amende de 1 000 F à 15000 F [*(1)*] inclusivement et peuvent
+l'être en outre d'un emprisonnement de un à cinq jours [*durée*] :
+
+1° Le pilote qui n'a pas tenu un quelconque des livres de bord [*infraction*];
+
+2° Le propriétaire qui a omis de conserver un quelconque des livres de bord pendant les trois ans à partir de la dernière
+inscription ;
+
+3° Ceux qui ont contrevenu aux dispositions selon lesquelles un aéronef ne peut survoler une ville ou une agglomération qu'à
+une altitude telle que l'atterrissage soit toujours possible même en cas d'arrêt du moyen de propulsion en dehors de
+l'agglomération ou sur un aérodrome public ;
+
+4° Ceux qui ont contrevenu aux dispositions selon lesquelles tout vol dit d'acrobatie comportant des évolutions périlleuses
+et inutiles pour la bonne marche de l'appareil est interdit au-dessus d'une agglomération ou de la partie d'un aérodrome
+ouverte au public ;
+
+5° Ceux qui ont contrevenu aux dispositions selon lesquelles les évolutions des aéronefs constituant des spectacles publics
+ne peuvent avoir lieu qu'avec autorisation donnée par le délégué du Gouvernement après avis du maire ou, hors du territoire
+des communes, après avis du chef de la circonscription administrative.
+
+En cas de récidive, une peine d'emprisonnement de huit jours au plus est prononcée.
+
+**Nota:**
+
+[*(1) taux résultant de la loi n° 85-835 du 7 août 1985, articles 7 et 8*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°72-1090 1972-12-08 art. 9 JORF 9 décembre 1972
+
+	**Cité par**:
+
+	  - Loi n°72-1090 du 8 décembre 1972 - art. 9 (V)
+	  - Code de l'aviation civile - art. L150-12 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°89-467 1989-07-10 art. 20 JORF 11 juillet 1989
+	  - TXT_SOURCE: Loi n°89-467 du 10 juillet 1989 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°89-467 du 10 juillet 1989 - art. 20 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+
 ## LIVRE II : AERODROMES
 
 ### TITRE Ier : DISPOSITIONS GENERALES
@@ -3341,6 +3394,38 @@ aérodromes et installations de sa circonscription.
 
 	  - Code de l'aviation civile - art. L282-6
 	  - Code de l'aviation civile - art. L282-7
+
+
+#### CHAPITRE III : CONTROLE SANITAIRE AUX FRONTIERES.
+
+###### Article L283-1
+
+Conformément à l'article L. 54 du code de la santé publique, tout fonctionnaire ou agent public, tout commandant ou officier
+d'un aéronef, tout médecin qui, dans un document ou une déclaration, aura sciemment altéré ou dissimulé les faits ou qui aura
+négligé d'informer l'autorité sanitaire de faits à sa connaissance qu'il était dans l'obligation de révéler en application
+des textes mentionnés à l'article L. 52 du code de la santé publique, ci-dessus rappelé à l'article L. 215-1, sera puni d'une
+peine de six mois à deux ans d'emprisonnement, et d'une amende de 600 F à 15000 F, ou de l'une de ces deux peines seulement
+[*(1)*].
+
+**Nota:**
+
+[*(1) taux résultant de la loi n° 85-835 du 7 août 1985, articles 7 et 8.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°80-908 1980-11-17 art. 4 JORF 21 novembre 1980
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L52 (Ab)
+	  - Code de la santé publique - art. L54 (Ab)
+	  - Code de l'aviation civile - art. L215-1 (V)
 
 
 ## LIVRE III : TRANSPORT AERIEN
@@ -5383,6 +5468,28 @@ b) Par une hypothèque légale prenant rang du jour de son inscription au bureau
 
 #### CHAPITRE VII : DISPOSITIONS PENALES.
 
+###### Article L427-1
+
+Sera punie d' une amende de 600 F à 15 000 F [*(1)*] et d'un emprisonnement de dix jours à un mois, ou de l'une de ces deux
+peines seulement, toute personne qui aura exercé un des emplois correspondant aux brevets, licences et qualifications du
+personnel navigant professionnel de l'aéronautique civile en contravention avec les dispositions du présent article.
+
+Sera puni de la même peine le responsable de toute entreprise qui aura confié un de ces emplois à une personne ne remplissant
+pas les conditions exigées au présent titre.
+
+[*(1) Taux résultant de la loi 85-835 du 7 août 1985*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-908 1980-11-17 art. 8 JORF 21 novembre 1980
+
+
 ###### Article L427-2
 
 L'exploitant qui a retenu par-devers lui indûment la contribution ouvrière précomptée sur le salaire, en application de
@@ -5398,6 +5505,36 @@ l'article L. 426-5, est passible des peines prévues aux articles 406 et 408 du 
 
 	  - Code pénal 406, 408
 	  - Code de l'aviation civile - art. L426-5 (M)
+
+
+###### Article L427-3
+
+Dans les territoires d'outre-mer, toute infraction à la réglementation relative à la durée du travail du personnel navigant
+est punie :
+
+En ce qui concerne l'employeur, d' une amende de 1000 F à 15000 F [*(1)*] ;
+
+En ce qui concerne le contrevenant, du retrait de sa licence qui est prononcé par le ministre chargé de l'aviation civile
+dans les catégories transport aérien et travail aérien et par le ministre chargé de la défense nationale dans la catégorie
+essais et réception, pour une durée qui ne pourra être inférieure à quinze jours ni supérieure à deux mois.
+
+**Nota:**
+
+[*(1) Taux résultant de la loi 85-835 du 7 juillet 1985*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°72-1090 1972-12-08 art. 10 JORF 9 décembre 1972
+
+	**Cité par**:
+
+	  - Loi n°72-1090 du 8 décembre 1972 - art. 10 (V)
 
 
 ## LIVRE V : DISPOSITIONS PARTICULIERES A LA FORMATION AERONAUTIQUE.
@@ -7254,6 +7391,62 @@ Texte de l'article 2 du décret n° 84-617 du 17 juillet 1984, et non l'article 
 	**Abrogé par**:
 
 	  - Décret n°2016-1110 du 11 août 2016 - art. 5
+
+
+###### Article R211-5
+
+En application de la loi n° 83-630 du 12 juillet 1983 et du décret n° 85-453 du 23 avril 1985 (1), les travaux suivants sont
+précédés d'une enquête publique organisée conformément aux dispositions des chapitres Ier et II dudit décret :
+
+1. Réalisation d'un nouvel aérodrome, à l'exception des aérodromes à usage privé visés à l'article D. 233-1 du présent code
+et des hélistations destinées au transport à la demande.
+
+2. Réalisation d'une nouvelle piste à l'intérieur des limites d'un aérodrome soumis à enquête en application du 1 ci-dessus ;
+
+3. Travaux exécutés en vue du changement de catégorie, au sens des dispositions de l'article R. 222-5 du présent code, d'un
+aérodrome soumis à enquête en application du 1 ci-dessus.
+
+Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée conformément aux
+dispositions des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+
+**Nota:**
+
+(1) : La loi n° 83-630 du 12 juillet 1983 a été abrogée par l'ordonnance n° 2000-914 du 18 septembre 2000 et ses dispositions
+codifiées sous les articles L. 123-1 à L. 123-16 du code de l'environnement. Le décret n° 85-453 du 23 avril 1985 est abrogé
+par le décret n° 2005-935 du 2 août 2005 ; ses dispositions sont codifiées sous les articles R. 123-1 à R. 123-33 du même
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-10 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-11 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-12 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-13 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-14 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-15 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-2 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-3 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-4 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-5 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-6 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-7 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-8 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-9 (M)
+	  - Code de l'aviation civile - art. D233-1 (V)
+	  - Code de l'aviation civile - art. R222-5 (V)
+	  - Loi n°1983-07-12
+
+	**Créé par**:
+
+	  - Décret n°85-453 1985-04-23 art. 39 JORF 24 avril 1985 en vigueur le 1er octobre 1985
 
 
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
