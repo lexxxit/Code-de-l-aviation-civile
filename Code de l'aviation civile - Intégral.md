@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1976-12-15
+Version Consolidée au 1976-12-29
 
 # Partie législative
 
@@ -7290,6 +7290,36 @@ des règles de contrôle particulières à certaines délibérations.
 
 
 ##### Paragraphe 2 : Directeur général.
+
+###### Article R252-16
+
+Le directeur général est nommé par décret pris en Conseil des ministres sur la proposition faite par le ministre chargé de
+l'aviation civile après consultation du président du conseil d'administration.
+
+Il peut être relevé de ses fonctions par un décret pris en conseil des ministres sur proposition du ministre chargé de
+l'aviation civile et du ministre de l'économie et des finances.
+
+Les fonctions de directeur général prennent fin au plus tard lorsque le titulaire atteint l'âge de soixante-cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°75-509 1975-06-19 art. 3 JORF 27 juin 1975
+	  - Décret n°76-1229 1976-12-28 art. 3 JORF 29 décembre 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
 
 ###### Article R252-20
 
