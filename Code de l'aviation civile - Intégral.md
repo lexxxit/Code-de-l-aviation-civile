@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1972-08-28
+Version Consolidée au 1972-11-07
 
 # Partie législative
 
@@ -11335,6 +11335,39 @@ délai de huit jours.
 #### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES
 
 ##### Section 1 : Aérodromes constituant l'Aéroport de Paris.
+
+###### Article D251-1
+
+Les aéroports et aérodromes suivants font partie de l'ensemble constitué par l'Aéroport de Paris :
+
+Roissy-en-France (1), Orly, Le Bourget ;
+
+Chavenay-Villepreux, Chelles-le-Pin, Coulommiers-Voisins, Guyancourt, Issy-les-Moulineaux, Lognes-Emerainville, Meaux-Esbly,
+Mitry-Mory, Persan-Beaumont, Pontoise-Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le-Noble.
+
+(1) L'aéroport de Roissy-en-France a reçu le nom d'Aéroport Charles-de-Gaulle par décret du 24 octobre 1973.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 29 décembre 1994
+	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 16 septembre 2005 - art. 1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°72-1005 1972-11-02 art. 1 JORF 7 novembre 1972
+
 
 ###### Article D251-2
 
