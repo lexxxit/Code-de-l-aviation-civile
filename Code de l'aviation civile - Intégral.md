@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-06-14
+Version Consolidée au 1990-07-01
 
 # Partie législative
 
@@ -13502,6 +13502,10 @@ A partir du 1er juillet 1984, le conseil d'administration de la caisse fixera ch
 produit obtenu en multipliant l'indice de 1981, soit 15,18, par le coefficient global d'évolution des salaires entre 1981 et
 l'année précédant immédiatement l'exercice en cours.
 
+" A compter du 1er juillet 1990, les calculs ci-dessus ne prendront en compte que les navigants âgés de plus de trente ans et
+de moins de quarante-neuf ans au 1er janvier de l'année considérée ; l'exercice civil de base 1981 du deuxième alinéa est
+remplacé par l'exercice civil de base 1989 dont l'indice, fixé à 24,44, se substitue à l'indice 15,18 de 1981. "
+
 c) Salaire moyen indexé de carrière
 
 Pour chacune des annuités ou fractions d'annuités validées à titre onéreux, le salaire indexé est obtenu en divisant le
@@ -13509,8 +13513,9 @@ salaire brut plafonné défini au a du présent article, ayant servi d'assiette 
 correspondante. Le salaire moyen indexé de carrière est obtenu en divisant la somme des salaires indexés par le nombre
 d'annuités validées à titre onéreux.
 
-Toutefois, et sous réserve du d du présent article, lorsque l'affilié réunit plus de vingt-cinq annuités constituées de
-services civils, les salaires afférents aux vingt-cinq meilleures annuités sont seuls pris en compte dans ce calcul.
+" Toutefois, et sous réserve du paragraphe d du présent article, lorsque l'affilié ne bénéficie pas des dispositions prévues
+au e de l'article R. 426-13 et réunit plus de vingt-cinq annuités validées à titre onéreux, les salaires afférents aux vingt-
+cinq meilleures annuités sont seuls pris en compte dans le calcul. "
 
 Lorsque la durée totale des services civils et des services de guerre précédés et suivis de services civils est supérieure à
 vingt-cinq ans, seuls sont pris en compte pour le calcul du salaire moyen les salaires afférents aux meilleures années de
@@ -13556,9 +13561,14 @@ Chaque année, ces limites sont réévaluées au 1er janvier et au 1er juillet d
 
 	  - Décret n°67-334 1967-03-30
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-837 1990-09-21 art. 5
+
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+	  - Décret n°90-837 du 21 septembre 1990 - art. 1 () JORF 23 septembre 1990 en vigueur le 1er juillet 1990
+	  - Décret n°90-837 du 21 septembre 1990 - art. 2 () JORF 23 septembre 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
@@ -13570,6 +13580,10 @@ Chaque année, ces limites sont réévaluées au 1er janvier et au 1er juillet d
 	  - Code de l'aviation civile - art. R426-6 (VD)
 	  - Code de l'aviation civile - art. R426-7 (VD)
 	  - Code de l'aviation civile - art. R426-8 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R426-13 (M)
 
 
 ##### Section 2 : Cotisations.
@@ -13917,9 +13931,9 @@ Les services mentionnés aux a, c et j de l'article R. 426-13 ne sont pris en co
 articles R. 426-6 à R. 426-9 ont été acquittées sur les salaires versés aux intéressés pendant lesdites périodes.
 
 Les services mentionnés aux f, g, h, k et l de l'article R. 426-13 ne peuvent être pris en compte que moyennant le versement
-par l'intéressé, pour chaque année à valider, de la double cotisation définie aux articles R. 426-6, R. 426-7 et R. 426-8,
-assise sur le premier salaire annuel brut perçu après reprise d'activité normale, à l'exclusion des rémunérations des
-périodes de stage, de formation ou de contrôle.
+par l'intéressé, pour chaque année à valider, de la double cotisation définie aux articles R. 426-6, R. 426-7 et R. 426-8 et
+des cotisations prévues à l'article R.426-10, assise sur le premier salaire annuel brut perçu après reprise d'activité
+normale, à l'exclusion des rémunérations des périodes de stage, de formation ou de contrôle.
 
 Les services mentionnés aux b et i de l'article précédent ne peuvent être pris en compte que moyennant le rachat des droits
 correspondant aux cotisations prévues à l'article R. 426-6, assises sur les salaires réels pour les services accomplis après
@@ -13937,8 +13951,17 @@ de versement des cotisations ou de rachat et celui de l'année à laquelle corre
 
 	  - Décret n°67-334 1967-03-30
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-837 1990-09-21 art 5
+
+	**Modifié par**:
+
+	  - Décret n°90-837 du 21 septembre 1990 - art. 3 () JORF 23 septembre 1990 en vigueur le 1er juillet 1990
+
 	**Cite**:
 
+	  - Code de l'aviation civile - art. R426-10 (V)
 	  - Code de l'aviation civile - art. R426-13 (M)
 	  - Code de l'aviation civile - art. R426-6 (V)
 	  - Code de l'aviation civile - art. R426-7 (V)
@@ -14062,7 +14085,8 @@ La pension est déterminée sur la base du salaire moyen indexé de carrière d�
 
 Ce salaire est divisé en deux tranches conformément au e de l'article R. 426-5. A chacune d'elles est attribué, pour toute
 annuité validée définie à l'article R. 426-13, dans la limite de vingt-cinq, un taux de pension égal à 1,85 p. 100 pour la
-première tranche et à 1,4 p. 100 pour la deuxième tranche.
+première tranche et à 1,4 p. 100 pour la deuxième tranche. La somme obtenue est multipliée par l'indice de revalorisation des
+pensions et des limites des tranches de salaires applicables à la date de liquidation de la pension. "
 
 Si l'affilié a eu au moins trois enfants, la part de la pension correspondant à la première tranche définie à l'article R.
 426-5 e est majorée de 2,5 p. 100.
@@ -14077,6 +14101,14 @@ affiliés ne bénéficiant pas de ces mêmes prestations à titre personnel ou d
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-837 1990-09-21 art 5
+
+	**Modifié par**:
+
+	  - Décret n°90-837 du 21 septembre 1990 - art. 4 () JORF 23 septembre 1990 en vigueur le 1er juillet 1990
 
 	**Cité par**:
 
