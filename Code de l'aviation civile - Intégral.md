@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2002-08-03
+Version Consolidée au 2002-09-18
 
 # Partie législative
 
@@ -14499,6 +14499,61 @@ juillet 1983 relative à la démocratisation du secteur public.
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
+###### Article R252-3
+
+Les représentants des salariés doivent remplir les conditions fixées à l'article 15 de la loi n° 83-675 du 26 juillet 1983.
+Les autres membres du conseil d'administration doivent être ressortissants d'un Etat membre de l'Union européenne et jouir de
+leurs droits civils et politiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 1 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R252-4
+
+Les membres du conseil d'administration ne peuvent prendre ou conserver un intérêt direct ou indirect dans une entreprise,
+qu'elle soit personnelle ou sous forme de société civile ou commerciale, ou dans une filiale d'entreprise contractant avec
+Aéroports de Paris à moins qu'ils n'y soient autorisés par le ministre chargé de l'aviation civile sur proposition du conseil
+et après avis du contrôleur d'Etat.
+
+Lorsque le conseil d'administration examine un contrat susceptible d'être passé avec une entreprise dans laquelle un membre
+du conseil d'administration détient un intérêt personnel direct ou indirect, ou lorsqu'il se prononce sur la délivrance d'une
+autorisation d'occupation temporaire du domaine public à une telle entreprise, l'administrateur intéressé ne prend pas part à
+la délibération. Si le conseil d'administration autorise la passation du contrat ou accorde l'autorisation, l'administrateur
+intéressé doit se défaire de ses intérêts dans l'entreprise considérée, sauf autorisation de les conserver donnée dans les
+conditions prévues au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 2 () JORF 18 septembre 2002
+
+
 ###### Article R252-5
 
 Chaque représentant des salariés dispose, pour l'exercice de son mandat d'administrateur, d'un crédit d'heures égal à la
@@ -14577,6 +14632,223 @@ En cas d'absence ou d'empêchement du président, le membre du conseil d'adminis
 	**Abrogé par**:
 
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R252-9
+
+Le conseil d'administration établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 3 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R252-10
+
+Le conseil d'administration se réunit sur la convocation de son président au moins six fois par an. Le président est, en
+outre, tenu de réunir immédiatement le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le tiers au
+moins des membres peut également, en indiquant l'ordre du jour de la séance, convoquer le conseil si celui-ci ne s'est pas
+réuni depuis plus de deux mois.
+
+Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres en exercice assiste à la séance.
+Toutefois, si le quorum n'est pas atteint, une nouvelle séance du conseil pourra être convoquée sur le même ordre du jour,
+séparée par un intervalle de trois jours francs au moins de la première. Les délibérations seront alors valables quel que
+soit le nombre des membres présents.
+
+Un administrateur peut donner mandat à un autre administrateur de le représenter à une séance du conseil d'administration.
+Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une seule procuration.
+
+Les délibérations sont prises à la majorité des suffrages exprimés. Dans le cas où il est procédé à un scrutin secret, il
+n'est pas tenu compte des bulletins blancs ou nuls. En cas de partage des suffrages exprimés, la voix du président est
+prépondérante.
+
+Les procès-verbaux sont signés par le président. Ils font mention des personnes présentes.    Les membres du conseil
+d'administration sont tenus au secret professionnel dans les conditions prévues aux articles 226-13 et 226-14 du code pénal.
+
+Le directeur général assiste avec voix consultative aux séances du conseil d'administration sauf lorsqu'il est discuté de sa
+situation personnelle. Il est également tenu au secret professionnel.
+
+Le directeur général de l'aviation civile et le chef du service des bases aériennes siègent, avec voix consultative, au
+conseil d'administration des aéroports de Paris, respectivement en qualité de commissaire du Gouvernement et de commissaire
+du Gouvernement adjoint.
+
+En cas d'absence ou d'empêchement du commissaire du Gouvernement, ses pouvoirs sont exercés par le commissaire du
+Gouvernement adjoint.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 4 () JORF 18 septembre 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+
+
+###### Article R252-11
+
+Le président du conseil d'administration, président d'Aéroports de Paris prépare les sessions du conseil, arrête l'ordre du
+jour de ses délibérations et veille à l'exécution des décisions prises par le conseil.
+
+Il prépare le rapport que le conseil doit présenter chaque année sur la situation de l'aéroport et l'état des différents
+services. Le rapport, est adressé, avant le 1er juin, au ministre chargé de l'aviation civile.
+
+Le président exerce un contrôle permanent sur la gestion d'Aéroports de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 5 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R252-12-1
+
+Le conseil d'administration exerce toutes actions judiciaires tant en demande qu'en défense.
+
+Il est autorisé à transiger dans les conditions prévues par les articles 2044 et suivants du code civil.
+
+Il passe tous actes, contrats, traités et marchés. Il peut accorder des garanties, cautions et avals.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code civil - art. 2044 (V)
+
+
+###### Article R252-12-2
+
+Le conseil d'administration nomme aux emplois de direction.
+
+Il arrête le plan d'organisation et de fonctionnement des services d'Aéroports de Paris autres que ceux qui sont assurés sous
+l'autorité du ministre chargé de l'aviation civile.
+
+Il établit les statuts du personnel autre que le personnel de l'Etat mentionné à l'article R. 252-19 ainsi que ses échelles
+de traitements, salaires et indemnités qui sont approuvés par décision commune du ministre chargé de l'aviation civile et du
+ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-18 (Ab)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R252-19 (M)
+
+
+###### Article R252-12-3
+
+Le conseil d'administration décide de la mise à la disposition des usagers, sous le régime de l'occupation temporaire du
+domaine public, des terrains, ouvrages et installations d'Aéroports de Paris et fixe les redevances correspondantes.
+
+Il décide également de la délivrance des titres d'occupation du domaine public mentionnés au troisième alinéa de l'article R.
+253-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R253-5 (M)
+
+
+###### Article R252-12-4
+
+A l'exclusion de celles mentionnées à l'article R. 252-18, le conseil d'administration peut déléguer une partie de ses
+attributions à son président. Il peut autoriser celui-ci à subdéléguer les pouvoirs ainsi délégués au directeur général et,
+avec l'accord de ce dernier, aux directeurs et aux cadres dirigeants.
+
+La délibération précise dans quelles matières et dans quelles conditions les titulaires des délégations mentionnés au premier
+alinéa peuvent déléguer leur signature pour l'exercice des attributions qui leur sont déléguées ou subdéléguées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R252-18 (M)
 
 
 ###### Article R252-13
@@ -14662,6 +14934,87 @@ Les fonctions de directeur général prennent fin au plus tard lorsque le titula
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
+###### Article R252-17
+
+Le directeur général agit en double qualité :
+
+Agent d'exécution du conseil d'administration ;
+
+Agent du pouvoir central ;
+
+Il est responsable devant le conseil d'administration de l'exécution des délibérations du conseil ; il établit au début de
+chaque année un rapport au président du conseil d'administration rendant compte du fonctionnement de ses services et de la
+situation générale d'Aéroports de Paris.
+
+Il est également responsable devant le ministre chargé de l'aviation civile en ce qui concerne l'exercice des attributions
+qui lui sont dévolues par l'article R. 252-19.
+
+Il peut être assisté dans l'exercice de ses fonctions par des agents qui possèdent également la double qualité d'agent
+d'exécution du conseil d'administration et d'agent du pouvoir central. Ces agents sont nommés et peuvent être révoqués par
+arrêté du ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R252-19 (M)
+
+
+###### Article R252-19
+
+Le directeur général en tant qu'agent du pouvoir central assure dans les aérodromes exploités par Aéroports de Paris et leurs
+dépendances la direction des services de sécurité de la navigation aérienne. Il a, en cette qualité, autorité sur le
+personnel de l'Etat chargé de l'exécution de ces services.
+
+Il coordonne, en outre, dans les aérodromes exploités par Aéroports de Paris l'action de tous les services publics en ce qui
+concerne les affaires intéressant directement l'exploitation aéroportuaire. Toutes les fois qu'il y a désaccord entre le
+directeur général et un chef de service dépendant d'un autre département ministériel que celui de l'équipement il en est
+référé au ministre intéressé par ce fonctionnaire et au ministre chargé de l'aviation civile, par le directeur général.
+
+Pour l'exercice de ses fonctions telles que définies au présent article, le directeur général peut déléguer sa signature aux
+fonctionnaires de l'Etat qui lui sont subordonnés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 19
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 9 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-12-2 (Ab)
+	  - Code de l'aviation civile - art. R252-17 (Ab)
+	  - Code de l'aviation civile - art. R252-18 (Ab)
+
+
 ###### Article R252-20
 
 Le ministre chargé de l'aviation civile peut, après avis du conseil d'administration, désigner par arrêté un directeur
@@ -14676,6 +15029,45 @@ général intérimaire en cas d'empêchement du directeur général.
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+##### Section 2 : Contrôle.
+
+###### Article R252-21
+
+Un inspecteur général désigné par le ministre chargé de l'aviation civile vérifie le fonctionnement des services d'Aéroports
+de Paris.
+
+Il correspond directement, pour les besoins du service, avec le président du conseil d'administration et avec le directeur
+général.
+
+Il a le droit de prendre connaissance, à toute époque, des procès-verbaux des délibérations du conseil d'administration, des
+registres, écritures et correspondances des fonctionnaires et agents d'Aéroports de Paris et généralement de tous les
+documents qu'il juge nécessaires pour apprécier la situation d'Aéroports de Paris.
+
+Il établit, sur les sujets que détermine le ministre chargé de l'aviation civile, un rapport ayant pour objet de rendre
+compte de la situation d'Aéroports de Paris.
+
+L'inspecteur général peut se faire assister dans l'exécution de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 21
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 10 () JORF 18 septembre 2002
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
 
 	**Abrogé par**:
 
@@ -14706,6 +15098,29 @@ contrôle de l'Etat sur les entreprises publiques nationales.
 	**Modifié par**:
 
 	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R253-4
+
+Les règles applicables à Aéroports de Paris pour la passation des marchés sont celles qui s'appliquent aux établissements
+publics ayant un caractère industriel et commercial.
+
+Le conseil d'administration fixe dans le respect de ces règles les conditions de passation, d'exécution et de contrôle des
+marchés et contrats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 12 () JORF 18 septembre 2002
 
 	**Abrogé par**:
 
@@ -14780,6 +15195,35 @@ verbal au ministre, celui-ci n'a pas formulé d'opposition.
 
 #### CHAPITRE IV : DISPOSITIONS DIVERSES.
 
+###### Article R254-1
+
+Les mesures à prendre pour l'établissement et l'exécution des projets d'aménagement de la région Ile-de-France qui seraient
+de nature à influencer l'aménagement et le développement de l'aéroport ne peuvent être prises par les ministres intéressés
+qu'avec l'accord du ministre chargé de l'aviation civile.
+
+Il doit être notamment réservé les terrains nécessaires à l'assiette des installations d'Aéroports de Paris et à leur
+extension éventuelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 99
+	  - Ordonnance 45-2488 1945-10-24 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 13 () JORF 18 septembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
 ###### Article R254-2
 
 Des conventions interviendront entre l'Etat, d'une part, les départements et les communes, d'autre part, afin de compenser
@@ -14809,201 +15253,36 @@ les pertes de recettes qu'entraînerait pour les collectivités l'application du
 
 ##### Paragraphe 1 : Conseil d'administration.
 
-###### Article R252-3
-
-Les représentants des salariés doivent remplir les conditions fixées à l'article 15 de la loi n° 83-675 du 26 juillet 1983.
-Les autres membres du conseil d'administration doivent être de nationalité française et jouir de leurs droits civils et
-politiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°84-353 1984-05-11 art. 2 JORF 12 mai 1984
-
-	**Cite**:
-
-	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
-
-
-###### Article R252-4
-
-Les membres du conseil d'administration ne peuvent prendre ou conserver un intérêt direct ou indirect dans une entreprise,
-qu'elle soit personnelle ou sous forme de société civile ou commerciale, ou dans une filiale d'entreprise contractant avec
-l'aéroport, à moins qu'ils n'y soient autorisés par le ministre chargé de l'aviation civile sur proposition du conseil et
-après avis du contrôleur d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-
-###### Article R252-9
-
-Le conseil d'administration établit son règlement intérieur ; il peut constituer dans son sein un comité de direction dont le
-président fait partie obligatoirement et auquel il peut déléguer une partie de ses attributions.
-
-Les délibérations fixant l'organisation du comité de direction et la nomenclature des affaires qui sont de sa compétence et
-pour lesquelles sa décision engage le conseil doivent être soumises à la ratification du ministre chargé de l'aviation civile
-et du ministre de l'économie et des finances.
-
-Le comité de direction rend compte de son action au conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°84-353 1984-05-11 art. 7 JORF 12 mai 1984
-
-
-###### Article R252-10
-
-Le conseil d'administration se réunit sur la convocation de son président au moins huit fois par an. Le président est, en
-outre, tenu de réunir immédiatement le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le tiers au
-moins des membres peut également, en indiquant l'ordre du jour de la séance, convoquer le conseil si celui-ci ne s'est pas
-réuni depuis plus de deux mois.
-
-Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres en exercice assiste à la séance.
-Toutefois, si le quorum n'est pas atteint, une nouvelle séance du conseil pourra être convoquée sur le même ordre du jour,
-séparée par un intervalle de trois jours francs au moins de la première. Les délibérations seront alors valables quel que
-soit le nombre des membres présents.
-
-Un administrateur peut donner mandat à un autre administrateur nommé ou élu dans le même collège de le représenter à une
-séance du conseil d'administration. Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une seule
-procuration.
-
-Les délibérations sont prises à la majorité des suffrages exprimés. Dans le cas où il est procédé à un scrutin secret, il
-n'est pas tenu compte des bulletins blancs ou nuls. En cas de partage des suffrages exprimés, la voix du président est
-prépondérante.
-
-Les procès-verbaux sont signés par le président. Ils font mention des personnes présentes. Une ampliation est notifiée au
-ministre chargé de l'aviation civile.
-
-Les membres du conseil d'administration sont tenus au secret professionnel dans les conditions prévues à l'article 378 du
-code pénal.
-
-Le directeur général assiste avec voix consultative aux réunions du comité de direction et aux séances du conseil
-d'administration sauf lorsqu'il est discuté du compte administratif ou de sa situation personnelle. Il est également tenu au
-secret professionnel.
-
-Le directeur général de l'aviation civile et le chef du service des bases aériennes siègent, avec voix consultative, au
-conseil d'administration des aéroports de Paris, respectivement en qualité de commissaire du Gouvernement et de commissaire
-du Gouvernement adjoint.
-
-En cas d'absence ou d'empêchement du commissaire du Gouvernement, ses pouvoirs sont exercés par le commissaire du
-Gouvernement adjoint.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°89-10 du 4 janvier 1989 - art. 1 () JORF 10 janvier 1989
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-
-###### Article R252-11
-
-Le président du conseil d'administration, président de l'aéroport, prépare les sessions du conseil, arrête l'ordre du jour de
-ses délibérations et veille à l'exécution des décisions prises par le conseil.
-
-Il prépare le rapport que le conseil doit présenter chaque année sur la situation de l'aéroport et l'état des différents
-services. Le rapport, accompagné d'un extrait de procès-verbal de la discussion, est adressé, avant le 1er juin, au ministre
-chargé de l'aviation civile.
-
-Le président exerce un contrôle permanent sur la gestion de l'aéroport.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°75-509 1975-06-19 art. 1 JORF 27 juin 1975
-	  - Décret n°84-353 1984-05-11 art. 9 JORF 12 mai 1984
-
-
 ###### Article R252-12
 
-Le conseil définit la politique générale de l'aéroport.
+Le conseil d'administration définit la politique générale d'Aéroports de Paris.
 
-Il a l'initiative des mesures nécessaires à la création des ressources destinées à couvrir les charges d'administration,
-d'entretien, d'exploitation et d'amélioration de l'aéroport. Il établit sur ces mesures un rapport annuel et le transmet au
-ministre chargé de l'aviation civile.
+Il a l'initiative des mesures nécessaires à la création des ressources destinées à couvrir les charges d'administration et
+d'exploitation d'Aéroports de Paris. Il établit sur ces mesures un rapport annuel et le transmet au ministre chargé de
+l'aviation civile.
 
 Il donne au ministre chargé de l'aviation civile son avis sur toutes les questions relevant des divers services publics et
-intéressant directement l'exploitation de l'aéroport.
+intéressant directement l'exploitation.
 
-Il exerce toutes actions judiciaires tant en demande qu'en défense.
-
-Il passe tous actes, contrats, traités et marchés.
-
-Il nomme aux emplois de direction.
-
-Il arrête le plan d'organisation et de fonctionnement des services de l'aéroport autres que ceux assurés directement par le
-ministre chargé de l'aviation civile et fixe les tableaux d'effectifs par catégories générales.
-
-Il établit les statuts du personnel visé à l'alinéa précédent ainsi que ses échelles de traitements, salaires et indemnités
-qui sont approuvés par décision commune du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
-
-Il fixe les traitements, salaires et indemnités dans le cadre des échelles approuvées et en se conformant aux règles des
-statuts du personnel ; il arrête les tableaux d'avancement.
-
-Il soumet à l'approbation du ministre chargé de l'aviation civile les activités aériennes autorisées sur chacun des aéroports
-et aérodromes en exploitation.
-
-Il arrête chaque année, dans le cadre de la section d'opérations en capital de l'état de prévisions de recettes et de
-dépenses, le programme général des travaux qui est soumis à l'approbation du ministre chargé de l'aviation civile.
-
-Il adopte l'état de prévisions de recettes et de dépenses ainsi que les comptes financiers et soumet ces documents à
-l'approbation du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
-
-Il prend toutes les mesures nécessaires à la réalisation des emprunts que l'aéroport est autorisé à émettre.
-
-Il décide la mise à la disposition des usagers, sous le régime de l'occupation temporaire du domaine public, des terrains,
-ouvrages et installations de l'aéroport. Il décide également la délivrance des titres d'occupation du domaine public de
-l'Etat mentionnés au troisième alinéa de l'article R. 253-5. Un arrêté conjoint du ministre chargé de l'aviation civile et du
-ministre chargé du domaine fixe les cas dans lesquels, compte tenu de l'importance ou de la durée de l'occupation, l'accord
-préalable du contrôleur d'Etat ou de l'inspecteur général d'Aéroports de Paris est requis.
+Il donne son avis ou présente ses propositions au ministre chargé de l'aviation civile sur la répartition des transporteurs
+aériens entre les différents aérodromes exploités par Aéroports de Paris. Il fixe les principes relatifs à l'affectation des
+transporteurs aériens dans les aérogares d'un même aérodrome et décide de cette affectation.
 
 Il présente au ministre chargé de l'aviation civile ses propositions concernant les conditions d'établissement et de
-perception des redevances mentionnées au I de l'article R. 224-2 et fixe le taux de ces redevances dans les conditions
-prévues au C du II du même article. Il fixe les modalités d'établissement et de perception ainsi que les taux des redevances
-mentionnées à l'article R. 224-3 dans les conditions prévues audit article.
+perception des redevances mentionnées à l'article R. 224-2 et fixe le taux de ces redevances dans les conditions prévues au
+même article. Il fixe les modalités d'établissement et de perception ainsi que les taux des redevances mentionnées à
+l'article R. 224-3 dans les conditions prévues audit article.
 
-Il présente au ministre chargé de l'aviation civile et au ministre de l'économie et des finances ses propositions concernant
-les participations financières et les concessions d'affermages qu'il peut avoir intérêt à autoriser ainsi que la création de
+Il présente au ministre chargé de l'aviation civile et au ministre chargé de l'économie et des finances ses propositions
+concernant les participations financières, les conventions de délégations de service public ainsi que la création de
 filiales.
 
-La délibération précise dans quelles matières et dans quelles conditions le président peut déléguer sa signature au directeur
-général pour l'exercice desdites attributions.
+Il adopte l'état de prévisions de recettes et de dépenses ainsi que les comptes financiers et soumet ces documents à
+l'approbation du ministre chargé de l'aviation civile et du ministre chargé de l'économie et des finances.
+
+Il arrête les grands projets d'ouvrages et d'installations et définit le programme pluriannuel d'investissements.
+
+Il prend toutes les mesures nécessaires à la réalisation des emprunts émis par Aéroports de Paris.
 
 **Liens relatifs à cet article**
 
@@ -15013,13 +15292,12 @@ général pour l'exercice desdites attributions.
 
 	**Modifié par**:
 
-	  - Décret n°99-408 du 21 mai 1999 - art. 3 () JORF 26 mai 1999
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R224-2 (An)
 	  - Code de l'aviation civile - art. R224-3 (M)
-	  - Code de l'aviation civile - art. R253-5 (M)
 
 	**Cité par**:
 
@@ -15027,86 +15305,32 @@ général pour l'exercice desdites attributions.
 	  - Code de l'aviation civile - art. R253-1 (Ab)
 
 
-###### Article R252-14
-
-Le conseil d'administration accepte ou refuse sans autorisation spéciale les dons et legs faits sans charges ni conditions.
-Dans le cas contraire, l'acceptation ou le refus est autorisé par décret en Conseil d'Etat. Le directeur général peut, sans
-autorisation préalable, accepter provisoirement ou à titre conservatoire, les dons et legs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 7 (V) JORF 18 septembre 2002
-
-	**Cité par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 7 (V)
-
-
 ##### Paragraphe 2 : Directeur général.
-
-###### Article R252-17
-
-Le directeur général agit en double qualité :
-
-Agent d'exécution du conseil d'administration ;
-
-Agent du pouvoir central;
-
-Il est responsable devant le conseil d'administration de l'exécution des délibérations du conseil ; il établit au début de
-chaque année un rapport au président du conseil d'administration rendant compte du fonctionnement de ses services et de la
-situation générale de l'aéroport.
-
-Il est également responsable devant le ministre chargé de l'aviation civile en ce qui concerne l'exercice des attributions
-qui lui sont dévolues par l'article R. 252-19.
-
-Il peut être assisté dans l'exercice de ses fonctions par des agents qui possèdent également la double qualité d'agent
-d'exécution du conseil d'administration et d'agent du pouvoir central. Ces agents sont nommés et peuvent être révoqués par
-arrêté du ministre chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-19 (M)
-
 
 ###### Article R252-18
 
 Le directeur général est chargé de la préparation et de l'exécution de l'état de prévisions de recettes et de dépenses ainsi
 que de l'exécution des décisions du conseil d'administration.
 
-Il reçoit délégation permanente dans les limites fixées par arrêté du ministre chargé de l'aviation civile et du ministre de
-l'économie et des finances, pris sur la proposition du conseil d'administration pour l'approbation des marchés, des baux et
-locations d'immeubles, des achats, ventes et réformes d'objets mobiliers ainsi que des transactions en cas de litige.
+Il reçoit délégation permanente dans les limites fixées par le conseil d'administration pour la passation des contrats et
+marchés et les transactions en cas de litige.
 
-Par délégation générale du conseil et dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à celui
-d'agent comptable et à ceux qui sont prévus aux articles R. 252-12 et R. 252-19.
+Dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à celui d'agent comptable et à ceux qui sont prévus
+aux articles R. 252-12-2 et R. 252-19.
 
 Il est consulté sur les nominations aux emplois de direction.
 
-Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à la disposition de l'aéroport suivant la
+Sauf pour le personnel de l'Etat mentionné à l'article R. 252-19, il fixe les tableaux d'effectifs par catégories générales ;
+il fixe les traitements, salaires et indemnités dans le cadre des échelles approuvées par le conseil d'administration et
+arrête les tableaux d'avancement.
+
+Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à la disposition d'Aéroports de Paris suivant la
 réglementation en vigueur dans leurs corps. Ils peuvent toujours être remis à la disposition de leur administration, sans que
 cette mesure ait un caractère disciplinaire.
 
-Pour l'exercice de ses fonctions telles que définies au présent article, le directeur général peut déléguer sa signature.
+Pour l'exercice des missions définies au présent article, le directeur général peut déléguer une partie de ses attributions
+ou sa signature aux directeurs et aux cadres dirigeants. Il définit les conditions dans lesquelles les titulaires de ces
+délégations peuvent subdéléguer leur signature aux cadres.
 
 **Liens relatifs à cet article**
 
@@ -15120,90 +15344,17 @@ Pour l'exercice de ses fonctions telles que définies au présent article, le di
 
 	**Modifié par**:
 
-	  - Décret n°99-408 du 21 mai 1999 - art. 4 () JORF 26 mai 1999
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 8 () JORF 18 septembre 2002
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R252-12 (M)
+	  - Code de l'aviation civile - art. R252-12-2 (Ab)
 	  - Code de l'aviation civile - art. R252-19 (M)
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R252-12-4 (Ab)
-
-
-###### Article R252-19
-
-Le directeur général en tant qu'agent du pouvoir central assure dans la zone de l'aéroport la direction des services de
-sécurité de la navigation aérienne. Il a, en cette qualité, autorité sur le personnel de l'Etat chargé de l'exécution de ces
-services.
-
-Il coordonne, en outre, dans les limites de la circonscription de l'aéroport l'action de tous les services publics en ce qui
-concerne les affaires intéressant directement l'exploitation de l'aéroport. Toutes les fois qu'il y a désaccord entre le
-directeur général et un chef de service dépendant d'un autre département ministériel que celui de l'équipement il en est
-référé au ministre intéressé par ce fonctionnaire et au ministre chargé de l'aviation civile, par le directeur général.
-
-Pour l'exercice de ses fonctions telles que définies au présent article, le directeur général peut déléguer sa signature aux
-fonctionnaires de l'Etat qui lui sont subordonnés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°99-408 du 21 mai 1999 - art. 5 () JORF 26 mai 1999
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-12-2 (Ab)
-	  - Code de l'aviation civile - art. R252-17 (Ab)
-	  - Code de l'aviation civile - art. R252-18 (Ab)
-
-
-##### Section 2 : Contrôle.
-
-###### Article R252-21
-
-Un inspecteur général désigné par le ministre chargé de l'aviation civile vérifie sur place, au moins une fois par an, le
-fonctionnement des services de l'aéroport.
-
-Il correspond directement, pour les besoins du service, avec le président du conseil d'administration et avec le directeur
-général.
-
-Il a le droit de prendre connaissance, à toute époque, des procès-verbaux des délibérations du conseil d'administration, des
-registres, écritures et correspondances des fonctionnaires et agents de l'aéroport et généralement de tous les documents
-qu'il juge nécessaires pour apprécier la situation de l'aéroport.
-
-Il établit chaque année un rapport d'ensemble ayant pour objet de rendre compte de la situation de l'aéroport, à la fin de
-l'exercice précédent, au point de vue technique, économique et financier. Ce rapport indique, s'il y a lieu, les
-améliorations susceptibles d'être introduites dans le fonctionnement des différents services.
-
-Ce rapport est adressé au ministre qui le communique au président du conseil d'administration. Le conseil examine le rapport
-et établit ses observations, qui sont communiquées au ministre.
-
-L'inspecteur général peut se faire assister dans l'exécution de sa mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°89-10 1989-01-04 art. 3 I, II JORF 10 janvier 1989
-	  - Décret n°89-10 du 4 janvier 1989 - art. 3 () JORF 10 janvier 1989
 
 
 #### CHAPITRE III : RÉGIME FINANCIER
@@ -15215,8 +15366,8 @@ Est établi chaque année un état de prévisions de recettes et de dépenses re
 Une section d'exploitation ;
 
 Une section d'opérations en capital. Pour cette dernière section, tous les chapitres relatifs aux dépenses d'investissement
-ont un caractère limitatif. Toutefois, en cours d'année, lorsque l'exécution des dépenses l'exige, des virements de chapitre
-à chapitre peuvent, sur proposition du directeur général, être autorisés par le contrôleur d'Etat.
+ont un caractère prévisionnel. En cours d'année, lorsque l'exécution des dépenses l'exige, des virements de chapitre à
+chapitre peuvent être décidés par le directeur général après avis du contrôleur d'Etat.
 
 L'état de prévisions est présenté par le directeur général au conseil d'administration qui l'adopte dans les conditions
 prévues à l'article R. 252-12.
@@ -15231,7 +15382,7 @@ Les modifications reconnues nécessaires en cours d'exercice sont présentées e
 
 	**Modifié par**:
 
-	  - Décret n°89-10 du 4 janvier 1989 - art. 4 () JORF 10 janvier 1989
+	  - Décret n°2002-1171 du 17 septembre 2002 - art. 11 () JORF 18 septembre 2002
 
 	**Cite**:
 
@@ -15263,47 +15414,6 @@ et du ministre de l'économie et des finances après avis du conseil national de
 
 	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
 	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-
-###### Article R253-4
-
-Les marchés passés par les aéroports de Paris sont soumis au code des marchés publics. Toutefois, des règles appropriées à
-certains types d'opérations peuvent être arrêtées par le conseil d'administration, sous réserve de l'approbation du ministre
-chargé de l'aviation civile et du ministre d'Etat, ministre de l'économie, des finances et du budget.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°89-10 du 4 janvier 1989 - art. 5 () JORF 10 janvier 1989
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-
-#### CHAPITRE IV : DISPOSITIONS DIVERSES.
-
-###### Article R254-1
-
-Les mesures à prendre pour l'établissement et l'exécution des projets d'aménagement de la région parisienne qui seraient de
-nature à influencer l'aménagement et le développement de l'aéroport ne peuvent être prises par les ministres intéressés
-qu'avec l'accord du ministre chargé de l'aviation civile.
-
-Il doit être notamment réservé les terrains nécessaires à l'assiette des installations de l'aéroport et à son extension
-éventuelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 99
-	  - Ordonnance 45-2488 1945-10-24 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
 
 
 ### TITRE VI : AEROPORT DE BALE-MULHOUSE.
