@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1992-12-19
+Version Consolidée au 1993-03-19
 
 # Partie législative
 
@@ -12375,9 +12375,10 @@ Travail aérien.
 
 La liste des brevets, licences et certificats, les conditions requises pour leur obtention, le régime, les programmes et
 règlements des examens y afférents, ainsi que les modalités d'exemption pour l'obtention des brevets de certaines épreuves
-théoriques en faveur des candidats possesseurs de certains titres français ou étrangers sanctionnant des connaissances au
-moins égales à celles qui seront exigées pour ces épreuves, sont fixés, après avis du conseil du personnel navigant, par
-arrêté conjoint du ministre chargé de l'aviation civile et du ministre des armées.
+théoriques en faveur des candidats possesseurs de certains titres français ou délivrés par l'un des Etats membres de la
+Communauté économique européenne ou titres étrangers sanctionnant des connaissances au moins égales à celles qui seront
+exigées pour ces épreuves, sont fixés, après avis du conseil du personnel navigant, par arrêté conjoint du ministre chargé de
+l'aviation civile et du ministre des armées.
 
 Aucune exemption ne peut être accordée pour l'examen pratique sauf, en ce qui concerne le brevet de pilote professionnel
 d'avion et le brevet de pilote professionnel d'hélicoptère, au bénéfice des détenteurs de certains brevets militaires
@@ -12392,12 +12393,40 @@ précédent.
 
 	**Modifié par**:
 
-	  - Décret n°69-329 1969-04-03 art. 1 JORF 12 avril 1969
-	  - Décret n°75-757 1975-08-04 art. 1 JORF 15 août 1975
+	  - Décret n°93-370 du 17 mars 1993 - art. 1 () JORF 19 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 2 () JORF 18 septembre 2005
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R421-7 (M)
+
+
+###### Article R421-5-1
+
+Les conditions sous lesquelles les licences délivrées par les autres Etats membres de la Communauté économique européenne aux
+ressortissants des Etats membres sont acceptées, au même titre que celles délivrées par les autorités nationales, sont fixées
+par arrêté ministériel, après avis du conseil du personnel navigant professionnel de l'aéronautique civile. L'acceptation
+d'une licence prend la forme d'une validation.
+
+L'arrêté prévu à l'alinéa précédent est pris par le ministre chargé de l'aviation civile sauf en ce qui concerne le domaine
+des essais et réceptions. Dans ce dernier domaine, l'arrêté est pris par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°93-370 du 17 mars 1993 - art. 2 () JORF 19 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 2 () JORF 18 septembre 2005
 
 
 ###### Article R421-6
@@ -13578,7 +13607,15 @@ Le retrait temporaire avec ou sans sursis d'une ou de plusieurs licences ou qual
 
 Le retrait définitif d'une ou de plusieurs licences ou qualifications ;
 
-La radiation du registre prévu à l'article L. 421-4.
+La radiation du registre prévu à l'article L. 421-4 ;
+
+Le retrait temporaire avec ou sans sursis de la validation d'une ou plusieurs licences ;
+
+Le retrait définitif de la validation d'une ou plusieurs licences.
+
+Lorsque la sanction concerne un navigant ayant obtenu la validation d'une licence étrangère, le ministre chargé de l'aviation
+civile ou, dans le domaine des essais et réceptions, le ministre de la défense informe l'autorité aéronautique étrangère
+ayant délivré la licence.
 
 **Liens relatifs à cet article**
 
@@ -13588,7 +13625,7 @@ La radiation du registre prévu à l'article L. 421-4.
 
 	**Modifié par**:
 
-	  - Décret n°83-1048 1983-12-06 art. 4 JORF 9 décembre 1983
+	  - Décret n°93-370 du 17 mars 1993 - art. 3 () JORF 19 mars 1993
 
 	**Cité par**:
 
@@ -20123,16 +20160,21 @@ avec les rapporteurs, l'instruction des affaires soumises au conseil.
 ###### Article D410-1
 
 Les titres aéronautiques prévus à l'article L. 410-1 ainsi que ceux dont doit être pourvu le personnel navigant professionnel
-dans les conditions définies aux articles L. 421-4 et L. 421-7 sont délivrés par le ministre chargé de l'aviation civile.
+dans les conditions définies aux articles L. 421-4 et L. 421-7 sont délivrés par le ministre chargé de l'aviation civile ou
+validés par lui sur la base des titres délivrés par un autre Etat.
 
-Les titres aéronautiques requis du personnel navigant professionnel de la catégorie Essais et réception sont délivrés par le
-ministre chargé de la défense nationale.
+Les titres aéronautiques requis du personnel navigant professionnel de la catégorie Essais et réceptions sont délivrés par le
+ministre de la défense ou validés par lui sur la base des titres délivrés par un autre Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°93-369 du 17 mars 1993 - art. 1 () JORF 19 mars 1993
 
 	**Cité par**:
 
@@ -20144,10 +20186,6 @@ ministre chargé de la défense nationale.
 	  - Code de l'aviation civile - art. L410-1 (M)
 	  - Code de l'aviation civile - art. L421-4 (V)
 	  - Code de l'aviation civile - art. L421-7 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1973
 
 
 ###### Article D410-2
@@ -20229,7 +20267,7 @@ Licence de pilote de réception d'hélicoptères (1) ;
 
 Catégorie Transport aérien :
 
-Licence de pilote de ligne d'avions,
+Licence de pilote de ligne d'avion,
 
 Licence de pilote professionnel de 1re classe d'avion,
 
@@ -20247,9 +20285,9 @@ Licence de pilote professionnel de 1re classe d'avion,
 
 Licence de pilote professionnel d'avion,
 
-Licence de pilote de ligne d'hélicoptère,
+Licence de pilote de ligne d'hélicoptère;
 
-Licence de pilote professionnel d'hélicoptère (2) ;
+Licence de pilote professionnel d'hélicoptère (2).
 
 2° Registres B
 
@@ -20259,7 +20297,7 @@ Licence d'ingénieur navigant d'essais,
 
 Licence de mécanicien navigant possédant la qualification Essais et réceptions,
 
-Licence de radionavigant possédant la qualification Essais et réceptions ;
+Licence de radio navigant possédant la qualification Essais et réceptions ;
 
 Catégorie Transport aérien :
 
@@ -20267,7 +20305,9 @@ Licence de navigateur,
 
 Licence de mécanicien navigant,
 
-Licence de radionavigant ;
+Licence de radio navigant ;
+
+Licence d'ingénieur navigant de l'aviation civile.
 
 Catégorie Travail aérien :
 
@@ -20275,7 +20315,7 @@ Licence de navigateur,
 
 Licence de mécanicien navigant,
 
-Licence de radionavigant ;
+Licence de radio navigant ;
 
 Licence d'ingénieur navigant de l'aviation civile (3) ;
 
@@ -20303,6 +20343,12 @@ Catégorie Travail aérien :
 
 Certificat de sécurité sauvetage.
 
+Donnent également droit à l'inscription aux registres les titres délivrés par les autres Etats membres de la Communauté
+économique européenne et validés par le ministre chargé de l'aviation civile ou, dans le domaine des essais et réceptions,
+par le ministre de la défense, sous réserve qu'ils soient en cours de validité.
+
+**Nota:**
+
 (1) Décret n° 79-144 du 17 janvier 1979 (art. 1er).
 
 (2) Décret n° 69-1 du 2 janvier 1969 (art. 1er).
@@ -20318,6 +20364,10 @@ Certificat de sécurité sauvetage.
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°93-369 du 17 mars 1993 - art. 2 () JORF 19 mars 1993
 
 
 ###### Article D421-3
@@ -21289,14 +21339,15 @@ Le conseil médical de l'aéronautique est chargé :
 
 1° D'étudier et de coordonner toutes les questions d'ordre physiologique, médical, médico-social et d'hygiène intéressant
 l'aéronautique civile, notamment en ce qui concerne le personnel navigant, les passagers et, d'une façon générale, le
-contrôle sanitaire. Il assure en cette matière la liaison avec les organismes similaires étrangers ;
+contrôle sanitaire. Il assure en cette matière la liaison avec les organismes similaires étrangers.
 
 2° De se prononcer sur le caractère définitif des inaptitudes déclarées à l'égard des navigants par les différents centres
-d'expertises médicales ;
+d'expertises médicales, pour les licences françaises, ou par l'autorité étrangère ayant délivré la licence validée par le
+ministre chargé de l'aviation civile ou, dans le domaine des essais et réceptions, par le ministre de la défense.
 
 3° De soumettre au ministre chargé de l'aviation civile des propositions concernant les décisions prévues par les articles L.
 424-1, L. 424-2, L. 424-5 et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporaire ou permanente de
-travail et de décès consécutifs à un accident aérien survenu en service ou une maladie imputable au service aérien ;
+travail et de décès consécutifs à un accident aérien survenu en service ou une maladie imputable au service aérien.
 
 4° De recevoir et d'examiner sous réserve des compétences dévolues par les articles D. 434-1 et suivants aux commissions
 médicales régionales de l'aviation civile :
@@ -21315,14 +21366,15 @@ civile avant de formuler une décision d'aptitude ou d'inaptitude à une fonctio
 civile ;
 
 d) Toute demande de dérogation aux conditions d'aptitude médicale prévues par les règlements en vigueur en ce qui concerne le
-personnel navigant de l'aéronautique civile.
+personnel navigant de l'aéronautique civile. Toutefois, en cas de légère déficience à l'égard d'une norme médicale restant
+compatible avec la sécurité aérienne, le médecin chef d'un centre médical agréé ou d'une commission de médecins, d'un centre
+ou service médical d'un département ou d'un territoire d'outre-mer agréés peut, à titre exceptionnel, et pour une durée
+maximale de quarante-cinq jours, déclarer un navigant professionnel apte à exercer ses fonctions jusqu'à la décision du
+conseil médical de l'aéronautique civile. (1)
 
-Toutefois, en cas de légère déficience à l'égard d'une norme médicale restant compatible avec la sécurité aérienne, le
-médecin chef d'un centre médical agréé ou d'une commission de médecins, d'un centre ou service médical d'un département ou
-d'un territoire d'outre-mer agréés peut, à titre exceptionnel, et pour une durée maximale de quarante-cinq jours, déclarer un
-navigant professionnel apte à exercer ses fonctions jusqu'à la décision du conseil médical de l'aéronautique civile. (1)
+e) Les appels interjetés contre les décisions des commissions médicales régionales de l'aviation civile.
 
-" e) Les appels interjetés contre les décisions des commissions médicales régionales de l'aviation civile. "
+**Nota:**
 
 (1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
 
@@ -21336,9 +21388,18 @@ navigant professionnel apte à exercer ses fonctions jusqu'à la décision du co
 
 	  - Décret n°67-335 1967-03-30
 
+	**Cite**:
+
+	  - Décret n°84-202 1984-03-19 art. 1
+	  - Code de l'aviation civile - art. D434-1 (Ab)
+	  - Code de l'aviation civile - art. L424-1 (V)
+	  - Code de l'aviation civile - art. L424-2 (V)
+	  - Code de l'aviation civile - art. L424-5 (V)
+	  - Code de l'aviation civile - art. R426-11 (M)
+
 	**Modifié par**:
 
-	  - Décret n°91-453 du 10 mai 1991 - art. 2 () JORF 16 juin 1991
+	  - Décret n°93-369 du 17 mars 1993 - art. 3 () JORF 19 mars 1993
 
 	**Cité par**:
 
@@ -21349,18 +21410,6 @@ navigant professionnel apte à exercer ses fonctions jusqu'à la décision du co
 	  - Code de l'aviation civile - art. D424-4 (Ab)
 	  - Code de l'aviation civile - art. D424-6 (V)
 	  - Code de l'aviation civile - art. D424-7 (M)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L424-1 (V)
-	  - Code de l'aviation civile - art. L424-2 (V)
-	  - Code de l'aviation civile - art. L424-5 (V)
-	  - Code de l'aviation civile - art. R426-11 (M)
-	  - Code de l'aviation civile L424-1, L424-2, L424-5, R426-11, D431-1
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
 
 
 ###### Article D424-3
