@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1989-02-12
+Version Consolidée au 1989-04-01
 
 # Partie législative
 
@@ -18815,12 +18815,17 @@ délai de huit jours.
 
 ###### Article D251-1
 
-Les aéroports et aérodromes suivants font partie de l'ensemble constitué par l'Aéroport de Paris :
+Les aérodromes suivants font partie de l'ensemble constitué par l'Aéroport de Paris :
 
-Roissy-en-France (1), Orly, Le Bourget ;
+Charles-de-Gaulle, Orly, Le Bourget ;
 
-Chavenay-Villepreux, Chelles-le-Pin, Coulommiers-Voisins, Guyancourt, Issy-les-Moulineaux, Lognes-Emerainville, Meaux-Esbly,
-Mitry-Mory, Persan-Beaumont, Pontoise-Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le-Noble.
+Chavenay-Villepreux, Chelles-le-Pin, Coulommiers-Voisins ;
+
+Issy-les-Moulineaux, Lognes-Emerainville, Meaux-Esbly ;
+
+Persan-Beaumont, Pontoise - Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le-Noble.
+
+**Nota:**
 
 (1) L'aéroport de Roissy-en-France a reçu le nom d'Aéroport Charles-de-Gaulle par décret du 24 octobre 1973.
 
@@ -18840,10 +18845,6 @@ Mitry-Mory, Persan-Beaumont, Pontoise-Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et 
 	**Cité par**:
 
 	  - Arrêté du 16 septembre 2005 - art. 1 (VD)
-
-	**Modifié par**:
-
-	  - Décret n°72-1005 1972-11-02 art. 1 JORF 7 novembre 1972
 
 
 ###### Article D251-2
