@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-04-20
+Version Consolidée au 1973-11-14
 
 # Partie législative
 
@@ -6504,6 +6504,61 @@ subventions d'équipement précédemment allouées par lui.
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R225-4 (V)
+
+
+### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
+
+#### CHAPITRE Ier : DEFINITIONS.
+
+###### Article R231-1
+
+Les dispositions du chapitre IV du titre II du présent livre du code relatives aux redevances pour services rendus aux
+usagers sur les aérodromes ouverts à la circulation aérienne publique sont applicables de plein droit aux usagers civils des
+aérodromes sur lesquels, bien qu'ils ne soient pas ouverts à la circulation aérienne publique, a été autorisée une activité
+aérienne civile et commerciale, réserve faite des cas où la convention passée entre l'Etat et la personne qui a créé
+l'aérodrome prévoit des dispositions contraires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°73-1031 1973-11-07 art. 1 JORF 14 novembre 1973
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R224-1 (V)
+
+
+#### CHAPITRE II : AERODROMES A USAGE RESTREINT.
+
+###### Article R232-1
+
+Les dispositions du chapitre IV du titre II du présent livre du code relatives aux redevances pour services rendus aux
+usagers sur les aérodromes ouverts à la circulation aérienne publique sont applicables de plein droit sur les aérodromes
+agréés à usage restreint, réserve faite des cas où la convention passée entre l'Etat et la personne qui a créé l'aérodrome
+prévoit des dispositions contraires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Transféré par**:
+
+	  - Décret n°2002-134 du 31 janvier 2002 - art. 6 () JORF 3 février 2002
+
+	**Nouveaux textes**:
+
+	  - Code de l'aviation civile - art. R232-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°73-1031 1973-11-07 art. 2 JORF 14 novembre 1973
 
 
 ### TITRE IV : SERVITUDES AERONAUTIQUES.
