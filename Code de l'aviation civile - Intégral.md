@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-07-28
+Version Consolidée au 2004-08-03
 
 # Partie législative
 
@@ -8876,30 +8876,30 @@ chargé de l'aviation civile dans l'intérêt de la sécurité des tiers et rela
 Les règles définies par le ministre chargé de l'aviation civile et relatives tant aux procédures de certification de type et
 certification de navigabilité des aéronefs qu'aux conditions d'aptitude au vol ou d'utilisation des aéronefs, comportent
 l'obligation pour les entreprises concernées de détenir un certificat d'agrément de leurs aptitudes techniques dans les
-conditions ci-après :
+conditions ci-après : 
 
 1° Pour les entreprises assurant la conception des aéronefs ou des équipements pour lesquels un certificat de type est
 délivré, ainsi que des modifications à ces aéronefs ou équipements, l'agrément prévu par les règles relatives aux procédures
 de certification de type est délivré après enquête technique portant sur les dispositions (organisation générale, moyens
 humains et matériels, procédures, documentation) prises par les entreprises de conception pour démontrer et attester de la
-conformité du produit aux conditions techniques qui ont été notifiées. Il porte notamment sur :
+conformité du produit aux conditions techniques qui ont été notifiées. Il porte notamment sur : 
 
-a) La connaissance des règlements de certification et de leurs interprétations ;
+a) La connaissance des règlements de certification et de leurs interprétations ; 
 
-b) La réalisation des études, analyses et essais nécessaires pour démontrer la conformité ;
+b) La réalisation des études, analyses et essais nécessaires pour démontrer la conformité ; 
 
-c) La vérification des conclusions de ces études, analyses ou essais avant de déclarer la conformité.
+c) La vérification des conclusions de ces études, analyses ou essais avant de déclarer la conformité. 
 
 2° Pour les entreprises assurant la production d'aéronefs ou la fabrication d'éléments d'aéronefs, l'agrément prévu par les
 règles relatives aux procédures de certification de navigabilité est délivré après enquête technique portant sur les
 dispositions (organisation générale, moyens humains et matériels, procédures, documentation) prises par l'entreprise pour
-démontrer la conformité des produits au type certifié. Il porte notamment sur :
+démontrer la conformité des produits au type certifié. Il porte notamment sur : 
 
-a) Les liens avec l'organisme responsable de la conception ;
+a) Les liens avec l'organisme responsable de la conception ; 
 
-b) La maîtrise de ses procédés de fabrication ;
+b) La maîtrise de ses procédés de fabrication ; 
 
-c) Les contrôles de conformité.
+c) Les contrôles de conformité. 
 
 3° Pour les entreprises assurant l'entretien et les réparations des aéronefs, l'agrément prévu par les règles relatives à
 l'aptitude au vol des aéronefs est délivré après enquête technique portant sur les dispositions (organisation générale,
@@ -8910,46 +8910,37 @@ relatives à la maintenance des aéronefs. Cet agrément porte notamment sur :
 
 - les vérifications des travaux effectués ;
 
-- l'approbation des matériels pour remise en service.
+- l'approbation des matériels pour remise en service. 
 
-4° Pour les entreprises assurant l'exploitation des aéronefs, l'agrément des aptitudes techniques résulte, en ce qui concerne
-les entreprises de transport aérien, de la délivrance du certificat de transporteur aérien exigé par l'article 9 du règlement
-(C.E.E.) n° 2407/92 susvisé.
+4° Pour les entreprises effectuant les activités de transport aérien public, l'agrément des aptitudes techniques résulte,
+sauf pour les cas visés au III de l'article R. 330-1, de la délivrance du certificat de transporteur aérien exigé par
+l'article R. 330-1-1. 
 
-Le certificat de transporteur aérien ainsi que le certificat d'agrément prévu par les règles relatives à l'utilisation
-d'aéronefs par des entreprises autres que les entreprises de transport aérien sont délivrés après enquête technique portant
-sur les dispositions (organisation générale, moyens humains et matériels, procédures, documentation) prises par l'entreprise
-pour se conformer aux règles d'utilisation notamment en ce qui concerne :
+Le certificat de transporteur aérien ainsi que toutes les autorisations qui lui sont associées par les règles relatives à
+l'utilisation des aéronefs sont délivrés après enquête technique portant sur les dispositions (organisation générale, moyens
+humains et matériels, procédures, documentation) prises par l'entreprise pour se conformer aux règles d'utilisation,
+notamment en ce qui concerne : 
 
-a) Le personnel navigant, la composition et les conditions techniques d'emploi des équipages, la conduite des vols ;
+a) Le personnel navigant, la composition et les conditions techniques d'emploi des équipages, la conduite des vols ; 
 
-b) Le matériel volant, ses équipements, y compris ceux de secours et de sauvetage, ses instruments de bord, leur entretien ;
+b) Le matériel volant, ses équipements y compris ceux de secours et de sauvetage, ses instruments de bord et leur
+entretien ; 
 
-c) Les conditions d'emploi des aéronefs, les limitations liées à leurs performances, leur chargement (y compris le transport
-de marchandises réglementées) ;
+c) Les conditions d'emploi des aéronefs, les limitations liées à leurs performances et à leur chargement, y compris le
+transport des marchandises réglementées ; 
 
-d) L'application des règles de circulation aérienne dans tous les espaces utilisés.
+d) L'application des règles de circulation aérienne dans tous les espaces utilisés. 
 
-Les obligations d'agrément mentionnées aux 1° à 4° du présent article s'appliquent dans les domaines et aux dates fixés ci-
-après :
-
-- à compter du 1er janvier 1997, pour la conception d'aéronefs et d'équipements d'aéronefs ;
-
-- à compter du 1er janvier 1998, pour la conception des modifications d'aéronefs et d'équipements d'aéronefs ;
-
-- à compter du 1er juin 1998, pour la production d'aéronefs et la fabrication d'éléments d'aéronefs ;
-
-- à la date de publication du présent décret, pour l'entretien et l'utilisation des aéronefs utilisés en transport public.
+Le ministre chargé de l'aviation civile peut, par arrêté, déléguer sa signature pour prendre les décisions administratives
+individuelles prévues par le présent article ou celles qui sont requises pour les autres entreprises assurant l'exploitation
+des aéronefs par les règles relatives à l'utilisation des aéronefs aux chefs des services déconcentrés de l'aviation civile
+et aux fonctionnaires placés sous leur autorité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°95-444 du 21 avril 1995 - art. 1 () JORF 25 avril 1995
 
 	**Cité par**:
 
@@ -8961,6 +8952,15 @@ après :
 	  - Code de l'aviation civile - art. R133-5 (M)
 	  - Code de l'aviation civile - art. R330-12 (V)
 	  - Code de l'aviation civile - art. R611-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-794 du 29 juillet 2004 - art. 1 () JORF 3 août 2004
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-1 (V)
+	  - Code de l'aviation civile - art. R330-1-1 (V)
 
 
 ###### Article R133-1-2
@@ -9246,21 +9246,20 @@ chargé de l'aviation civile.
 
 ###### Article R133-5
 
-Les vérifications nécessaires à la délivrance et au maintien en état de validité des certificats et laissez-passer mentionnés
-aux articles R. 133-1 et R. 133-2 ainsi que les contrôles prévus à l'article R. 133-1-1 sont exercés au sol et en vol soit
-par des agents de l'Etat, soit par l'intermédiaire d'organismes techniques ou de personnes extérieurs à l'administration,
-disposant de la qualification technique nécessaire, habilités à cet effet par le ministre chargé de l'aviation civile.
+Sauf lorsqu'elles relèvent de la compétence de l'Agence européenne de la sécurité aérienne en vertu des dispositions du
+règlement (CE) n° 1592/2002 du Parlement européen et du Conseil du 15 juillet 2002, les vérifications nécessaires à la
+délivrance et au maintien en état de validité des certificats, des laissez-passer, des licences et des agréments prévus aux
+articles R. 133-1, R. 133-1-1 et R. 133-2 et de la licence de station d'aéronefs mentionnée à l'article R. 133-2-1 sont
+exercées au sol et en vol soit par des agents de l'Etat soit par l'intermédiaire d'organismes techniques ou de personnes
+extérieures à l'administration disposant de la qualification technique nécessaire et habilités à cet effet par le ministre
+chargé de l'aviation civile.
 
-L'habilitation des organismes techniques ou des personnes extérieurs à l'administration peut comporter la délivrance et le
-maintien en état de validité des certificats et laissez-passer mentionnés aux articles R. 133-1 et R. 133-2.
+L'habilitation des organismes techniques ou des personnes extérieures peut porter sur la délivrance et le maintien en état de
+validité par ceux-ci des certificats, des laissez-passer, des licences et des agréments cités à l'alinéa précédent.
 
 Des arrêtés du ministre chargé de l'aviation civile déterminent les cas, les conditions et les limites dans lesquels les
 agents de l'Etat, les organismes techniques ou les personnes extérieurs à l'administration habilités à cet effet exercent
 leur action.
-
-Si cette habilitation porte sur des contrôles et des vérifications en vue de la certification de type prévue à l'article R.
-133-1 ou en vue de la délivrance du certificat d'agrément prévu au 1° de l'article R. 133-1-1, l'arrêté est contresigné par
-le ministre de la défense.
 
 Les contrôleurs auront, pour l'exercice de leur fonction et sur présentation d'un ordre de mission, accès à bord des
 aéronefs.
@@ -9286,15 +9285,24 @@ communiquée aux entreprises soumises à ces contrôles. Un titre de transport d
 	  - Code de l'aviation civile - art. R133-5 (M)
 	  - Code de l'aviation civile - art. R611-6 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-794 2004-07-29 art. 4 : champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-794 du 29 juillet 2004 - art. 2 () JORF 3 août 2004
+
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R133-1 (M)
 	  - Code de l'aviation civile - art. R133-1-1 (M)
+	  - Code de l'aviation civile - art. R133-1-2 (V)
 	  - Code de l'aviation civile - art. R133-2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°95-44 1995-04-21 art. 3 JORF 25 avril 1995
+	  - Code de l'aviation civile - art. R133-2-1 (V)
+	  - Code de l'aviation civile - art. R133-4 (Ab)
+	  - Code de l'aviation civile - art. R133-9 (M)
+	  - Règlement 1592-2002 CE 2002-07-15 (Parlement et Conseil)
 
 
 ###### Article R133-6
@@ -9370,8 +9378,8 @@ le lieu ou s'effectue le décollage ou l'atterrissage.
 
 ###### Article R133-9
 
-Tout aéronef en circulation en quelque lieu qu'il se trouve doit se soumettre aux injonctions des services de police et de
-douane, sous quelque forme que ces injonctions lui soient données.
+Tout aéronef en circulation doit se soumettre aux injonctions des services de police et de douane ainsi que des aéronefs
+militaires intervenant sur demande de ces services au ministre chargé des armées.
 
 **Liens relatifs à cet article**
 
@@ -9383,13 +9391,13 @@ douane, sous quelque forme que ces injonctions lui soient données.
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°2004-794 du 29 juillet 2004 - art. 3 () JORF 3 août 2004
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R133-5 (M)
-
-	**Modifié par**:
-
-	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
 
 
 ###### Article R133-10
