@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1986-02-28
+Version Consolidée au 1986-03-20
 
 # Partie législative
 
@@ -16420,6 +16420,139 @@ rémunérées.
 #### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.
 
 ##### Section 1 : Contrôle technique des aéronefs, frais de contrôle
+
+##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances
+
+###### Article D133-1
+
+Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des documents de
+navigabilité énoncés par les articles R. 133-1 et R. 133-2 du code de l'aviation civile, mis à la charge des postulants par
+l'article R. 133-4, comprennent :
+
+1° Une somme forfaitaire représentant le montant des frais administratifs d'établissement du document spécifique à chaque
+aéronef, non compris les frais de contrôle et fixée par arrêté conjoint du ministre chargé du budget et du ministre chargé de
+l'aviation civile ;
+
+2° Une somme variable, qui représente le montant des frais de contrôle et comprend notamment les frais de déplacements des
+services et organismes chargés du contrôle.
+
+Pour le contrôle en vue de la délivrance des titres de navigabilité et de limitations de nuisances spécifiques à chaque
+aéronef, le montant global des sommes mentionnées aux 1° et 2° ci-dessus est établi en pourcentage de la valeur de l'appareil
+contrôlé.
+
+Lorsque le contrôle est effectué en France métropolitaine, le montant ne peut dépasser les limites ci-après :
+
+2 p. 100 ad valorem pour la tranche allant de 0 à 22 000 F ;
+
+1,5 p. 100 ad valorem pour la tranche allant de 22 000 F à 110 000 F ;
+
+1 p. 100 ad valorem pour la tranche allant de 110 000 F à 220 000 F ;
+
+0,5 p. 100 ad valorem pour la tranche dépassant 220 000 F.
+
+Lorsque le contrôle est effectué hors du territoire métropolitain, les maxima indiqués ci-dessus sont affectés d'un
+coefficient de majoration. Ce dernier est défini pour chaque département d'outre-mer, chaque territoire d'outre-mer, toute
+autre collectivité territoriale ou pays étranger par arrêté des ministres compétents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 16 octobre 1987
+	  - TXT_SOURCE: Arrêté du 16 octobre 1987 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-3 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-1 (M)
+	  - Code de l'aviation civile - art. R133-2 (V)
+	  - Code de l'aviation civile - art. R133-4 (Ab)
+
+
+###### Article D133-2
+
+Les sommes définies à l'article D. 133-1 du code de l'aviation civile sont liquidées et perçues par les services et
+organismes chargés du contrôle des aéronefs civils.
+
+Lorsque les contrôles sont effectués par les services de l'administration, les modalités d'établissement et de perception de
+ces sommes sont fixées par arrêté conjoint du ministre de l'économie, des finances et du budget, du ministre de la défense et
+du ministre chargé de l'aviation civile. Les sommes ainsi perçues au profit du Trésor sont rattachées par voie de fonds de
+concours aux chapitres adéquats des budgets respectifs de la défense et de l'aviation civile. Les organismes techniques
+extérieurs à l'administration peuvent percevoir directement les sommes correspondant aux contrôles qu'ils ont effectués. Ils
+reversent alors forfaitairement au Trésor 32 % des sommes représentant les frais administratifs d'établissement des
+certificats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-7 (V)
+	  - Code de l'aviation civile - art. D133-8 (V)
+
+
+###### Article D133-3
+
+En cours de certification, le remboursement des frais du contrôle par les postulants donne lieu à des versements, à
+concurrence des travaux réellement effectués. Les sommes doivent être intégralement acquittées à l'issue des opérations de
+contrôle, avant délivrance du certificat en vue duquel celui-ci a été entrepris.
+
+Les opérations de contrôle effectuées entraînent paiement des frais engagés même si la certification n'aboutit pas.
+Toutefois, dans ce cas, le taux maximal des frais autres que les déplacements est calculé sur les bases définies à l'article
+D. 133-1, 2°, au prorata de l'état d'avancement des travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D133-1 (M)
+
+
+###### Article D133-4
+
+Est assimilé à un appareil neuf, donc astreint au paiement des frais de contrôle, tout appareil reconstruit après accident
+ayant entraîné des dégâts supérieurs ou égaux à 60 % de sa valeur neuf.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1937-10-30 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
 
 ##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.
 
