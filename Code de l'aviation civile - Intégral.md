@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2003-05-01
+Version Consolidée au 2003-06-13
 
 # Partie législative
 
@@ -7528,8 +7528,8 @@ réalisation de tout ou partie d'une enquête technique.
 
 ###### Article L711-2
 
-L'enquête technique est effectuée par un organisme permanent spécialisé, assisté, le cas échéant, pour un accident déterminé,
-par une commission d'enquête instituée par le ministre chargé de l'aviation civile.
+L'enquête technique est effectuée par un organisme permanent spécialisé ou sous son contrôle, assisté, le cas échéant, pour
+un accident déterminé, par une commission d'enquête instituée par le ministre chargé de l'aviation civile.
 
 Dans le cadre de l'enquête, l'organisme permanent et les membres de la commission d'enquête agissent en toute indépendance et
 ne reçoivent ni ne sollicitent d'instructions d'aucune autorité, ni d'aucun organisme dont les intérêts pourraient entrer en
@@ -7541,13 +7541,9 @@ conflit avec la mission qui leur est confiée.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Loi n°2003-495 du 12 juin 2003 - art. 40 (Ab) JORF 13 juin 2003
 
 	**Cité par**:
 
