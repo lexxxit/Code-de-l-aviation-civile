@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1996-02-27
+Version Consolidée au 1996-12-10
 
 # Partie législative
 
@@ -8893,6 +8893,29 @@ sont favorables.
 	  - Code de l'aviation civile - art. R222-5 (V)
 
 
+###### Article R221-11
+
+Un établissement public signataire d'une convention de création d'aérodrome au sens de l'article L. 221-1 a le pouvoir de
+délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres d'occupation du
+domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de l'article 3 de la loi n° 94-631 du 25
+juillet 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R57-4 (V)
+	  - Code de l'aviation civile - art. L221-1 (V)
+
+
 #### CHAPITRE II : CLASSIFICATION.
 
 ###### Article R222-1
@@ -9143,18 +9166,32 @@ décision prise par l'autorité administrative entraîne celle des dispositions 
 Les concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes qui lui appartiennent
 sont soumises aux conditions ci-après :
 
-Les cahiers des charges type des concessions sont approuvés par décret en Conseil d'Etat pris sous le contreseing du ministre
-chargé de l'aviation civile et du ministre de l'économie et des finances.
+Les cahiers des charges types des concessions sont approuvés par décret en Conseil d'Etat pris sous le contreseing du
+ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
 
 Les concessions qui ne portent pas dérogation au cahier des charges type sont accordées par arrêté interministériel. Les
 concessions qui portent dérogation au cahier des charges type sont accordées par décret en Conseil d'Etat pris sous le
 contreseing du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
+
+Les concessionnaires d'aérodromes ont le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code
+du domaine de l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit
+code et de l'article 3 de la loi n° 94-631 du 25 juillet 1994.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (M)
+	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+	**Modifié par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
 
 	**Cité par**:
 
@@ -10607,7 +10644,7 @@ intéressant directement l'exploitation de l'aéroport.
 
 Il exerce toutes actions judiciaires tant en demande qu'en défense.
 
-" Il passe tous actes, contrats, traités et marchés. "
+Il passe tous actes, contrats, traités et marchés.
 
 Il nomme aux emplois de direction.
 
@@ -10633,7 +10670,8 @@ Il prend toutes les mesures nécessaires à la réalisation des emprunts que l'a
 
 Il décide la mise à la disposition des usagers, sous le régime de l'occupation temporaire du domaine public, des terrains,
 ouvrages et installations de l'aéroport, sous réserve de l'approbation du contrôleur d'Etat et du commissaire du Gouvernement
-lorsque l'occupation temporaire est prévue pour une durée supérieure à cinq ans.
+lorsque l'occupation temporaire est prévue pour une durée supérieure à cinq ans. Il décide, sous la même réserve, la
+délivrance des titres d'occupation du domaine public de l'Etat mentionnés à l'article R. 253-5, troisième alinéa.
 
 Il présente au ministre chargé de l'aviation civile ses propositions concernant les conditions d'établissement et de
 perception des redevances mentionnées au paragraphe A de l'article R. 224-2 et fixe le taux de ces redevances dans les
@@ -10642,7 +10680,7 @@ des redevances mentionnées à l'article R. 224-3 dans les conditions prévues a
 
 Il présente au ministre chargé de l'aviation civile et au ministre de l'économie et des finances ses propositions concernant
 les participations financières et les concessions d'affermages qu'il peut avoir intérêt à autoriser ainsi que la création de
-filiales ".
+filiales.
 
 Il peut déléguer une partie de ses attributions à son président.
 
@@ -10654,13 +10692,13 @@ Il peut déléguer une partie de ses attributions à son président.
 
 	**Modifié par**:
 
-	  - Décret n°89-10 1989-01-04 art. 2 I, II JORF 10 janvier 1989
-	  - Décret n°89-10 du 4 janvier 1989 - art. 2 () JORF 10 janvier 1989
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R224-2 (An)
 	  - Code de l'aviation civile - art. R224-3 (M)
+	  - Code de l'aviation civile - art. R253-5 (M)
 
 	**Cité par**:
 
@@ -10957,6 +10995,28 @@ L'aéroport de Bâle-Mulhouse est admis au bénéfice des dispositions prévues 
 
 	  - Code de l'aviation civile - art. R224-4 (M)
 	  - Code de l'aviation civile - art. R224-6 (M)
+
+
+###### Article R260-2
+
+L'aéroport de Bâle-Mulhouse a le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du
+domaine de l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit
+code et de l'article 3 de la loi n° 94-631 du 25 juillet 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (V)
+
+	**Créé par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
 
 
 ### TITRE VIII : DISPOSITIONS PENALES
