@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1967-06-25
+Version Consolidée au 1968-07-14
 
 # Partie législative
 
@@ -8115,6 +8115,30 @@ transports privés ou des opérations de sauvetage.
 	**Anciens textes**:
 
 	  - Décret n°1959-03-06 art. 1
+
+
+##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.
+
+###### Article D132-7
+
+Les avions effectuant des vols comportant certaines opérations de travail aérien entrant dans la catégorie des traitements
+aériens, ou les vols de mise en place correspondants, peuvent atterrir ou décoller sur des bandes d'envol occasionnelles, en
+dehors des aérodromes, sous réserve de respecter les mesures de sécurité et autres conditions définies par arrêté
+ministériel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Anciens textes**:
+
+	  - Décret n°68-653 1968-07-10 art. 1
+
+	**Créé par**:
+
+	  - Décret n°68-653 1968-07-10 art. 1 JORF 14 juillet 1968
 
 
 #### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.
