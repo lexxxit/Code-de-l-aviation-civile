@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1995-04-25
+Version Consolidée au 1995-05-07
 
 # Partie législative
 
@@ -17094,15 +17094,39 @@ c) Les conditions particulières relatives aux avions et à leur emploi ainsi qu
 
 ###### Article D132-6
 
-En application de l'article R. 132-1 les hélicoptères peuvent, dans les conditions fixées par un arrêté interministériel,
-atterrir ou décoller ailleurs que sur un aérodrome lorsqu'ils effectuent des transports à la demande, du travail aérien, des
-transports privés ou des opérations de sauvetage.
+En application de l'article R. 132-1, les hélicoptères peuvent atterrir ou décoller ailleurs que sur un aérodrome lorsqu'ils
+effectuent des transports publics à la demande, du travail aérien, des transports privés ou des opérations de sauvetage. 
+
+Ces emplacements sont dénommés " hélisurfaces ". Les hélisurfaces ne peuvent être utilisées qu'à titre occasionnel. Dans
+certaines zones, leur utilisation peut être soumise à autorisation administrative. 
+
+Sauf autorisation spéciale délivrée par arrêté préfectoral et réservée à certaines opérations de transport public ou de
+travail aérien, les hélisurfaces sont interdites dans les agglomérations. Elles peuvent être interdites par le préfet dans
+les lieux où leur utilisation est susceptible de porter atteinte à la tranquillité et à la sécurité publiques, à la
+protection de l'environnement ou à la défense nationale. 
+
+Hors le cas de force majeure, d'opération d'assistance ou de sauvetage, les pilotes doivent être titulaires d'une
+habilitation à utiliser les hélisurfaces valable sur le territoire national, délivrée par le préfet du département où le
+pilote est domicilié ou par le préfet de police pour les personnes résidant à Paris ou à l'étranger, après avis conforme du
+commandant de groupement de gendarmerie départemental, du directeur régional des douanes compétent ou du directeur
+interrégional des douanes d'Ile-de-France et du directeur interrégional du contrôle de l'immigration et de la lutte contre
+l'emploi des clandestins. 
+
+Un arrêté interministériel fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°95-604 du 6 mai 1995 - art. 2 () JORF 7 mai 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°95-604 du 6 mai 1995 - art. 3 (V)
 
 	**Cité par**:
 
@@ -18119,11 +18143,12 @@ délivrance du titre de navigabilité :
 
 Les conditions auxquelles sont assujettis, en application de l'article R. 211-2 du présent code, la création, la mise en
 service et l'utilisation des aérodromes et l'exercice du contrôle de l'Etat sur les aérodromes sont définies par le présent
-livre, IIIe partie réglementaire (Décrets).
+livre, troisième partie : Réglementaire (décrets).
 
 Les dispositions du présent livre sont applicables aux aérodromes pour hélicoptères, sous réserve des dispositions
-particulières à ces aérodromes, qui seront établies par un arrêté conjoint du ministre chargé de l'aviation civile et du
-ministre de l'intérieur.
+particulières à ces aérodromes, qui sont établies par un arrêté conjoint du ministre chargé de l'aviation civile, du ministre
+de l'intérieur et du ministre chargé de l'environnement. Cet arrêté prend en compte, notamment, l'impact sur l'environnement
+en matière de nuisances sonores.
 
 **Liens relatifs à cet article**
 
@@ -18135,12 +18160,13 @@ ministre de l'intérieur.
 
 	  - Décret n°67-335 1967-03-30
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Arrêté du 6 mai 1995 - art. 6 (V)
+	  - Décret n°95-604 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°95-604 du 6 mai 1995 - art. 3 (V)
 	  - TXT_SOURCE: Arrêté du 1 février 1979 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 1 février 1979 - art. 10 (Ab)
 	  - TXT_SOURCE: Arrêté du 1 février 1979 - art. 11 (Ab)
@@ -18168,9 +18194,9 @@ ministre de l'intérieur.
 	  - TXT_SOURCE: Arrêté du 1 février 1979 - art. 8 (Ab)
 	  - TXT_SOURCE: Arrêté du 1 février 1979 - art. 9 (Ab)
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code de l'aviation civile - art. R211-2 (T)
+	  - Arrêté du 6 mai 1995 - art. 6 (V)
 
 
 ###### Article D211-2
