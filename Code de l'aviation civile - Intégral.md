@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-01-01
 
 # Partie législative
 
@@ -12016,6 +12016,42 @@ II. - La proposition de transaction est faite :
 
 	  - Code de l'aviation civile - art. L330-9 (V)
 	  - Code de l'aviation civile - art. R151-8 (V)
+
+
+###### Article R330-19
+
+La licence d'exploitation de transporteur aérien et l'autorisation d'exploiter des services aériens mentionnés aux articles
+L. 330-1 et L. 330-2 sont délivrées, suspendues et retirées par le préfet de région du lieu du principal établissement et, le
+cas échéant, du siège social de l'entreprise, lorsque l'entreprise intéressée exploite exclusivement des aéronefs d'une masse
+maximale au décollage inférieure à 10 tonnes ou d'une capacité inférieure à 20 sièges sauf si cette entreprise exploite des
+services réguliers ou si son chiffre d'affaire annuel dépasse un montant équivalant à 3 millions d'écus.
+
+L'autorisation d'utiliser un aéronef immatriculé à l'étranger et l'autorisation d'affréter un aéronef d'un autre transporteur
+aérien sont délivrées aux transporteurs visés à l'alinéa précédent par le préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°97-1199 1997-12-24 art. 5 JORF 27 décembre 1997 en vigueur le 1er janvier 1998
+
+	**Cité par**:
+
+	  - Décret n°97-1199 du 24 décembre 1997 - art. 5 (V)
+	  - Arrêté du 31 juillet 2015 - art. 2 (V)
+	  - Code de l'aviation civile - art. R330-1 (V)
+	  - Code de l'aviation civile - art. R330-18 (V)
+	  - Code de l'aviation civile - art. R330-19-1 (V)
+	  - Code de l'aviation civile - art. R330-6 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Code de l'aviation civile - art. L330-2 (M)
 
 
 #### Section 1 : Entreprises autorisées et entreprises agréées.
