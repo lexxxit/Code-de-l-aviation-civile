@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1980-02-28
+Version Consolidée au 1980-07-09
 
 # Partie législative
 
@@ -4380,6 +4380,50 @@ résultant d'une faute intentionnelle de l'intéressé.
 	  - Code de l'aviation civile - art. L424-2
 
 
+###### Article L424-5
+
+Lorsqu'un accident aérien survenu en service ou lorsqu'une maladie imputable au service et reconnue comme telle par le
+conseil médical de l'aéronautique civile ont entraîné le décès ou une incapacité permanente totale au sens de la législation
+relative à la réparation des accidents du travail, une indemnité en capital sera versée par la caisse créée en application de
+l'article L. 426-1 à l'intéressé ou à ses ayants droit.
+
+Les limites inférieures et supérieures entre lesquelles le conseil d'administration de la caisse établit le barème des sommes
+qui sont dues en application de l'alinéa ci-dessus sont fixées par un décret en Conseil d'Etat qui établit également les
+majorations pour charges de famille qui pourraient s'y ajouter.
+
+Bénéficient également des dispositions prévues au présent article les navigants stagiaires de l'aéronautique civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 article unique JORF 9 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6526-5 (V)
+	  - Code des transports - art. L6526-7 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D424-2 (V)
+	  - Code de l'aviation civile - art. L424-6 (VT)
+	  - Code de l'aviation civile - art. R423-6 (V)
+	  - Code de l'aviation civile - art. R426-27 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L426-1
+
+
 ###### Article L424-6
 
 Si l'incapacité résultant des causes prévues à l'article précédent entraîne seulement l'inaptitude permanente à exercer la
@@ -4552,6 +4596,29 @@ les retraites visées aux articles précédents, pourront obtenir la liquidation
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L426-1
+
+
+###### Article L426-4
+
+Sont fixées par un décret en Conseil d'Etat les modalités d'application des articles L. 426-2 et L. 426-3 ci-dessus et les
+conditions dans lesquelles les membres du personnel navigant professionnel de l'aéronautique civile en exercice au 5 avril
+1953 peuvent faire valider leurs services militaires accomplis au-delà de la durée légale pour la liquidation de leur pension
+versée en application de l'article L. 426-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 article unique JORF 9 juillet 1980
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L426-1 (Ab)
+	  - Code de l'aviation civile - art. L426-2 (Ab)
 
 
 ###### Article L426-5
