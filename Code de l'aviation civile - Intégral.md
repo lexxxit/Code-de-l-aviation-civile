@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1989-07-11
+Version Consolidée au 1990-01-01
 
 # Partie législative
 
@@ -2097,59 +2097,6 @@ modalités fixées par décret en Conseil d'Etat.
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R151-8 (V)
-
-
-###### Article L150-17
-
-Dans les territoires d'outre-mer sont punis [*sanction*] d'une amende de 1 000 F à 15000 F [*(1)*] inclusivement et peuvent
-l'être en outre d'un emprisonnement de un à cinq jours [*durée*] :
-
-1° Le pilote qui n'a pas tenu un quelconque des livres de bord [*infraction*];
-
-2° Le propriétaire qui a omis de conserver un quelconque des livres de bord pendant les trois ans à partir de la dernière
-inscription ;
-
-3° Ceux qui ont contrevenu aux dispositions selon lesquelles un aéronef ne peut survoler une ville ou une agglomération qu'à
-une altitude telle que l'atterrissage soit toujours possible même en cas d'arrêt du moyen de propulsion en dehors de
-l'agglomération ou sur un aérodrome public ;
-
-4° Ceux qui ont contrevenu aux dispositions selon lesquelles tout vol dit d'acrobatie comportant des évolutions périlleuses
-et inutiles pour la bonne marche de l'appareil est interdit au-dessus d'une agglomération ou de la partie d'un aérodrome
-ouverte au public ;
-
-5° Ceux qui ont contrevenu aux dispositions selon lesquelles les évolutions des aéronefs constituant des spectacles publics
-ne peuvent avoir lieu qu'avec autorisation donnée par le délégué du Gouvernement après avis du maire ou, hors du territoire
-des communes, après avis du chef de la circonscription administrative.
-
-En cas de récidive, une peine d'emprisonnement de huit jours au plus est prononcée.
-
-**Nota:**
-
-[*(1) taux résultant de la loi n° 85-835 du 7 août 1985, articles 7 et 8*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°72-1090 1972-12-08 art. 9 JORF 9 décembre 1972
-
-	**Cité par**:
-
-	  - Loi n°72-1090 du 8 décembre 1972 - art. 9 (V)
-	  - Code de l'aviation civile - art. L150-12 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°89-467 1989-07-10 art. 20 JORF 11 juillet 1989
-	  - TXT_SOURCE: Loi n°89-467 du 10 juillet 1989 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°89-467 du 10 juillet 1989 - art. 20 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 
 ## LIVRE II : AERODROMES
@@ -7434,6 +7381,58 @@ tenu informé.
 
 ### TITRE V : DISPOSITIONS PENALES.
 
+###### Article R151-1
+
+Sont punis d'une amende de 3 000 F à 6 000 F [*(1)*] inclusivement et peuvent l'être en outre d'un emprisonnement de dix
+jours  à un mois :
+
+1° Le pilote qui n'a pas tenu un quelconque des livres de bord ;
+
+2° Le propriétaire qui a omis de conserver un quelconque des livres de bord pendant les trois ans à partir de la dernière
+inscription ;
+
+3° Ceux qui ont contrevenu à l'article R. 131-3 ainsi qu'aux textes pris pour son application ;
+
+4° Ceux qui ont contrevenu aux articles R. 131-1 et R. 131-2 ;
+
+5° Ceux qui ont contrevenu à l'article R. 133-12. (3)
+
+En cas de récidive la peine d'emprisonnement prévue par l'article R. 37 du code pénal est prononcée (2).
+
+**Nota:**
+
+[*(1) Taux résultant du décret 89-989 1989-12-29 art. 1er*] (2) l'article R. 37 du code pénal a été abrogé par le décret
+85-956 du 11 septembre 1985 art. 1er.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 51
+	  - Loi n°1924-05-31, art. 68
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°82-171 1982-02-16 art. 2 JORF 20 février 1982
+	  - Décret n°84-459 1984-06-14 art. 6 JORF 17 juin 1984 en vigueur le 1er avril 1984
+
+	**Cité par**:
+
+	  - Décret n°91-262 du 4 mars 1991 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code pénal R37
+	  - Code de l'aviation civile - art. R131-1 (V)
+	  - Code de l'aviation civile - art. R131-2 (V)
+	  - Code de l'aviation civile - art. R131-3 (M)
+	  - Code de l'aviation civile - art. R133-12 (Ab)
+
+
 ###### Article R151-2
 
 Le propriétaire ou l'exploitant qui met ou laisse en service un aéronef en contravention avec l'article R. 133-1 (1°, b et
@@ -7494,6 +7493,36 @@ Toute contravention à l'article R. 142-1 est punie des peines prévues à l'art
 
 	  - Code pénal R30
 	  - Code de l'aviation civile - art. R142-1 (Ab)
+
+
+###### Article R151-4
+
+Toute infraction aux dispositions des articles R. 142-2 (alinéas 1 à 3) et R. 142-3 sera punie d'une amende de 3000 F à 6 000
+F. En cas de récidive, l'amende sera de 6 000 F à 12 000 F [*(1)*].
+
+**Nota:**
+
+[*(1) Taux résultant du décret 89-989 du 29 décembre 1989*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 3 () JORF 21 novembre 1980
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R142-2 (Ab)
+	  - Code de l'aviation civile - art. R142-3 (Ab)
 
 
 ## LIVRE II : AERODROMES.
@@ -10412,6 +10441,45 @@ L'aéroport de Bâle-Mulhouse est admis au bénéfice des dispositions prévues 
 	  - Code de l'aviation civile - art. R224-6 (M)
 
 
+### TITRE VIII : DISPOSITIONS PENALES
+
+#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
+
+###### Article R282-1
+
+Sans préjudice de l'application des dispositions régissant le cas de contraventions de grande voirie, ceux qui ont contrevenu
+aux dispositions de l'arrêté préfectoral réglementant les conditions d'exploitation de l'aérodrome sont punis d'une amende :
+
+De 1300 à 3000 F, lorsque l'infraction aura été commise dans un secteur accessible aux aéronefs ;
+
+De 600 à 1300 F [*(1)*] dans les autres cas. 
+
+En cas de récidive, il peut être prononcé au maximum une peine d'emprisonnement de dix jours au plus dans le premier cas et
+de huit jours au plus dans le second.
+
+**Nota:**
+
+[* (1) Taux résultant du décret 89-989 1989-12-29*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°74-77 1974-02-01 art. 2 JORF 2 février 1974
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur 1er janvier 1990
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R282-1-1 (V)
+	  - Code de l'aviation civile - art. R282-2 (V)
+	  - Code de l'aviation civile - art. R282-4 (Ab)
+
+
 ## LIVRE III : TRANSPORT AERIEN
 
 ### TITRE II : CONTRAT DE TRANSPORT
@@ -11056,6 +11124,93 @@ Les mesures prévues aux alinéas qui précèdent sont prises dans les condition
 	  - Code de l'aviation civile - art. L330-3 (M)
 	  - Code de l'aviation civile - art. L330-4 (V)
 	  - Code de l'aviation civile - art. R330-4 (Ab)
+
+
+###### Article R330-15
+
+Sans préjudice de l'application des autres sanctions prévues par la législation en vigueur et en particulier de celles qui
+sont édictées par l'article L. 330-4, sera punie d'un emprisonnement de dix jours à un mois et d'une amende de 3000 à 6 000 F
+ou de l'une de ces deux peines seulement, toute personne qui aura contrevenu aux prescriptions des articles L. 330-1, L.
+330-2 ou L. 330-3, et notamment :
+
+1° Aura exercé une activité de transport aérien sans avoir obtenu l'autorisation prévue à l'article L. 330-1 ou sans avoir
+respecté les conditions ou limitations qui lui avaient été imposées dans ladite autorisation ;
+
+2° Aura, contrairement à l'article L. 330-3, omis de soumettre à l'homologation les tarifs qu'elle pratique, ou pratiqué des
+tarifs différents de ceux qui avaient été homologués.
+
+Sera punie de la même peine, sans préjudice de l'application des autres sanctions prévues par les conventions internationales
+ou par la législation en vigueur, toute personne qui aura contrevenu aux prescriptions des articles R. 330-3, R. 330-7
+(alinéa 2), R. 330-9 (alinéa 2), R. 330-11 ou des règlements pris en application de l'article R. 330-4.
+
+En cas de récidive, la peine d'emprisonnement pourra être portée à deux mois et celle d'amende de 6 000 F à 12 000 F (1).
+
+(1) Taux résultant du décret 89-989 du 29 décembre 1989
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-170 1980-02-18 art. 2 JORF 28 février 1980
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°76-711 1976-07-23 art. 2 JORF 29 juillet 1976
+
+	**Cité par**:
+
+	  - Arrêté du 22 août 1994 - art. 3 (V)
+	  - Arrêté du 16 février 1996 - art. 5 (V)
+	  - Arrêté du 12 août 1997 - art. 3 (M)
+	  - Arrêté du 17 juillet 2000 - art. 3 (V)
+	  - Arrêté du 31 mai 2002 - art. 4 (V)
+	  - Arrêté du 20 décembre 2004 - art. 8 (V)
+	  - Code de l'aviation civile - art. R330-16 (Ab)
+	  - Code de l'aviation civile - art. R330-17 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Code de l'aviation civile - art. L330-2 (M)
+	  - Code de l'aviation civile - art. L330-3 (M)
+	  - Code de l'aviation civile - art. L330-4 (V)
+	  - Code de l'aviation civile - art. R330-11 (M)
+	  - Code de l'aviation civile - art. R330-3 (M)
+	  - Code de l'aviation civile - art. R330-4 (Ab)
+	  - Code de l'aviation civile - art. R330-7 (M)
+	  - Code de l'aviation civile - art. R330-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°73-331 1973-03-14 art. 1 JORF 23 mars 1973
+
+
+###### Article R330-17
+
+Dans les territoires d'outre-mer, les infractions définies à l'article R. 330-15 seront punies d'un emprisonnement de cinq
+jours au maximum et d'une amende de 1300 F à 3000 F [*(1)*] au maximum ou de l'une de ce deux peines seulement autant de fois
+qu'il est prévu à l'article R. 330-16.
+
+**Nota:**
+
+*(1) Taux résultant du décret 89-989 du 29 décembre 1989*
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-15 (M)
+	  - Code de l'aviation civile - art. R330-16 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°73-331 1973-03-14 art. 1 JORF 23 mars 1973
 
 
 ### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE
@@ -14329,6 +14484,44 @@ l'année à laquelle correspond le traitement retenu pour l'assiette.
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R426-6 (V)
+
+
+#### CHAPITRE VII : DISPOSITIONS PENALES.
+
+###### Article R427-1
+
+Par dérogation aux dispositions de l'article R. 261-3 du code du travail, sera puni d'une amende de 3 000 F à 6 000 F [*(1)*]
+tout employeur qui, en ce qui concerne le personnel navigant, aura contrevenu aux dispositions des articles L. 212-1 et R.
+212-1 à R. 212-11 de ce code.
+
+Toute infraction à la réglementation relative à la durée du travail du personnel navigant entraîne le retrait de la licence
+du contrevenant, qui est prononcé par le ministre chargé de l'aviation civile en ce qui concerne les catégories Transport
+aérien et Travail aérien, et par le ministre des armées en ce qui concerne le personnel de catégorie Essais et receptions,
+pour une durée qui ne pourra être inférieure à quinze jours ni supérieure à deux mois.
+
+**Nota:**
+
+[*(1) taux résultant du décret 89-989 1989-12-29*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ancien code de l'aviation civile 192 alinéas 3 et 4
+	  - Loi n°53-285 1953-04-04 art. 47, alinéas 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code de l'aviation civile L212-1, R212-1, R212-11, R261-3
 
 
 #### CHAPITRE VIII : DISPOSITIONS COMMUNES.
