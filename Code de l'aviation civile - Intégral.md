@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-05-06
 
 # Partie législative
 
@@ -5246,158 +5246,25 @@ Les conditions d'application des articles L. 330-3, L. 330-4 et L. 330-6 sont d�
 
 ### TITRE IV : SOCIETE AIR FRANCE.
 
-#### CHAPITRE Ier : INSTITUTION.
-
-###### Article L341-1
-
-La société dite société Air France est régie par le présent code et, dans tout ce qu'elles n'ont pas de contraire à celui-ci,
-par les lois sur les sociétés anonymes.
-
-Elle a pour objet d'assurer l'exploitation de transports aériens.
-
-Elle peut créer ou gérer des entreprises présentant un caractère annexe par rapport à son activité principale ou prendre des
-participations dans des entreprises de ce genre. Toutefois elle ne peut créer ou gérer des entreprises de fabrication de
-matériel aéronautique, ni prendre de participation dans de telles entreprises.
-
-**Nota:**
-
-Loi 2003-322 art. 6 II : " II. Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
-au secteur privé de la majorité du capital de la société Air France. 
-
-Les articles L. 341-1, L. 342-1 et L. 342-2 sont abrogés à cette même date. "
-
-Par avis publié au Journal officiel du 29 mai 2004, la majorité du capital de la société Air France a été transférée au
-secteur privé le 6 mai 2004.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°48-976 1948-06-16 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°2001-5 du 4 janvier 2001 - art. 1 () JORF 5 janvier 2001
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 1 ()
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 2 ()
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Loi n°2003-322 du 9 avril 2003 - art. 6 II (V)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R341-1 (Ab)
-
-
 #### CHAPITRE II : FONCTIONNEMENT.
-
-###### Article L342-1
-
-La société Air France est soumise au contrôle général du ministre chargé de l'aviation civile et à un contrôle économique et
-financier.
-
-**Nota:**
-
-Loi 2003-322 art. 6 II : " II. Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
-au secteur privé de la majorité du capital de la société Air France. 
-
-Les articles L. 341-1, L. 342-1 et L. 342-2 sont abrogés à cette même date. "
-
-Par avis publié au Journal officiel du 29 mai 2004, la majorité du capital de la société Air France a été transférée au
-secteur privé le 6 mai 2004.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 141
-	  - Loi n°48-976 1948-06-16 art. 9, pour partie, et art. 11
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Abrogé par**:
-
-	  - Loi n°2003-322 du 9 avril 2003 - art. 6 II (V)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. L342-4 (M)
-	  - Code de l'aviation civile - art. R342-5 (Ab)
-
-
-###### Article L342-2
-
-Sous réserve des dispositions applicables aux obligations de service public imposées sur les services aériens réguliers
-intracommunautaires, les obligations qui sont imposées à la société Air France dans l'intérêt général font l'objet de
-contrats préalables assortis de cahiers des charges, passés entre la société, d'une part, l'Etat, les collectivités publiques
-de la métropole et d'outre-mer, d'autre part.
-
-**Nota:**
-
-Loi 2003-322 art. 6 II : " II. Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
-au secteur privé de la majorité du capital de la société Air France. 
-
-Les articles L. 341-1, L. 342-1 et L. 342-2 sont abrogés à cette même date. "
-
-Par avis publié au Journal officiel du 29 mai 2004, la majorité du capital de la société Air France a été transférée au
-secteur privé le 6 mai 2004.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°48-976 du 16 juin 1948 - art. 12, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°2001-5 du 4 janvier 2001 - art. 2 () JORF 5 janvier 2001
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 1 ()
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 2 ()
-	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 3 ()
-
-	**Abrogé par**:
-
-	  - Loi n°2003-322 du 9 avril 2003 - art. 6 II (V)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. L342-4 (M)
-	  - Code de l'aviation civile - art. R342-8 (Ab)
-
 
 ###### Article L342-3
 
-Par dérogation à l'article 4 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, le
-conseil d'administration de la société Air France compte vingt et un membres. Indépendamment des représentants de l'Etat, des
-salariés, des salariés actionnaires ainsi que des actionnaires autres que l'Etat et les salariés, le conseil peut comprendre
-des personnalités choisies soit en raison de leur compétence technique, scientifique ou économique, soit en raison de leur
-connaissance du transport aérien. La représentation des salariés actionnaires peut se faire par catégories. Elle peut être
-subordonnée à la détention par l'ensemble des salariés actionnaires ou par chaque catégorie d'une part minimale du capital
-social.
+Le conseil d'administration ou, selon le cas, le conseil de surveillance de la société Air France peut compter jusqu'à six
+membres élus par les salariés dans les conditions prévues, selon le cas, par les articles L. 225-27 à L. 225-34 ou les
+articles L. 225-79 et L. 225-80 du code de commerce. Pour l'élection de ces membres, les statuts peuvent prévoir que les
+salariés sont répartis entre quatre collèges comprenant respectivement le personnel navigant technique, le personnel navigant
+commercial, les cadres et les autres salariés. Les statuts fixent alors le nombre de membres élus par chacun des collèges.
+
+Les statuts peuvent prévoir que la représentation des salariés actionnaires au conseil d'administration ou, selon le cas, au
+conseil de surveillance peut se faire en deux catégories, comprenant respectivement le personnel navigant technique et les
+autres salariés. Les statuts fixent alors le nombre de membres de chaque catégorie, qui sont désignés, pour chacune d'elles,
+dans les conditions prévues par l'article L. 225-23 ou par l'article L. 225-71 du code de commerce.
+
+**Nota:**
+
+: Loi n° 2003-322 art. 6 II : " Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
+au secteur privé de la majorité du capital de la société Air France. "
 
 **Liens relatifs à cet article**
 
@@ -5409,26 +5276,30 @@ social.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26 art. 4
-
-	**Modifié par**:
-
-	  - Loi n°2001-5 du 4 janvier 2001 - art. 3 () JORF 5 janvier 2001
-
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001
 	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 1 ()
 	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 2 ()
 	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 3 ()
+	  - SPEC_APPLI: Loi n°2003-322 2003-04-09 art. 6 II (voir Nota)
+
+	**Créé par**:
+
+	  - Loi n°2003-322 du 9 avril 2003 - art. 2 () JORF 10 avril 2003 en vigueur le 6 mai 2004
 
 	**Cité par**:
 
 	  - Loi n°2003-322 du 9 avril 2003 - art. 4 (V)
 	  - Code de l'aviation civile - art. L342-4 (M)
 	  - Code de l'aviation civile - art. R342-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-71 (M)
+	  - Code de commerce. - art. L225-79 (V)
+	  - Code de commerce. - art. L225-80 (V)
+	  - Code de l'aviation civile L225-27 à L225-34, L225-23
 
 
 ###### Article L342-4
