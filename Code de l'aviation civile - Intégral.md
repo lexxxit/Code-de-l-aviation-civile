@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1996-12-10
+Version Consolidée au 1996-12-21
 
 # Partie législative
 
@@ -11969,7 +11969,9 @@ Une autorisation est requise dans les mêmes formes en cas de cession de partici
 
 Le conseil d'administration de la Compagnie nationale Air France comprend dix-huit membres :
 
-1° Onze administrateurs désignés par l'assemblée générale des actionnaires ;
+1° Trois représentants de l'Etat, nommés respectivement par arrêté du ministre chargé de l'aviation civile, du ministre
+chargé de l'économie et du ministre chargé du budget, et huit administrateurs désignés par l'assemblée générale des
+actionnaires ;.
 
 2° Un représentant des salariés actionnaires désigné, parmi ceux-ci, par l'assemblée générale sur proposition d'une section
 de l'assemblée générale composée de ces seuls actionnaires ;
@@ -11997,14 +11999,14 @@ mandat des membres du conseil qu'ils remplacent.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Cite**:
-
-	  - Décret n°83-1160 1983-12-26
-	  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°95-92 1995-12-30 art. 4
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
+	  - Décret n°83-1160 1983-12-26
 
 	**Cité par**:
 
@@ -12012,7 +12014,7 @@ mandat des membres du conseil qu'ils remplacent.
 
 	**Modifié par**:
 
-	  - Décret n°95-92 du 30 janvier 1995 - art. 1 () JORF 31 janvier 1995
+	  - Décret n°96-1117 du 19 décembre 1996 - art. 1 () JORF 21 décembre 1996
 
 
 ###### Article R342-2
