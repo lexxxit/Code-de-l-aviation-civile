@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2001-03-13
+Version Consolidée au 2001-06-22
 
 # Partie législative
 
@@ -16151,86 +16151,63 @@ l'article R. 330-16.
 
 ### TITRE IV : SOCIETE AIR FRANCE.
 
-#### CHAPITRE Ier : INSTITUTION.
-
-###### Article R341-1
-
-L'autorisation prévue au troisième alinéa de l'article L. 341-1 est donnée par arrêté conjoint du ministre chargé de
-l'économie et du ministre chargé de l'aviation civile.
-
-Une autorisation est requise dans les mêmes formes en cas de cession de participation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L341-1 (M)
-
-
 #### CHAPITRE II : FONCTIONNEMENT.
 
 ###### Article R342-1
 
-Le conseil d'administration de la société Air France comprend dix-huit membres :
+I. - Le conseil d'administration de la société Air France comprend vingt et un membres :
 
-1° Cinq représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
+1° Six représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile :
 
-- un sur proposition du Premier ministre  ;
+a) Un sur proposition du Premier ministre ;
 
-- deux sur proposition du ministre chargé de l'aviation civile ;
+b) Deux sur proposition du ministre chargé de l'aviation civile ;
 
-- un sur proposition du ministre chargé de l'économie ;
+c) Un sur proposition du ministre chargé de l'économie ;
 
-- un sur proposition du ministre chargé du budget ;
+d) Un sur proposition du ministre chargé du budget ;
 
-2° Six personnalités qualifiées, nommées par décret sur le rapport du ministre chargé de l'aviation civile et choisies soit
-en raison de leur compétence technique, scientifique ou technologique, soit en raison de leur connaissance du transport
-aérien, soit en raison de leur qualité de représentant des usagers ;
+e) Un sur proposition du ministre chargé du tourisme ;
 
-3° Un représentant des salariés actionnaires désigné, parmi ceux-ci, par l'assemblée générale sur proposition d'une section
-de l'assemblée générale composée de ces seuls actionnaires ;
+2° Cinq personnalités choisies conformément aux dispositions de l'article L. 342-3, nommées par décret sur le rapport du
+ministre chargé de l'aviation civile et du ministre chargé de l'économie ;
 
-4° Six représentants des salariés élus par les salariés de la société Air France et de ses filiales au sens du 4 de l'article
+3° Deux représentants des actionnaires autres que l'Etat et les salariés, désignés par l'assemblée générale des
+actionnaires ;
+
+4° Deux représentants des salariés actionnaires désignés, parmi ceux-ci, par l'assemblée générale, sur proposition,
+respectivement, d'une section comprenant les salariés actionnaires ayant le statut de personnel navigant technique et d'une
+section comprenant les autres salariés actionnaires, sous réserve que chacune de ces deux catégories de salariés actionnaires
+détienne plus de 2 % du capital social de la société Air France ; si ce seuil n'est pas atteint, le représentant au conseil
+d'administration de la catégorie concernée est remplacé par un représentant des actionnaires autres que l'Etat et les
+salariés, désigné par l'assemblée générale des actionnaires.
+
+Les modalités techniques d'application de ces dispositions sont précisées par arrêté du ministre chargé de l'aviation civile
+et du ministre chargé de l'économie ;
+
+5° Six représentants des salariés élus par les salariés de la société Air France et de ses filiales au sens du 4 de l'article
 1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, dans le cadre de trois collèges
 électoraux distincts à raison de :
 
-- un élu par le personnel navigant technique ;
+a) Un élu par le personnel navigant technique ;
 
-- un élu par le personnel navigant commercial ;
+b) Un élu par le personnel navigant commercial ;
 
-- quatre élus, dont un représentant des cadres, par les autres salariés.
+c) Quatre élus, dont un représentant des cadres, par les autres salariés.
 
-Les conditions de présentation des listes de candidats, définies par l'article 17 de ladite loi, s'apprécient par collège.
-Sous cette réserve, les élections sont organisées conformément aux dispositions du chapitre II du titre II de ladite loi et
-du décret n° 83-1160 du 26 décembre 1983 pris pour son application.
+Les conditions de présentation des listes de candidats, définies par l'article 17 de la loi du 26 juillet 1983 susmentionnée,
+s'apprécient par collège. Sous cette réserve, les élections sont organisées conformément aux dispositions du chapitre II du
+titre II de ladite loi et du décret n° 83-1160 du 26 décembre 1983 pris pour son application.
 
-La durée du mandat des membres du conseil d'administration est de cinq ans. Toutefois, les membres du conseil doivent être
-remplacés lorsqu'ils ont perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus les
-conditions d'éligibilité. Dans ce cas, les nouveaux membres restent en fonctions jusqu'à la date de l'expiration normale du
-mandat des membres du conseil qu'ils remplacent.
+II. - La durée du mandat des membres du conseil d'administration est de cinq ans. Cependant, les membres du conseil doivent
+être remplacés lorsqu'ils ont perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus les
+conditions d'éligibilité. Dans le cas où il y a lieu de procéder au remplacement de membres du conseil, les nouveaux membres
+restent en fonctions jusqu'à la date de l'expiration normale du mandat des membres du conseil qu'ils remplacent.
 
 Il peut être mis fin par décret au mandat des membres du conseil d'administration nommés par décret.
 
-Trois censeurs, nommés pour cinq ans, siègent au conseil d'administration avec voix consultative. Les deux premiers sont
-nommés par décret sur le rapport du ministre chargé de l'aviation civile, l'un sur proposition du ministre chargé de la
-défense, l'autre sur celle du ministre chargé du tourisme. Le troisième est nommé par l'assemblée générale ordinaire. Il peut
-être mis fin, à tout moment, à leurs fonctions dans les mêmes conditions.
+III. - Un censeur, désigné pour cinq ans par l'assemblée générale des actionnaires, siège au conseil d'administration avec
+voix consultative. Il peut être mis fin à tout moment à ses fonctions dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -16243,6 +16220,7 @@ défense, l'autre sur celle du ministre chargé du tourisme. Le troisième est n
 	  - Loi n°83-675 1983-07-26 art. 1, art. 17
 	  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
 	  - Décret n°83-1160 1983-12-26
+	  - Code de l'aviation civile - art. L342-3 (M)
 
 	**Cité par**:
 
@@ -16254,7 +16232,7 @@ défense, l'autre sur celle du ministre chargé du tourisme. Le troisième est n
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+	  - Décret n°2001-534 du 21 juin 2001 - art. 1 () JORF 22 juin 2001
 
 
 ###### Article R342-2
@@ -16340,8 +16318,16 @@ Air France : article 5 du Décret 2003-571 du 27 juin 2003.
 
 ###### Article R342-5
 
-Le ministre chargé de l'aviation civile exerce sur la société Air France le contrôle général prévu à l'article L. 342-1 dans
-des conditions fixées par arrêté ministériel.
+Le contrôle général du ministre chargé de l'aviation civile sur la société Air France, prévu à l'article L. 342-1, est exercé
+par le directeur général de l'aviation civile et par le directeur des transports aériens qui siègent, avec voix consultative,
+au conseil d'administration d'Air France, en qualité respectivement de commissaire du Gouvernement et de commissaire du
+Gouvernement adjoint. Ils peuvent se faire communiquer, à cet effet, toute information ou tout document nécessaire à
+l'accomplissement de leur mission.
+
+**Nota:**
+
+: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
+Air France : article 5 du Décret 2003-571 du 27 juin 2003.
 
 **Liens relatifs à cet article**
 
@@ -16356,7 +16342,11 @@ des conditions fixées par arrêté ministériel.
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+	  - Décret n°2001-534 du 21 juin 2001 - art. 3 () JORF 22 juin 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
 
 	**Cité par**:
 
@@ -16424,114 +16414,19 @@ Air France : article 5 du Décret 2003-571 du 27 juin 2003.
 	  - Code de l'aviation civile - art. L342-2 (M)
 
 
-###### Article R342-9
-
-Les cahiers des charges annexés aux contrats relatifs à l'exploitation de services réguliers de transport aérien doivent
-prévoir les types d'appareils utilisés ainsi que la fréquence minimum et maximum des services.
-
-Ils comportent l'obligation pour la société de respecter dans l'exploitation les lois et règlements concernant la navigation
-aérienne, à l'exclusion de toute obligation autre que celles qui sont imposées aux entreprises françaises ou étrangères de
-transport aérien.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-32 1955-01-07 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
-
-
-###### Article R342-10
-
-Les contrats ne peuvent être révisés à la demande de l'une ou l'autre des parties que si la variation de l'ensemble des
-éléments de dépenses ou de recettes énumérés par le cahier des charges entraîne une augmentation ou une réduction de plus de
-10 p. 100 de la charge qu'impose à la société Air France l'obligation qui a fait l'objet du contrat.
-
-Les éléments de recettes ou de dépenses entrant en compte pour la variation comprennent notamment, d'une part, le niveau des
-salaires et charges sociales, le prix du combustible, des matériels ou matières utilisées, les charges d'amortissement et,
-d'autre part, les tarifs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-32 1955-01-07 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
-
-
-###### Article R342-11
-
-Les contrats prévus aux articles précédents sont signés par le ministre intéressé et par le ministre chargé de l'aviation
-civile, après accord du ministre chargé de l'économie et des finances et du ministre du budget, lorsqu'ils sont conclus entre
-l'Etat et la société Air France.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°55-32 1955-01-07 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
-
-	**Cité par**:
-
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
-
-
 ###### Article R342-13
 
-Le conseil d'administration soumet à l'approbation du ministre chargé de l'aviation civile, du ministre chargé de l'économie
-et des finances et du ministre chargé du budget l'état indicatif annuel des prévisions de recettes et de dépenses de toute
-nature, ainsi que les états complémentaires en cours d'année.
+Le décret n° 53-707 du 9 août 1953 modifié relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains
+organismes ayant un objet d'ordre économique et social ne s'applique pas à la société Air France.
 
-Il soumet à l'approbation des mêmes ministres le statut du personnel.
+Le conseil d'administration soumet le statut du personnel à l'approbation du ministre chargé de l'aviation civile, du
+ministre chargé de l'économie et du ministre chargé du budget. A défaut de décision expresse intervenant dans le délai de
+deux mois à compter de la réception de la délibération, l'approbation est considérée comme acquise de plein droit.
 
-A défaut de décision expresse intervenant dans le délai de deux mois à compter de la réception des délibérations,
-l'approbation ministérielle est considérée comme acquise de plein droit.
+**Nota:**
+
+: Ces dispositions sont abrogées à compter de la date du transfert au secteur privé de la majorité du capital de la société
+Air France : article 5 du Décret 2003-571 du 27 juin 2003.
 
 **Liens relatifs à cet article**
 
@@ -16540,47 +16435,29 @@ l'approbation ministérielle est considérée comme acquise de plein droit.
 	  - Ancien code de l'aviation civile 143
 	  - Loi n°48-976 1948-06-16 art. 14
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
-
-	**Cité par**:
-
-	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
-
-
-###### Article R342-15
-
-Le directeur général de l'aviation civile et le directeur des transports aériens siègent, avec voix consultative, au conseil
-d'administration de la société Air France, respectivement en qualité de commissaire du Gouvernement et de commissaire du
-Gouvernement adjoint.
-
-**Liens relatifs à cet article**
+	  - Décret n°53-707 1953-08-09
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Cité par**:
-
-	  - Décret n°92-1390 du 30 décembre 1992 - art. Annexe, 15 (Ab)
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+	  - Décret n°2001-534 du 21 juin 2001 - art. 4 () JORF 22 juin 2001
 
 	**Abrogé par**:
 
-	  - Décret n°2001-534 du 21 juin 2001 - art. 5 (V) JORF 22 juin 2001
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V) JORF 28 juin 2003
+
+	**Cité par**:
+
+	  - Décret n°2003-571 du 27 juin 2003 - art. 4 (V)
 
 
 ### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
