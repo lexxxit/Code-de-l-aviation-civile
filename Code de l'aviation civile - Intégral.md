@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-01-05
+Version Consolidée au 1973-01-25
 
 # Partie législative
 
@@ -12224,6 +12224,77 @@ est étendue aux questions de transport des matières dangereuses et infectes pa
 
 
 ## LIVRE IV : PERSONNEL NAVIGANT
+
+### TITRE Ier : DISPOSITIONS COMMUNES.
+
+###### Article D410-1
+
+Les titres aéronautiques prévus à l'article L. 410-1 ainsi que ceux dont doit être pourvu le personnel navigant professionnel
+dans les conditions définies aux articles L. 421-4 et L. 421-7 sont délivrés par le ministre chargé de l'aviation civile.
+
+Les titres aéronautiques requis du personnel navigant professionnel de la catégorie Essais et réception sont délivrés par le
+ministre chargé de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 2007 - art. 4 (Ab)
+	  - Code de l'aviation civile - art. D410-2 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L410-1 (M)
+	  - Code de l'aviation civile - art. L421-4 (V)
+	  - Code de l'aviation civile - art. L421-7 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1973
+
+
+###### Article D410-2
+
+Le ministre chargé de l'aviation civile peut, par arrêté, déléguer le pouvoir de délivrer les titres aéronautiques visés au
+premier alinéa de l'article D. 410-1 ci-dessus aux autorités suivantes :
+
+Directeurs des régions aéronautiques civiles en métropole ;
+
+Directeur de la région aéronautique civile Antilles-Guyane ;
+
+Préfet du département de la Réunion ;
+
+Délégués du Gouvernement de la République dans les territoires d'outre-mer.
+
+Les arrêtés de délégations de pouvoirs prévus ci-dessus peuvent également autoriser les autorités en cause à déléguer
+respectivement la signature des actes correspondants :
+
+Aux chefs de district aéronautique civil en métropole et dans les départements d'outre-mer ;
+
+Aux chefs du service d'Etat de l'aviation civile dans les territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1973
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2005 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D410-1 (M)
+
 
 ### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL
 
