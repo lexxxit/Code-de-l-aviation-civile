@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1996-12-21
+Version Consolidée au 1997-05-22
 
 # Partie législative
 
@@ -9847,12 +9847,11 @@ l'organisation de l'aviation civile internationale.
 ###### Article R242-1
 
 Afin d'assurer les conditions de sécurité prévues à l'article R. 241-3, il est établi pour chaque aérodrome et installation
-visés à l'aticle R. 241-2, un plan de servitudes aéronautiques de dégagement.
+visés à l'article R. 241-2, un plan de servitudes aéronautiques de dégagement.
 
 Ce plan fait l'objet d'une enquête publique poursuivie dans les formes prévues aux articles R. 11-3 à R. 11-17 du code de
-l'expropriation pour cause d'utilité publique (2).
-
-Il est soumis à une commission centrale constituée pour donner son avis sur les servitudes aéronautiques.
+l'expropriation pour cause d'utilité publique. Il est soumis à une commission centrale constituée pour donner son avis sur
+les servitudes aéronautiques.
 
 Il est approuvé et rendu exécutoire par décret en Conseil d'Etat, à moins que les conclusions du rapport d'enquête, les avis
 des services et des collectivités publiques intéressés ne soient favorables, auquel cas il est statué par arrêté du ministre
@@ -9860,23 +9859,22 @@ chargé de l'aviation civile, en accord s'il y a lieu, avec le ministre des arm�
 
 Les servitudes définies au plan grèvent les fonds intéressés à dater du jour de la publication du décret ou de l'arrêté.
 
-A dater du même jour, aucun travail de grosses réparations ou d'amélioration ne pourra être effectué sur les bâtiments et
-autres ouvrages frappés de servitudes sans une autorisation du ministre chargé de l'aviation civile ou du ministre chargé de
-la défense nationale. (3)
+A dater du même jour, aucun travail de grosses réparations ou d'amélioration exempté du permis de construire ne peut être
+effectué sur les bâtiments et autres ouvrages frappés de servitude sans une autorisation de l'autorité administrative
+compétente, civile ou militaire.
+
+La liste des pièces à annexer à la demande est fixée par un arrêté conjoint des ministres chargés de l'aviation civile et de
+la défense nationale.
+
+L'autorisation est réputée accordée en l'absence de réponse de l'autorité administrative à l'expiration d'un délai de deux
+mois à compter de la date de réception de la demande.
 
 Le plan des servitudes aéronautiques de dégagement est modifié selon la même procédure ; toutefois l'enquête publique n'est
 pas nécessaire lorsque la modification a pour objet de supprimer ou d'atténuer les servitudes prévues au plan.
 
 La déclaration d'utilité publique de tout ou partie des opérations nécessaires à la mise en oeuvre du plan des servitudes
-peut être contenue dans le décret ou l'arrêté rendant celui-ci exécutoire si l'autorité qui statue a, elle-même, compétence
+peut être contenue dans le décret ou l'arrêté rendant celui-ci exécutoire si l'autorité qui statue a elle-même compétence
 pour prononcer cette déclaration.
-
-(1) (Décret n° 80-909 du 17 novembre 1980, art. 7-IX.) Les articles R. 241-4 à R. 241-6 deviennent les articles R. 242-1 à R.
-242-3, insérés dans le chapitre II. (Servitudes aéronautiques de dégagement) du titre Ier, livre II.
-
-(2) Décret n° 80-909 du 17 novembre 1980 (art. 7-VII).
-
-(3) Décret n° 73-308 du 9 mars 1973 (art. 1er).
 
 **Liens relatifs à cet article**
 
@@ -9890,28 +9888,24 @@ pour prononcer cette déclaration.
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-10 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-11 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-12 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-13 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-15 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-16 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-17 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-3 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-5 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-6 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-7 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-8 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-9 (V)
-	  - Code de l'aviation civile - art. R241-2 (M)
+	  - Décret n°73-308 1973-03-09 art. 1
+	  - Décret n°80-909 du 17 novembre 1980 - art. 7, v. init.
+	  - Code de l'expropriation pour cause d'utilité publique R11-3 à R11-17
 	  - Code de l'aviation civile - art. R241-3 (V)
+	  - Code de l'aviation civile R241-3, R241-4 à R241-6, R242-1 à R242-3
+
+	**Modifié par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 32 () JORF 22 mai 1997
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. D242-13 (V)
 	  - Code de l'aviation civile - art. R244-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6351-3 (V)
 
 
 ###### Article R242-2
@@ -10116,18 +10110,22 @@ Ces droits pourront être exercés par les personnes privées éventuellement ch
 
 A l'extérieur des zones grevées de servitudes de dégagement en application du présent titre, l'établissement de certaines
 installations qui, en raison de leur hauteur, pourraient constituer des obstacles à la navigation aérienne est soumis à une
-autorisation spéciale du ministre chargé de l'aviation civile et du ministre chargé des armées. (1)
+autorisation spéciale du ministre chargé de l'aviation civile et du ministre chargé des armées.
 
-Des arrêtés ministériels déterminent les installations soumises à autorisation.
+Des arrêtés ministériels déterminent les installations soumises à autorisation ainsi que la liste des pièces qui doivent être
+annexées à la demande d'autorisation.
 
 L'autorisation peut être subordonnée à l'observation de conditions particulières d'implantation, de hauteur ou de balisage
 suivant les besoins de la navigation aérienne dans la région intéressée.
 
-Lorsque les installations en cause ainsi que les installations visées par la loi du 15 juin 1906 sur les distributions
-d'énergie qui existent à la date du 8 janvier 1959 constituent des obstacles à la navigation aérienne, leur suppression ou
-leur modification peut être ordonnée par décret pris après avis de la commission visée à l'article R. 242-1 (2).
+Le silence gardé à l'expiration d'un délai de deux mois à compter de la date de réception de la demande d'autorisation vaut
+accord.
 
-Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables (2).
+Lorsque les installations en cause ainsi que les installations visées par la loi du 15 juin 1906 sur les distributions
+d'énergie qui existent à la date du 8 janvier 1959, constituent des obstacles à la navigation aérienne, leur suppression ou
+leur modification peut être ordonnée par décret pris après avis de la commission visée à l'article R. 242-1.
+
+Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables.
 
 **Liens relatifs à cet article**
 
@@ -10138,11 +10136,6 @@ Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables (2
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°80-909 1980-11-17 art. 7-X JORF 17 novembre 1980
-	  - Décret n°81-788 1981-08-12 art. 7 JORF 19 août 1981
 
 	**Cité par**:
 
@@ -10159,6 +10152,10 @@ Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables (2
 	  - Code de l'urbanisme - art. R*421-38-13 (Ab)
 	  - Code de l'urbanisme - art. R*425-9 (V)
 	  - Code de l'urbanisme - art. R*431-36 (V)
+
+	**Modifié par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 32 () JORF 22 mai 1997
 
 	**Cite**:
 
