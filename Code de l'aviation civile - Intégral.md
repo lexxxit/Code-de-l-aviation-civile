@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-10-05
+Version Consolidée au 2004-11-06
 
 # Partie législative
 
@@ -27559,14 +27559,24 @@ de réception dans un délai de huit jours.
 
 ###### Article D242-7
 
-Dans les zones grevées de servitudes de dégagement, le permis de construire ne peut être délivré que si les constructions
-projetées sont conformes aux dispositions du plan de dégagement ou aux mesures provisoires de sauvegarde.
+Les constructions, les plantations et les obstacles de toute nature, dont l'implantation est projetée dans une zone grevée de
+servitudes aéronautiques de dégagement, doivent être conformes aux prescriptions établies en application de l'article D.
+241-4, aux dispositions particulières du plan de servitudes aéronautiques de dégagement et aux mesures provisoires de
+sauvegarde.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2004-1177 du 28 octobre 2004 - art. 1 () JORF 6 novembre 2004
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D241-4 (V)
 
 	**Cité par**:
 
@@ -27576,25 +27586,14 @@ projetées sont conformes aux dispositions du plan de dégagement ou aux mesures
 
 ###### Article D242-8
 
-Dans les mêmes zones et sous réserve des dispositions de l'article D. 242-10, l'établissement de plantations, remblais et
-obstacles de toute nature non soumis au permis de construire et ne relevant pas de la loi du 15 juin 1906 sur les
-distributions d'énergie est soumis à l'autorisation de l'ingénieur en chef du service des bases aériennes compétent.
+Par dérogation à l'article D. 242-7, le préfet peut autoriser, dans les mêmes zones, des installations et équipements
+concourant à la sécurité de la navigation aérienne et du transport aérien public, après avis préalable de la Commission
+centrale des servitudes aéronautiques et sous réserve qu'une étude technique démontre que la sécurité et la régularité de
+l'exploitation des aéronefs ne sont pas affectées.
 
-La demande est adressée au maire qui en délivre récépissé. Elle donne les précisions utiles sur la nature et l'emplacement
-des obstacles ainsi que les hauteurs qu'ils sont susceptibles d'atteindre.
-
-Le maire la transmet sans délai à l'ingénieur en chef.
+Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est transmise au maire de la commune concernée.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. D242-10 (Ab)
-	  - Loi n°1906-06-15
-
-	**Anciens textes**:
-
-	  - Décret n°60-1059 1960-09-24 art. 12
 
 	**Codifié par**:
 
@@ -27602,64 +27601,21 @@ Le maire la transmet sans délai à l'ingénieur en chef.
 
 	**Modifié par**:
 
-	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
+	  - Décret n°2004-1177 du 28 octobre 2004 - art. 2 () JORF 6 novembre 2004
 
 	**Cité par**:
 
 	  - Décret n°2004-1177 du 28 octobre 2004 - art. 4 (V)
 	  - Décret n°2012-1495 du 27 décembre 2012 - art. 3 (V)
+	  - Code de l'aviation civile - art. D242-10 (Ab)
 
+	**Cite**:
 
-###### Article D242-9
-
-La décision sur la demande visée à l'article précédent doit être notifiée par l'intermédiaire du maire dans un délai de
-trente jours à compter de la date du dépôt de la demande ou de la remise des renseignements complémentaires que le
-pétitionnaire aura été invité à produire.
-
-Ce délai est augmenté d'un mois lorsque l'instruction de la demande nécessite des opérations de nivellement.
-
-A défaut de réponse dans les délais ainsi fixés, le demandeur peut saisir directement l'ingénieur en chef du service des
-bases aériennes par lettre recommandée avec demande d'avis de réception. Faute par l'ingénieur en chef de notifier sa
-décision dans le délai de quinze jour à dater de la réception de ladite lettre, l'autorisation est réputée accordée sous
-réserve toutefois que le demandeur se conforme aux autres dispositions législatives ou réglementaires.
-
-**Liens relatifs à cet article**
+	  - Code de l'aviation civile - art. D242-7 (M)
 
 	**Anciens textes**:
 
-	  - Décret n°60-1059 1960-09-24 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1177 du 28 octobre 2004 - art. 3 () JORF 6 novembre 2004
-
-
-###### Article D242-10
-
-Les intéressés peuvent se dispenser de produire la demande visée à l'article D. 242-8 lorsque les obstacles qu'ils se
-proposent d'établir demeureront à quinze mètres au moins en dessous de la cote limite qui résulte du plan de dégagement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-1059 1960-09-24 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1177 du 28 octobre 2004 - art. 3 () JORF 6 novembre 2004
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D242-8 (M)
+	  - Décret n°60-1059 1960-09-24 art. 12
 
 
 ###### Article D242-11
