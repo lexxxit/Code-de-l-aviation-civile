@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-03-11
+Version Consolidée au 1990-04-14
 
 # Partie législative
 
@@ -10547,6 +10547,37 @@ l'article R. 321-1.
 
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
+
+###### Article R330-4-1
+
+L'autorisation mentionnée au deuxième alinéa de l'article L. 330-2 est délivrée par le ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1102 1954-11-12 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°90-335 du 10 avril 1990 - art. 1 () JORF 14 avril 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+	**Cité par**:
+
+	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-2 (M)
+
 
 ###### Article R330-16
 
