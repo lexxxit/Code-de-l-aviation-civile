@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-07-14
+Version Consolidée au 2004-07-28
 
 # Partie législative
 
@@ -5261,10 +5261,9 @@ conseil de surveillance peut se faire en deux catégories, comprenant respective
 autres salariés. Les statuts fixent alors le nombre de membres de chaque catégorie, qui sont désignés, pour chacune d'elles,
 dans les conditions prévues par l'article L. 225-23 ou par l'article L. 225-71 du code de commerce.
 
-**Nota:**
-
-: Loi n° 2003-322 art. 6 II : " Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
-au secteur privé de la majorité du capital de la société Air France. "
+En cas d'opération donnant lieu à l'apport de tout ou partie de l'actif de la société Air France à une autre société,
+titulaire d'une licence d'exploitation de transporteur aérien, dont elle détient la majorité du capital social et des droits
+de vote, les dispositions du premier alinéa du présent article sont applicables à la société bénéficiaire des apports.
 
 **Liens relatifs à cet article**
 
@@ -5282,11 +5281,6 @@ au secteur privé de la majorité du capital de la société Air France. "
 	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 1 ()
 	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 2 ()
 	  - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 3 ()
-	  - SPEC_APPLI: Loi n°2003-322 2003-04-09 art. 6 II (voir Nota)
-
-	**Créé par**:
-
-	  - Loi n°2003-322 du 9 avril 2003 - art. 2 () JORF 10 avril 2003 en vigueur le 6 mai 2004
 
 	**Cité par**:
 
@@ -5294,22 +5288,36 @@ au secteur privé de la majorité du capital de la société Air France. "
 	  - Code de l'aviation civile - art. L342-4 (M)
 	  - Code de l'aviation civile - art. R342-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 2 () JORF 28 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6411-9 (V)
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-71 (M)
-	  - Code de commerce. - art. L225-79 (V)
-	  - Code de commerce. - art. L225-80 (V)
-	  - Code de l'aviation civile L225-27 à L225-34, L225-23
+	  - Code de commerce - art. L225-71
+	  - Code de commerce - art. L225-79
+	  - Code de commerce - art. L225-80
+	  - Code de l'aviation civile
 
 
 ###### Article L342-4
-
-(Alinéa supprimé)
 
 Par dérogation aux dispositions des articles L. 433-2 et L. 435-4 du code du travail, les personnels navigants professionnels
 constituent un collège spécial pour l'élection des représentants du personnel au sein des comités d'établissement de la
 société Air France et disposent d'une représentation spécifique au comité central d'entreprise. Un décret en Conseil d'Etat
 fixe les conditions d'application du présent alinéa.
+
+En cas d'opération donnant lieu à l'apport de tout ou partie de l'actif de la société Air France à une autre société,
+titulaire d'une licence d'exploitation de transporteur aérien, dont elle détient la majorité du capital social et des droits
+de vote, les dispositions de l'alinéa précédent sont applicables à la société bénéficiaire des apports.
 
 **Liens relatifs à cet article**
 
@@ -5323,9 +5331,9 @@ fixe les conditions d'application du présent alinéa.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-322 du 9 avril 2003 - art. 6 (V) JORF 10 avril 2003
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 5 () JORF 28 juillet 2004
 
 	**Cite**:
 
@@ -5442,22 +5450,26 @@ reproduit provisoirement pour mémoire.
 	  - Code de la santé publique - art. L51-3
 
 
-### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE
+### TITRE VI : DISPOSITIONS RELATIVES A L'ACTIONNARIAT DES ENTREPRISES DE TRANSPORT AERIEN.
 
 ###### Article L360-1
+
+Les dispositions du présent titre s'appliquent aux sociétés dont les titres sont admis aux négociations sur un marché
+réglementé et qui soit sont titulaires d'une licence d'exploitation de transporteur aérien délivrée en application de
+l'article L. 330-1, soit ont pour principale activité la prise de participations dans le capital d'entreprises de transport
+aérien et détiennent, directement ou indirectement, la majorité du capital et des droits de vote d'une société titulaire
+d'une telle licence.
 
 Les titres émis par les sociétés qui sont l'objet du présent titre prennent les formes prévues aux articles L. 228-1 et
 suivants du code de commerce, sous réserve des dispositions suivantes.
 
-Les statuts d'une société titulaire d'une licence d'exploitation de transporteur aérien délivrée en application de l'article
-L. 330-1 et dont les titres sont admis aux négociations sur un marché réglementé déterminent les conditions dans lesquelles
-la société impose la mise sous forme nominative des titres composant son capital. Cette obligation peut ne s'appliquer qu'aux
-actionnaires détenant une certaine fraction du capital ou des droits de vote. Les statuts prévoient une procédure
-d'identification des détenteurs de titres. Ils précisent les informations qui doivent être communiquées à la société par les
-détenteurs de titres sous forme nominative, afin de permettre à cette dernière de s'assurer du respect des règles et
-stipulations fixées par les règlements communautaires, les accords internationaux ou le présent titre, et notamment de celles
-relatives à la composition et à la répartition de son actionnariat ou à son contrôle effectif, au sens desdites règles et
-stipulations.
+Les statuts des sociétés objet du présent titre déterminent les conditions dans lesquelles la société impose la mise sous
+forme nominative des titres composant son capital. Cette obligation peut ne s'appliquer qu'aux actionnaires détenant une
+certaine fraction du capital ou des droits de vote. Les statuts prévoient une procédure d'identification des détenteurs de
+titres. Ils précisent les informations qui doivent être communiquées à la société par les détenteurs de titres sous forme
+nominative, afin de permettre à cette dernière de s'assurer du respect des règles et stipulations fixées par les règlements
+communautaires, les accords internationaux ou le présent titre, et notamment de celles relatives à la composition et à la
+répartition de son actionnariat ou à son contrôle effectif, au sens desdites règles et stipulations.
 
 Ces statuts peuvent prévoir que tout actionnaire soumis à l'obligation de mise sous forme nominative de ses titres qui n'a
 pas son domicile, au sens de l'article 102 du code civil, ou son siège sur le territoire français doit, pour l'application du
@@ -5480,16 +5492,28 @@ lesquelles les cessions d'actions, y compris entre actionnaires, sont soumises �
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-322 du 9 avril 2003 - art. 1 () JORF 10 avril 2003
+	  - Loi n°2004-734 2004-07-26 art. 1 I, II JORF 28 juillet 2004
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 1 () JORF 28 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6411-2 (V)
+	  - Code des transports - art. L6411-3 (V)
+	  - Code des transports - art. L6411-4 (V)
+	  - Code des transports - art. L6411-5 (V)
 
 	**Cite**:
 
-	  - Code de commerce. - art. L228-1 (M)
-	  - Code de commerce. - art. L228-23 (M)
-	  - Code civil - art. 102 (V)
-	  - Code de l'aviation civile - art. L330-1 (M)
+	  - Code de commerce - art. L228-1
+	  - Code de commerce - art. L228-23
+	  - Code civil - art. 102
+	  - Code de l'aviation civile - art. L330-1
 
 	**Cité par**:
 
@@ -5500,9 +5524,10 @@ lesquelles les cessions d'actions, y compris entre actionnaires, sont soumises �
 
 ###### Article L360-2
 
-Dans le cas où le président du conseil d'administration ou du directoire de la société de transport aérien constate que la
+Dans le cas où le président du conseil d'administration ou du directoire d'une société objet du présent titre constate que la
 licence d'exploitation de transporteur aérien ou les droits de trafic accordés en vertu d'accords internationaux dont la
-société bénéficie risquent d'être remis en cause, en raison soit d'une évolution de son actionnariat, appréciée au regard de
+société, ou, le cas échéant, sa filiale dont elle détient, directement ou indirectement, la majorité du capital et des droits
+de vote, bénéficie risquent d'être remis en cause, en raison soit d'une évolution de son actionnariat, appréciée au regard de
 seuils de détention du capital ou des droits de vote fixés par un décret en Conseil d'Etat, soit, par suite d'une telle
 évolution, d'un changement dans son contrôle effectif, au sens du règlement (CEE) n° 2407/92 du Conseil, du 23 juillet 1992,
 concernant les licences des transporteurs aériens, annexé au présent code, il en informe le ministre chargé des transports et
@@ -5513,15 +5538,26 @@ Etats parties à l'accord sur l'Espace économique européen ou à tout autre ac
 aérien. Les titres faisant l'objet de la mise en demeure sont déterminés dans l'ordre de leur inscription sous forme
 nominative, en commençant par les derniers inscrits.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 360-2, les mots " le ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-322 du 9 avril 2003 - art. 1 () JORF 10 avril 2003
+	  - Loi n°2004-734 2004-07-26 art. 1 I, III JORF 28 juillet 2004
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 1 () JORF 28 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -5530,10 +5566,13 @@ nominative, en commençant par les derniers inscrits.
 	  - Code de l'aviation civile - art. R360-2 (V)
 	  - Code de l'aviation civile - art. R360-3 (V)
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6411-6 (V)
+
 	**Cite**:
 
 	  - Décret n°92-2407 1992-07-23
-	  - Règlement CEE 2407/92 1992-07-23 (Conseil)
 
 
 ###### Article L360-3
@@ -5550,16 +5589,24 @@ que dans ces conditions et sont privés des droits de vote qui y sont attachés.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-322 du 9 avril 2003 - art. 1 () JORF 10 avril 2003
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 1 () JORF 28 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6411-7 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L531-1 (V)
-	  - Code de l'aviation civile - art. L360-2 (M)
+	  - Code monétaire et financier - art. L531-1
+	  - Code de l'aviation civile - art. L360-2
 
 	**Cité par**:
 
@@ -5598,15 +5645,23 @@ commerce. Les actions que la société possède au-delà du seuil de 10 % prévu
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-322 du 9 avril 2003 - art. 1 () JORF 10 avril 2003
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 1 () JORF 28 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6411-8 (V)
 
 	**Cite**:
 
-	  - Code de commerce L225-206 à L225-217, L225-210
-	  - Code de commerce. - art. L225-210 (M)
-	  - Code de l'aviation civile - art. L360-2 (M)
+	  - Code de commerce
+	  - Code de commerce - art. L225-210
+	  - Code de l'aviation civile - art. L360-2
 
 	**Cité par**:
 
@@ -5990,11 +6045,8 @@ III. - Travail aérien.
 
 ###### Article L421-3
 
-Nul ne peut faire partie du personnel navigant professionnel de l'aéronautique civile des sections A, B et C et du personnel
-permanent de la section D s'il n'est inscrit sur le registre spécial correspondant à sa catégorie et à sa section.
-
-Toutefois, le personnel de la section D recruté pour une durée inférieure à six mois n'est pas inscrit sur le registre du
-personnel navigant de l'aéronautique civile.
+Nul ne peut faire partie du personnel navigant professionnel de l'aéronautique civile des sections A, B, C et D s'il n'est
+inscrit sur le registre spécial correspondant à sa catégorie et à sa section.
 
 **Liens relatifs à cet article**
 
@@ -6016,6 +6068,18 @@ personnel navigant de l'aéronautique civile.
 	  - Code de l'aviation civile - art. L421-9 (VT)
 	  - Code de l'aviation civile - art. L426-1 (VT)
 	  - Code de l'aviation civile - art. R426-1 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 4 () JORF 28 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6521-2 (V)
 
 
 ###### Article L421-4
@@ -6123,9 +6187,11 @@ ressortissants des Etats membres de la Communauté économique européenne, sous
 ###### Article L421-9
 
 Le personnel navigant de l'aéronautique civile de la section A du registre prévu à l'article L. 421-3 ne peut exercer aucune
-activité en qualité de pilote ou de copilote dans le transport aérien public au-delà de l'âge de soixante ans. Toutefois, le
-contrat de travail du navigant n'est pas rompu du seul fait que cette limite d'âge est atteinte sauf impossibilité pour
-l'entreprise de proposer un reclassement dans un emploi au sol.
+activité en qualité de pilote ou de copilote dans le transport aérien public au-delà de l'âge de soixante ans. Le personnel
+navigant de l'aéronautique civile de la section D du registre prévu au même article ne peut exercer aucune activité en
+qualité de personnel de cabine dans le transport aérien public au-delà d'un âge fixé par décret. Toutefois, le contrat de
+travail du navigant n'est pas rompu du seul fait que cette limite d'âge est atteinte sauf impossibilité pour l'entreprise de
+proposer un reclassement dans un emploi au sol ou refus de l'intéressé d'accepter l'emploi qui lui est offert.
 
 **Liens relatifs à cet article**
 
@@ -6133,19 +6199,15 @@ l'entreprise de proposer un reclassement dans un emploi au sol.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-116 1995-02-04 art. 90 II
-
-	**Créé par**:
-
-	  - Loi n°95-116 du 4 février 1995 - art. 90 (V) JORF 5 février 1995
-
 	**Cité par**:
 
 	  - Loi n°95-116 du 4 février 1995 - art. 90 (V)
 	  - Code de l'aviation civile - art. D421-10 (V)
 	  - Code de l'aviation civile - art. L423-1 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 4 () JORF 28 juillet 2004
 
 	**Cite**:
 
@@ -6346,52 +6408,69 @@ temps d'arrêt déterminés par la loi ou le règlement.
 ###### Article L423-1
 
 L'engagement d'un membre du personnel navigant professionnel donne obligatoirement lieu à l'établissement d'un contrat de
-travail écrit.
+travail écrit. 
 
-Ce contrat précise, en particulier :
+Ce contrat précise, en particulier : 
 
-1° Le salaire minimum mensuel garanti ;
+1° Le salaire minimum mensuel garanti ; 
 
 2° L'indemnité de licenciement qui sera allouée, sauf en cas de faute grave, au personnel licencié sans droit à pension à
-jouissance immédiate ;
+jouissance immédiate ; 
 
-3° Les conditions dans lesquelles le contrat est résilié en cas de maladie, invalidité ou disparition ;
+3° Les conditions dans lesquelles le contrat est résilié en cas de maladie, invalidité ou disparition ; 
 
 4° Le lieu de destination final et le moment à partir duquel la mission est réputée accomplie si le contrat est conclu pour
-une mission déterminée ;
+une mission déterminée ; 
 
-5° Si le contrat prévoit l'expatriement du navigant :
+5° Si le contrat prévoit l'expatriement du navigant : 
 
 La durée du séjour hors de la métropole qui ne pourra pas excéder trois années consécutives, sauf accord entre les deux
-parties ;
+parties ; 
 
-L'indemnité de séjour ;
+L'indemnité de séjour ; 
 
-Les congés accordés en fin de séjour et les conditions de rapatriement.
+Les congés accordés en fin de séjour et les conditions de rapatriement. 
 
 En cas de licenciement, les intéressés auront droit, sauf demande de leur part, à être rapatriés avant l'expiration du
-préavis et aux frais de l'employeur ;
+préavis et aux frais de l'employeur ; 
 
 6° Le délai de préavis à observer en cas de résiliation du contrat par l'une ou l'autre des parties. Pendant le délai de
 préavis, le travail aérien mensuel demandé aux navigants doit rester égal à la moyenne de celui demandé pendant la même
-période aux membres du personnel navigant de l'entreprise considérée;
+période aux membres du personnel navigant de l'entreprise considérée ; 
 
-7° Le montant de l'indemnité exclusive de départ, allouée au personnel dont le contrat prend fin en application de l'article
-L. 421-9, à raison soit de l'impossibilité pour l'entreprise de proposer à l'intéressé de le reclasser dans un emploi au sol,
-soit du refus de l'intéressé d'accepter l'emploi qui lui est offert, calculé selon les mêmes modalités que celles prévues au
-deuxième alinéa de l'article L. 122-14-13 du code du travail.
+7° Le montant de l'indemnité exclusive de départ allouée au personnel dont le contrat prend fin en application de l'article
+L. 421-9. Ce montant est calculé comme suit :
+
+- moins de dix ans d'ancienneté : un dixième de mois de salaire par année d'ancienneté ;
+
+- à partir de dix ans d'ancienneté : un dixième de mois de salaire par année d'ancienneté plus un quinzième de mois de
+salaire par année d'ancienneté au-delà de dix ans. 
+
+Le salaire à prendre en considération pour le calcul de l'indemnité exclusive de départ est égal, selon la formule la plus
+avantageuse pour l'intéressé, soit au douzième de la rémunération des douze derniers mois précédant la date de départ, soit
+au tiers de la rémunération des trois derniers mois ; dans ce cas, toute prime ou gratification de caractère annuel ou
+exceptionnel qui aurait été versée au salarié pendant cette période ne serait prise en compte que dans la limite d'un montant
+calculé pro rata temporis. 
 
 L'employeur peut cependant ne pas utiliser le navigant en période de délai-préavis, mais dans ce cas il doit lui verser,
 immédiatement et en une seule fois, une indemnité calculée pour la durée minimum du préavis sur la base du salaire global
-mensuel moyen de la dernière année d'activité normale.
+mensuel moyen de la dernière année d'activité normale. 
 
 Sauf s'il s'agit d'assurer un service public, les navigants et le personnel complémentaire de bord ne peuvent être astreints
 à un travail aérien en zone d'hostilités civiles et militaires que s'ils sont volontaires. Un contrat particulier fixera
 alors les conditions spéciales du travail et devra couvrir expressément, en dehors des risques habituels, les risques
-particuliers dus aux conditions d'emploi.
+particuliers dus aux conditions d'emploi. 
 
 L'application des dispositions du présent article ne concerne que les rapports de l'employeur et du salarié. Elle ne met pas
 obstacle à l'exercice par les autorités publiques du droit de réquisition prévu par les lois en vigueur.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 423-1, au 5°, les mots " qui ne pourra pas excéder trois années consécutives, sauf accord entre les deux parties ", au
+premier alinéa du 7°, les mots " Ce montant est calculé comme suit ", les deuxième, troisième et quatrième alinéas du 7° et
+au cinquième alinéa du 7°, les mots " immédiatement et en une seule fois, ". (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -6402,11 +6481,7 @@ obstacle à l'exercice par les autorités publiques du droit de réquisition pr�
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°95-116 du 4 février 1995 - art. 90 (V) JORF 5 février 1995
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Cité par**:
 
@@ -6414,10 +6489,29 @@ obstacle à l'exercice par les autorités publiques du droit de réquisition pr�
 	  - Arrêté du 21 janvier 1998 - art. 3 (V)
 	  - Code de l'aviation civile - art. R423-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 4 () JORF 28 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6523-1 (V)
+	  - Code des transports - art. L6523-2 (V)
+	  - Code des transports - art. L6523-3 (V)
+	  - Code des transports - art. L6523-4 (V)
+	  - Code des transports - art. L6523-5 (V)
+	  - Code des transports - art. L6523-6 (V)
+	  - Code des transports - art. L6523-7 (V)
+	  - Code des transports - art. L6523-8 (V)
+	  - Code des transports - art. L6523-9 (V)
+
 	**Cite**:
 
-	  - Code du travail - art. L122-14-13 (M)
-	  - Code de l'aviation civile - art. L421-9 (M)
+	  - Code de l'aviation civile - art. L421-9 (VT)
 
 
 ###### Article L423-2
