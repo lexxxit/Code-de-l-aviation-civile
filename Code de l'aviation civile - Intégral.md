@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-04
 
 # Partie législative
 
@@ -2151,6 +2151,45 @@ modalités fixées par décret en Conseil d'Etat.
 
 ### TITRE Ier : DISPOSITIONS GENERALES
 
+#### CHAPITRE Ier : DEFINITIONS.- REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.
+
+###### Article L211-1
+
+Les travaux de construction, d'extension ou de modification substantielle des infrastructures aéroportuaires dont
+l'exploitation présente des risques particuliers pour la sécurité des usagers et des populations riveraines font l'objet,
+avant tout commencement, d'un dossier descriptif accompagné d'un rapport sur la sécurité établi par un expert ou un organisme
+qualifié, agréé. Ce rapport présente notamment les conditions d'exploitation des ouvrages et infrastructures concernés au
+regard des risques naturels ou technologiques susceptibles de les affecter et examine, le cas échéant, la compatibilité des
+constructions existantes ou en projet aux abords des aérodromes avec la sécurité des populations riveraines.
+
+Les travaux ne peuvent être entrepris qu'à la réception de l'avis du représentant de l'Etat sur ce dossier ou, à défaut, à
+l'expiration d'un délai de quatre mois à compter de son dépôt.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et, notamment, les catégories d'ouvrages
+auxquelles s'appliquent ses dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 9 () JORF 4 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1612-1 (VD)
+	  - Code des transports - art. L1612-2 (VD)
+	  - Code des transports - art. L1612-3 (VD)
+	  - Code des transports - art. L1612-4 (VD)
+
+
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
 
 ###### Article L213-1
@@ -2290,6 +2329,63 @@ d'incendie et de secours, par l'autorité militaire ou par un organisme agréé 
 
 	  - Code de l'aviation civile - art. L213-2 (M)
 	  - Code de l'aviation civile - art. L282-8 (M)
+
+
+###### Article L213-4
+
+En vue d'assurer préventivement la sûreté des vols, l'entreprise ou l'organisme implanté à l'extérieur de la zone réservée
+doit, pour y accéder afin de livrer des biens et produits utilisés à bord des aéronefs, être agréé par l'autorité
+administrative compétente en qualité d'"établissement connu". L'entreprise ou l'établissement agréé en qualité
+d'"établissement connu" doit mettre en oeuvre des mesures de sûreté appropriées pendant le conditionnement de ces biens et
+produits et préserver leur intégrité jusqu'à leur entrée en zone réservée.
+
+L'agrément peut être refusé ou retiré lorsque l'entreprise ou l'organisme ne se conforme pas aux obligations prévues par le
+présent article ou peut constituer, par ses méthodes de travail ou le comportement de ses dirigeants ou agents, un risque
+pour la sûreté. Il peut faire l'objet d'une suspension immédiate en cas d'urgence.
+
+Les agents visés à l'article L. 282-11 ainsi que des organismes techniques habilités à cet effet vérifient que les
+entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité d'"établissement connu".
+
+Les dispositions du présent article sont applicables dans la collectivité départementale de Mayotte, en Polynésie française,
+en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 9 () JORF 4 janvier 2002
+
+	**Cité par**:
+
+	  - Arrêté du 1 septembre 2003 - art. 1 (V)
+	  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (VT)
+	  - Code de l'aviation civile - art. L213-3 (VT)
+	  - Code de l'aviation civile - art. L213-5 (VT)
+	  - Code de l'aviation civile - art. R213-13 (Ab)
+	  - Code de l'aviation civile - art. R213-14 (M)
+	  - Code de l'aviation civile - art. R213-15 (Ab)
+	  - Code de l'aviation civile - art. R213-16 (Ab)
+	  - Code de l'aviation civile - art. R213-5 (M)
+	  - Code de l'aviation civile - art. R213-7 (M)
+	  - Code de l'aviation civile - art. R217-1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6342-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L282-11
 
 
 #### CHAPITRE V : DISPOSITIONS SANITAIRES.
@@ -4337,48 +4433,63 @@ et le destinataire, à raison de cette perte de marchandises.
 
 ###### Article L321-7
 
-En vue d'assurer préventivement la sûreté des vols, les transporteurs aériens doivent recourir aux services d'un "expéditeur
-connu" pour l'expédition de fret ou de colis postaux en vue de leur transport ou mettre en oeuvre, dans les conditions
-définies par le décret prévu au sixième alinéa du présent article, des procédures de sûreté spécifiques pouvant comporter des
-visites de sûreté pratiquées par des agents agréés dans les conditions prévues par l'article L. 282-8.
+En vue d'assurer préventivement la sûreté des vols, le transporteur aérien doit mettre en oeuvre des mesures de sûreté sur le
+fret et les colis postaux préalablement à leur embarquement dans les aéronefs.
 
-Peuvent être agréés en qualité d'"expéditeur connu" par le ministre chargé des transports les entreprises ou organismes qui
-mettent en place des procédures appropriées de sûreté en vue du transport de fret ou de colis postaux expédiés pour leur
-compte ou celui d'un tiers. Ces marchandises ne sont pas soumises aux contrôles prévus à l'article L. 282-8, l'Etat
-conservant toutefois la faculté d'imposer ces contrôles si les circonstances l'exigent.
+Le transporteur aérien :
+
+- soit effectue des visites de sûreté mentionnées à l'article L. 282-8 du fret et des colis postaux qui lui sont remis ;
+
+- soit s'assure que ce fret ou ces colis postaux lui sont remis par un "agent habilité".
+
+Le fret ou les colis postaux qui ne peuvent pas faire l'objet de contrôle après leur conditionnement du fait de leurs
+caractéristiques doivent être remis à l'"agent habilité" exclusivement par un "chargeur connu".
+
+Peut être agréé en qualité d'"agent habilité" par l'autorité administrative compétente l'entreprise ou l'organisme qui
+intervient dans l'organisation du transport de fret ou de colis postaux et qui met en place des contrôles et des procédures
+appropriées.
+
+Peut être agréé en qualité de "chargeur connu" par l'autorité administrative compétente l'entreprise ou l'organisme qui met
+en oeuvre directement ou sous son contrôle des mesures appropriées pendant le conditionnement du fret et des colis postaux
+expédiés à sa demande et qui préserve l'intégrité de ces marchandises jusqu'à leur remise à un "agent habilité".
 
 En cas de dommage résultant d'un acte malveillant et causé par des colis postaux ou du fret visés par le présent article, la
-responsabilité d'un "expéditeur connu" ne peut être engagée qu'en raison de l'inobservation des procédures de sûreté prévues
-par le présent code.
+responsabilité d'une entreprise ou d'un organisme agréé ne peut être engagée qu'en raison de l'inobservation des procédures
+et mesures prévues par le présent code.
 
-L'agrément peut être refusé ou retiré lorsque l'entreprise ou l'organisme ne se conforme pas aux obligations prévues par les
-deuxième et cinquième alinéas du présent article ou par le décret d'application mentionné au sixième alinéa, ou peut
-constituer, par ses méthodes de travail ou le comportement de ses dirigeants ou agents, un risque pour la sûreté. L'agrément
-ne peut être retiré qu'après que l'entreprise ou l'organisme concerné a été mis en mesure de présenter ses observations. Il
-peut faire l'objet d'une suspension immédiate en cas d'urgence.
+Les agréments visés aux alinéas ci-dessus peuvent être refusés ou retirés lorsque l'entreprise ou l'organisme ne se conforme
+pas aux obligations prévues par le présent article ou peut constituer, par ses méthodes de travail ou le comportement de ses
+dirigeants ou agents, un risque pour la sûreté. Ils peuvent faire l'objet d'une suspension immédiate en cas d'urgence.
 
-Les officiers de police judiciaire et les agents des douanes sont chargés de vérifier que les entreprises ou organismes ayant
-demandé un agrément sont en mesure de satisfaire aux conditions posées à l'obtention dudit agrément et que ceux l'ayant
-obtenu respectent ces conditions. A cet effet, ils ont accès, à tout moment, aux locaux et terrains à usage professionnel des
+Les militaires de la gendarmerie et les fonctionnaires de police, sous le contrôle des officiers de police judiciaire, ainsi
+que les agents des douanes vérifient que les entreprises ou organismes respectent les conditions de délivrance de l'agrément
+en qualité d'"agent habilité". A cet effet, ils ont accès, à tout moment, aux locaux et terrains à usage professionnel des
 entreprises ou organismes titulaires de l'agrément ou qui en demandent le bénéfice, à l'exception des pièces exclusivement
 réservées à l'habitation. Ils peuvent requérir, pour l'accomplissement de leurs missions, l'ouverture de tous colis, bagages
 et véhicules professionnels en présence du responsable de l'entreprise ou de l'organisme, ou de ses préposés en cas d'absence
 de celui-ci, et se faire communiquer les documents comptables, financiers, commerciaux ou techniques propres à faciliter
 l'accomplissement de leurs contrôles.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Ce décret tient compte des contraintes
-propres à chacune des catégories de personnes visées au premier ou au deuxième alinéa. Il peut prévoir que le fret ou les
-colis postaux visés au présent article, ainsi que les correspondances et le transport de la presse, sont soumis à des règles
-particulières ou sont exemptés de procédures de sûreté.
+Les agents visés à l'article L. 282-11 ainsi que des organismes techniques habilités à cet effet vérifient que les
+entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité de "chargeur connu".
 
-Il détermine également les prescriptions que les entreprises ou organismes visés au deuxième alinéa doivent respecter en
-matière de réception et de contrôle pour éviter des dépôts et des expéditions anonymes.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Ce décret tient compte des contraintes
+propres à chacune des catégories de personnes visées au présent article. Il peut prévoir que le fret ou les colis postaux
+visés au présent article, ainsi que les correspondances et le transport de la presse, sont soumis à des règles particulières
+ou sont exemptés de procédure de sûreté.
+
+Il détermine également les prescriptions que les "agents habilités" doivent respecter en matière de réception et de contrôle
+pour éviter des dépôts et des expéditions anonymes.
+
+Les entreprises ou organismes titulaires d'un agrément au titre des dispositions de l'article L. 321-7 en vigueur
+antérieurement à la publication de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes
+de transport, aux enquêtes techniques après événement de mer, accident ou incident de transport terrestre ou aérien et au
+stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques conservent le bénéfice de leur agrément.
+
+Les dispositions du présent article sont applicables dans la collectivité départementale de Mayotte, en Polynésie française,
+en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
 
 	**Cité par**:
 
@@ -4399,6 +4510,15 @@ matière de réception et de contrôle pour éviter des dépôts et des expédit
 	  - Code de l'aviation civile - art. R321-4 (Ab)
 	  - Code de l'aviation civile - art. R321-5 (M)
 	  - Code de l'aviation civile - art. R321-7 (M)
+
+	**Cite**:
+
+	  - Loi n°2002-3 2002-01-03
+	  - Code de l'aviation civile - art. L282-11 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 9 () JORF 4 janvier 2002
 
 
 #### CHAPITRE II : TRANSPORT DE PERSONNES.
@@ -7130,7 +7250,9 @@ d'enquête prévues à l'article L. 721-1 sous le contrôle et l'autorité de l'
 de première information.
 
 Un décret en Conseil d'Etat fixe les conditions de commissionnement des enquêteurs techniques, d'agrément des enquêteurs de
-première information et de nomination des membres des commissions d'enquête.
+première information et de nomination des membres des commissions d'enquête. Ce décret définit également dans quels cas et
+selon quelles procédures les enquêteurs techniques de nationalité étrangère peuvent être autorisés à participer à des
+investigations sur le territoire national, lorsque leur participation est nécessaire au bon déroulement de l'enquête.
 
 **Liens relatifs à cet article**
 
@@ -7138,13 +7260,9 @@ première information et de nomination des membres des commissions d'enquête.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 29 () JORF 4 janvier 2002
 
 	**Cité par**:
 
@@ -7321,9 +7439,10 @@ de l'aéronef ou des aéronefs concernés.
 
 ###### Article L721-6
 
-Les enquêteurs techniques reçoivent, sur leur demande, communication des résultats des examens ou prélèvements effectués sur
-les personnes chargées de la conduite, de l'information et du contrôle de l'aéronef ou des aéronefs en relation avec
-l'accident ou l'incident et des conclusions de rapports d'expertise médico-légale concernant les victimes.
+Les médecins rattachés à l'organisme permanent ou désignés pour assister les enquêteurs techniques reçoivent, à leur demande,
+communication des résultats des examens ou prélèvements effectués sur les personnes chargées de la conduite, de l'information
+et du contrôle de l'aéronef ou des aéronefs en relation avec l'accident ou l'incident et des rapports d'expertise médico-
+légale concernant les victimes.
 
 **Liens relatifs à cet article**
 
@@ -7331,13 +7450,9 @@ l'accident ou l'incident et des conclusions de rapports d'expertise médico-lég
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 28 () JORF 4 janvier 2002
 
 	**Cité par**:
 
