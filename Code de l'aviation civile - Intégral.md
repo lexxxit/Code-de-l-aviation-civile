@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2001-01-17
+Version Consolidée au 2001-03-13
 
 # Partie législative
 
@@ -27133,14 +27133,18 @@ d'expertises médicales, pour les licences françaises, ou par l'autorité étra
 ministre chargé de l'aviation civile ou, dans le domaine des essais et réceptions, par le ministre de la défense.
 
 3° De soumettre au ministre chargé de l'aviation civile des propositions concernant les décisions prévues par les articles L.
-424-1, L. 424-2, L. 424-5 et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporaire ou permanente de
-travail et de décès consécutifs à un accident aérien survenu en service ou une maladie imputable au service aérien.
+424-1, L. 424-2, L. 424-5 et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au service aérien d'une
+maladie ayant entraîné une incapacité temporaire ou permanente de travail ou le décès ;
 
-4° De recevoir et d'examiner :
+4° De soumettre au ministre chargé de l'aviation civile des propositions concernant les décisions prévues par les articles L.
+424-1, L. 424-2, L. 424-5 et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au service aérien d'un
+accident aérien survenu en service ayant entraîné une incapacité temporaire ou permanente de travail ou le décès ;
 
-a) Les appels interjetés par les candidats aux fonctions réservées au personnel navigant professionnel et les titulaires
-d'une licence du personnel navigant déclarés médicalement inaptes au titre de l'aéronautique civile par un centre d'expertise
-médicale du personnel navigant, ou un médecin agréé ;
+5° De recevoir et d'examiner :
+
+a) Les appels interjetés par les candidats à la qualité de personnel navigant professionnel et non professionnel et par les
+personnels navigants professionnels et non professionnels déclarés médicalement inaptes au titre de l'aéronautique civile par
+un centre d'expertise médicale du personnel navigant ou par un médecin agréé ;
 
 b) Les appels interjetés par les employeurs qui estimeraient devoir contester les décisions prononcées par les autorités
 médicales compétentes en matière d'aptitude à une fonction du personnel navigant professionnel ;
@@ -27160,11 +27164,6 @@ conseil médical de l'aéronautique civile. (1)
 
 (1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
 
-**Nota:**
-
-Décret 2000-473 2000-05-25 art. 3 : les dispositions du présent décret sont applicables dans les territoires d'outre-mer, en
-Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -27178,11 +27177,10 @@ Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
 	**Cite**:
 
 	  - Décret n°84-202 1984-03-19 art. 1
-	  - Code de l'aviation civile - art. D434-1 (Ab)
 	  - Code de l'aviation civile - art. L424-1 (V)
 	  - Code de l'aviation civile - art. L424-2 (V)
 	  - Code de l'aviation civile - art. L424-5 (V)
-	  - Code de l'aviation civile - art. R426-11 (M)
+	  - Code de l'aviation civile - art. R426-17 (V)
 
 	**Cité par**:
 
@@ -27196,29 +27194,77 @@ Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2000-473 du 25 mai 2000 - art. 2 () JORF 1er juin 2000
+	  - Décret n°2001-225 du 12 mars 2001 - art. 1 () JORF 13 mars 2001
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-473 du 25 mai 2000 - art. 3 (V)
+	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+
+
+###### Article D424-2-1
+
+Les appels interjetés en vertu du b du 5 de l'article D. 424-2 font l'objet d'un examen préalable par une commission nommée
+par le ministre chargé de l'aviation civile et composée :
+
+- d'une personnalité qualifiée, choisie en raison de ses compétences dans le domaine de l'aviation civile, nommée président
+par le ministre chargé de l'aviation civile pour une durée de trois ans renouvelable ;
+
+- de deux personnes désignées par le ministre chargé de l'aviation civile pour une même période, l'une sur proposition des
+exploitants du transport aérien, l'autre sur proposition des organisations représentatives au niveau national du personnel
+navigant professionnel de l'aviation civile. Chacune d'entre elles dispose d'un suppléant désigné dans les mêmes conditions ;
+
+- de deux membres docteurs en médecine, désignés par le ministre chargé de l'aviation civile pour chaque affaire, l'un sur
+proposition de l'employeur, l'autre sur proposition du navigant concerné.
+
+La commission doit s'assurer que la procédure prévue au b du 5 de l'article D. 424-2 n'est pas utilisée à des fins autres que
+la sécurité des vols. Ses membres siègent en toute indépendance et ses délibérations demeurent secrètes.
+
+**Nota:**
+
+: décret 2001-225 2001-03-12 art. 7 : Les dispositions de l'article 2 entreront en vigueur dans un délai de six mois à
+compter de la date de publication du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2001-225 du 12 mars 2001 - art. 2 () JORF 13 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D424-2 (M)
 
 
 ###### Article D424-3
 
-Le conseil médical de l'aéronautique civile comprend :
+Le conseil médical de l'aéronautique civile est constitué comme suit :
 
-- un président et un vice-président, docteurs en médecine ;
+- un président et un vice-président, docteurs en médecine, expérimentés dans la pratique de la médecine aéronautique,
+désignés par le ministre chargé de l'aviation civile ;
 
-- huit membres docteurs en médecine, désignés : quatre sur proposition des principales compagnies aériennes françaises, deux
-sur proposition du ministre de la défense, un sur proposition du président d'Aéroports de Paris et un sur proposition du
-ministre de la santé. Exception faite pour ce dernier, les médecins sont désignés en fonction de leur compétence en médecine
-aéronautique ;
+- neuf membres désignés par le ministre chargé de l'aviation civile parmi les docteurs en médecine particulièrement qualifiés
+dans l'une des disciplines essentielles à la médecine aéronautique ;
 
-- neuf membres choisis parmi des docteurs en médecine particulièrement qualifiés dans une des disciplines essentielles de la
-médecine aéronautique.
+- trois membres docteurs en médecine expérimentés dans la pratique de la médecine aéronautique désignés, deux, sur
+proposition du ministre de la défense, le troisième sur proposition du ministre de la santé ;
 
-Le président, le vice-président et les autres membres du conseil médical sont nommés pour trois ans, par mandats
-renouvelables, par arrêté du ministre chargé de l'aviation civile.
+- un membre, docteur en médecine, expérimenté dans la pratique de la médecine aéronautique, désigné par le ministre chargé de
+l'aviation civile sur proposition des fédérations françaises aéronautiques et sportives ;
+
+- quatre membres docteurs en médecine expérimentés dans la pratique de la médecine aéronautique, désignés par le ministre
+chargé de l'aviation civile, deux sur proposition des exploitants du transport aérien et deux sur proposition des
+organisations représentatives au niveau national du personnel navigant professionnel de l'aviation civile.
+
+Le président, le vice-président et les autres membres du conseil sont nommés pour trois ans, par mandats renouvelables, par
+arrêté du ministre chargé de l'aviation civile.
 
 Tout membre du conseil dont le mandat est interrompu est remplacé jusqu'à expiration dudit mandat.
 
@@ -27230,13 +27276,19 @@ Tout membre du conseil dont le mandat est interrompu est remplacé jusqu'à expi
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°72-444 1972-05-26 art. 2 JORF 1er juin 1972
-	  - Décret n°78-513 1978-04-04 art. 1 JORF 6 avril 1978
-	  - Décret n°86-276 1986-02-24 art. 1 JORF 28 février 1986
+	  - Décret n°2001-225 du 12 mars 2001 - art. 3 () JORF 13 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 
 ###### Article D424-4
@@ -27248,8 +27300,8 @@ En cas d'absence ou d'empêchement, le président est remplacé par le vice pré
 Le conseil ne peut valablement délibérer que si cinq au moins de ses membres à voix délibérative sont présents, compte tenu
 des cas d'incompatibilité prévus à l'alinéa ci-après.
 
-Les membres du conseil ne peuvent prendre part aux délibérations portant sur l'examen des cas individuels dont ils ont déjà
-eu à connaître à l'occasion de leur activité extérieure au conseil.
+Les membres du conseil siègent en toute indépendance. Ils ne peuvent prendre part aux délibérations portant sur l'examen des
+cas individuels dont ils ont déjà eu à connaître à l'extérieur du conseil à quelque titre que ce soit.
 
 Les délibérations ont lieu à huis clos. Les décisions et avis sont prononcés à la majorité des voix. En cas de partage égal
 des voix, celle du président est prépondérante.
@@ -27266,8 +27318,11 @@ des voix, celle du président est prépondérante.
 
 	**Modifié par**:
 
-	  - Décret n°72-444 1972-05-26 art. 3 JORF 1er juin 1972
-	  - Décret n°78-513 1978-04-04 art. 2 JORF 6 avril 1978
+	  - Décret n°2001-225 du 12 mars 2001 - art. 4 () JORF 13 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
 
 
 ###### Article D424-5
@@ -27283,7 +27338,8 @@ Des représentants du ministre chargé de l'aviation civile ;
 Des délégués des organisations représentatives des entreprises et du personnel navigant professionnel de l'aéronautique
 civile.
 
-Le président peut désigner des médecins experts s'il le juge nécessaire.
+Le président peut, sur proposition du conseil, désigner un ou plusieurs médecins experts. La mission de ces experts doit leur
+être précisée et le personnel concerné en être informé.
 
 **Liens relatifs à cet article**
 
@@ -27297,14 +27353,29 @@ Le président peut désigner des médecins experts s'il le juge nécessaire.
 
 	**Modifié par**:
 
-	  - Décret n°72-444 1972-05-26 art. 4. JORF 1er juin 1972
+	  - Décret n°2001-225 du 12 mars 2001 - art. 5 () JORF 13 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 
 ###### Article D424-6
 
-Les affaires visées au 3e de l'article D. 424-2 seront rapportées par le représentant de la caisse de retraite du personnel
-navigant qui pourra être assisté d'un médecin. Les intéressés pourront venir en personne se faire représenter ou assister
-devant le conseil par un médecin de leur choix.
+Les affaires visées au 3 et au 4 de l'article D. 424-2 sont rapportées par le chef du bureau médical visé à l'article D.
+424-7. 
+
+Pour ces affaires, peuvent être entendus un représentant de la caisse de retraite du personnel navigant et un médecin de
+cette caisse si le président le demande. 
+
+Pour ces affaires comme celles visées au 5 (b) de ce même article, les intéressés sont informés de la tenue des séances ; ils
+peuvent venir en personne et se faire assister ou se faire représenter devant le conseil par un médecin de leur choix. Ce
+médecin a accès au dossier. Dans les autres affaires, le président peut convoquer les intéressés à la séance du conseil
+médical.
 
 **Liens relatifs à cet article**
 
@@ -27316,9 +27387,18 @@ devant le conseil par un médecin de leur choix.
 
 	  - Décret n°67-335 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°2001-225 du 12 mars 2001 - art. 6 () JORF 13 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D424-2 (M)
+	  - Code de l'aviation civile - art. D424-2 (V)
+	  - Code de l'aviation civile - art. D424-7 (V)
 
 
 ###### Article D424-7
