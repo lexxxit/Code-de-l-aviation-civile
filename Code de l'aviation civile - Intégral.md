@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1999-04-14
+Version Consolidée au 1999-05-26
 
 # Partie législative
 
@@ -10992,11 +10992,11 @@ sont déterminées par arrêté interministériel après avis du Conseil supéri
 
 II. - Les taux des redevances mentionnées au I ci-dessus sont fixés :
 
-- pour Aéroports de Paris par son conseil d'administration ;
+- pour Aéroports de Paris, par son conseil d'administration ;
 
-- pour les autres aérodromes par l'exploitant ; en ce qui concerne les aérodromes dotés d'une commission consultative
-économique en application des dispositions du décret n° 60-652 du 28 juin 1960, modifié par le décret n° 73-287 du 13 mars
-1973, la décision est prise après avis de ladite commission.
+- pour les autres aérodromes, par l'exploitant.
+
+Si l'aérodrome est doté d'une commission consultative économique, les taux sont fixés après avis de cette commission.
 
 A. - S'il s'agit d'un aérodrome :
 
@@ -11058,10 +11058,16 @@ débarqués ;
 assuré en moyenne, au cours des trois dernières années civiles connues, un trafic de moins de 200 000 passagers, embarqués ou
 débarqués.
 
-Les taux fixés par Aéroports de Paris ou par l'exploitant de l'aérodrome sont exécutoires à l'expiration d'un délai de deux
-mois francs à compter de leur réception par l'autorité compétente, sauf si, dans ce délai, l'un des deux ministres ou le
-préfet, selon le cas, y fait opposition. Dans cette dernière hypothèse, les taux précédemment en vigueur demeurent
-applicables.
+Les taux sont exécutoires à l'expiration d'un délai :
+
+- d'un mois franc à compter de leur réception par les deux ministres, pour les aérodromes Charles-de-Gaulle et Paris-Orly ;
+
+- de deux mois francs à compter de leur réception par l'autorité compétente, pour les autres aérodromes,
+
+sauf si, dans ces délais, l'un des ministres, ou le préfet, selon le cas, s'y oppose en tout ou partie.
+
+Dans cette dernière hypothèse, seuls les taux n'ayant pas fait l'objet d'une opposition sont exécutoires aux dates précitées,
+ceux précédemment en vigueur restant applicables dans le cas contraire.
 
 **Liens relatifs à cet article**
 
@@ -11108,11 +11114,10 @@ applicables.
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°84-29 du 11 janvier 1984 - art. 3 (An)
-	  - SPEC_APPLI: Décret n°97-548 du 29 mai 1997 - art. 2 (V)
 
 	**Modifié par**:
 
-	  - Décret n°97-548 du 29 mai 1997 - art. 1 () JORF 30 mai 1997
+	  - Décret n°99-408 du 21 mai 1999 - art. 1 () JORF 26 mai 1999
 
 
 ###### Article R224-3
@@ -12119,7 +12124,82 @@ Des décrets préciseront les modalités d'application du présent titre.
 
 ##### Section 1 : Administration et gestion.
 
+###### Article R252-1
+
+"Aéroports de Paris" est géré par un conseil d'administration assisté d'un directeur général dans les conditions définies ci-
+après.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
 ##### Paragraphe 1 : Conseil d'administration.
+
+###### Article R252-2
+
+Le conseil d'administration d'"Aéroports de Paris" comprend vingt et un membres :
+
+1. Sept représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
+
+Deux sur proposition du ministre chargé de l'aviation civile ;
+
+Un sur proposition du ministre chargé de l'économie ;
+
+Un sur proposition du ministre chargé du budget ;
+
+Un sur proposition du ministre chargé de l'environnement ;
+
+Un sur proposition du ministre chargé de la défense ;
+
+Un sur proposition du ministre de l'intérieur ;
+
+2. Sept personnalités qualifiées, nommées par décret sur le rapport du ministre chargé de l'aviation civile, dont :
+
+Une choisie en raison de sa connaissance des activités de l'aéronautique civile ;
+
+Deux choisies en raison de leur connaissance des questions liées aux transports ;
+
+Trois choisies parmi les élus de la région et des autres collectivités territoriales concernées ;
+
+Une choisie parmi les élus des compagnies consulaires intéressées.
+
+3. Sept représentants des salariés, élus conformément aux dispositions du chapitre II du titre II de la loi n° 83-675 du 26
+juillet 1983 relative à la démocratisation du secteur public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°83-675 1983-07-26
+
+	**Modifié par**:
+
+	  - Décret n°99-408 du 21 mai 1999 - art. 2 () JORF 26 mai 1999
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
 
 ###### Article R252-5
 
@@ -12304,6 +12384,102 @@ général intérimaire en cas d'empêchement du directeur général.
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
+#### CHAPITRE III : RÉGIME FINANCIER
+
+###### Article R253-3
+
+"Aéroports de Paris" est soumis aux règles de tutelle financière prévues par le décret du 9 août 1953 modifié relatif au
+contrôle de l'Etat sur les entreprises publiques nationales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1953-08-09
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
+
+	**Modifié par**:
+
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
+###### Article R253-5
+
+Les immeubles dépendant du domaine public ou privé de l'Etat dont l'administration et la jouissance sont remises à "Aéroports
+de Paris" pour lui permettre d'accomplir sa mission ne peuvent être déclassés, faire l'objet d'un transfert de gestion ou
+d'une affectation, d'une aliénation ou d'une location que dans les conditions et suivant les procédures prévues par le code
+du domaine de l'Etat pour les biens domaniaux.
+
+Le produit des ventes ainsi qu'éventuellement les indemnités d'affectation sont encaissés par l'Etat.
+
+"Aéroports de Paris" a le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de
+l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de
+l'article 3 de la loi n° 94-631 du 25 juillet 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (M)
+	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+	**Modifié par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-12 (M)
+	  - Code de l'aviation civile - art. R252-12-3 (Ab)
+
+
+###### Article R253-6
+
+Les immeubles appartenant en propre à "Aéroports de Paris" sont aliénés directement par l'établissement public suivant les
+conditions juridiques et financières fixées par délibération du conseil d'administration. Cette délibération est soumise au
+ministre chargé de l'aviation civile et devient exécutoire si, dans les quinze jours qui suivent la notification du procès-
+verbal au ministre, celui-ci n'a pas formulé d'opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
+
+	**Modifié par**:
+
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+
 #### CHAPITRE IV : DISPOSITIONS DIVERSES.
 
 ###### Article R254-2
@@ -12334,52 +12510,6 @@ les pertes de recettes qu'entraînerait pour les collectivités l'application du
 ##### Section 1 : Administration et gestion
 
 ##### Paragraphe 1 : Conseil d'administration.
-
-###### Article R252-2
-
-Le conseil d'administration d'Aéroport de Paris comprend vingt et un membres :
-
-1. Sept représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
-
-Deux sur proposition du ministre chargé de l'aviation civile;
-
-Un sur proposition du ministre chargé de l'économie;
-
-Un sur proposition du ministre chargé du budget;
-
-Un sur proposition du ministre chargé de l'environnement;
-
-Un sur proposition du ministre chargé de la défense;
-
-Un sur proposition du ministre de l'intérieur ;
-
-2. Sept personnalités qualifiées, nommées par décret sur le rapport du ministre chargé de l'aviation civile, dont :
-
-Une choisie en raison de sa connaissance des activités de l'aéronautique civile et désignée par le Premier ministre;
-
-Trois choisies parmi les élus de la région et des collectivités territoriales concernées;
-
-Une choisie parmi les élus des compagnies consulaires concernées;
-
-Deux choisies parmi les organismes représentatifs des transporteurs aériens .
-
-3. Sept représentants des salariés, élus conformément aux dispositions du chapitre II du titre II de la loi n° 83-675 du 26
-juillet 1983 relative à la démocratisation du secteur public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26
-
-	**Modifié par**:
-
-	  - Décret n°84-353 1984-05-11 art. 1 JORF 12 mai 1984
-
 
 ###### Article R252-3
 
@@ -12451,17 +12581,20 @@ Le comité de direction rend compte de son action au conseil d'administration.
 Le conseil d'administration se réunit sur la convocation de son président au moins huit fois par an. Le président est, en
 outre, tenu de réunir immédiatement le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le tiers au
 moins des membres peut également, en indiquant l'ordre du jour de la séance, convoquer le conseil si celui-ci ne s'est pas
-réuni depuis plus de deux mois. (4)
+réuni depuis plus de deux mois.
 
 Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres en exercice assiste à la séance.
 Toutefois, si le quorum n'est pas atteint, une nouvelle séance du conseil pourra être convoquée sur le même ordre du jour,
 séparée par un intervalle de trois jours francs au moins de la première. Les délibérations seront alors valables quel que
 soit le nombre des membres présents.
 
-Un administrateur peut donner, par lettre, mandat à un autre administrateur de le représenter à une séance du conseil
-d'administration. Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une seule procuration. Les
-délibérations sont prises à la majorité absolue des membres présents ou représentés. En cas de partage, la voix du président
-est prépondérante. (5)
+Un administrateur peut donner mandat à un autre administrateur nommé ou élu dans le même collège de le représenter à une
+séance du conseil d'administration. Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une seule
+procuration.
+
+Les délibérations sont prises à la majorité des suffrages exprimés. Dans le cas où il est procédé à un scrutin secret, il
+n'est pas tenu compte des bulletins blancs ou nuls. En cas de partage des suffrages exprimés, la voix du président est
+prépondérante.
 
 Les procès-verbaux sont signés par le président. Ils font mention des personnes présentes. Une ampliation est notifiée au
 ministre chargé de l'aviation civile.
@@ -12474,11 +12607,11 @@ d'administration sauf lorsqu'il est discuté du compte administratif ou de sa si
 secret professionnel.
 
 Le directeur général de l'aviation civile et le chef du service des bases aériennes siègent, avec voix consultative, au
-conseil d'administration de l'Aéroport de Paris, respectivement en qualité de commissaire du Gouvernement et de commissaire
-du Gouvernement adjoint. (1)
+conseil d'administration des aéroports de Paris, respectivement en qualité de commissaire du Gouvernement et de commissaire
+du Gouvernement adjoint.
 
 En cas d'absence ou d'empêchement du commissaire du Gouvernement, ses pouvoirs sont exercés par le commissaire du
-Gouvernement adjoint. (2)
+Gouvernement adjoint.
 
 **Liens relatifs à cet article**
 
@@ -12492,9 +12625,8 @@ Gouvernement adjoint. (2)
 
 	**Modifié par**:
 
-	  - Décret n°76-1143 1976-12-10 art. 1 JORF 15 décembre 1976
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
-	  - Décret n°84-353 1984-05-11 art. 8 JORF 12 mai 1984
+	  - Décret n°89-10 du 4 janvier 1989 - art. 1 () JORF 10 janvier 1989
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
 
 
 ###### Article R252-11
@@ -12558,20 +12690,22 @@ l'approbation du ministre chargé de l'aviation civile et du ministre de l'écon
 Il prend toutes les mesures nécessaires à la réalisation des emprunts que l'aéroport est autorisé à émettre.
 
 Il décide la mise à la disposition des usagers, sous le régime de l'occupation temporaire du domaine public, des terrains,
-ouvrages et installations de l'aéroport, sous réserve de l'approbation du contrôleur d'Etat et du commissaire du Gouvernement
-lorsque l'occupation temporaire est prévue pour une durée supérieure à cinq ans. Il décide, sous la même réserve, la
-délivrance des titres d'occupation du domaine public de l'Etat mentionnés à l'article R. 253-5, troisième alinéa.
+ouvrages et installations de l'aéroport. Il décide également la délivrance des titres d'occupation du domaine public de
+l'Etat mentionnés au troisième alinéa de l'article R. 253-5. Un arrêté conjoint du ministre chargé de l'aviation civile et du
+ministre chargé du domaine fixe les cas dans lesquels, compte tenu de l'importance ou de la durée de l'occupation, l'accord
+préalable du contrôleur d'Etat ou de l'inspecteur général d'Aéroports de Paris est requis.
 
 Il présente au ministre chargé de l'aviation civile ses propositions concernant les conditions d'établissement et de
-perception des redevances mentionnées au paragraphe A de l'article R. 224-2 et fixe le taux de ces redevances dans les
-conditions prévues au paragraphe B du même article. Il fixe les modalités d'établissement et de perception ainsi que les taux
-des redevances mentionnées à l'article R. 224-3 dans les conditions prévues audit article.
+perception des redevances mentionnées au I de l'article R. 224-2 et fixe le taux de ces redevances dans les conditions
+prévues au C du II du même article. Il fixe les modalités d'établissement et de perception ainsi que les taux des redevances
+mentionnées à l'article R. 224-3 dans les conditions prévues audit article.
 
 Il présente au ministre chargé de l'aviation civile et au ministre de l'économie et des finances ses propositions concernant
 les participations financières et les concessions d'affermages qu'il peut avoir intérêt à autoriser ainsi que la création de
 filiales.
 
-Il peut déléguer une partie de ses attributions à son président.
+La délibération précise dans quelles matières et dans quelles conditions le président peut déléguer sa signature au directeur
+général pour l'exercice desdites attributions.
 
 **Liens relatifs à cet article**
 
@@ -12581,7 +12715,7 @@ Il peut déléguer une partie de ses attributions à son président.
 
 	**Modifié par**:
 
-	  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
+	  - Décret n°99-408 du 21 mai 1999 - art. 3 () JORF 26 mai 1999
 
 	**Cite**:
 
@@ -12674,6 +12808,8 @@ Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis �
 réglementation en vigueur dans leurs corps. Ils peuvent toujours être remis à la disposition de leur administration, sans que
 cette mesure ait un caractère disciplinaire.
 
+Pour l'exercice de ses fonctions telles que définies au présent article, le directeur général peut déléguer sa signature.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12686,8 +12822,7 @@ cette mesure ait un caractère disciplinaire.
 
 	**Modifié par**:
 
-	  - Décret n°75-509 1975-06-19 art. 4 JORF 27 juin 1975
-	  - Décret n°76-1143 1976-12-10 art. 5 JORF 15 décembre 1976
+	  - Décret n°99-408 du 21 mai 1999 - art. 4 () JORF 26 mai 1999
 
 	**Cite**:
 
@@ -12710,6 +12845,9 @@ concerne les affaires intéressant directement l'exploitation de l'aéroport. To
 directeur général et un chef de service dépendant d'un autre département ministériel que celui de l'équipement il en est
 référé au ministre intéressé par ce fonctionnaire et au ministre chargé de l'aviation civile, par le directeur général.
 
+Pour l'exercice de ses fonctions telles que définies au présent article, le directeur général peut déléguer sa signature aux
+fonctionnaires de l'Etat qui lui sont subordonnés.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12719,6 +12857,10 @@ référé au ministre intéressé par ce fonctionnaire et au ministre chargé de
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°99-408 du 21 mai 1999 - art. 5 () JORF 26 mai 1999
 
 	**Cité par**:
 
@@ -12798,11 +12940,38 @@ Les modifications reconnues nécessaires en cours d'exercice sont présentées e
 	  - Code de l'aviation civile - art. R252-12 (M)
 
 
+###### Article R253-2
+
+La comptabilité des aéroports de Paris est tenue dans les formes prévues au plan comptable général.
+
+Le fonctionnement comptable est assuré dans les conditions prévues pour les établissements publics à caractère industriel et
+commercial dotés d'un agent comptable par les articles 190 à 225 du décret du 29 décembre 1962 portant règlement général sur
+la comptabilité publique.
+
+Le plan comptable particulier aux aéroports de Paris est approuvé par arrêté conjoint du ministre chargé de l'aviation civile
+et du ministre de l'économie et des finances après avis du conseil national de la comptabilité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1962-12-29 art. 190 à 225
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
+
+
 ###### Article R253-4
 
-Les marchés passés par Aéroport de Paris sont soumis au régime des marchés publics. Dans le cadre de ce régime, des règles
-particulières aux marchés d'Aéroport de Paris peuvent être fixées par le conseil d'administration, sous réserve de
-l'approbation du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
+Les marchés passés par les aéroports de Paris sont soumis au code des marchés publics. Toutefois, des règles appropriées à
+certains types d'opérations peuvent être arrêtées par le conseil d'administration, sous réserve de l'approbation du ministre
+chargé de l'aviation civile et du ministre d'Etat, ministre de l'économie, des finances et du budget.
 
 **Liens relatifs à cet article**
 
@@ -12810,34 +12979,10 @@ l'approbation du ministre chargé de l'aviation civile et du ministre de l'écon
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
-
-
-###### Article R253-5
-
-Les immeubles dépendant du domaine public ou privé de l'Etat dont l'administration et la jouissance sont remises à Aéroport
-de Paris pour lui permettre d'accomplir sa mission ne peuvent être déclassés, faire l'objet d'un transfert de gestion ou
-d'une affectation, d'une aliénation ou d'une location que dans les conditions et suivant les procédures prévues par le code
-du domaine de l'Etat pour les biens domaniaux.
-
-Le produit des ventes ainsi qu'éventuellement les indemnités d'affectation sont encaissés par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-12 (M)
-	  - Code de l'aviation civile - art. R252-12-3 (Ab)
+	  - Décret n°89-10 du 4 janvier 1989 - art. 5 () JORF 10 janvier 1989
+	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
 
 
 #### CHAPITRE IV : DISPOSITIONS DIVERSES.
@@ -23459,15 +23604,15 @@ délai de huit jours.
 	  - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AÉROPORT DE PARIS
+### TITRE V : AEROPORTS DE PARIS
 
-#### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.
 
-##### Section 1 : Aérodromes constituant l'Aéroport de Paris.
+##### Section 1 : Aérodromes constituant Aéroports de Paris.
 
 ###### Article D251-1
 
-Les aérodromes suivants font partie de l'ensemble constitué par l'Aéroport de Paris :
+Les aérodromes suivants font partie de l'ensemble constitué par Aéroports de Paris :
 
 Charles-de-Gaulle, Orly, Le Bourget ;
 
@@ -23476,10 +23621,6 @@ Chavenay-Villepreux, Chelles-le-Pin, Coulommiers-Voisins ;
 Issy-les-Moulineaux, Lognes-Emerainville, Meaux-Esbly ;
 
 Persan-Beaumont, Pontoise - Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le-Noble.
-
-**Nota:**
-
-(1) L'aéroport de Roissy-en-France a reçu le nom d'Aéroport Charles-de-Gaulle par décret du 24 octobre 1973.
 
 **Liens relatifs à cet article**
 
@@ -23494,9 +23635,17 @@ Persan-Beaumont, Pontoise - Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le
 	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 2 (V)
 	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 3 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
+
 	**Cité par**:
 
 	  - Arrêté du 16 septembre 2005 - art. 1 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
 
 
 ###### Article D251-2
@@ -23514,6 +23663,73 @@ d'application.
 	**Codifié par**:
 
 	  - Décret n°67-335 1967-03-30
+
+	**Abrogé par**:
+
+	  - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
+
+	**Modifié par**:
+
+	  - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
+
+
+#### CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE
+
+###### Article D252-1
+
+Une commission consultative économique unique est créée pour les aéroports Charles-de-Gaulle et Paris-Orly.
+
+La commission consultative économique est consultée pour avis sur les projets de modification des tarifs visés à l'article R.
+224-2 du présent code, pour ces deux aérodromes.
+
+Elle est informée des programmes d'investissements de l'établissement en cours et prévus pour l'année suivante.
+
+Ses membres sont nommés pour trois ans par arrêté du ministre chargé de l'aviation civile.
+
+Elle comprend :
+
+- deux à six représentants d'Aéroports de Paris, nommés sur proposition du directeur général d'Aéroports de Paris ;
+
+- cinq représentants d'organisations professionnelles du transport aérien ;
+
+- un représentant de chaque transporteur aérien desservant l'aéroport Charles-de-Gaulle ou l'aéroport Paris-Orly, et dont le
+nombre d'unités de trafic a excédé, au cours de la dernière année calendaire dont le trafic est connu, un seuil fixé par
+arrêté du ministre chargé de l'aviation civile ;
+
+- un président, choisi en raison de sa connaissance de l'aviation civile.
+
+Pour l'application du présent article, on appelle unités de trafic le nombre entier de milliers de passagers embarqués ou
+débarqués, augmenté du nombre entier de centaines de tonnes de fret embarqué à bord d'aéronefs, ou débarqué d'aéronefs, sur
+les aéroports Charles-de-Gaulle et Paris-Orly.
+
+Peuvent en outre être appelés à siéger avec voix consultative :
+
+- les fonctionnaires et militaires responsables sur l'aérodrome des contrôles aux frontières ou de la sûreté ;
+
+- l'inspecteur général d'Aéroports de Paris ;
+
+- le contrôleur d'Etat ;
+
+- en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence.
+
+Les avis de la commission sont pris à la majorité des voix exprimées.
+
+Un arrêté du ministre chargé de l'aviation civile précise les modalités de fonctionnement de cette commission consultative,
+dont notamment les délais et forme de la convocation, le contenu et la diffusion des comptes rendus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°99-409 du 21 mai 1999 - art. 1 () JORF 26 mai 1999
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R224-2 (An)
 
 
 ## LIVRE III : TRANSPORT AERIEN.
@@ -26577,7 +26793,7 @@ au 1er octobre de l'année précédant l'année en cours.
 
 Pour les collectivités ou établissements publics, les cotisations sont exigibles le 1er juillet de chaque année.
 
-Toutefois, Aéroport de Paris peut être appelé à verser, au début de chaque année, un acompte basé sur les recettes provenant
+Toutefois, Aéroports de Paris peut être appelé à verser, au début de chaque année, un acompte basé sur les recettes provenant
 des redevances d'aéroports afférentes à l'avant-dernière année précédant l'année en cours.
 
 **Liens relatifs à cet article**
@@ -26592,7 +26808,7 @@ des redevances d'aéroports afférentes à l'avant-dernière année précédant 
 
 	**Modifié par**:
 
-	  - Décret n°80-910 1980-11-17 art. 4 JORF 21 novembre 1980
+	  - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
 
 
 ###### Article D611-5
