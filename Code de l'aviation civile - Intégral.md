@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-06-18
+Version Consolidée au 2004-06-30
 
 # Partie législative
 
@@ -15118,6 +15118,62 @@ Le président exerce un contrôle permanent sur la gestion d'Aéroports de Paris
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
+###### Article R252-12
+
+Le conseil d'administration définit la politique générale d'Aéroports de Paris.
+
+Il a l'initiative des mesures nécessaires à la création des ressources destinées à couvrir les charges d'administration et
+d'exploitation d'Aéroports de Paris. Il établit sur ces mesures un rapport annuel et le transmet au ministre chargé de
+l'aviation civile.
+
+Il donne au ministre chargé de l'aviation civile son avis sur toutes les questions relevant des divers services publics et
+intéressant directement l'exploitation.
+
+Il donne son avis ou présente ses propositions au ministre chargé de l'aviation civile sur la répartition des transporteurs
+aériens entre les différents aérodromes exploités par Aéroports de Paris. Il fixe les principes relatifs à l'affectation des
+transporteurs aériens dans les aérogares d'un même aérodrome et décide de cette affectation.
+
+Il présente au ministre chargé de l'aviation civile ses propositions concernant les conditions d'établissement et de
+perception des redevances mentionnées à l'article R. 224-2 et fixe le taux de ces redevances dans les conditions prévues au
+même article. Il fixe les modalités d'établissement et de perception ainsi que les taux des redevances mentionnées à
+l'article R. 224-3 dans les conditions prévues audit article.
+
+Il présente au ministre chargé de l'aviation civile et au ministre chargé de l'économie et des finances ses propositions
+concernant les participations financières, les conventions de délégations de service public ainsi que la création de
+filiales.
+
+Il adopte le budget et les comptes de l'établissement et soumet ces documents à l'approbation du ministre chargé de
+l'aviation civile et du ministre chargé de l'économie et des finances.
+
+Il arrête les grands projets d'ouvrages et d'installations et définit le programme pluriannuel d'investissements.
+
+Il prend toutes les mesures nécessaires à la réalisation des emprunts émis par Aéroports de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2004-621 du 29 juin 2004 - art. 1 () JORF 30 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R224-2 (An)
+	  - Code de l'aviation civile - art. R224-3 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-18 (M)
+	  - Code de l'aviation civile - art. R253-1 (Ab)
+
+
 ###### Article R252-12-1
 
 Le conseil d'administration exerce toutes actions judiciaires tant en demande qu'en défense.
@@ -15359,6 +15415,59 @@ arrêté du ministre chargé de l'aviation civile.
 	  - Code de l'aviation civile - art. R252-19 (M)
 
 
+###### Article R252-18
+
+Le directeur général est chargé de la préparation et de l'exécution du budget ainsi que de l'exécution des décisions du
+conseil d'administration.
+
+Il reçoit délégation permanente dans les limites fixées par le conseil d'administration pour la passation des contrats et
+marchés et les transactions en cas de litige.
+
+Dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à ceux qui sont prévus aux articles R. 252-12-2 et
+R. 252-19.
+
+Il est consulté sur les nominations aux emplois de direction.
+
+Sauf pour le personnel de l'Etat mentionné à l'article R. 252-19, il fixe les tableaux d'effectifs par catégories générales ;
+il fixe les traitements, salaires et indemnités dans le cadre des échelles approuvées par le conseil d'administration et
+arrête les tableaux d'avancement.
+
+Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à la disposition d'Aéroports de Paris suivant la
+réglementation en vigueur dans leurs corps. Ils peuvent toujours être remis à la disposition de leur administration, sans que
+cette mesure ait un caractère disciplinaire.
+
+Pour l'exercice des missions définies au présent article, le directeur général peut déléguer une partie de ses attributions
+ou sa signature aux directeurs et aux cadres dirigeants. Il définit les conditions dans lesquelles les titulaires de ces
+délégations peuvent subdéléguer leur signature aux cadres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°47-11 1947-01-04 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2004-621 du 29 juin 2004 - art. 2 () JORF 30 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R252-12-2 (Ab)
+	  - Code de l'aviation civile - art. R252-19 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R252-12-4 (Ab)
+
+
 ###### Article R252-19
 
 Le directeur général en tant qu'agent du pouvoir central assure dans les aérodromes exploités par Aéroports de Paris et leurs
@@ -15458,6 +15567,58 @@ L'inspecteur général peut se faire assister dans l'exécution de sa mission.
 
 
 #### CHAPITRE III : RÉGIME FINANCIER
+
+###### Article R253-1
+
+Est établi chaque année un budget relatif à l'exercice suivant, comportant :
+
+- le compte de résultat prévisionnel ;
+
+- le programme physique et financier d'investissements et le plan de financement.
+
+Le budget est présenté par le directeur général au conseil d'administration, qui l'adopte dans les conditions prévues à
+l'article R. 252-12.
+
+Les modifications reconnues nécessaires en cours d'exercice sont présentées et adoptées dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2004-621 du 29 juin 2004 - art. 3 () JORF 30 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R252-12 (M)
+
+
+###### Article R253-2
+
+Les comptes d'Aéroports de Paris sont établis conformément au code de commerce et selon les règlements du comité de
+réglementation comptable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2004-621 du 29 juin 2004 - art. 4 () JORF 30 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
 
 ###### Article R253-3
 
@@ -15626,177 +15787,6 @@ les pertes de recettes qu'entraînerait pour les collectivités l'application du
 	**Abrogé par**:
 
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-### TITRE V : AÉROPORT DE PARIS
-
-#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE
-
-##### Section 1 : Administration et gestion
-
-##### Paragraphe 1 : Conseil d'administration.
-
-###### Article R252-12
-
-Le conseil d'administration définit la politique générale d'Aéroports de Paris.
-
-Il a l'initiative des mesures nécessaires à la création des ressources destinées à couvrir les charges d'administration et
-d'exploitation d'Aéroports de Paris. Il établit sur ces mesures un rapport annuel et le transmet au ministre chargé de
-l'aviation civile.
-
-Il donne au ministre chargé de l'aviation civile son avis sur toutes les questions relevant des divers services publics et
-intéressant directement l'exploitation.
-
-Il donne son avis ou présente ses propositions au ministre chargé de l'aviation civile sur la répartition des transporteurs
-aériens entre les différents aérodromes exploités par Aéroports de Paris. Il fixe les principes relatifs à l'affectation des
-transporteurs aériens dans les aérogares d'un même aérodrome et décide de cette affectation.
-
-Il présente au ministre chargé de l'aviation civile ses propositions concernant les conditions d'établissement et de
-perception des redevances mentionnées à l'article R. 224-2 et fixe le taux de ces redevances dans les conditions prévues au
-même article. Il fixe les modalités d'établissement et de perception ainsi que les taux des redevances mentionnées à
-l'article R. 224-3 dans les conditions prévues audit article.
-
-Il présente au ministre chargé de l'aviation civile et au ministre chargé de l'économie et des finances ses propositions
-concernant les participations financières, les conventions de délégations de service public ainsi que la création de
-filiales.
-
-Il adopte l'état de prévisions de recettes et de dépenses ainsi que les comptes financiers et soumet ces documents à
-l'approbation du ministre chargé de l'aviation civile et du ministre chargé de l'économie et des finances.
-
-Il arrête les grands projets d'ouvrages et d'installations et définit le programme pluriannuel d'investissements.
-
-Il prend toutes les mesures nécessaires à la réalisation des emprunts émis par Aéroports de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R224-2 (An)
-	  - Code de l'aviation civile - art. R224-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-18 (M)
-	  - Code de l'aviation civile - art. R253-1 (Ab)
-
-
-##### Paragraphe 2 : Directeur général.
-
-###### Article R252-18
-
-Le directeur général est chargé de la préparation et de l'exécution de l'état de prévisions de recettes et de dépenses ainsi
-que de l'exécution des décisions du conseil d'administration.
-
-Il reçoit délégation permanente dans les limites fixées par le conseil d'administration pour la passation des contrats et
-marchés et les transactions en cas de litige.
-
-Dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à celui d'agent comptable et à ceux qui sont prévus
-aux articles R. 252-12-2 et R. 252-19.
-
-Il est consulté sur les nominations aux emplois de direction.
-
-Sauf pour le personnel de l'Etat mentionné à l'article R. 252-19, il fixe les tableaux d'effectifs par catégories générales ;
-il fixe les traitements, salaires et indemnités dans le cadre des échelles approuvées par le conseil d'administration et
-arrête les tableaux d'avancement.
-
-Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à la disposition d'Aéroports de Paris suivant la
-réglementation en vigueur dans leurs corps. Ils peuvent toujours être remis à la disposition de leur administration, sans que
-cette mesure ait un caractère disciplinaire.
-
-Pour l'exercice des missions définies au présent article, le directeur général peut déléguer une partie de ses attributions
-ou sa signature aux directeurs et aux cadres dirigeants. Il définit les conditions dans lesquelles les titulaires de ces
-délégations peuvent subdéléguer leur signature aux cadres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 8 () JORF 18 septembre 2002
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-12-2 (Ab)
-	  - Code de l'aviation civile - art. R252-19 (M)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-12-4 (Ab)
-
-
-#### CHAPITRE III : RÉGIME FINANCIER
-
-###### Article R253-1
-
-Est établi chaque année un état de prévisions de recettes et de dépenses relatif à l'exercice suivant, comportant :
-
-Une section d'exploitation ;
-
-Une section d'opérations en capital. Pour cette dernière section, tous les chapitres relatifs aux dépenses d'investissement
-ont un caractère prévisionnel. En cours d'année, lorsque l'exécution des dépenses l'exige, des virements de chapitre à
-chapitre peuvent être décidés par le directeur général après avis du contrôleur d'Etat.
-
-L'état de prévisions est présenté par le directeur général au conseil d'administration qui l'adopte dans les conditions
-prévues à l'article R. 252-12.
-
-Les modifications reconnues nécessaires en cours d'exercice sont présentées et adoptées dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 11 () JORF 18 septembre 2002
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-12 (M)
-
-
-###### Article R253-2
-
-La comptabilité des aéroports de Paris est tenue dans les formes prévues au plan comptable général.
-
-Le fonctionnement comptable est assuré dans les conditions prévues pour les établissements publics à caractère industriel et
-commercial dotés d'un agent comptable par les articles 190 à 225 du décret du 29 décembre 1962 portant règlement général sur
-la comptabilité publique.
-
-Le plan comptable particulier aux aéroports de Paris est approuvé par arrêté conjoint du ministre chargé de l'aviation civile
-et du ministre de l'économie et des finances après avis du conseil national de la comptabilité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1962-12-29 art. 190 à 225
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
 
 
 ### TITRE VI : AEROPORT DE BALE-MULHOUSE.
