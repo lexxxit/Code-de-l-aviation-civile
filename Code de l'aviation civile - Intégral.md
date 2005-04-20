@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-04-21
 
 # Partie législative
 
@@ -1034,6 +1034,33 @@ présent code.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L6231-1 (V)
+
+
+###### Article L123-4
+
+En cas de non-paiement ou de paiement insuffisant des redevances aéroportuaires, de la redevance de route, de la redevance
+pour services terminaux de la circulation aérienne ou des amendes administratives prononcées par l'Autorité de contrôle des
+nuisances sonores aéroportuaires, l'exploitant d'aérodrome ou l'autorité administrative de l'Etat compétente peuvent, après
+avoir mis le redevable en demeure de régulariser sa situation, requérir la saisie conservatoire d'un aéronef exploité par le
+redevable ou lui appartenant auprès du juge du lieu d'exécution de la mesure.
+
+L'ordonnance du juge de l'exécution est transmise aux autorités responsables de la circulation aérienne de l'aérodrome aux
+fins d'immobilisation de l'aéronef. L'ordonnance est notifiée au redevable et au propriétaire de l'aéronef lorsque le
+redevable est l'exploitant.
+
+Les frais entraînés par la saisie conservatoire sont à la charge du redevable.
+
+Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 12 () JORF 21 avril 2005
 
 
 #### CHAPITRE IV : LOCATION ET MISE A DISPOSITION D'AERONEFS.
@@ -2283,6 +2310,33 @@ sur plusieurs départements.
 	  - CODE DES COMMUNES. - art. L131-2 (M)
 
 
+###### Article L213-2-1
+
+Les agents civils et militaires de l'Etat ainsi que les personnels des entreprises agissant pour le compte et sous le
+contrôle de l'administration et habilités à cet effet par l'autorité administrative vérifient que les entreprises ou
+organismes installés sur les aérodromes respectent les mesures de prévention en matière de sécurité du transport aérien et de
+sûreté. A cet effet, ils ont accès à tout moment aux locaux et terrains à usage professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 13 () JORF 21 avril 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6332-4 (V)
+	  - Code des transports - art. L6341-1 (V)
+
+
 ###### Article L213-3
 
 I. - Les aérodromes assurent, suivant des normes techniques définies par l'autorité administrative, le sauvetage et la lutte
@@ -2424,6 +2478,34 @@ intervenus ou à intervenir en cette matière en vue de prévenir la propagation
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. L283-1 (VT)
+
+
+#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.
+
+###### Article L216-1
+
+Sur les aérodromes dont le trafic excède un seuil fixé par décret en Conseil d'Etat, les services d'assistance en escale sont
+fournis par les transporteurs aériens, les exploitants d'aérodromes et les entreprises agréés à cet effet. Le même décret
+précise les conditions qui leur sont imposées ainsi que les conditions dans lesquelles l'administration peut limiter leur
+nombre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 14 () JORF 21 avril 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6326-1 (V)
 
 
 ### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE
@@ -2627,6 +2709,107 @@ droit ou de cette redevance ait été autorisée par décret.
 	  - Code des douanes - art. 265
 
 
+###### Article L224-2
+
+I. - Les services publics aéroportuaires donnent lieu à la perception de redevances pour services rendus fixées conformément
+aux dispositions du deuxième alinéa de l'article L. 410-2 du code de commerce.
+
+Le montant des redevances tient compte de la rémunération des capitaux investis. Il peut tenir compte des dépenses, y compris
+futures, liées à la construction d'infrastructures ou d'installations nouvelles avant leur mise en service.
+
+Il peut faire l'objet, pour des motifs d'intérêt général, de modulations limitées tendant à réduire ou compenser les
+atteintes à l'environnement, améliorer l'utilisation des infrastructures, favoriser la création de nouvelles liaisons ou
+répondre à des impératifs de continuité et d'aménagement du territoire.
+
+Le produit global de ces redevances ne peut excéder le coût des services rendus sur l'aéroport.
+
+II. - Pour Aéroports de Paris et pour les exploitants d'aérodromes civils appartenant à l'Etat, des contrats pluriannuels
+d'une durée maximale de cinq ans conclus avec l'Etat déterminent les conditions de l'évolution des tarifs des redevances
+aéroportuaires, qui tiennent compte notamment des prévisions de coûts, de recettes, d'investissements ainsi que d'objectifs
+de qualité des services publics rendus par l'exploitant d'aérodrome. Ces contrats s'incorporent aux contrats de concession
+d'aérodrome conclus par l'Etat.
+
+En l'absence d'un contrat pluriannuel déterminant les conditions de l'évolution des tarifs des redevances aéroportuaires, ces
+tarifs sont déterminés sur une base annuelle dans des conditions fixées par décret.
+
+III. - Un décret en Conseil d'Etat arrête les modalités d'application du présent article, notamment les catégories
+d'aérodromes qui en relèvent, les règles relatives au champ, à l'assiette et aux modulations des redevances, les principes et
+les modalités de fixation de leurs tarifs, ainsi que les sanctions administratives susceptibles d'être infligées à
+l'exploitant en cas de manquement à ses obligations en la matière.
+
+L'autorité administrative peut prononcer une sanction pécuniaire dont le montant est proportionné à la gravité du manquement
+et aux avantages qui en sont tirés, sans pouvoir excéder 1 % du chiffre d'affaires hors taxe du dernier exercice clos de
+l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 9 () JORF 21 avril 2005
+
+	**Cité par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 20 (Ab)
+	  - Arrêté du 16 septembre 2005 - art. 1 (VD)
+	  - Décret n°2009-230 du 26 février 2009 - art. 2 (V)
+	  - Code de l'aviation civile - art. D224-4 (V)
+	  - Code de l'aviation civile - art. L224-3 (VT)
+	  - Code de l'aviation civile - art. L228-1 (VT)
+	  - Code de l'aviation civile - art. R224-1 (M)
+	  - Code de l'aviation civile - art. R224-2-2 (M)
+	  - Code de l'aviation civile - art. R224-4 (M)
+	  - Code de l'aviation civile - art. R224-4-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6325-1 (V)
+	  - Code des transports - art. L6325-2 (V)
+	  - Code des transports - art. L6325-5 (V)
+	  - Code des transports - art. L6325-6 (V)
+
+
+###### Article L224-3
+
+Sous réserve, pour ceux des aérodromes n'appartenant pas à l'Etat, de l'accord du signataire de la convention prévue à
+l'article L. 221-1, l'exploitant d'un aérodrome établi sur le domaine public peut percevoir des redevances domaniales auprès
+des tiers autorisés à occuper ou utiliser le domaine considéré au-delà des limites des services publics aéroportuaires
+mentionnés à l'article L. 224-2 et du droit d'usage qui appartient à tous. Ces redevances peuvent tenir compte des avantages
+de toute nature procurés à l'occupant ou au bénéficiaire du domaine. Les taux de ces redevances peuvent être fixés par
+l'exploitant d'aérodrome, sous réserve, pour les aérodromes n'appartenant pas à l'Etat, de l'accord du signataire de la
+convention susmentionnée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 10 () JORF 21 avril 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6325-3 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L221-1
+	  - Code de l'aviation civile - art. L224-2
+
+
 #### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.
 
 ###### Article L227-1
@@ -2811,7 +2994,7 @@ des éléments de son dossier. Elle doit pouvoir être entendue par la commissio
 et se faire représenter ou assister par la personne de son choix.
 
 Les amendes administratives sont prononcées par l'autorité et ne peuvent excéder, par manquement constaté, un montant de 1
-500 euros pour une personne physique et de 12 000 euros pour une personne morale. Elles font l'objet d'une décision motivée
+500 euros pour une personne physique et de 20 000 euros pour une personne morale. Elles font l'objet d'une décision motivée
 notifiée à la personne concernée. Elles sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
 Elles peuvent faire l'objet d'un recours de pleine juridiction. Aucune amende ne peut être prononcée plus de deux ans après
 la constatation d'un manquement.
@@ -2827,10 +3010,6 @@ suppléants de la commission, ainsi que ses règles de fonctionnement.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Arrêté du 20 juin 2003 - art. 1 (V)
@@ -2839,6 +3018,10 @@ suppléants de la commission, ainsi que ses règles de fonctionnement.
 	  - Code de l'aviation civile - art. R227-2 (V)
 	  - Code de l'aviation civile - art. R227-20 (V)
 	  - Code de l'environnement - art. R571-31-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 11 () JORF 21 avril 2005
 
 	**Cite**:
 
@@ -3068,6 +3251,98 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1609 quatervicies A (V)
+
+
+#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.
+
+###### Article L228-1
+
+La Commission consultative aéroportuaire est placée auprès du ministre chargé de l'aviation civile qui la consulte lors de la
+préparation des contrats mentionnés au II de l'article L. 224-2, notamment sur les programmes d'investissement, les objectifs
+de qualité de service et l'évolution des redevances pour services rendus. Elle rend un avis motivé dans le mois qui suit la
+demande.
+
+Elle peut également émettre, à la demande de ce ministre, des avis sur toute question relative à l'économie du secteur
+aéroportuaire.
+
+Les avis émis par la commission sont rendus publics.
+
+Elle auditionne, à son initiative ou à leur demande, les exploitants d'aérodromes, les transporteurs aériens, leurs
+organisations professionnelles et toute autre personne morale qu'elle juge compétente ou concernée.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+228-1 (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2012-458  du 5 avril 2012 - art. 3 (V)
+	  - Code de l'aviation civile - art. R224-4 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L224-2
+
+	**Modifié par**:
+
+	  - Loi n°2005-357 2005-04-21 art. 8 JORF 21 avril 2005
+
+
+###### Article L228-2
+
+I. - La Commission consultative aéroportuaire comprend sept membres nommés pour une durée de cinq ans.
+
+II. - Elle se compose :
+
+- d'une personne désignée par le président de l'Assemblée nationale ;
+
+- d'une personne désignée par le président du Sénat ;
+
+- d'un membre ou ancien membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+
+- d'un membre ou ancien membre de la Cour des comptes désigné par le premier président de la Cour des comptes ;
+
+- de trois personnalités choisies par le ministre chargé de l'aviation civile et par le ministre chargé de l'économie en
+raison de leur compétence en matière de transport aérien et d'aviation civile, dont une au moins est spécialiste de
+l'économie du transport aérien.
+
+III. - Le président est choisi au sein de la commission par le ministre chargé de l'aviation civile.
+
+Sa voix est prépondérante en cas de partage des voix.
+
+IV. - Le mandat des membres de la commission est renouvelable une fois.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+228-2 (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Modifié par**:
+
+	  - Loi n°2005-357 2005-04-21 art. 8 JORF 21 avril 2005
 
 
 ### TITRE V : AEROPORTS DE PARIS
