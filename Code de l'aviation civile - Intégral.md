@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-04-21
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -15611,7 +15611,7 @@ leurs droits civils et politiques.
 Les membres du conseil d'administration ne peuvent prendre ou conserver un intérêt direct ou indirect dans une entreprise,
 qu'elle soit personnelle ou sous forme de société civile ou commerciale, ou dans une filiale d'entreprise contractant avec
 Aéroports de Paris à moins qu'ils n'y soient autorisés par le ministre chargé de l'aviation civile sur proposition du conseil
-et après avis du contrôleur d'Etat.
+et après avis du membre du corps du contrôle général économique et financier.
 
 Lorsque le conseil d'administration examine un contrat susceptible d'être passé avec une entreprise dans laquelle un membre
 du conseil d'administration détient un intérêt personnel direct ou indirect, ou lorsqu'il se prononce sur la délivrance d'une
@@ -15632,8 +15632,11 @@ conditions prévues au premier alinéa.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 2 () JORF 18 septembre 2002
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
 ###### Article R252-5
@@ -26902,6 +26905,73 @@ territoriale de Saint-Pierre-et-Miquelon.
 	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
+##### Section 4 : Dispositions financières
+
+###### Article D213-3
+
+Il est créé un comité consultatif des subventions aux exploitants d'aérodromes pour les missions mentionnées à l'article D.
+213-2.
+
+Ce comité peut être consulté par le ministre chargé de l'aviation civile sur toute question relative au financement de ces
+missions.
+
+Le comité consultatif est présidé par le ministre chargé de l'aviation civile ou son représentant.
+
+Il comprend, outre son président :
+
+- un sénateur ;
+
+- un député ;
+
+- le ministre chargé du budget ou son représentant ;
+
+- le ministre chargé de l'économie ou son représentant ;
+
+- le chef de l'inspection générale de l'aviation civile et de la météorologie ou son représentant ;
+
+- un fonctionnaire de la direction générale de l'aviation civile désigné par son directeur général ;
+
+- deux personnalités, nommées pour trois ans renouvelables, choisies par le ministre chargé de l'aviation civile en raison de
+leur connaissance du transport aérien ou des activités aéroportuaires.
+
+Le membre du corps du contrôle général économique et financier central des services de l'aviation civile participe aux
+réunions du comité, avec voix consultative.
+
+Le comité consultatif se réunit sur convocation de son président, à l'initiative de celui-ci ou à la demande de la moitié au
+moins des membres du comité. Le président fixe l'ordre du jour des réunions.
+
+Le président du comité consultatif peut inviter à participer aux réunions du comité toute personne dont la présence est jugée
+utile en fonction de l'ordre du jour. Les fonctions de membre du comité consultatif sont gratuites.
+
+En cas de besoin, l'avis des membres du comité consultatif peut être recueilli par consultation écrite.
+
+La direction de la régulation économique de la direction générale de l'aviation civile assure le secrétariat du comité
+consultatif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-433 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D213-2 (T)
+	  - Code de l'aviation civile - art. D213-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'aviation civile - art. D213-6 (V)
+
+
 #### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.
 
 ###### Article D216-1
@@ -28615,7 +28685,7 @@ Peuvent en outre être appelés à siéger avec voix consultative :
 
 - l'inspecteur général d'Aéroports de Paris ;
 
-- le contrôleur d'Etat ;
+- le membre du corps du contrôle général économique et financier ;
 
 - en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence.
 
@@ -28630,9 +28700,9 @@ dont notamment les délais et forme de la convocation, le contenu et la diffusio
 
 	  - Décret n°67-335 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-409 du 21 mai 1999 - art. 1 () JORF 26 mai 1999
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 	**Cite**:
 
