@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-17
 
 # Partie législative
 
@@ -22612,41 +22612,6 @@ matière de fonds de concours pour dépenses d'intérêt public.
 
 ### TITRE Ier : DISPOSITIONS GÉNÉRALES
 
-###### Article R711-1
-
-L'organisme permanent spécialisé chargé, en application des articles L. 711-1 et L. 711-2, de procéder aux enquêtes
-techniques relatives aux accidents ou incidents dans l'aviation civile est un service à compétence nationale placé auprès du
-chef de l'inspection générale de l'aviation civile, qui a pour nom : "bureau d'enquêtes et d'analyses pour la sécurité de
-l'aviation civile" et pour sigle "BEA".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-
-	**Créé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
-
-	**Cité par**:
-
-	  - Décret n°2007-1572 du 6 novembre 2007 - art. 3 (V)
-	  - Décret n°2008-680 du 9 juillet 2008 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-1 (M)
-	  - Code de l'aviation civile - art. L711-2 (M)
-
-
 ###### Article R711-2
 
 Le BEA propose au ministre chargé de l'aviation civile la réglementation relative à la préservation des éléments de l'enquête
@@ -22695,8 +22660,9 @@ Le BEA comporte un secrétariat général, des départements et des divisions. I
 ###### Article R711-4
 
 Le directeur du BEA est nommé, pour une durée de sept ans, par arrêté du ministre chargé de l'aviation civile, sur la
-proposition du chef de l'inspection générale de l'aviation civile, parmi les fonctionnaires de l'Etat de catégorie A ayant au
-moins vingt ans d'expérience professionnelle dans des domaines de l'aviation civile.
+proposition du vice-président du conseil général des ponts et chaussées formulée après avis du bureau de ce conseil, parmi
+les fonctionnaires de l'Etat de catégorie A ayant au moins vingt ans d'expérience professionnelle dans des domaines de
+l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -22704,16 +22670,14 @@ moins vingt ans d'expérience professionnelle dans des domaines de l'aviation ci
 
 	  - TXT_SOURCE: Convention 1944-12-07
 	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2005-470 du 16 mai 2005 - art. 9 () JORF 17 mai 2005
 
 
 ###### Article R711-5
@@ -22930,6 +22894,43 @@ L'activité de la commission d'enquête prend fin à la publication du rapport d
 
 	**Cite**:
 
+	  - Code de l'aviation civile - art. L711-2 (M)
+
+
+#### LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION
+
+##### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS
+
+###### Article R711-1
+
+L'organisme permanent spécialisé chargé, en application des articles L. 711-1 et L. 711-2, de procéder aux enquêtes
+techniques relatives aux accidents ou incidents dans l'aviation civile est un service à compétence nationale placé auprès du
+vice-président du conseil général des ponts et chaussées, qui a pour nom : "bureau d'enquêtes et d'analyses pour la sécurité
+de l'aviation civile" et pour sigle "BEA".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Convention 1944-12-07
+	  - TXT_SOURCE: Directive 94-56 1994-11-21
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2005-470 du 16 mai 2005 - art. 9 () JORF 17 mai 2005
+
+	**Cité par**:
+
+	  - Décret n°2007-1572 du 6 novembre 2007 - art. 3 (V)
+	  - Décret n°2008-680 du 9 juillet 2008 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1 (M)
 	  - Code de l'aviation civile - art. L711-2 (M)
 
 
@@ -26906,6 +26907,42 @@ territoriale de Saint-Pierre-et-Miquelon.
 
 
 ##### Section 4 : Dispositions financières
+
+###### Article D213-2
+
+L'Etat peut, dans des conditions précisées par arrêté et après avis du comité mentionné à l'article D. 213-3, accorder des
+subventions aux exploitants d'aérodromes pour assurer ou pour contribuer au financement des missions à leur charge résultant
+de l'article L. 213-3 et concernant les mesures effectuées dans le cadre des contrôles environnementaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-473 du 16 mai 2005 - art. 13 () JORF 17 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-433 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+	**Cité par**:
+
+	  - Arrêté du 17 avril 2015 (V)
+	  - Arrêté du 14 août 2015 (V)
+	  - Arrêté du 16 août 2016 (V)
+	  - Code de l'aviation civile - art. D213-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'aviation civile - art. D213-5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-3 (M)
+
 
 ###### Article D213-3
 
