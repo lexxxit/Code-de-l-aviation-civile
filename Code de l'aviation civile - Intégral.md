@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-05-17
+Version Consolidée au 2005-05-31
 
 # Partie législative
 
@@ -15745,7 +15745,7 @@ Le conseil d'administration établit son règlement intérieur.
 ###### Article R252-10
 
 Le conseil d'administration se réunit sur la convocation de son président au moins six fois par an. Le président est, en
-outre, tenu de réunir immédiatement le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le tiers au
+outre, tenu de réunir immédiatemment le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le tiers au
 moins des membres peut également, en indiquant l'ordre du jour de la séance, convoquer le conseil si celui-ci ne s'est pas
 réuni depuis plus de deux mois.
 
@@ -15761,13 +15761,15 @@ Les délibérations sont prises à la majorité des suffrages exprimés. Dans le
 n'est pas tenu compte des bulletins blancs ou nuls. En cas de partage des suffrages exprimés, la voix du président est
 prépondérante.
 
-Les procès-verbaux sont signés par le président. Ils font mention des personnes présentes.    Les membres du conseil
-d'administration sont tenus au secret professionnel dans les conditions prévues aux articles 226-13 et 226-14 du code pénal.
+Les procès-verbaux sont signés par le président. Ils font mention des personnes présentes.
+
+Les membres du conseil d'administration sont tenus au secret professionnel dans les conditions prévues aux articles 226-13 et
+226-14 du code pénal.
 
 Le directeur général assiste avec voix consultative aux séances du conseil d'administration sauf lorsqu'il est discuté de sa
 situation personnelle. Il est également tenu au secret professionnel.
 
-Le directeur général de l'aviation civile et le chef du service des bases aériennes siègent, avec voix consultative, au
+Le directeur général de l'aviation civile et le directeur de la régulation économique siègent, avec voix consultative, au
 conseil d'administration des aéroports de Paris, respectivement en qualité de commissaire du Gouvernement et de commissaire
 du Gouvernement adjoint.
 
@@ -15786,7 +15788,11 @@ Gouvernement adjoint.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 4 () JORF 18 septembre 2002
+	  - Décret n°2005-630 du 30 mai 2005 - art. 1 () JORF 31 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 	**Cite**:
 
@@ -29420,61 +29426,61 @@ Les titres donnant droit à l'inscription aux registres sont les suivants, sous 
 
 Catégorie Essais et réceptions :
 
-- licence de pilote d'essais expérimental d'avions ;
+Licence de pilote d'essais expérimental d'avions ;
 
-- licence de pilote d'essais d'avions ;
+Licence de pilote d'essais d'avions ;
 
-- licence de pilote d'essais d'avions légers ;
+Licence de pilote d'essais d'avions légers ;
 
-- licence de pilote d'essais expérimental d'hélicoptères ;
+Licence de pilote d'essais expérimental d'hélicoptères ;
 
-- licence de pilote d'essais d'hélicoptères ;
+Licence de pilote d'essais d'hélicoptères ;
 
-- licence de pilote de réceptions d'avions ;
+Licence de pilote de réceptions d'avions ;
 
-- licence de pilote de réceptions d'hélicoptères.
+Licence de pilote de réceptions d'hélicoptères.
 
 Catégorie Transport aérien :
 
-Licence de pilote de ligne d'avion,
+Licence de pilote de ligne d'avion ;
 
-Licence de pilote professionnel de 1re classe d'avion,
+Licence de pilote professionnel de 1re classe d'avion ;
 
-Licence de pilote professionnel d'avion,
+Licence de pilote professionnel d'avion ;
 
-Licence de pilote de ligne d'hélicoptère,
+Licence de pilote de ligne d'hélicoptère ;
 
-Licence de pilote professionnel d'hélicoptère,
+Licence de pilote professionnel d'hélicoptère.
 
 Catégorie Travail aérien :
 
-Licence de pilote de ligne d'avion,
+Licence de pilote de ligne d'avion ;
 
-Licence de pilote professionnel de 1re classe d'avion,
+Licence de pilote professionnel de 1re classe d'avion ;
 
-Licence de pilote professionnel d'avion,
+Licence de pilote professionnel d'avion ;
 
-Licence de pilote de ligne d'hélicoptère;
+Licence de pilote de ligne d'hélicoptère ;
 
-Licence de pilote professionnel d'hélicoptère (2).
+Licence de pilote professionnel d'hélicoptère.
 
 2° Registres B
 
 Catégorie Essais et réceptions :
 
-- licence d'ingénieur navigant d'essais ;
+Licence d'ingénieur navigant d'essais ;
 
-- licence d'expérimentateur navigant d'essais ;
+Licence d'expérimentateur navigant d'essais ;
 
-- licence de mécanicien navigant d'essais ;
+Licence de mécanicien navigant d'essais ;
 
-- licence de mécanicien navigant de réceptions.
+Licence de mécanicien navigant de réceptions.
 
 Catégorie Transport aérien :
 
-Licence de navigateur,
+Licence de navigateur ;
 
-Licence de mécanicien navigant,
+Licence de mécanicien navigant ;
 
 Licence de radio navigant ;
 
@@ -29482,13 +29488,13 @@ Licence d'ingénieur navigant de l'aviation civile.
 
 Catégorie Travail aérien :
 
-Licence de navigateur,
+Licence de navigateur ;
 
-Licence de mécanicien navigant,
+Licence de mécanicien navigant ;
 
 Licence de radio navigant ;
 
-Licence d'ingénieur navigant de l'aviation civile (3) ;
+Licence d'ingénieur navigant de l'aviation civile.
 
 3° Registres C
 
@@ -29498,9 +29504,9 @@ Licence de parachutiste professionnel possédant la qualification Essais et réc
 
 Catégorie Travail aérien :
 
-Licence de parachutiste professionnel,
+Licence de parachutiste professionnel ;
 
-Licence de photographe navigant professionnel ;
+Licence de photographe navigant professionnel.
 
 4° Registres D
 
@@ -29512,17 +29518,13 @@ Catégorie Travail aérien :
 
 Certificat de sécurité sauvetage.
 
+Catégorie Essais et réceptions :
+
+Certificat de sécurité sauvetage.
+
 Donnent également droit à l'inscription aux registres les titres délivrés par les autres Etats membres de la Communauté
 économique européenne et validés par le ministre chargé de l'aviation civile ou, dans le domaine des essais et réceptions,
 par le ministre de la défense, sous réserve qu'ils soient en cours de validité.
-
-**Nota:**
-
-(1) Décret n° 79-144 du 17 janvier 1979 (art. 1er).
-
-(2) Décret n° 69-1 du 2 janvier 1969 (art. 1er).
-
-(3) Décret n° 85-57 du 17 janvier 1985 (art. 1er).
 
 **Liens relatifs à cet article**
 
@@ -29536,7 +29538,7 @@ par le ministre de la défense, sous réserve qu'ils soient en cours de validit�
 
 	**Modifié par**:
 
-	  - Décret n°99-53 du 20 janvier 1999 - art. 1 () JORF 27 janvier 1999
+	  - Décret n°2005-639 du 30 mai 2005 - art. 1 () JORF 31 mai 2005
 
 
 ###### Article D421-3
