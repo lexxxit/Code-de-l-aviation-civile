@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-05-31
+Version Consolidée au 2005-07-08
 
 # Partie législative
 
@@ -28704,6 +28704,9 @@ La commission consultative économique est consultée pour avis sur les projets 
 
 Elle est informée des programmes d'investissements de l'établissement en cours et prévus pour l'année suivante.
 
+La commission peut, en outre, débattre des perspectives pluriannuelles d'investissement ou d'évolution de la qualité de
+service relatives aux aéroports concernés.
+
 Ses membres sont nommés pour trois ans par arrêté du ministre chargé de l'aviation civile.
 
 Elle comprend :
@@ -28745,7 +28748,11 @@ dont notamment les délais et forme de la convocation, le contenu et la diffusio
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2005-762 du 7 juillet 2005 - art. 1 () JORF 8 juillet 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-617 du 26 avril 2007 - art. 5 () JORF 28 avril 2007
 
 	**Cite**:
 
