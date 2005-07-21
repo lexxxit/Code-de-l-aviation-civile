@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-07-08
+Version Consolidée au 2005-07-22
 
 # Partie législative
 
@@ -3351,8 +3351,19 @@ effet qu'à compter de la publication des dispositions réglementaires du code d
 
 ###### Article L251-1
 
-L'aéroport de Paris est un établissement public doté de l'autonomie financière placé sous l'autorité du ministre chargé de
-l'aviation civile.
+La société Aéroports de Paris est régie par le présent code, par les dispositions du titre Ier de la loi n° 2005-357 du 20
+avril 2005 relative aux aéroports et, sauf dispositions législatives contraires, par les lois applicables aux sociétés
+anonymes. La dénomination sociale de la société, qui figure dans les statuts, peut être modifiée dans les conditions prévues
+à l'article L. 225-96 du code de commerce.
+
+La majorité de son capital est détenue par l'Etat.
+
+**Nota:**
+
+Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
+publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
+
+Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
 
 **Liens relatifs à cet article**
 
@@ -3361,26 +3372,69 @@ l'aviation civile.
 	  - Ancien code de l'aviation civile 96
 	  - Ordonnance 45-2488 1945-10-24 art. 1
 
+	**Modifié par**:
+
+	  - Loi n°2005-357 2005-04-21 art. 6 JORF 21 avril 2005 en vigueur le 22 juillet 2005
+
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Cite**:
+
+	  - Loi n°2005-357 du 20 avril 2005
+	  - Code de commerce - art. L225-96
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6323-1 (V)
 
 
 ###### Article L251-2
 
-Il est chargé d'aménager, d'exploiter et de développer l'ensemble des installations de transport civil aérien ayant leur
-centre dans la région d'Ile-de-France, ainsi que toutes installations annexes qui ont pour objet de faciliter l'arrivée et le
-départ des aéronefs, d'assurer un service de sauvetage et de lutte contre l'incendie des aéronefs et de prévention du péril
-aviaire, de guider la navigation, de participer à l'organisation des visites de sureté dans les conditions prévues par le b
-de l'article L 282-8 d'assurer l'embarquement, le débarquement et l'acheminement à terre des voyageurs, des marchandises et
-du courrier transportés par air.
+La société Aéroports de Paris est chargée d'aménager, d'exploiter et de développer les aérodromes de Paris - Charles-de-
+Gaulle, Paris-Orly, Paris-Le Bourget, ainsi que les aérodromes civils situés dans la région d'Ile-de-France dont la liste est
+fixée par décret. Elle peut exercer toute autre activité, aéroportuaire ou non, dans les conditions prévues par ses statuts.
 
-Il se tient en liaison permanente avec les autres aérodromes français et étrangers, auxquels il doit éventuellement demander
-ou prêter le concours qu'imposent les nécessités du trafic aérien.
+La société Aéroports de Paris fournit sur les aérodromes mentionnés ci-dessus les services aéroportuaires adaptés aux besoins
+des transporteurs aériens, des autres exploitants d'aéronefs, des passagers et du public et coordonne, sur chaque aérodrome
+qu'elle exploite, l'action des différents intervenants.
+
+Un cahier des charges approuvé par décret en Conseil d'Etat fixe les conditions dans lesquelles la société Aéroports de Paris
+assure les services publics liés à l'exploitation des aérodromes mentionnés au premier alinéa et exécute, sous l'autorité des
+titulaires du pouvoir de police, les missions de police administrative qui lui incombent.
+
+Ce cahier des charges définit également les modalités :
+
+- selon lesquelles Aéroports de Paris assure la répartition des transporteurs aériens, par des décisions constituant des
+actes administratifs, entre les différents aérodromes et entre les aérogares d'un même aérodrome ;
+
+- du concours d'Aéroports de Paris à l'exercice des services de navigation aérienne assurés par l'Etat ;
+
+- du contrôle par l'Etat du respect des obligations incombant à la société au titre de ses missions de service public,
+notamment par l'accès des agents de l'Etat aux données comptables et financières de la société ;
+
+- de l'accès des personnels de l'Etat et de ses établissements publics ainsi que des personnes agissant pour leur compte à
+l'ensemble du domaine aéroportuaire de la société pour l'exercice de leurs missions ;
+
+- du contrôle par l'Etat des contrats par lesquels Aéroports de Paris délègue à des tiers l'exécution de certaines des
+missions mentionnées au troisième alinéa.
+
+Ce cahier des charges détermine les sanctions administratives susceptibles d'être infligées à Aéroports de Paris en cas de
+manquement aux obligations qu'il édicte.
+
+L'autorité administrative peut, en particulier, prononcer une sanction pécuniaire dont le montant est proportionné à la
+gravité du manquement, à l'ampleur du dommage et aux avantages qui en sont tirés, sans pouvoir excéder 0,1 % du chiffre
+d'affaires hors taxe du dernier exercice clos d'Aéroports de Paris, porté à 0,2 % en cas de nouvelle violation de la même
+obligation.
 
 **Nota:**
 
-: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
+Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
 publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
 
 Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
@@ -3396,10 +3450,6 @@ Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel
 
 	  - Décret n°67-333 1967-03-30
 
-	**Modifié par**:
-
-	  - Loi n°98-1171 du 18 décembre 1998 - art. 1 () JORF 23 décembre 1998
-
 	**Cité par**:
 
 	  - Loi n°2005-357 du 20 avril 2005 - art. 7 (VT)
@@ -3408,30 +3458,44 @@ Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel
 	  - Code de l'aviation civile - art. R224-3 (V)
 	  - Code de l'aviation civile - art. R224-4 (M)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6323-2 (V)
+	  - Code des transports - art. L6323-3 (V)
+	  - Code des transports - art. L6323-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-357 2005-04-21 art. 6 JORF 21 avril 2005 en vigueur le 22 juillet 2005
 
 
 ###### Article L251-3
 
-Des décrets déterminent les éléments qui font partie de l'aéroport et qui comprennent notamment :
+Lorsqu'un ouvrage ou terrain appartenant à Aéroports de Paris et situé dans le domaine aéroportuaire est nécessaire à la
+bonne exécution par la société de ses missions de service public ou au développement de celles-ci, l'Etat s'oppose à sa
+cession, à son apport, sous quelque forme que ce soit, à la création d'une sûreté sur cet ouvrage ou terrain, ou subordonne
+la cession, la réalisation de l'apport ou la création de la sûreté à la condition qu'elle ne soit pas susceptible de porter
+préjudice à l'accomplissement desdites missions.
 
-a) Les aérodromes ouverts à la navigation aérienne civile, situés dans un rayon de 50 kilomètres du centre de Paris ;
+Le cahier des charges d'Aéroports de Paris fixe les modalités d'application du premier alinéa, notamment les catégories de
+biens en cause.
 
-b) Les voies d'accès aux aérodromes destinés au trafic des lignes aériennes mondiales, continentales et nationales ;
+Est nul de plein droit tout acte de cession, apport ou création de sûreté réalisé sans que l'Etat ait été mis à même de s'y
+opposer, en violation de son opposition ou en méconnaissance des conditions fixées à la réalisation de l'opération.
 
-c) Les routes aériennes réservées aux transports commerciaux ;
+Les biens mentionnés au premier alinéa ne peuvent faire l'objet d'aucune saisie et le régime des baux commerciaux ne leur est
+pas applicable.
 
-d) Les dispositifs de protection de ces routes ;
+**Nota:**
 
-e) Les installations et dépendances rattachées à l'aéroport en vue de permettre son exploitation complète.
+Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
+publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
 
-L'aéroport de Paris peut en outre être autorisé à accepter des concessions et des affermages ou à prendre des participations
-se rattachant à son objet et présentant un intérêt direct et certain pour l'aménagement et le fonctionnement de l'aéroport.
-
-Il peut concéder, affermer les différents ouvrages et services dépendants de son exploitation. Les décisions de concession
-sont prises par décret en Conseil d'Etat.
+Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
 
 **Liens relatifs à cet article**
 
@@ -3444,167 +3508,22 @@ sont prises par décret en Conseil d'Etat.
 
 	  - Décret n°67-333 1967-03-30
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6323-6 (V)
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. L251-5 (Ab)
 	  - Code de l'urbanisme - art. R*121-4-1 (VT)
 
-
-###### Article L251-4
-
-L'utilité publique et l'urgence des travaux de construction, de reconstruction, de raccordement aux centres desservis, ainsi
-que les opérations d'urbanisme rendues nécessaires par la création de l'aéroport sont déclarées par décret en Conseil d'Etat.
-
-Les expropriations nécessaires sont faites par application des articles L. 13-9 et L. 15-4 du code de l'expropriation pour
-cause d'utilité publique (1).
-
-L'administration peut pénétrer dans les propriétés privées et les occuper temporairement dans les conditions prévues par la
-loi du 29 décembre 1892 modifiée.
-
-**Nota:**
-
-(1) Décret n° 80-908 du 17 novembre 1980, article 8-XI : la modification apportée l'est en exécution de la loi n° 72-595 du
-30 juin 1972 et du décret n° 77-392 du 28 mars 1977 portant codification des textes relatifs à l'expropriation pour cause
-d'utilité publique (1re partie : Législative).
-
-: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
-publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
-
-Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 100
-	  - Ordonnance 45-2488 1945-10-24 art. 5
-
-	**Cite**:
-
-	  - Loi n°1892-12-29
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-9 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L15-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Abrogé par**:
-
-	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 21 avril 2005 en vigueur le 22 juillet 2005
-
-
-###### Article L251-5
-
-Il est interdit de renouveler les baux, de relouer des locaux vacants, d'effectuer les travaux sans autorisation préalable
-dans les immeubles de l'ancienne enceinte fortifiée de Paris ayant fait l'objet d'une mesure de réquisition pour cause
-d'insalubrité. Cette interdiction prend effet dès publication de l'arrêté de réquisition. Elle s'applique dans les mêmes
-conditions aux immeubles compris dans les zones provisoires de protection de l'aéroport qui sont délimitées par les décrets
-prévus à l'article L. 251-3.
-
-En ce qui concerne les immeubles situés dans le périmètre de l'aéroport ou dans ses rayons provisoires de protection,
-l'autorisation prévue à l'alinéa 1er est donnée par le ministre chargé de l'aviation civile.
-
-**Nota:**
-
-: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
-publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
-
-Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 101
-	  - Ordonnance 45-2488 1945-10-24 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Abrogé par**:
-
-	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 23 janvier 2005 en vigueur le 22 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L251-3 (M)
-
-
-###### Article L251-6
-
-Dans les limites maxima fixées chaque année par la loi de finances, des emprunts peuvent être émis par l'aéroport de Paris
-pour faire face à ses dépenses de premier établissement. Ces emprunts bénéficient de la garantie de l'Etat, leurs titres sont
-compris au nombre des valeurs admises pour tous emplois et réemplois de fonds en valeurs garanties par l'Etat.
-
-En attendant la réalisation des emprunts, le ministre de l'économie et des finances est autorisé dans les conditions fixées
-par la loi du 31 mars 1932 à faire des avances directes en capital.
-
-**Nota:**
-
-: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
-publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
-
-Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 104
-	  - Ordonnance 45-2488 1945-10-24 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°1932-03-31
-
-	**Abrogé par**:
-
-	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 23 janvier 2005 en vigueur le 22 juillet 2005
-
-
-#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE.
-
-###### Article L252-1
-
-L'Aéroport de Paris est géré par un conseil d'administration assisté d'un directeur général nommé par décret.
-
-La composition du conseil d'administration, les attributions respectives du conseil d'administration et du directeur général,
-les règles relatives au régime administratif et financier de l'aéroport sont déterminées par un décret en Conseil d'Etat.
-
-Ce décret détermine également les règles de contrôle financier auxquelles l'aéroport est soumis ainsi que la tenue des
-comptes de l'aéroport.
-
-**Nota:**
-
-: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
-publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
-
-Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 105
-	  - Ordonnance 45-2488 1945-10-24 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
-
-	**Abrogé par**:
-
-	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 23 janvier 2005 en vigueur le 22 juillet 2005
+	  - Loi n°2005-357 2005-04-21 art. 6 JORF 21 avril 2005 en vigueur le 22 juillet 2005
 
 
 ### TITRE VI : AÉROPORT DE BÂLE-MULHOUSE.
@@ -4030,9 +3949,6 @@ Les autorités ci-après désignées reçoivent copie des procès-verbaux dress�
 conservation des installations et ouvrages du domaine aéronautique et peuvent adresser au ministère public leur avis sur la
 gravité des faits relevés et présenter des observations devant la juridiction saisie des poursuites :
 
-Le directeur général de l'Aéroport de Paris, pour les aérodromes et installations faisant partie de l'ensemble constitué par
-cet établissement public ;
-
 Les directeurs de région aéronautique, pour les aérodromes et installations de leur région ne relevant pas d'un aéroport
 principal ;
 
@@ -4046,15 +3962,18 @@ Les mêmes prérogatives appartiennent au commandant de l'aéroport de Bâle-Mul
 police de la conservation des terrains et de l'ensemble des ouvrages et installations réalisés en application de la
 convention franco-suisse du 4 juillet 1949.
 
+**Nota:**
+
+: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
+publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
+
+Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
 
 	**Cité par**:
 
@@ -4062,6 +3981,10 @@ convention franco-suisse du 4 juillet 1949.
 	  - Code de l'aviation civile - art. L282-14 (VT)
 	  - Code de l'aviation civile - art. L282-17 (VT)
 	  - Code de l'aviation civile - art. L282-5 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 21 avril 2005 en vigueur le 22 juillet 2005
 
 	**Cite**:
 
@@ -4076,9 +3999,6 @@ Les autorités ci-après désignées reçoivent copie des procès-verbaux dress�
 l'exploitation des aérodromes et des installations à usage aéronautique du domaine public et peuvent adresser au ministère
 public leur avis sur la gravité des faits relevés et présenter des observations devant la juridiction saisie des poursuites :
 
-Le directeur général de l'Aéroport de Paris, pour les aérodromes et installations faisant partie de l'ensemble constitué par
-cet établissement public ;
-
 Les directeurs de région aéronautique, pour les aérodromes et installations de leur région ne relevant pas d'un aéroport
 principal ;
 
@@ -4090,19 +4010,18 @@ Les mêmes prérogatives appartiennent au commandant de l'aéroport de Bâle-Mul
 police de l'exploitation de l'aérodrome et de l'ensemble des ouvrages et installations réalisés en application de la
 convention franco-suisse du 4 juillet 1949.
 
+**Nota:**
+
+: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
+publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
+
+Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Convention France Suisse 1949-07-04
 
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
 
 	**Cité par**:
 
@@ -4113,6 +4032,14 @@ convention franco-suisse du 4 juillet 1949.
 	  - Code de l'aviation civile - art. R213-3 (V)
 	  - Code de l'aviation civile - art. R213-5 (M)
 	  - Code de l'aviation civile - art. R213-6 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 21 avril 2005 en vigueur le 22 juillet 2005
+
+	**Cite**:
+
+	  - Convention France Suisse 1949-07-04
 
 
 ###### Article L282-8
@@ -13813,37 +13740,18 @@ cahier des charges.
 
 #### CHAPITRE IV : REDEVANCES.
 
+##### Section 1 : Dispositions générales
+
 ###### Article R224-1
 
-Sur tout aérodrome ouvert à la circulation aérienne publique, les services rendus aux usagers et au public donnent lieu à une
-rémunération, sous la forme de redevances perçues au profit de la personne qui fournit le service, notamment à l'occasion des
-opérations suivantes : 
+Sur les aérodromes ouverts à la circulation aérienne publique et sur les aérodromes mentionnés aux articles R. 231-1 et R.
+232-2, les services publics aéroportuaires donnant lieu à la perception de redevances en application de l'article L. 224-2
+sont les services rendus aux exploitants d'aéronefs et à leurs prestataires de service à l'occasion de l'usage de terrains,
+d'infrastructures, d'installations, de locaux et d'équipements aéroportuaires fournis par l'exploitant d'aérodrome, dans la
+mesure où cet usage est directement nécessaire, sur l'aérodrome, à l'exploitation des aéronefs ou à celle d'un service de
+transport aérien.
 
-Atterrissage des aéronefs ;
-
-Usage des dispositifs d'assistance à la navigation aérienne ;
-
-Stationnement et abri des aéronefs ;
-
-Usage des installations aménagées pour la réception des passagers et des marchandises ;
-
-Usage d'installations et d'outillages divers ;
-
-Occupation de terrains et d'immeubles ;
-
-Visite de tout ou partie des zones réservées de l'aérodrome ;
-
-Accès à certaines parties de la zone publique.
-
-Les redevances devront être appropriées aux services rendus.
-
-Les redevances revenant à l'Etat, à des collectivités publiques et établissements publics sont perçues par un comptable
-public. 
-
-Elles sont recouvrées selon les règles propres à la collectivité ou à l'établissement qui en bénéficie et en ce qui concerne
-l'Etat, selon les règles prévues en matière de créances domaniales ou en vertu de titres de perception émis par les préfets. 
-
-Lorsque les redevances sont perçues au comptant leur encaissement peut être assuré par un régisseur.
+Ces services ne peuvent donner lieu à la perception d'autres sommes, sous quelque forme que ce soit.
 
 **Liens relatifs à cet article**
 
@@ -13875,109 +13783,66 @@ Lorsque les redevances sont perçues au comptant leur encaissement peut être as
 
 	  - Décret n°67-334 1967-03-30 JORF 9 AVRIL 1967
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 10 () JORF 6 janvier 2002
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L224-2 (V)
+	  - Code de l'aviation civile - art. R231-1 (V)
+	  - Code de l'aviation civile - art. R232-2 (V)
 
 
 ###### Article R224-2
 
-I. - Les conditions d'établissement et de perception des redevances pour :
+Les dispositions suivantes s'appliquent sur les aérodromes dont le trafic annuel moyen des trois dernières années a dépassé
+100 000 passagers :
 
-- atterrissage des aéronefs de six tonnes et plus ;
+1° Les redevances comprennent notamment :
 
-- usage des dispositifs d'assistance à la navigation aérienne par les aéronefs de six tonnes et plus ;
+- la redevance d'atterrissage, correspondant à l'usage, par les aéronefs de plus de six tonnes, des infrastructures et
+équipements aéroportuaires nécessaires à l'atterrissage, au décollage, à la circulation au sol, ainsi que, le cas échéant,
+aux services complémentaires, tels que le balisage, l'information de vol et les aides visuelles ; les tarifs de cette
+redevance sont fonction de la masse maximale certifiée au décollage de l'aéronef ;
 
-- stationnement des aéronefs de six tonnes et plus ;
+- la redevance de stationnement, correspondant à l'usage, par les aéronefs de plus de six tonnes, des infrastructures et
+équipements de stationnement, ainsi que, le cas échéant, aux services complémentaires tels que les passerelles, l'énergie
+électrique et le dégivrage ; les tarifs de cette redevance sont fonction de la durée du stationnement, des caractéristiques
+de l'aéronef et, le cas échéant, de celles de l'aire de stationnement ;
 
-- usage des installations aménagées pour la réception des passagers et des marchandises ;
+- la redevance par passager, correspondant à l'usage des installations aménagées pour la réception des passagers et du
+public, ainsi que, le cas échéant, aux services complémentaires, tels que la mise à disposition de comptoirs d'enregistrement
+et d'embarquement, ainsi que des installations de tri des bagages. L'assiette de cette redevance est le nombre de passagers
+embarqués. Sur un même aérodrome, le tarif applicable à une même catégorie de passagers est identique pour toutes les
+aérogares. Toutefois, pour les aérogares mises en service après le 1er août 2005, des tarifs différenciés pourront être fixés
+en fonction des coûts d'investissement et d'exploitation afférents à ces aérogares et de la qualité de service ;
 
-- installations de distribution de carburants d'aviation,
+- la redevance pour usage des installations fixes de distribution de carburants d'aviation ; l'assiette de cette redevance,
+qui est due par les exploitants de ces installations, est le volume de carburant distribué.
 
-sont déterminées par arrêté interministériel après avis du Conseil supérieur de l'aviation marchande.
+Les services complémentaires peuvent, au choix de l'exploitant, être rattachés à l'une ou l'autre des redevances énumérées
+ci-dessus.
 
-II. - Les taux des redevances mentionnées au I ci-dessus sont fixés :
+2° Des redevances accessoires peuvent être instaurées par la personne mentionnée au I de l'article R. 224-3.
 
-- pour Aéroports de Paris, par son conseil d'administration ;
+Elles peuvent notamment correspondre aux services complémentaires mentionnés au 1° ci-dessus, s'ils ne sont pas déjà couverts
+par les redevances qui y sont mentionnées, à la mise à disposition de locaux techniques, d'installations de traitement des
+eaux et d'aires d'entreposage, ainsi qu'à l'usage des installations nécessaires à l'atterrissage, au décollage et au
+stationnement des aéronefs de six tonnes et moins.
 
-- pour les autres aérodromes, par l'exploitant.
+Les conditions tarifaires des redevances accessoires peuvent être fixées par contrat quand elles correspondent à des services
+de nature particulière qui ne sont rendus qu'à certains usagers.
 
-Si l'aérodrome est doté d'une commission consultative économique, les taux sont fixés après avis de cette commission.
+3° Les exploitants des aérodromes mentionnés au premier alinéa tiennent une comptabilité de leurs services permettant
+d'identifier les coûts relatifs à chacune des catégories de redevances mentionnées au présent article.
 
-A. - S'il s'agit d'un aérodrome :
+Les autres conditions d'établissement et de perception des redevances sont précisées, en tant que de besoin, par arrêté
+conjoint des ministres chargés de l'aviation civile et de l'économie.
 
-- concédé conformément au cahier des charges type approuvé par le décret n° 97-547 du 29 mai 1997 ou exploité suivant le
-régime de la convention prévu à l'article L. 221-1 ;
+**Nota:**
 
-- et ayant assuré en moyenne, au cours des trois dernières années civiles connues, un trafic de plus de 200 000 passagers,
-embarqués ou débarqués, les taux sont notifiés par l'exploitant au ministre chargé de l'aviation civile et au ministre chargé
-de l'économie par lettre recommandée avec avis de réception.
-
-Les taux sont exécutoires de plein droit un mois franc après leur réception par les deux ministres, à moins que l'un d'entre
-eux n'y fasse opposition dans ce délai.
-
-Dans ce dernier cas, l'exploitant peut, dans le mois qui suit la notification de l'opposition et sans consulter
-nécessairement la commission consultative économique susmentionnée, formuler de nouvelles propositions aux ministres.
-
-L'un ou l'autre des deux ministres dispose alors de quinze jours francs suivant réception pour s'opposer par décision
-explicite à tout ou partie des nouveaux taux proposés.
-
-En toutes hypothèses, seuls les taux n'ayant pas fait l'objet d'une opposition sont exécutoires :
-
-- soit à l'expiration du délai d'un mois imparti à l'exploitant de l'aérodrome pour formuler une nouvelle proposition ;
-
-- soit à l'expiration du délai de quinze jours francs imparti aux ministres pour s'opposer à de nouvelles propositions.
-
-En cas d'opposition devenue définitive, les taux précédemment en vigueur demeurent applicables.
-
-B. - S'il s'agit d'un aérodrome :
-
-- concédé en vertu du cahier des charges type prévu par le décret n° 97-547 du 29 mai 1997 ou exploité suivant le régime de
-la convention prévu à l'article L. 221-1 ;
-
-- et ayant assuré en moyenne, au cours des trois dernières années civiles connues, un trafic de moins de 200 000 passagers,
-embarqués ou débarqués,
-
-les taux sont notifiés au préfet territorialement compétent pour prendre les mesures prévues à l'article L. 213-2, par lettre
-recommandée avec avis de réception.
-
-Les taux sont exécutoires de plein droit à l'expiration du délai d'un mois suivant leur réception par le préfet et après que
-les usagers et le public en ont été informés par affichage.
-
-Toutefois, le préfet peut, dans le délai d'un mois prévu à l'alinéa précédent, demander à l'exploitant le réexamen des taux
-qui lui ont été notifiés. Les taux adoptés après ce réexamen sont exécutoires de plein droit dès leur notification au préfet,
-sous réserve de l'information des usagers et du public dans les conditions prévues à l'alinéa précédent.
-
-C. - Si l'aérodrome en cause est :
-
-- soit exploité par Aéroports de Paris ;
-
-- soit concédé ou exploité suivant un autre mode de gestion que ceux prévus au A et au B,
-
-les taux sont notifiés par l'exploitant, par lettre recommandée avec avis de réception :
-
-- soit au ministre chargé de l'aviation civile et au ministre chargé de l'économie, si l'aérodrome en cause a assuré en
-moyenne, au cours des trois dernières années civiles connues, un trafic de plus de 200 000 passagers, embarqués ou
-débarqués ;
-
-- soit au préfet territorialement compétent pour prendre les mesures prévues à l'article L. 213-2, si l'aérodrome en cause a
-assuré en moyenne, au cours des trois dernières années civiles connues, un trafic de moins de 200 000 passagers, embarqués ou
-débarqués.
-
-Les taux sont exécutoires à l'expiration d'un délai :
-
-- d'un mois franc à compter de leur réception par les deux ministres, pour les aérodromes Charles-de-Gaulle et Paris-Orly ;
-
-- de deux mois francs à compter de leur réception par l'autorité compétente, pour les autres aérodromes,
-
-sauf si, dans ces délais, l'un des ministres, ou le préfet, selon le cas, s'y oppose en tout ou partie.
-
-Dans cette dernière hypothèse, seuls les taux n'ayant pas fait l'objet d'une opposition sont exécutoires aux dates précitées,
-ceux précédemment en vigueur restant applicables dans le cas contraire.
+Décret 2005-827 du 20 juillet 2005 article 5 : Le 3° de l'article R. 224-2 est applicable à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -14009,14 +13874,6 @@ ceux précédemment en vigueur restant applicables dans le cas contraire.
 	  - Code de l'aviation civile - art. R224-8 (V)
 	  - Code de l'aviation civile - art. R252-12 (Ab)
 
-	**Cite**:
-
-	  - Décret n°60-652 1960-06-28
-	  - Décret n°73-287 1973-03-13
-	  - Décret n°97-547 1997-05-29
-	  - Code de l'aviation civile - art. L213-2 (M)
-	  - Code de l'aviation civile - art. L221-1 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30 JORF 9 avril 1967
@@ -14027,21 +13884,132 @@ ceux précédemment en vigueur restant applicables dans le cas contraire.
 
 	**Modifié par**:
 
-	  - Décret n°99-408 du 21 mai 1999 - art. 1 () JORF 26 mai 1999
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+
+###### Article R224-2-1
+
+I. - Peuvent être prises en compte pour la détermination des redevances, outre les dépenses correspondant à des
+investissements déjà réalisés, les dépenses engagées pour la construction d'infrastructures ou d'installations
+aéroportuaires.
+
+II. - Lorsque leur importance le justifie, peuvent également être prises en compte pour la détermination des redevances, dans
+des conditions fixées par arrêté des ministres chargés de l'aviation civile et de l'économie, des dépenses futures liées à la
+construction de certaines infrastructures ou installations dont le début des travaux est prévu dans un délai maximal de cinq
+ans.
+
+La personne chargée de la fixation des tarifs des redevances identifie préalablement l'opération, précise son coût
+prévisionnel, la programmation des travaux correspondants et l'échéance de la mise en service. Elle réalise une étude sur
+l'impact économique prévisionnel d'un tel dispositif tarifaire pour les usagers et pour l'aérodrome.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30 JORF 9 avril 1967
+
+	**Créé par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Arrêté du 16 septembre 2005 - art. 4 (V)
+	  - Décret n°2010-1699 du 29 décembre 2010 - art. 4 (V)
+	  - Code de l'aviation civile - art. R224-3 (V)
+
+
+###### Article R224-2-2
+
+Les modulations limitées prévues au I de l'article L. 224-2 sont déterminées dans des conditions objectives, transparentes et
+non discriminatoires. L'amplitude et, le cas échéant, la durée d'application de ces modulations sont proportionnées à
+l'objectif d'intérêt général auquel elles répondent. Ces modulations peuvent viser :
+
+- à réduire ou à compenser les atteintes à l'environnement ; dans ce cas, la redevance d'atterrissage peut faire l'objet
+d'une modulation en fonction de la période de la journée et de la performance des aéronefs en matière acoustique ou
+d'émissions gazeuses ;
+
+- à améliorer l'utilisation des infrastructures ; dans ce cas, les redevances peuvent faire l'objet de modulations
+temporaires en fonction de la période de la journée, de la semaine ou de l'année où le service est rendu, des catégories de
+trafic, des caractéristiques d'utilisation des infrastructures et installations ou de la situation de celles-ci ; les
+redevances peuvent également faire l'objet d'une réduction temporaire pour les exploitants d'aéronefs dont le volume ou
+l'évolution de tout ou partie du trafic dépassent certains seuils ou font l'objet d'un engagement contractuel de leur part ;
+
+- à favoriser la création de nouvelles liaisons ; dans ce cas, les redevances peuvent faire l'objet d'une réduction
+temporaire pour des transporteurs aériens qui exploitent de nouvelles liaisons au départ de l'aérodrome et dont les zones de
+chalandise au départ et à l'arrivée ne coïncident pas avec celles d'une autre ligne aérienne existante ;
+
+- à répondre à des impératifs de continuité et d'aménagement du territoire ; dans ce cas, les tarifs des redevances peuvent
+faire l'objet d'une réduction pour les liaisons avec les départements et les collectivités d'outre-mer ainsi que pour les
+liaisons assujetties à des obligations de service public au sens du règlement (CEE) n° 2408/92 du Conseil du 23 juillet 1992
+concernant l'accès des transporteurs aériens communautaires aux liaisons aériennes intracommunautaires.
+
+Préalablement à l'introduction d'une modulation nouvelle ou au changement substantiel apporté à une modulation existante, la
+personne chargée de la fixation des tarifs des redevances précise l'objectif d'intérêt général recherché, fixe la période
+d'application de la modulation, définit les indicateurs de suivi correspondant à cet objectif et évalue l'impact prévisionnel
+de ces modulations sur les conditions d'usage de l'aérodrome.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30 JORF 9 avril 1967
+
+	**Créé par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Arrêté du 26 février 2009 (V)
+	  - Code de l'aviation civile - art. R224-3 (V)
+	  - Code de l'aviation civile - art. R224-4 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L224-2 (V)
+	  - Règlement 2408 CE 1992-07-23
 
 
 ###### Article R224-3
 
-Les redevances autre que celles mentionnées à l'article précédent sont fixées par la personne qui fournit les services. Les
-décisions fixant ces redevances ne deviennent applicables à l'égard des usagers et du public que dix jours après qu'elles ont
-été portées à la connaissance de ces derniers, soit par notifications individuelles, soit par affichage ou insertion dans un
-journal d'annonces légales.
+I. - Pour les aérodromes mentionnés à l'article L. 251-2 et les aérodromes appartenant à l'Etat, les tarifs des redevances
+sont fixés par l'exploitant dans les conditions fixées au présent article et aux articles R. 224-4 à R. 224-4-3. Pour les
+autres aérodromes, le signataire de la convention prévue à l'article L. 221-1 peut soit fixer lui-même ces tarifs, dans les
+conditions fixées au présent article et à l'article R. 224-5, soit en charger l'exploitant de l'aérodrome, dans les mêmes
+conditions.
 
-Les décisions en cause doivent, avant leur mise en application, être communiquées au ministre chargé de l'aviation civile.
+II. - Sans préjudice des dispositions du III de l'article R. 224-4, une consultation des usagers mentionnés au premier alinéa
+de l'article R. 224-1 est engagée au moins quatre mois avant l'entrée en vigueur de nouvelles conditions tarifaires. Elle
+s'effectue dans le cadre de la commission consultative économique de l'aérodrome, lorsque celui-ci en est doté.
 
-Si le montant des redevances ainsi fixées n'est pas approprié au service rendu, ces redevances peuvent être modifiées par
-arrêté conjoint du ministre chargé de l'aviation civile, du ministre de l'économie et des finances et, le cas échéant, si la
-personne fournissant le service est une collectivité ou un établissement public, du ministre de tutelle.
+III. - Les aérodromes dont le trafic annuel moyen des trois dernières années a dépassé 200 000 passagers, ou qui ont
+accueilli, pendant cette même période, au moins deux transporteurs aériens représentant en moyenne 50 000 passagers par an
+chacun, sont dotés d'une commission consultative économique où sont notamment représentés l'exploitant, les usagers
+aéronautiques et les représentants d'organisations professionnelles du transport aérien ; le nombre de représentants de ces
+deux dernières catégories est au moins égal à celui des représentants de l'exploitant. A l'exception des aérodromes
+mentionnés à l'article L. 251-2, le directeur de l'aviation civile territorialement compétent est invité, comme observateur,
+aux séances de cette commission.
+
+Une même commission peut être commune à plusieurs aérodromes proches dont l'exploitant est identique.
+
+La commission est créée par le signataire de la convention prévue à l'article L. 221-1 ou par l'Etat pour les aérodromes lui
+appartenant et les aérodromes mentionnés à l'article L. 251-2. Les membres de la commission sont désignés et le règlement
+intérieur est approuvé dans les mêmes conditions.
+
+La commission est réunie au moins une fois par an pour émettre un avis sur les modalités d'établissement et d'application,
+sur l'aérodrome considéré, des redevances pour services rendus mentionnées à l'article R. 224-1 ainsi que sur les programmes
+d'investissements de l'aérodrome. Elle peut être consultée sur tout sujet relatif aux services rendus par l'exploitant
+d'aérodrome.
+
+Les réunions de la commission donnent lieu à l'établissement d'un procès-verbal.
+
+IV. - Les informations mentionnées au dernier alinéa de l'article R. 224-2-1 et de l'article R. 224-2-2 sont portées à la
+connaissance des usagers dans le cadre des consultations prévues au II du présent article.
+
+V. - Sans préjudice des dispositions des articles R. 224-4, R. 224-4-1 et R. 224-5, les tarifs des redevances sont rendus
+publics par l'exploitant de l'aérodrome et sont exécutoires au plus tôt, à l'exception des tarifs fixés par contrat dans les
+conditions du troisième alinéa du 2° de l'article R. 224-2, un mois après cette publication.
 
 **Liens relatifs à cet article**
 
@@ -14073,23 +14041,168 @@ personne fournissant le service est une collectivité ou un établissement publi
 
 	**Modifié par**:
 
-	  - Décret n°72-435 1972-05-19 art. 1 JORF 28 août 1972
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L221-1 (V)
+	  - Code de l'aviation civile - art. L251-2 (M)
+	  - Code de l'aviation civile - art. R224-1 (An)
+	  - Code de l'aviation civile - art. R224-2-1 (V)
+	  - Code de l'aviation civile - art. R224-2-2 (V)
+	  - Code de l'aviation civile L251-2, R224-4 à R224-4-3, L221-1, R224-5, R224-4, R224-1, R224-2-1, R224-2-2, R224-4-1, R224-2
 
 
-###### Article R224-4
+###### Article R224-3-1
 
-Les redevances sont dues par le seul fait de l'usage des ouvrages, installations, bâtiments et outillages qu'elles
-rémunèrent.
+Les tarifs des redevances sont fixés en tenant compte des prévisions d'évolution du trafic de passagers et de marchandises
+sur l'aérodrome ou les aérodromes considérés ainsi que des éléments suivants :
 
-En cas de non-paiement des redevances dues par l'exploitant de l'aéronef, l'exploitant de l'aérodrome est admis à requérir de
-l'autorité responsable de la circulation aérienne sur l'aérodrome que l'aéronef y soit retenu jusqu'à consignation du montant
-des sommes en litige.
+- les objectifs d'évolution des charges, tenant compte notamment de l'évolution de la qualité des services fournis aux
+usagers et de celle de la productivité de l'exploitant ;
+
+- les prévisions d'évolution des recettes ;
+
+- les programmes d'investissements et leur financement.
+
+Il peut être aussi tenu compte des profits dégagés par des activités de l'exploitant autres que les services mentionnés à
+l'article R. 224-1.
+
+L'exploitant d'aérodrome reçoit, compte tenu de ces éléments, une juste rémunération des capitaux investis, appréciée au
+regard du coût moyen pondéré de son capital.
+
+Un arrêté conjoint des ministres chargés de l'aviation civile et de l'économie précise les conditions d'application du
+présent article, notamment pour la définition du périmètre des activités et services pris en compte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Arrêté du 16 septembre 2005 - art. 1 (VD)
+	  - Arrêté du 16 septembre 2005 - art. 2 (V)
+	  - Arrêté du 16 septembre 2005 - art. 3 (V)
+	  - Arrêté du 16 septembre 2005 - art. 4 (V)
+	  - Arrêté du 16 janvier 2012 - art. 2 (V)
+	  - Décret n°2016-825 du 23 juin 2016 - art. 11 (V)
+	  - Code de l'aviation civile - art. R224-10 (V)
+	  - Code de l'aviation civile - art. R224-3-3 (V)
+	  - Code de l'aviation civile - art. R224-3-4 (V)
+	  - Code de l'aviation civile - art. R224-4 (V)
+	  - Code de l'aviation civile - art. R224-4-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R224-1 (An)
+
+
+##### Section 2 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris
+
+###### Article R224-4
+
+I. - Les contrats prévus au II de l'article L. 224-2 sont passés entre l'Etat, représenté par les ministres chargés de
+l'aviation civile et de l'économie, et l'exploitant de l'aérodrome ou des aérodromes considérés. Ils déterminent :
+
+- celles des redevances mentionnées à l'article R. 224-1 dont les conditions d'évolution font l'objet du contrat ; celles-ci
+comprennent obligatoirement les redevances mentionnées au 1° de l'article R. 224-2 et les principales redevances accessoires,
+à l'exception de celles dont les conditions tarifaires sont fixées par contrat dans les conditions du 2° de l'article R.
+224-2 ;
+
+- les périodes tarifaires successives, d'une durée n'excédant pas un an, dans lesquelles les redevances susmentionnées sont
+établies dans le cadre du contrat ; les dates prévisionnelles d'entrée en vigueur des modifications des tarifs des redevances
+susmentionnées correspondent au début de chacune de ces périodes ;
+
+- le plafond du taux moyen d'évolution de ces redevances pour chaque période tarifaire ;
+
+- l'ajustement de ce plafond en cas d'écart avec les éléments prévisionnels pris en compte en matière de trafic et
+d'investissements et en cas d'introduction de nouvelles redevances.
+
+Ces contrats prévoient les conditions dans lesquelles est vérifié le caractère proportionné des redevances par rapport aux
+coûts correspondants.
+
+Ces contrats déterminent également, en tant que de besoin, les limites à l'amplitude et à la durée des modulations
+mentionnées à l'article R. 224-2-2.
+
+Ils fixent les objectifs de qualité de service, assortis de mécanismes d'incitation financière.
+
+Ils précisent en outre le montant des investissements et les principales opérations d'équipement prévus.
+
+Ils prévoient les conditions de leur révision ou de leur fin anticipée sur demande des ministres et après avis conforme de la
+commission consultative aéroportuaire, notamment lorsque des circonstances exceptionnelles et imprévisibles affectent les
+éléments prévisionnels pris en compte en matière de trafic et d'investissements, dans une mesure telle qu'elles se traduisent
+par un bouleversement de l'économie du contrat.
+
+Ils peuvent prévoir que les redevances sont perçues, sur les aérodromes d'Aéroports de Paris, par les tiers auxquels cette
+société a délégué l'exécution de certaines de ses missions en application du neuvième alinéa de l'article L. 251-2.
+
+Un arrêté conjoint des ministres précise, en tant que de besoin, les conditions d'application du présent paragraphe.
+
+II. - L'élaboration de tels contrats inclut les phases successives suivantes :
+
+a) L'exploitant rend public un dossier, relatif au périmètre d'activités mentionné à l'article R. 224-3-1, qui comprend
+notamment :
+
+- un bilan de l'exécution du contrat pluriannuel en cours ou, lorsqu'un tel contrat n'a pas été conclu, une étude décrivant
+sur les années précédentes les évolutions du trafic, des capacités aéroportuaires, de la nature et de la qualité des services
+rendus, des tarifs des redevances ainsi que des éléments économiques et financiers se rapportant au périmètre précité ;
+
+- une présentation des hypothèses de l'exploitant pour le contrat à venir, notamment en matière d'évolution du trafic sur
+l'aérodrome ou les aérodromes qu'il exploite, d'évolution des capacités aéroportuaires, de programmes d'investissements et,
+le cas échéant, du préfinancement de ceux-ci, d'adéquation des services publics aux besoins des usagers, de qualité desdits
+services, d'évolution des tarifs des redevances et, le cas échéant, de modulations de celles-ci ;
+
+- une évaluation de l'impact économique et financier de ces hypothèses et, le cas échéant, d'hypothèses alternatives ;
+
+Le contenu de ce dossier est précisé, en tant que de besoin, par arrêté des ministres chargés de l'aviation civile et de
+l'économie ;
+
+b) Dans un délai d'un mois suivant la publication de ce dossier, pouvant être étendu de quinze jours par décision des
+ministres chargés de l'aviation civile et de l'économie, les usagers et les autres parties intéressées adressent leurs
+observations à ces mêmes ministres, qui les communiquent à l'exploitant d'aérodrome ;
+
+c) Le ministre chargé de l'aviation civile saisit la commission consultative aéroportuaire mentionnée à l'article L. 228-1 ;
+l'avis de la commission est rendu public par ce même ministre ;
+
+d) Sur la base des éléments ci-dessus, le contrat est négocié entre l'Etat et l'exploitant d'aérodrome ;
+
+Dans le cadre de la préparation des contrats, l'exploitant d'aérodrome transmet aux ministres chargés de l'aviation civile et
+de l'économie et au président de la commission consultative aéroportuaire, à leur demande, tout élément permettant d'évaluer
+l'impact économique et financier susmentionné. Dans le cas où des instruments financiers émis par l'exploitant sont admis aux
+négociations sur un marché réglementé et où ces éléments d'évaluation constituent des informations privilégiées au sens de
+l'article 621-1 du règlement général de l'Autorité des marchés financiers, ceux-ci ne peuvent être communiqués à des tiers ;
+
+e) Une fois conclu, le contrat est rendu public.
+
+III. - Lorsqu'un contrat a été conclu, l'exploitant engage la consultation des usagers au moins trois mois avant le début de
+chaque période tarifaire.
+
+Il notifie les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles mentionnées au deuxième alinéa du 2°, et,
+le cas échéant, les modulations de celles-ci, par lettre recommandée avec avis de réception et deux mois au moins avant le
+début de chaque période tarifaire, aux ministres chargés de l'aviation civile et de l'économie. Cette notification est
+accompagnée de l'avis de la commission consultative économique de l'aérodrome, des éléments permettant de vérifier le respect
+du contrat et des informations mentionnées au IV de l'article R. 224-3.
+
+Les tarifs des redevances et, le cas échéant, leurs modulations sont réputés homologués et deviennent exécutoires pour la
+période tarifaire considérée dans les conditions fixées au V de l'article R. 224-3 à moins que les ministres chargés de
+l'aviation civile et de l'économie n'y fassent conjointement opposition dans un délai d'un mois suivant la réception de la
+notification, en cas de manquement aux règles générales applicables aux redevances ou aux stipulations du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
 
 	**Cité par**:
 
@@ -14105,12 +14218,45 @@ des sommes en litige.
 	  - Code de l'aviation civile - art. R224-4-3 (Ab)
 	  - Code de l'aviation civile - art. R260-1 (V)
 
+	**Cite**:
 
-###### Article R224-5
+	  - Code de l'aviation civile - art. L224-2 (V)
+	  - Code de l'aviation civile - art. L228-1 (V)
+	  - Code de l'aviation civile - art. L251-2 (M)
+	  - Code de l'aviation civile - art. R224-1 (An)
+	  - Code de l'aviation civile - art. R224-2 (An)
+	  - Code de l'aviation civile - art. R224-2-2 (V)
+	  - Code de l'aviation civile - art. R224-3-1 (V)
 
-Sur les aérodromes appartenant à l'Etat, un arrêté interministériel peut prescrire que la totalité ou une partie du produit
-de certaines redevances qui n'ont pas déjà été attribuées à un concessionnaire soit versée aux collectivités ou
-établissements publics énumérés à l'article R. 221-8 pour être affectée au financement de leur participation.
+
+###### Article R224-4-1
+
+I. - En l'absence de contrat, l'exploitant notifie, par lettre recommandée avec avis de réception, et quatre mois au moins
+avant le début de chaque période annuelle, les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles
+mentionnées au troisième alinéa du 2°, et, le cas échéant, leurs modulations, pour homologation par les ministres chargés de
+l'aviation civile et de l'économie. Cette notification est accompagnée des éléments mentionnés à l'article R. 224-3-1 et au
+IV de l'article R. 224-2 ainsi que de l'avis de la commission consultative économique de l'aérodrome.
+
+Les tarifs des redevances et, le cas échéant, leurs modulations sont réputés homologués et deviennent exécutoires dans les
+conditions fixées au V de l'article R. 224-3 à moins que les ministres chargés de l'aviation civile et de l'économie n'y
+fassent conjointement opposition dans un délai d'un mois suivant la réception de la notification.
+
+II. - L'exploitant peut, dans le mois qui suit l'opposition et sans nouvelle consultation des usagers, notifier aux ministres
+chargés de l'aviation civile et de l'économie, par lettre recommandée avec avis de réception, de nouveaux tarifs de
+redevances et, le cas échéant, de nouvelles modulations de celles-ci.
+
+Ces tarifs et, le cas échéant, ces modulations sont alors réputés homologués et deviennent exécutoires dans les conditions
+fixées au V de l'article R. 224-3 à moins que les ministres chargés de l'aviation civile et de l'économie n'y fassent
+conjointement opposition dans un délai de quinze jours suivant la réception de la notification.
+
+Dans ce dernier cas, ou en l'absence de l'une des notifications prévues au présent article, les tarifs précédemment en
+vigueur demeurent applicables.
+
+III. - Toutefois, lorsqu'en application du précédent alinéa, les tarifs des redevances sont restés inchangés pendant deux
+années consécutives, les ministres chargés de l'aviation civile et de l'économie peuvent, par arrêté conjoint et au moins
+quarante-cinq jours avant le début de la période annuelle concernée, fixer le taux moyen d'évolution des redevances et, le
+cas échéant, en encadrer les modulations. L'exploitant fixe en conséquence les tarifs des redevances et leurs modulations,
+qui deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3.
 
 **Liens relatifs à cet article**
 
@@ -14118,14 +14264,114 @@ de certaines redevances qui n'ont pas déjà été attribuées à un concessionn
 
 	  - Décret n°67-334 1967-03-30
 
+	**Créé par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Arrêté du 16 septembre 2005 - art. 2 (V)
+	  - Code de l'aviation civile - art. R224-3 (V)
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R221-8 (M)
+	  - Code de l'aviation civile - art. R224-2 (An)
+	  - Code de l'aviation civile - art. R224-3-1 (V)
+
+
+###### Article R224-4-2
+
+Sur demande motivée présentée par un tiers au moins des membres de la commission consultative économique d'un aérodrome dont
+l'évolution des tarifs des redevances est déterminée par un contrat prévu au II de l'article L. 224-2, le ministre chargé de
+l'aviation civile peut saisir pour avis la commission consultative aéroportuaire en cas de différends opposant l'exploitant
+de l'aérodrome et ses usagers sur la politique de tarification des redevances.
+
+Le ministre peut en outre saisir cette commission, quand un contrat a été conclu en application du II de l'article L. 224-2,
+sur le respect des dispositions du contrat ou sur les circonstances pouvant motiver sa révision ou sa fin anticipée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D224-4 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L224-2 (V)
+
+
+###### Article R224-4-3
+
+L'application par un exploitant d'aérodrome de tarifs de redevances non homologués dans les conditions des articles R. 224-4
+ou R. 224-4-1 est passible d'une sanction pécuniaire, prononcée par le ministre chargé de l'aviation civile après avis de la
+commission consultative aéroportuaire, dont le montant est égal à 120 % de la différence entre le chiffre d'affaires annuel
+résultant des tarifs pratiqués par l'exploitant et des tarifs homologués, sans pouvoir excéder 1 % du chiffre d'affaires hors
+taxe du dernier exercice clos de l'exploitant.
+
+Est passible de la même sanction, prononcée après avis de la commission consultative aéroportuaire, le fait, pour
+l'exploitant, de ne pas respecter les dispositions de l'arrêté mentionné au dernier alinéa de l'article R. 224-4-1.
+
+Pour l'application des deux alinéas précédents, la commission consultative aéroportuaire entend les observations de
+l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2016-825 du 23 juin 2016 - art. 6
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R224-4
+	  - Code de l'aviation civile - art. R224-4-1 (Ab)
+
+
+##### Section 3 : Dispositions applicables aux autres aérodromes
+
+###### Article R224-5
+
+Les tarifs des redevances mentionnées au 1° de l'article R. 224-2 et, le cas échéant, leurs modulations, sont notifiés par la
+personne chargée de leur fixation au représentant de l'Etat dans le département au moins deux mois avant leur entrée en
+vigueur. Cette notification, communiquée par lettre recommandée avec avis de réception, est accompagnée de l'avis de la
+commission consultative économique ou, à défaut, du compte rendu de la consultation des usagers, ainsi que des informations
+mentionnées au IV de l'article R. 224-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R224-2 (An)
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R224-3 (V)
 
+
+##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une chambre de commerce et d'industrie
 
 ###### Article R224-6
 
@@ -14143,6 +14389,10 @@ d'exploitation leur incombant sur les aérodromes qu'ils ont créés ou dont ils
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2005-827 du 20 juillet 2005 - art. 2 () JORF 22 juillet 2005
 
 	**Cite**:
 
@@ -15500,395 +15750,10 @@ Des décrets préciseront les modalités d'application du présent titre.
 
 ### TITRE V : AEROPORTS DE PARIS.
 
-#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE
+###### Article R251-1
 
-##### Section 1 : Administration et gestion.
-
-###### Article R252-1
-
-"Aéroports de Paris" est géré par un conseil d'administration assisté d'un directeur général dans les conditions définies ci-
-après.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-##### Paragraphe 1 : Conseil d'administration.
-
-###### Article R252-2
-
-Le conseil d'administration d'"Aéroports de Paris" comprend vingt et un membres :
-
-1. Sept représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
-
-Deux sur proposition du ministre chargé de l'aviation civile ;
-
-Un sur proposition du ministre chargé de l'économie ;
-
-Un sur proposition du ministre chargé du budget ;
-
-Un sur proposition du ministre chargé de l'environnement ;
-
-Un sur proposition du ministre chargé de la défense ;
-
-Un sur proposition du ministre de l'intérieur ;
-
-2. Sept personnalités qualifiées, nommées par décret sur le rapport du ministre chargé de l'aviation civile, dont :
-
-Une choisie en raison de sa connaissance des activités de l'aéronautique civile ;
-
-Deux choisies en raison de leur connaissance des questions liées aux transports ;
-
-Trois choisies parmi les élus de la région et des autres collectivités territoriales concernées ;
-
-Une choisie parmi les élus des compagnies consulaires intéressées.
-
-3. Sept représentants des salariés, élus conformément aux dispositions du chapitre II du titre II de la loi n° 83-675 du 26
-juillet 1983 relative à la démocratisation du secteur public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26
-
-	**Modifié par**:
-
-	  - Décret n°99-408 du 21 mai 1999 - art. 2 () JORF 26 mai 1999
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-3
-
-Les représentants des salariés doivent remplir les conditions fixées à l'article 15 de la loi n° 83-675 du 26 juillet 1983.
-Les autres membres du conseil d'administration doivent être ressortissants d'un Etat membre de l'Union européenne et jouir de
-leurs droits civils et politiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 1 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-4
-
-Les membres du conseil d'administration ne peuvent prendre ou conserver un intérêt direct ou indirect dans une entreprise,
-qu'elle soit personnelle ou sous forme de société civile ou commerciale, ou dans une filiale d'entreprise contractant avec
-Aéroports de Paris à moins qu'ils n'y soient autorisés par le ministre chargé de l'aviation civile sur proposition du conseil
-et après avis du membre du corps du contrôle général économique et financier.
-
-Lorsque le conseil d'administration examine un contrat susceptible d'être passé avec une entreprise dans laquelle un membre
-du conseil d'administration détient un intérêt personnel direct ou indirect, ou lorsqu'il se prononce sur la délivrance d'une
-autorisation d'occupation temporaire du domaine public à une telle entreprise, l'administrateur intéressé ne prend pas part à
-la délibération. Si le conseil d'administration autorise la passation du contrat ou accorde l'autorisation, l'administrateur
-intéressé doit se défaire de ses intérêts dans l'entreprise considérée, sauf autorisation de les conserver donnée dans les
-conditions prévues au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-5
-
-Chaque représentant des salariés dispose, pour l'exercice de son mandat d'administrateur, d'un crédit d'heures égal à la
-moitié de la durée légale du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°84-353 1984-05-11 art. 3 JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-6
-
-Les membres du conseil d'administration sont nommés ou élus pour cinq ans.
-
-Le nombre des membres du conseil d'administration qui ont dépassé l'âge de soixante-cinq ans ne peut être supérieur à six.
-Lorsque cette limite est dépassée, le membre le plus âgé est réputé démissionnaire d'office.
-
-Les vacances par décès, démission, expiration du mandat et pour toute autre cause sont portées d'urgence par le président du
-conseil d'administration à la connaissance du ministre chargé de l'aviation civile. Celui-ci prend les mesures nécessaires
-pour assurer le remplacement des membres, autres que les représentants des salariés, qui ont cessé de faire partie du
-conseil, pour la durée restant à courir jusqu'au renouvellement de la totalité du conseil. Le remplacement des représentants
-des salariés est assuré conformément aux dispositions de l'article 16 de la loi n° 83-675 du 26 juillet 1983.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26 art. 16
-
-	**Modifié par**:
-
-	  - Décret n°95-226 du 24 février 1995 - art. 1 () JORF 3 mars 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-8
-
-Dès sa formation le conseil d'administration se réunit sur la convocation du ministre chargé de l'aviation civile.
-
-Le président est nommé parmi les membres du conseil d'administration et sur proposition de celui-ci, par décret en conseil
-des ministres.
-
-En cas d'absence ou d'empêchement du président, le membre du conseil d'administration le plus âgé assure son intérim.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°84-353 1984-05-11 art. 6 JORF 12 mai 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-9
-
-Le conseil d'administration établit son règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 3 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-10
-
-Le conseil d'administration se réunit sur la convocation de son président au moins six fois par an. Le président est, en
-outre, tenu de réunir immédiatemment le conseil s'il y est invité par le ministre chargé de l'aviation civile. Le tiers au
-moins des membres peut également, en indiquant l'ordre du jour de la séance, convoquer le conseil si celui-ci ne s'est pas
-réuni depuis plus de deux mois.
-
-Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres en exercice assiste à la séance.
-Toutefois, si le quorum n'est pas atteint, une nouvelle séance du conseil pourra être convoquée sur le même ordre du jour,
-séparée par un intervalle de trois jours francs au moins de la première. Les délibérations seront alors valables quel que
-soit le nombre des membres présents.
-
-Un administrateur peut donner mandat à un autre administrateur de le représenter à une séance du conseil d'administration.
-Chaque administrateur ne peut disposer, au cours d'une même séance, que d'une seule procuration.
-
-Les délibérations sont prises à la majorité des suffrages exprimés. Dans le cas où il est procédé à un scrutin secret, il
-n'est pas tenu compte des bulletins blancs ou nuls. En cas de partage des suffrages exprimés, la voix du président est
-prépondérante.
-
-Les procès-verbaux sont signés par le président. Ils font mention des personnes présentes.
-
-Les membres du conseil d'administration sont tenus au secret professionnel dans les conditions prévues aux articles 226-13 et
-226-14 du code pénal.
-
-Le directeur général assiste avec voix consultative aux séances du conseil d'administration sauf lorsqu'il est discuté de sa
-situation personnelle. Il est également tenu au secret professionnel.
-
-Le directeur général de l'aviation civile et le directeur de la régulation économique siègent, avec voix consultative, au
-conseil d'administration des aéroports de Paris, respectivement en qualité de commissaire du Gouvernement et de commissaire
-du Gouvernement adjoint.
-
-En cas d'absence ou d'empêchement du commissaire du Gouvernement, ses pouvoirs sont exercés par le commissaire du
-Gouvernement adjoint.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2005-630 du 30 mai 2005 - art. 1 () JORF 31 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-
-
-###### Article R252-11
-
-Le président du conseil d'administration, président d'Aéroports de Paris prépare les sessions du conseil, arrête l'ordre du
-jour de ses délibérations et veille à l'exécution des décisions prises par le conseil.
-
-Il prépare le rapport que le conseil doit présenter chaque année sur la situation de l'aéroport et l'état des différents
-services. Le rapport, est adressé, avant le 1er juin, au ministre chargé de l'aviation civile.
-
-Le président exerce un contrôle permanent sur la gestion d'Aéroports de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 5 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-12
-
-Le conseil d'administration définit la politique générale d'Aéroports de Paris.
-
-Il a l'initiative des mesures nécessaires à la création des ressources destinées à couvrir les charges d'administration et
-d'exploitation d'Aéroports de Paris. Il établit sur ces mesures un rapport annuel et le transmet au ministre chargé de
-l'aviation civile.
-
-Il donne au ministre chargé de l'aviation civile son avis sur toutes les questions relevant des divers services publics et
-intéressant directement l'exploitation.
-
-Il donne son avis ou présente ses propositions au ministre chargé de l'aviation civile sur la répartition des transporteurs
-aériens entre les différents aérodromes exploités par Aéroports de Paris. Il fixe les principes relatifs à l'affectation des
-transporteurs aériens dans les aérogares d'un même aérodrome et décide de cette affectation.
-
-Il présente au ministre chargé de l'aviation civile ses propositions concernant les conditions d'établissement et de
-perception des redevances mentionnées à l'article R. 224-2 et fixe le taux de ces redevances dans les conditions prévues au
-même article. Il fixe les modalités d'établissement et de perception ainsi que les taux des redevances mentionnées à
-l'article R. 224-3 dans les conditions prévues audit article.
-
-Il présente au ministre chargé de l'aviation civile et au ministre chargé de l'économie et des finances ses propositions
-concernant les participations financières, les conventions de délégations de service public ainsi que la création de
-filiales.
-
-Il adopte le budget et les comptes de l'établissement et soumet ces documents à l'approbation du ministre chargé de
-l'aviation civile et du ministre chargé de l'économie et des finances.
-
-Il arrête les grands projets d'ouvrages et d'installations et définit le programme pluriannuel d'investissements.
-
-Il prend toutes les mesures nécessaires à la réalisation des emprunts émis par Aéroports de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-621 du 29 juin 2004 - art. 1 () JORF 30 juin 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R224-2 (An)
-	  - Code de l'aviation civile - art. R224-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-18 (M)
-	  - Code de l'aviation civile - art. R253-1 (Ab)
-
-
-###### Article R252-12-1
-
-Le conseil d'administration exerce toutes actions judiciaires tant en demande qu'en défense.
-
-Il est autorisé à transiger dans les conditions prévues par les articles 2044 et suivants du code civil.
-
-Il passe tous actes, contrats, traités et marchés. Il peut accorder des garanties, cautions et avals.
+Un arrêté du ministre chargé de l'aviation civile désigne un commissaire du Gouvernement et un commissaire du Gouvernement
+adjoint habilités à siéger, avec voix consultative, au conseil d'administration de la société Aéroports de Paris.
 
 **Liens relatifs à cet article**
 
@@ -15898,27 +15763,13 @@ Il passe tous actes, contrats, traités et marchés. Il peut accorder des garant
 
 	**Créé par**:
 
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
-	**Cite**:
 
-	  - Code civil - art. 2044 (V)
+###### Article R251-2
 
-
-###### Article R252-12-2
-
-Le conseil d'administration nomme aux emplois de direction.
-
-Il arrête le plan d'organisation et de fonctionnement des services d'Aéroports de Paris autres que ceux qui sont assurés sous
-l'autorité du ministre chargé de l'aviation civile.
-
-Il établit les statuts du personnel autre que le personnel de l'Etat mentionné à l'article R. 252-19 ainsi que ses échelles
-de traitements, salaires et indemnités qui sont approuvés par décision commune du ministre chargé de l'aviation civile et du
-ministre chargé de l'économie et des finances.
+Chaque représentant des salariés dispose, pour l'exercice de son mandat d'administrateur de la société Aéroports de Paris,
+d'un crédit d'heures égal à la moitié de la durée légale du travail.
 
 **Liens relatifs à cet article**
 
@@ -15928,28 +15779,15 @@ ministre chargé de l'économie et des finances.
 
 	**Créé par**:
 
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
-	**Cité par**:
 
-	  - Code de l'aviation civile - art. R252-18 (Ab)
+###### Article R251-3
 
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-19 (M)
-
-
-###### Article R252-12-3
-
-Le conseil d'administration décide de la mise à la disposition des usagers, sous le régime de l'occupation temporaire du
-domaine public, des terrains, ouvrages et installations d'Aéroports de Paris et fixe les redevances correspondantes.
-
-Il décide également de la délivrance des titres d'occupation du domaine public mentionnés au troisième alinéa de l'article R.
-253-5.
+Le conseil d'administration de la société Aéroports de Paris établit les statuts du personnel ainsi que les échelles de
+traitements, salaires et indemnités et les soumet à l'approbation du ministre chargé de l'aviation civile et du ministre
+chargé de l'économie et des finances. A défaut de décision expresse intervenant dans le délai de deux mois à compter de la
+réception de la délibération, l'approbation est réputée acquise.
 
 **Liens relatifs à cet article**
 
@@ -15958,541 +15796,6 @@ Il décide également de la délivrance des titres d'occupation du domaine publi
 	  - Décret n°67-334 1967-03-30
 
 	**Créé par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R253-5 (M)
-
-
-###### Article R252-12-4
-
-A l'exclusion de celles mentionnées à l'article R. 252-18, le conseil d'administration peut déléguer une partie de ses
-attributions à son président. Il peut autoriser celui-ci à subdéléguer les pouvoirs ainsi délégués au directeur général et,
-avec l'accord de ce dernier, aux directeurs et aux cadres dirigeants.
-
-La délibération précise dans quelles matières et dans quelles conditions les titulaires des délégations mentionnés au premier
-alinéa peuvent déléguer leur signature pour l'exercice des attributions qui leur sont déléguées ou subdéléguées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 6 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-18 (M)
-
-
-###### Article R252-13
-
-Doivent être soumises à l'approbation du ministre chargé de l'aviation civile les délibérations portant sur des matières
-touchant aux réglementations nationales et internationales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°76-1143 1976-12-10 art. 3 JORF 15 décembre 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-15
-
-Les délibérations relatives aux objets sur lesquels le conseil peut décider sans soumettre sa décision à l'approbation du
-ministre deviennent immédiatement exécutoires si le commissaire du Gouvernement n'y fait pas opposition en séance. S'il y est
-fait opposition, elles deviennent exécutoires si elles n'ont pas été annulées par le ministre chargé de l'aviation civile
-dans un délai de quinze jours à compter de la date à laquelle il a reçu notification du procès-verbal de la délibération.
-
-Les délibérations du conseil d'administration ne peuvent être annulées que par décision motivée.
-
-Les dispositions du présent article ne font pas obstacle à l'application des autres dispositions du présent code prévoyant
-des règles de contrôle particulières à certaines délibérations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°76-1143 1976-12-10 art. 4 JORF 15 décembre 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-##### Paragraphe 2 : Directeur général.
-
-###### Article R252-16
-
-Le directeur général est nommé par décret pris en Conseil des ministres sur la proposition faite par le ministre chargé de
-l'aviation civile après consultation du président du conseil d'administration.
-
-Il peut être relevé de ses fonctions par un décret pris en conseil des ministres sur proposition du ministre chargé de
-l'aviation civile et du ministre de l'économie et des finances.
-
-Les fonctions de directeur général prennent fin au plus tard lorsque le titulaire atteint l'âge de soixante-cinq ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°75-509 1975-06-19 art. 3 JORF 27 juin 1975
-	  - Décret n°76-1229 1976-12-28 art. 3 JORF 29 décembre 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R252-17
-
-Le directeur général agit en double qualité :
-
-Agent d'exécution du conseil d'administration ;
-
-Agent du pouvoir central ;
-
-Il est responsable devant le conseil d'administration de l'exécution des délibérations du conseil ; il établit au début de
-chaque année un rapport au président du conseil d'administration rendant compte du fonctionnement de ses services et de la
-situation générale d'Aéroports de Paris.
-
-Il est également responsable devant le ministre chargé de l'aviation civile en ce qui concerne l'exercice des attributions
-qui lui sont dévolues par l'article R. 252-19.
-
-Il peut être assisté dans l'exercice de ses fonctions par des agents qui possèdent également la double qualité d'agent
-d'exécution du conseil d'administration et d'agent du pouvoir central. Ces agents sont nommés et peuvent être révoqués par
-arrêté du ministre chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-19 (M)
-
-
-###### Article R252-18
-
-Le directeur général est chargé de la préparation et de l'exécution du budget ainsi que de l'exécution des décisions du
-conseil d'administration.
-
-Il reçoit délégation permanente dans les limites fixées par le conseil d'administration pour la passation des contrats et
-marchés et les transactions en cas de litige.
-
-Dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à ceux qui sont prévus aux articles R. 252-12-2 et
-R. 252-19.
-
-Il est consulté sur les nominations aux emplois de direction.
-
-Sauf pour le personnel de l'Etat mentionné à l'article R. 252-19, il fixe les tableaux d'effectifs par catégories générales ;
-il fixe les traitements, salaires et indemnités dans le cadre des échelles approuvées par le conseil d'administration et
-arrête les tableaux d'avancement.
-
-Les fonctionnaires de l'Etat et des collectivités publiques peuvent être mis à la disposition d'Aéroports de Paris suivant la
-réglementation en vigueur dans leurs corps. Ils peuvent toujours être remis à la disposition de leur administration, sans que
-cette mesure ait un caractère disciplinaire.
-
-Pour l'exercice des missions définies au présent article, le directeur général peut déléguer une partie de ses attributions
-ou sa signature aux directeurs et aux cadres dirigeants. Il définit les conditions dans lesquelles les titulaires de ces
-délégations peuvent subdéléguer leur signature aux cadres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-621 du 29 juin 2004 - art. 2 () JORF 30 juin 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-12-2 (Ab)
-	  - Code de l'aviation civile - art. R252-19 (M)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-12-4 (Ab)
-
-
-###### Article R252-19
-
-Le directeur général en tant qu'agent du pouvoir central assure dans les aérodromes exploités par Aéroports de Paris et leurs
-dépendances la direction des services de sécurité de la navigation aérienne. Il a, en cette qualité, autorité sur le
-personnel de l'Etat chargé de l'exécution de ces services.
-
-Il coordonne, en outre, dans les aérodromes exploités par Aéroports de Paris l'action de tous les services publics en ce qui
-concerne les affaires intéressant directement l'exploitation aéroportuaire. Toutes les fois qu'il y a désaccord entre le
-directeur général et un chef de service dépendant d'un autre département ministériel que celui de l'équipement il en est
-référé au ministre intéressé par ce fonctionnaire et au ministre chargé de l'aviation civile, par le directeur général.
-
-Pour l'exercice de ses fonctions telles que définies au présent article, le directeur général peut déléguer sa signature aux
-fonctionnaires de l'Etat qui lui sont subordonnés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 9 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-12-2 (Ab)
-	  - Code de l'aviation civile - art. R252-17 (Ab)
-	  - Code de l'aviation civile - art. R252-18 (Ab)
-
-
-###### Article R252-20
-
-Le ministre chargé de l'aviation civile peut, après avis du conseil d'administration, désigner par arrêté un directeur
-général intérimaire en cas d'empêchement du directeur général.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-##### Section 2 : Contrôle.
-
-###### Article R252-21
-
-Un inspecteur général désigné par le ministre chargé de l'aviation civile vérifie le fonctionnement des services d'Aéroports
-de Paris.
-
-Il correspond directement, pour les besoins du service, avec le président du conseil d'administration et avec le directeur
-général.
-
-Il a le droit de prendre connaissance, à toute époque, des procès-verbaux des délibérations du conseil d'administration, des
-registres, écritures et correspondances des fonctionnaires et agents d'Aéroports de Paris et généralement de tous les
-documents qu'il juge nécessaires pour apprécier la situation d'Aéroports de Paris.
-
-Il établit, sur les sujets que détermine le ministre chargé de l'aviation civile, un rapport ayant pour objet de rendre
-compte de la situation d'Aéroports de Paris.
-
-L'inspecteur général peut se faire assister dans l'exécution de sa mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-11 1947-01-04 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 10 () JORF 18 septembre 2002
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 14 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-#### CHAPITRE III : RÉGIME FINANCIER
-
-###### Article R253-1
-
-Est établi chaque année un budget relatif à l'exercice suivant, comportant :
-
-- le compte de résultat prévisionnel ;
-
-- le programme physique et financier d'investissements et le plan de financement.
-
-Le budget est présenté par le directeur général au conseil d'administration, qui l'adopte dans les conditions prévues à
-l'article R. 252-12.
-
-Les modifications reconnues nécessaires en cours d'exercice sont présentées et adoptées dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-621 du 29 juin 2004 - art. 3 () JORF 30 juin 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R252-12 (M)
-
-
-###### Article R253-2
-
-Les comptes d'Aéroports de Paris sont établis conformément au code de commerce et selon les règlements du comité de
-réglementation comptable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-621 du 29 juin 2004 - art. 4 () JORF 30 juin 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R253-3
-
-"Aéroports de Paris" est soumis aux règles de tutelle financière prévues par le décret du 9 août 1953 modifié relatif au
-contrôle de l'Etat sur les entreprises publiques nationales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1953-08-09
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
-
-	**Modifié par**:
-
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R253-4
-
-Les règles applicables à Aéroports de Paris pour la passation des marchés sont celles qui s'appliquent aux établissements
-publics ayant un caractère industriel et commercial.
-
-Le conseil d'administration fixe dans le respect de ces règles les conditions de passation, d'exécution et de contrôle des
-marchés et contrats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 12 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R253-5
-
-Les immeubles dépendant du domaine public ou privé de l'Etat dont l'administration et la jouissance sont remises à "Aéroports
-de Paris" pour lui permettre d'accomplir sa mission ne peuvent être déclassés, faire l'objet d'un transfert de gestion ou
-d'une affectation, d'une aliénation ou d'une location que dans les conditions et suivant les procédures prévues par le code
-du domaine de l'Etat pour les biens domaniaux.
-
-Le produit des ventes ainsi qu'éventuellement les indemnités d'affectation sont encaissés par l'Etat.
-
-"Aéroports de Paris" a le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de
-l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de
-l'article 3 de la loi n° 94-631 du 25 juillet 1994.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
-	  - Code du domaine de l'Etat - art. R57-4 (M)
-	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
-
-	**Modifié par**:
-
-	  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R252-12 (M)
-	  - Code de l'aviation civile - art. R252-12-3 (Ab)
-
-
-###### Article R253-6
-
-Les immeubles appartenant en propre à "Aéroports de Paris" sont aliénés directement par l'établissement public suivant les
-conditions juridiques et financières fixées par délibération du conseil d'administration. Cette délibération est soumise au
-ministre chargé de l'aviation civile et devient exécutoire si, dans les quinze jours qui suivent la notification du procès-
-verbal au ministre, celui-ci n'a pas formulé d'opposition.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°76-1143 1976-12-10 art. 7 JORF 15 décembre 1976
-
-	**Modifié par**:
-
-	  - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-#### CHAPITRE IV : DISPOSITIONS DIVERSES.
-
-###### Article R254-1
-
-Les mesures à prendre pour l'établissement et l'exécution des projets d'aménagement de la région Ile-de-France qui seraient
-de nature à influencer l'aménagement et le développement de l'aéroport ne peuvent être prises par les ministres intéressés
-qu'avec l'accord du ministre chargé de l'aviation civile.
-
-Il doit être notamment réservé les terrains nécessaires à l'assiette des installations d'Aéroports de Paris et à leur
-extension éventuelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 99
-	  - Ordonnance 45-2488 1945-10-24 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2002-1171 du 17 septembre 2002 - art. 13 () JORF 18 septembre 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
-
-
-###### Article R254-2
-
-Des conventions interviendront entre l'Etat, d'une part, les départements et les communes, d'autre part, afin de compenser
-les pertes de recettes qu'entraînerait pour les collectivités l'application du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 102
-	  - Ordonnance 45-2488 1945-10-24 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Abrogé par**:
 
 	  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
