@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-07-22
+Version Consolidée au 2005-07-28
 
 # Partie législative
 
@@ -27930,6 +27930,25 @@ délai de huit jours.
 ### TITRE V : AEROPORTS DE PARIS
 
 #### CHAPITRE Ier : DISPOSITIONS GENERALES.
+
+###### Article D251
+
+Les aérodromes, autres que ceux de Paris - Charles-de-Gaulle, Paris-Orly, Paris-Le Bourget, que la société Aéroports de Paris
+est chargée d'aménager, d'exploiter et de développer sont les suivants :
+
+Chavenay-Villepreux, Chelles-Le Pin, Coulommiers-Voisins, Etampes-Mondésir, Lognes-Emerainville, Meaux-Esbly, Paris - Issy-
+les-Moulineaux, Persan-Beaumont, Pontoise - Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le-Noble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
+
 
 ##### Section 1 : Aérodromes constituant Aéroports de Paris.
 
