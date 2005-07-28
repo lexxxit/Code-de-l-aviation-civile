@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-07-28
+Version Consolidée au 2005-07-29
 
 # Partie législative
 
@@ -2217,6 +2217,107 @@ auxquelles s'appliquent ses dispositions.
 	  - Code des transports - art. L1612-4 (VD)
 
 
+###### Article L211-2
+
+Les normes techniques ayant une incidence sur la sécurité applicables à l'aménagement, à la conception et à l'exploitation
+des aérodromes civils et des zones civiles des aérodromes ouverts au trafic aérien commercial dont le ministère de la défense
+est affectataire principal, les conditions dans lesquelles des dérogations à ces normes pourront être accordées et les
+modalités d'agrément des équipements nécessaires à la sécurité sont définies par arrêté du ministre chargé de l'aviation
+civile, pris le cas échéant conjointement avec le ministère de la défense.
+
+Les dispositions du présent article sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en
+Nouvelle-Calédonie.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 211-2, les mots " arrêté du ministre chargé de l'aviation civile, pris le cas échéant conjointement avec le ministère de
+la défense " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-863 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L211-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6331-2 (V)
+
+
+###### Article L211-3
+
+Nul ne peut exploiter un aérodrome civil accueillant du trafic commercial s'il n'a obtenu du ministre chargé de l'aviation
+civile un certificat de sécurité aéroportuaire pour cet aérodrome. Le ministre chargé de l'aviation civile peut fixer par
+arrêté un seuil de trafic en deçà duquel la détention de ce certificat n'est pas obligatoire.
+
+Le certificat est délivré lorsque l'exploitant de l'aérodrome a démontré qu'il a pris toutes les dispositions de nature à
+assurer en toute sécurité l'aménagement, le fonctionnement et l'usage des équipements, biens et services aéroportuaires
+nécessaires à la circulation des aéronefs dont la gestion lui incombe, conformément aux normes en vigueur, et notamment à
+celles mentionnées à l'article L. 211-2 et au I de l'article L. 213-3. La délivrance du certificat est précédée d'une enquête
+technique sur les conditions et procédures d'exploitation de l'aérodrome ainsi que sur les modalités de gestion de sa
+sécurité.
+
+Le ministre chargé de l'aviation civile peut abroger ou suspendre le certificat en cas de défaillance dudit exploitant.
+
+Les dispositions du présent article sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en
+Nouvelle-Calédonie.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment la durée de validité du
+certificat de sécurité.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 211-3 le deuxième alinéa ainsi que les mots " le ministre chargé de l'aviation civile " et " arrêté ".  (Fin de vigueur :
+date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Cité par**:
+
+	  - Arrêté du 28 août 2003 - art. 1 (V)
+	  - Arrêté du 31 décembre 2008 (Ab)
+	  - Code de l'aviation civile - art. R211-8 (V)
+	  - Code de l'aviation civile - art. R611-3 (V)
+	  - Code de l'aviation civile - art. R722-7 (M)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-863 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L211-2
+	  - Code de l'aviation civile - art. L213-3
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6331-3 (V)
+
+
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
 
 ###### Article L213-1
@@ -2228,7 +2329,8 @@ douanes, applicables :
 Sur les aérodromes ouverts à la circulation aérienne publique ;
 
 Sur les aérodromes réservés à l'usage d'administrations de l'Etat, sans préjudice de l'application, sur les aérodromes
-militaires, des articles 70 et suivants du code pénal, et, le cas échéant, de dispositions spéciales ;
+militaires, des articles 411-1 à 411-11 du code pénal ainsi que des articles 476-1 à 476-5 du code de justice militaire, et,
+le cas échéant, de dispositions spéciales ;
 
 Sur les aérodromes à usage restreint autres que les aérodromes réservés à l'usage d'administrations de l'Etat ;
 
@@ -2238,15 +2340,18 @@ câbles et canalisations qui les desservent ;
 
 Sur les dépendances des aérodromes et des installations à usage aéronautique qui ne sont pas librement accessibles au public.
 
+Les dispositions du présent article sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en
+Nouvelle-Calédonie.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+	  - Ordonnance n°2005-863 du 28 juillet 2005 - art. 2 () JORF 29 juillet 2005
 
 	**Cité par**:
 
@@ -2257,31 +2362,54 @@ Sur les dépendances des aérodromes et des installations à usage aéronautique
 	  - Code de l'aviation civile - art. R213-1 (V)
 	  - Code de l'aviation civile - art. R213-4 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6332-1 (V)
+
 	**Cite**:
 
-	  - Code pénal 70 et suivants
+	  - Code pénal
+	  - Code de justice militaire
 
 
 ###### Article L213-2
 
 La police des aérodromes et des installations aéronautiques, tels qu'ils sont définis à l'article précédent, est assurée,
 sous réserve des pouvoirs de l'autorité militaire à l'égard des aérodromes et installations dépendant de la défense
-nationale, par le préfet qui exerce, à cet effet dans leur emprise, les pouvoirs impartis au maire par l'article L. 131-2 du
-code des communes.
+nationale, par le préfet qui exerce, à cet effet dans leur emprise, les pouvoirs impartis au maire par l'article L. 2212-2 du
+code général des collectivités territoriales.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des dispositions de l'alinéa précédent ainsi que les
 conditions dans lesquelles un préfet sera chargé des pouvoirs visés audit alinéa, lorsque l'emprise de l'aérodrome s'étend
 sur plusieurs départements.
+
+Les dispositions du présent article sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en
+Nouvelle-Calédonie sous réserve des dispositions ci-après :
+
+a) Le mot : "préfet" est remplacé par les mots : "représentant de l'Etat" ;
+
+b) La référence à l'article L. 2212-2 du code général des collectivités territoriales est remplacée, pour l'application en
+Polynésie française, par la référence à l'article L. 131-2 du code des communes et, pour l'application en Nouvelle-Calédonie,
+par la référence à l'article L. 131-2 du code des communes de Nouvelle-Calédonie ;
+
+c) Au premier alinéa, les mots : "qui exerce ... code général des collectivités territoriales." sont supprimés pour
+l'application dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 213-2, le mot " préfet " (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
 
 	**Cité par**:
 
@@ -2305,9 +2433,22 @@ sur plusieurs départements.
 	  - Code de la défense. - art. R1321-21 (V)
 	  - Code de la défense. - art. R1321-24-1 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-863 du 28 juillet 2005 - art. 3 () JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L131-2 (M)
+	  - Code des communes - art. L131-2
+	  - Code général des collectivités territoriales - art. L2212-2
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6332-2 (V)
 
 
 ###### Article L213-2-1
@@ -2339,19 +2480,33 @@ sûreté. A cet effet, ils ont accès à tout moment aux locaux et terrains à u
 
 ###### Article L213-3
 
-I. - Les aérodromes assurent, suivant des normes techniques définies par l'autorité administrative, le sauvetage et la lutte
-contre les incendies d'aéronefs, ainsi que la prévention du péril aviaire. Ils participent à l'organisation des visites de
-sûreté dans les conditions prévues au deuxième alinéa du I de l'article L. 282-8.
+I. - Les exploitants d'aérodromes civils et les gestionnaires des zones civiles des aérodromes ouverts au trafic aérien
+commercial dont le ministère de la défense est affectataire principal sont tenus d'assurer, sous l'autorité du titulaire des
+pouvoirs de police mentionné à l'article L. 213-2, le sauvetage et la lutte contre les incendies d'aéronefs, ainsi que la
+prévention du péril aviaire. Ils peuvent, en tout ou partie, confier l'exécution de ces missions, par voie de convention, au
+service départemental d'incendie et de secours, à l'autorité militaire ou à un organisme agréé dans des conditions fixées par
+décret.
 
-Sous l'autorité des titulaires du pouvoir de police mentionnés à l'article L. 213-2, l'exploitant d'aérodrome assure
-l'exécution des services en cause. Il peut faire assurer celle-ci, en vertu d'une convention, par le service départemental
-d'incendie et de secours, par l'autorité militaire ou par un organisme agréé dans les conditions fixées par décret.
+II. - Sauf dans les cas où, en application notamment des dispositions du I de l'article L. 282-8, leur mise en oeuvre est
+assurée par les services de l'Etat, les mesures prescrites en application du règlement (CE) n° 2320/2002 du Parlement
+européen et du Conseil du 16 décembre 2002 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile sont mises en oeuvre sous l'autorité du titulaire des pouvoirs de police mentionné à l'article L. 213-2,
+par les exploitants d'aérodromes, les entreprises de transport aérien, les prestataires de service d'assistance en escale,
+les entreprises ou organismes agréés au sens des articles L. 213-4 et L. 321-7, les employeurs des agents visés au deuxième
+alinéa du I de l'article L. 282-8, les entreprises qui leur sont liées par contrat et les autres personnes autorisées à
+occuper ou utiliser les zones non librement accessibles au public des aérodromes, chacun dans son domaine d'activité.
 
-II. - Les dispositions du I sont applicables en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et
-à Mayotte.
+Un décret en Conseil d'Etat précise les catégories de mesures qui incombent à chacune des personnes visées à l'alinéa
+précédent.
 
-Pour l'application du I dans les territoires et collectivités mentionnés à l'alinéa précédent, les mots : service
-départemental d'incendie et de secours sont remplacés par les mots : service local d'incendie et de secours.
+III. - Les dispositions des I et II du présent article sont applicables à Mayotte, dans les îles Wallis et Futuna, en
+Polynésie française et en Nouvelle-Calédonie.
+
+Pour l'application du I dans ces collectivités, les mots :
+
+"service départemental d'incendie et de secours" sont remplacés par les mots : "service local d'incendie et de secours".
+
+Dans ces collectivités, les mesures prévues au II sont prescrites par l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2383,12 +2538,23 @@ départemental d'incendie et de secours sont remplacés par les mots : service l
 
 	**Modifié par**:
 
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 65 (V) JORF 22 juillet 2003
+	  - Ordonnance n°2005-863 du 28 juillet 2005 - art. 4 () JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L213-2 (M)
-	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Code de l'aviation civile - art. L213-2
+	  - Code de l'aviation civile - art. L213-4
+	  - Code de l'aviation civile - art. L282-8
+	  - Code de l'aviation civile - art. L321-7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6332-3 (V)
+	  - Code des transports - art. L6341-2 (V)
 
 
 ###### Article L213-4
@@ -4044,42 +4210,35 @@ Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel
 
 ###### Article L282-8
 
-I - En vue d'assurer préventivement la sûreté des vols, tant en régime national qu'international, les officiers de police
-judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents de police
-judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale peuvent procéder à la
-visite des personnes, des bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans
-les zones non librement accessibles au public des aérodromes et de leurs dépendances.
+I. - En vue d'assurer préventivement la sûreté des vols, tant en régime intérieur qu'international, d'une part les officiers
+de police judiciaire ainsi que, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les
+agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale et,
+d'autre part, les agents des douanes, peuvent procéder à la fouille et à la visite par tous moyens appropriés des personnes,
+des bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans les zones non librement
+accessibles au public des aérodromes et de leurs dépendances.
 
-Les officiers de police judiciaire peuvent également faire procéder à cette visite sous leurs ordres par des agents de
-nationalité française ou ressortissants d'un Etat membre de la Communauté européenne, que les entreprises de transport aérien
-ou les gestionnaires d'aérodromes ont désignés ou fait désigner par des entreprises liées par un contrat de louage de
-services pour cette tâche. Ces agents doivent être préalablement agréés par le représentant de l'Etat dans le département et
-le procureur de la République. En ce qui concerne la visite des bagages à main, ils procèdent à leur inspection visuelle et,
-avec le consentement de leur propriétaire, à leur fouille. En ce qui concerne la visite des personnes, leur intervention
-porte sur la mise en oeuvre des dispositifs de contrôle. Avec le consentement de la personne, ils peuvent procéder à des
-palpations de sécurité. Dans ce cas, la palpation de sécurité doit être faite par une personne du même sexe que la personne
-qui en fait l'objet.
+Sont également habilités à procéder à ces fouilles et visites, sous le contrôle des officiers de police judiciaire ou des
+agents des douanes, les agents de nationalité française ou ressortissants d'un Etat membre de l'Union européenne désignés par
+les entreprises de transport aérien, les exploitants d'aérodromes ou les entreprises qui leur sont liées par contrat. Ces
+agents doivent être préalablement agréés par le représentant de l'Etat dans le département et le procureur de la République.
+Ils ne procèdent à la fouille des bagages à main qu'avec le consentement de leur propriétaire et à des palpations de sécurité
+qu'avec le consentement de la personne. Dans ce cas, la palpation de sécurité doit être faite par une personne du même sexe
+que la personne qui en fait l'objet.
 
-Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque la moralité de la personne ou son comportement
-apparaissent incompatibles avec l'exercice des missions susmentionnées. L'agrément ne peut être retiré par le représentant de
-l'Etat dans le département ou par le procureur de la République qu'après que l'intéressé a été mis en mesure de présenter ses
-observations. Il peut faire l'objet d'une suspension immédiate en cas d'urgence.
+Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque l'octroi ou le maintien de ceux-ci apparaissent
+incompatibles avec l'exercice des missions susmentionnées.
 
-Les agents des douanes peuvent, dans le même but et dans les mêmes lieux, procéder à la visite des bagages de soute, du fret,
-des colis postaux, des aéronefs et des véhicules en régime international. Ils peuvent y faire procéder sous leurs ordres par
-des agents désignés dans les conditions fixées aux deux alinéas précédents.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent I.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+II. - Les dispositions du I sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en
+Nouvelle-Calédonie.
 
-II. - Les dispositions du I sont applicables en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et
-à Mayotte.
+Pour l'application du I dans ces collectivités :
 
-Pour l'application du I dans les territoires et collectivités mentionnés à l'alinéa précédent :
+- les mots : "ou ressortissants d'un Etat membre de l'Union européenne" sont supprimés ;
 
-- les mots : ou ressortissants d'un Etat membre de la Communauté européenne sont supprimés ;
-
-- les mots : dans le département sont remplacés, respectivement, par les mots : en Polynésie française, dans les îles Wallis
-et Futuna, en Nouvelle-Calédonie et à Mayotte.
+- les mots : "dans le département" sont remplacés, respectivement, par les mots : "à Mayotte", "dans les îles Wallis et
+Futuna", "en Polynésie française" et "en Nouvelle-Calédonie".
 
 **Liens relatifs à cet article**
 
@@ -4147,13 +4306,13 @@ et Futuna, en Nouvelle-Calédonie et à Mayotte.
 	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. 9 (Ab)
 	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. ANNEXE I (Ab)
 	  - TXT_SOURCE: Arrêté du 20 décembre 2000 - art. ANNEXE II (Ab)
-	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
 	  - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002
 	  - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002 - art. 2 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2002-356 du 14 mars 2002 - art. 2 (V) JORF 16 mars 2002
+	  - Ordonnance n°2005-863 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 9 (V)
 
 	**Cite**:
 
@@ -24925,21 +25084,31 @@ des organismes précités, de la possibilité d'effectuer librement des prises d
 Sont assujetties à la possession d'une autorisation les personnes utilisant tout appareil d'enregistrement d'images ou de
 données en dehors du spectre visible tel que thermographe, radar, etc.
 
-Une autorisation est également exigée pour les personnes ne possédant pas la nationalité française désireuses d'effectuer à
-titre privé où à titre professionnel des enregistrements d'images ou de données de toute nature au-dessus du territoire de la
-métropole, des départements d'outre-mer et des territoires d'outre-mer.
-
 Les autorisations prévues au présent article sont délivrées par le représentant de l'Etat dans le département ou le délégué
 du Gouvernement dans le territoire où l'utilisateur est domicilié et par le préfet de police pour les personnes résidant à
 Paris après avis conforme du commandant de groupement de gendarmerie du département, du territoire ou de Paris et du
 directeur régional chef de secteur de la police de l'air et des frontières.
 
+Toute personne qui souhaite réaliser des enregistrements d'images ou de données dans le champ du spectre visible au-dessus du
+territoire national est tenue de souscrire une déclaration au plus tard quinze jours avant la date ou le début de période
+prévue pour l'opération envisagée auprès du chef du service territorial de l'aviation civile dont relève son domicile. Pour
+les personnes résidant à l'étranger, la déclaration est faite auprès du chef du service territorial de l'aviation civile
+compétent pour Paris.
+
+Lorsque l'autorité administrative constate que la déclaration souscrite est incomplète, elle en informe l'auteur de la
+demande.
+
+La déclaration précise l'identité du demandeur ainsi que celle du bénéficiaire de l'opération envisagée.
+
+Un arrêté du ministre de l'intérieur, du ministre de la défense et du ministre chargé des transports fixe les mentions qui
+doivent figurer dans la déclaration, les pièces qui doivent être jointes et la forme dans laquelle elle est souscrite.
+
+Est dispensée de la déclaration mentionnée au septième alinéa la prise de vues photographiques ou cinématographiques
+effectuée à titre occasionnel et à finalité de loisirs par un passager, au cours d'un vol dont l'objet n'est pas la prise de
+vues.
+
 Pour les personnes résidant à l'étranger, les autorisations sont délivrées par le préfet de police après avis conforme du
 ministre des affaires étrangères et du commandant de groupement de gendarmerie de Paris.
-
-Sous réserve du contrôle de police visé à l'article D. 133-13, la prise de vues photographiques et cinématographiques est
-tolérée, à titre occasionnel, à bord des aéronefs appartenant à des compagnies assurant le service sur les lignes
-commerciales régulièrement autorisées.
 
 **Liens relatifs à cet article**
 
@@ -24952,6 +25121,7 @@ commerciales régulièrement autorisées.
 	  - Arrêté du 17 décembre 2015 (V)
 	  - Arrêté du 3 juin 2016 - art. 6 (V)
 	  - Code de l'aviation civile - art. D133-11 (V)
+	  - Code de l'aviation civile - art. D133-13 (V)
 	  - Code de l'aviation civile - art. R151-1 (V)
 	  - Code de la sécurité intérieure - art. R114-5 (VD)
 
@@ -24966,11 +25136,7 @@ commerciales régulièrement autorisées.
 
 	**Modifié par**:
 
-	  - Décret n°93-521 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. D133-13 (V)
+	  - Décret n°2005-865 du 27 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 	**Anciens textes**:
 
@@ -24999,27 +25165,6 @@ quelconque de sa validité, l'autorisation peut être suspendue ou retirée.
 	**Cite**:
 
 	  - Code de l'aviation civile - art. D133-10 (M)
-
-
-###### Article D133-12
-
-Le traitement des supports d'enregistrement d'images effectués par les titulaires des autorisations doit être effectué en
-France métropolitaine ou dans un département d'outre-mer ou dans un territoire d'outre-mer, sauf cas de force majeure soumis
-à la décision de l'autorité qui a délivré l'autorisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
-
-	**Abrogé par**:
-
-	  - Décret n°2005-865 du 27 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
 ###### Article D133-13
