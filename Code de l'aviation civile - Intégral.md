@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-09-18
 
 # Partie législative
 
@@ -18330,6 +18330,111 @@ trentenaire au bénéfice de l'Etat.
 
 ## LIVRE IV : PERSONNEL NAVIGANT
 
+### TITRE Ier : DISPOSITIONS COMMUNES
+
+###### Article R410-1
+
+Les conditions dans lesquelles les personnels visés à l'article L. 410-1 doivent être pourvus de titres aéronautiques et de
+qualifications sont fixées, après avis du conseil du personnel navigant professionnel de l'aéronautique civile, par arrêté du
+ministre chargé de l'aviation civile et, dans le domaine des essais et réceptions, par arrêté conjoint du ministre chargé de
+l'aviation civile et du ministre de la défense. Toutefois, l'avis du conseil du personnel navigant professionnel de
+l'aéronautique civile n'est pas requis pour les dispositions relatives aux conditions médicales d'aptitude et pour les
+dispositions relatives au personnel navigant non professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 1 () JORF 18 septembre 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L410-1 (VT)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R421-7 (V)
+
+
+###### Article R410-2
+
+Les titres aéronautiques et les qualifications prévus à l'article L. 410-1, les agréments prévus à l'article L. 410-3 et les
+habilitations prévues à l'article L. 410-4 sont délivrés, prorogés ou renouvelés par le ministre chargé de l'aviation civile
+et, dans le domaine des essais et réceptions, par le ministre de la défense.
+
+Le ministre chargé de l'aviation civile peut, par arrêté, déléguer sa signature pour prendre les décisions énumérées au 1er
+alinéa aux chefs des services déconcentrés métropolitains de l'aviation civile, au directeur de l'aviation civile Antilles-
+Guyane et au directeur du service de l'aviation civile de l'océan Indien, ainsi qu'aux fonctionnaires placés sous leur
+autorité.
+
+Le ministre de la défense peut, par arrêté, déléguer sa signature pour délivrer, proroger ou renouveler les titres
+aéronautiques et les qualifications relevant de sa compétence au directeur du centre d'essais en vol de la délégation
+générale pour l'armement et aux fonctionnaires placés sous son autorité.
+
+En Nouvelle-Calédonie et en Polynésie française, sauf dans le domaine des essais et réceptions, les titres aéronautiques et
+les qualifications sont délivrés, prorogés ou renouvelés par le représentant de l'Etat. Cette autorité peut, par arrêté,
+déléguer sa signature pour délivrer, proroger ou renouveler les titres aéronautiques et les qualifications aux chefs des
+services d'Etat de l'aviation civile et aux fonctionnaires placés sous leur autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+
+	**Créé par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 1 () JORF 18 septembre 2005
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L410-1 (M)
+	  - Code de l'aviation civile - art. L410-3 (V)
+	  - Code de l'aviation civile - art. L410-4 (V)
+
+
+###### Article R410-3
+
+Les conditions dans lesquelles les licences délivrées par les autres Etats membres de la Communauté européenne, par la
+Confédération suisse ou par un Etat partie à l'accord sur l'Espace économique européen sont acceptées au même titre que
+celles délivrées par les autorités nationales sont fixées, après avis du conseil du personnel navigant professionnel de
+l'aéronautique civile, par arrêté du ministre chargé de l'aviation civile et, dans le domaine des essais et réceptions, par
+arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la défense.
+
+L'acceptation d'une licence de personnel navigant professionnel prend la forme d'une validation qui est délivrée par le
+ministre chargé de l'aviation civile et, dans le domaine des essais et réceptions, par le ministre de la défense.
+
+Le ministre chargé de l'aviation civile, ou le ministre de la défense dans le domaine des essais et réceptions, peut valider,
+après avis du conseil du personnel navigant professionnel de l'aéronautique civile en ce qui concerne les licences de
+personnel navigant professionnel, les titres délivrés par les Etats non visés au premier alinéa.
+
+Le conseil du personnel navigant professionnel de l'aéronautique civile peut, pour les décisions de validation mentionnées
+aux alinéas précédents, désigner un groupe d'experts chargé de se prononcer en son nom.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 1 () JORF 18 septembre 2005
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R421-7 (V)
+
+
 ### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL
 
 #### CHAPITRE Ier : REGLES GENERALES.
@@ -18515,104 +18620,29 @@ Travail aérien.
 	  - Code de l'aviation civile - art. L421-5
 
 
-###### Article R421-5
-
-La liste des brevets, licences et certificats, les conditions requises pour leur obtention, le régime, les programmes et
-règlements des examens y afférents, ainsi que les modalités d'exemption pour l'obtention des brevets de certaines épreuves
-théoriques en faveur des candidats possesseurs de certains titres français ou délivrés par l'un des Etats membres de la
-Communauté économique européenne ou titres étrangers sanctionnant des connaissances au moins égales à celles qui seront
-exigées pour ces épreuves, sont fixés, après avis du conseil du personnel navigant, par arrêté conjoint du ministre chargé de
-l'aviation civile et du ministre des armées.
-
-Aucune exemption ne peut être accordée pour l'examen pratique sauf, en ce qui concerne le brevet de pilote professionnel
-d'avion et le brevet de pilote professionnel d'hélicoptère, au bénéfice des détenteurs de certains brevets militaires
-français dans des conditions et selon les modalités qui seront fixées par arrêté pris ainsi qu'il est dit à l'alinéa
-précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°93-370 du 17 mars 1993 - art. 1 () JORF 19 mars 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1175 du 13 septembre 2005 - art. 2 () JORF 18 septembre 2005
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R421-7 (M)
-
-
-###### Article R421-5-1
-
-Les conditions sous lesquelles les licences délivrées par les autres Etats membres de la Communauté économique européenne aux
-ressortissants des Etats membres sont acceptées, au même titre que celles délivrées par les autorités nationales, sont fixées
-par arrêté ministériel, après avis du conseil du personnel navigant professionnel de l'aéronautique civile. L'acceptation
-d'une licence prend la forme d'une validation.
-
-L'arrêté prévu à l'alinéa précédent est pris par le ministre chargé de l'aviation civile sauf en ce qui concerne le domaine
-des essais et réceptions. Dans ce dernier domaine, l'arrêté est pris par le ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°93-370 du 17 mars 1993 - art. 2 () JORF 19 mars 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1175 du 13 septembre 2005 - art. 2 () JORF 18 septembre 2005
-
-
-###### Article R421-6
-
-La définition des qualifications professionnelles spéciales, les conditions de leur obtention et de leur renouvellement ainsi
-que les programmes et règlements des examens correspondants sont fixés, après avis du conseil du personnel navigant, par
-arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la défense.
-
-Toufefois, en ce qui concerne les qualifications de type d'aéronef, leur définition et les conditions de leur obtention sont
-seules fixées ainsi qu'il est dit à l'alinéa précédent. Les programmes d'instruction au sol et en vol correspondant à ces
-qualifications sont déposés directement auprès du ministre chargé de l'aviation civile et soumis à son approbation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1175 du 13 septembre 2005 - art. 2 () JORF 18 septembre 2005
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R421-7 (M)
-
-
 ##### Section 2 : Conseil du personnel navigant professionnel.
 
 ###### Article R421-7
 
-Le conseil du personnel navigant professionnel de l'aéronautique civile est chargé :
+Le conseil du personnel navigant professionnel de l'aéronautique civile est chargé : 
 
 1° De présenter aux ministres intéressés toutes propositions relatives aux programmes d'instruction, d'examens,
-d'entraînement et de contrôle correspondant aux brevets, licences et qualifications du personnel visé aux articles L. 421-6
-et L. 421-7, R. 421-5 et R. 421-6 ;
+d'entraînement et de contrôle correspondant aux brevets, licences et qualifications du personnel visé aux articles L. 410-1,
+R. 410-1 et R. 410-3 ; 
 
 2° De dégager les enseignements que comporte, pour l'exercice de la profession, l'évolution des techniques aéronautiques.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil du
+personnel navigant professionnel de l'aéronautique civile).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commisssions consultatives sont renouvelées pour une durée d'un an à
+compter du 8 juin 2014 (Conseil du personnel navigant professionnel de l'aéronautique civile).
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil du personnel navigant professionnel de
+l'aéronautique civile est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -18632,12 +18662,15 @@ et L. 421-7, R. 421-5 et R. 421-6 ;
 	  - Décret n°2015-622 du 5 juin 2015 - art. (V)
 	  - Code de l'aviation civile - art. R421-3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 3 () JORF 18 septembre 2005
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L421-6 (Ab)
-	  - Code de l'aviation civile - art. L421-7 (Ab)
-	  - Code de l'aviation civile - art. R421-5 (M)
-	  - Code de l'aviation civile - art. R421-6 (M)
+	  - Code de l'aviation civile - art. L410-1 (VT)
+	  - Code de l'aviation civile - art. R410-1 (V)
+	  - Code de l'aviation civile - art. R410-3 (V)
 
 
 ###### Article R421-8
@@ -19386,10 +19419,23 @@ navigant mis en cause ou ses représentants.
 
 ###### Article R425-4
 
-Un conseil de discipline est chargé de proposer au ministre compétent l'application de sanctions à l'égard des personnes
-titulaires de licences et certificats qui seraient reconnues coupables de fautes commises soit dans l'exercice ou à
-l'occasion de l'exercice de la profession de navigant, soit à l'occasion de vols accomplis à quelque titre que ce soit ou qui
-auraient encouru une condamnation définitive pour crime ou pour un délit contre la probité ou les bonnes moeurs.
+Le conseil de discipline du personnel navigant professionnel de l'aéronautique civile est chargé de donner au ministre un
+avis sur l'application de sanctions à l'égard des personnes titulaires de titres aéronautiques de personnel navigant
+professionnel délivrés par le ministre chargé de l'aviation civile ou le ministre chargé de la défense ou validés par ces
+mêmes autorités, à l'encontre desquelles auront été relevés des manquements aux règles édictées par le présent code en vue
+d'assurer la sécurité et, le cas échéant, par les dispositions prises pour son application.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil de
+discipline du personnel navigant professionnel de l'aéronautique civile).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil de discipline du personnel navigant professionnel de l'aéronautique civile).
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil de discipline du personnel navigant professionnel
+de l'aéronautique civile  est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -19414,6 +19460,10 @@ auraient encouru une condamnation définitive pour crime ou pour un délit contr
 	  - Décret n°2014-589 du 6 juin 2014 - art. (V)
 	  - Décret n°2015-622 du 5 juin 2015 - art. (V)
 	  - Code de l'aviation civile - art. D435-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 4 () JORF 18 septembre 2005
 
 
 ###### Article R425-5
@@ -19505,37 +19555,33 @@ professionnel des essais et des réceptions.
 
 ###### Article R425-8
 
-La section du transport et du travail aériens comprend : 
+La section du transport et du travail aériens comprend :
 
-Trois membres représentant l'aviation civile, désignés par le ministre chargé de l'aviation civile.
+- trois membres représentant l'aviation civile, désignés par le ministre chargé de l'aviation civile ;
 
-Un membre de l'organisme du contrôle en vol, désigné par le ministre chargé de l'aviation civile.
+- un membre de l'organisme du contrôle en vol, désigné par le ministre chargé de l'aviation civile ;
 
-Un ancien pilote de ligne commandant de bord ayant cessé son activité professionnelle depuis moins de deux ans lors de sa
-nomination ou un pilote de ligne en activité, désigné d'un commun accord par la société Air France et par l'organisation la
-plus représentative des entreprises de transport aérien.
+- deux pilotes de ligne en activité ou ayant cessé leur activité professionnelle depuis moins de deux ans lors de leur
+nomination, désignés chacun par les deux organisations les plus représentatives des entreprises de transport aérien ;
 
-Deux membres du personnel navigant professionnel de l'aéronautique civile, choisis par le ministre chargé de l'aviation
-civile en fonction de la spécialité de la personne traduite devant le conseil sur une liste comprenant :
+- deux membres du personnel navigant professionnel de l'aéronautique civile choisis par le ministre chargé de l'aviation
+civile, en fonction de la spécialité de la personne traduite devant le conseil. Le choix du ministre s'exerce sur une liste
+arrêtée par lui sur proposition des organisations les plus représentatives du personnel navigant professionnel du transport
+et du travail aériens.
 
-Deux pilotes de la catégorie transport aérien ; 
+Cette liste comprend :
 
-Deux pilotes de la catégorie travail aérien, dont un pilote d'hélicoptère ;
+- deux pilotes de la catégorie transport aérien ;
 
-Deux navigateurs ;
+- deux pilotes de la catégorie travail aérien, dont un pilote d'hélicoptère ;
 
-Deux mécaniciens navigants ;
+- deux mécaniciens navigants ;
 
-Deux radionavigants ;
+- deux membres du personnel navigant commercial du transport aérien ;
 
-Deux membres du personnel navigant commercial du transport aérien ;
+- deux photographes navigants professionnels ;
 
-Deux photographes navigants professionnels ;
-
-Deux parachutistes professionnels.
-
-Cette liste est arrêtée par le ministre chargé de l'aviation civile sur proposition des organisations les plus
-représentatives du personnel navigant professionnel du transport et du travail aériens.
+- deux parachutistes professionnels.
 
 **Liens relatifs à cet article**
 
@@ -19545,7 +19591,7 @@ représentatives du personnel navigant professionnel du transport et du travail 
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 5 () JORF 18 septembre 2005
 
 	**Cité par**:
 
@@ -19554,13 +19600,13 @@ représentatives du personnel navigant professionnel du transport et du travail 
 
 ###### Article R425-9
 
-Les membres du conseil sont nommés pour deux ans. Leur mandat est renouvelable. Des suppléants peuvent être désignés dans les
-mêmes formes que les membres titulaires. Les personnes ayant encouru une condamnation inscrite à l'extrait n° 2 du casier
-judiciaire ou l'une des sanctions prévues à l'article R. 425-18 ne peuvent faire partie du conseil de discipline. Cessent de
-faire partie du conseil de discipline les membres qui viennent à perdre la qualité en vertu de laquelle ils ont été désignés,
-qui se démettent de leurs fonctions ou qui sont déclarés démissionnaires par le ministre compétent pour absence non justifiée
-à deux séances consécutives. Tout membre du conseil dont le mandat est interrompu est remplacé pour le temps à courir jusqu'à
-l'expiration de ce mandat.
+Les membres du conseil de discipline sont nommés pour trois ans par le ministre chargé de l'aviation civile. Leur mandat est
+renouvelable. Des suppléants peuvent être désignés dans les mêmes formes que les membres titulaires. Les personnes ayant
+encouru une condamnation inscrite à l'extrait n° 2 du casier judiciaire ou l'une des sanctions prévues à l'article R. 425-18
+ne peuvent faire partie du conseil de discipline. Cessent de faire partie du conseil de discipline les membres qui viennent à
+perdre la qualité en vertu de laquelle ils ont été désignés, qui se démettent de leurs fonctions ou qui sont déclarés
+démissionnaires par le ministre compétent pour absence non justifiée à deux séances consécutives. Tout membre du conseil dont
+le mandat est interrompu est remplacé pour le temps à courir jusqu'à l'expiration de ce mandat.
 
 **Liens relatifs à cet article**
 
@@ -19568,13 +19614,17 @@ l'expiration de ce mandat.
 
 	  - Décret n°67-334 1967-03-30
 
+	**Modifié par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 6 () JORF 18 septembre 2005
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. D435-1 (M)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R425-18 (M)
+	  - Code de l'aviation civile - art. R425-18 (V)
 
 
 ###### Article R425-10
@@ -19620,18 +19670,23 @@ qu'une affaire doit être soumise au conseil siégeant en séance plénière.
 Le président de la section compétente du conseil notifie à la personne traduite devant le conseil les poursuites dont elle
 est l'objet, lui fait connaître les griefs articulés à son encontre et l'invite à présenter ses observations par écrit.
 
-L'intéressé dispose à cet effet d'un délai fixé par le président, qui ne peut être inférieur à dix jours à compter de la date
-à laquelle il a reçu notification des poursuites.
+L'intéressé dispose à cet effet d'un délai fixé par le président, qui ne peut être inférieur à un mois à compter de la date à
+laquelle il a reçu notification des poursuites.
 
-Le président convoque l'intéressé à une date telle que ce dernier puisse disposer, compte tenu du temps normal nécessaire à
-son déplacement, d'un délai minimum de cinq jours avant sa comparution pour prendre connaissance de son dossier au
-secrétariat de la section.
+Le président convoque l'intéressé à une date telle que ce dernier puisse disposer, compte tenu du temps nécessaire à son
+déplacement, d'un délai minimum de quinze jours avant sa comparution pour prendre connaissance ou faire prendre connaissance
+par son représentant ou défenseur, au secrétariat de la section compétente, de l'intégralité des pièces composant son
+dossier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 7 () JORF 18 septembre 2005
 
 	**Cité par**:
 
@@ -19644,7 +19699,9 @@ Le président choisit un rapporteur soit parmi les membres titulaires ou supplé
 personnalités établie par le ministre des armées pour la section des essais et réceptions et par le ministre chargé de
 l'aviation civile pour la section du transport et du travail aériens.
 
-Le rapporteur entend toutes personnes et recueille toutes informations utiles à l'instruction de l'affaire.
+Le rapporteur entend toute personne et recueille toutes les informations utiles à l'instruction de l'affaire. A l'issue de
+l'instruction, le rapporteur transmet au président de la section compétente son rapport qui est versé au dossier de la
+personne traduite devant le conseil.
 
 La section compétente du conseil entend les personnes dont l'audition est jugée utile, le rapporteur en son rapport,
 l'intéressé en sa défense. Ce dernier peut se faire assister ou représenter soit par un avocat inscrit au barreau, soit par
@@ -19653,13 +19710,15 @@ un membre du personnel navigant professionnel de l'aéronautique civile.
 Au cas où l'intéressé néglige de comparaître ou de se faire représenter, le conseil ou la section compétente peut passer
 outre et délibère valablement.
 
-Les débats ne sont pas publics.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 8 () JORF 18 septembre 2005
 
 	**Cité par**:
 
@@ -19754,33 +19813,31 @@ l'organisation judiciaire.
 
 ###### Article R425-18
 
-Les sanctions disciplinaires relevant de la compétence du conseil de discipline sont :
+Les sanctions disciplinaires relevant de la compétence du conseil de discipline sont : 
 
-Le blâme ;
+- le blâme ;
 
-Le retrait temporaire avec ou sans sursis d'une ou de plusieurs licences ou qualifications ;
+- la suspension du droit d'effectuer des vols en qualité de commandant de bord tant qu'un complément de formation pratique ou
+théorique, dans des conditions spécifiées dans la décision de sanction, n'aura pas été réalisé ;
 
-Le retrait définitif d'une ou de plusieurs licences ou qualifications ;
+- le retrait temporaire avec ou sans sursis d'une ou de plusieurs licences, qualifications, autorisations ou d'un
+certificat ;
 
-La radiation du registre prévu à l'article L. 421-4 ;
+- le retrait définitif d'une ou de plusieurs licences, qualifications, autorisations ou d'un certificat ;
 
-Le retrait temporaire avec ou sans sursis de la validation d'une ou plusieurs licences ;
+- le retrait temporaire avec ou sans sursis de la validation d'une ou de plusieurs licences étrangères ;
 
-Le retrait définitif de la validation d'une ou plusieurs licences.
+- le retrait définitif de la validation d'une ou de plusieurs licences étrangères.
 
-Lorsque la sanction concerne un navigant ayant obtenu la validation d'une licence étrangère, le ministre chargé de l'aviation
-civile ou, dans le domaine des essais et réceptions, le ministre de la défense informe l'autorité aéronautique étrangère
-ayant délivré la licence.
+Lorsque la sanction concerne un membre du personnel navigant ayant obtenu la validation d'une licence étrangère, le ministre
+chargé de l'aviation civile ou, dans le domaine des essais et réceptions, le ministre de la défense informe l'autorité
+aéronautique qui a délivré la licence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°93-370 du 17 mars 1993 - art. 3 () JORF 19 mars 1993
 
 	**Cité par**:
 
@@ -19792,9 +19849,9 @@ ayant délivré la licence.
 	  - Code de l'aviation civile - art. D435-1 (M)
 	  - Code de l'aviation civile - art. R425-9 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. L421-4 (V)
+	  - Décret n°2005-1175 du 13 septembre 2005 - art. 9 () JORF 18 septembre 2005
 
 
 ###### Article R425-19
