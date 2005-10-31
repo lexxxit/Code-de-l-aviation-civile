@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-09-18
+Version Consolidée au 2005-11-01
 
 # Partie législative
 
@@ -23945,16 +23945,12 @@ d'immatriculation, d'une mention certifiant que la transcription a été effectu
 
 ##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie
 
-##### Paragraphe 1 : Définition des types de circulation aérienne.
+##### Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne.
 
 ###### Article D131-1
 
-La circulation aérienne comprend :
-
-- la circulation aérienne générale, qui relève de la compétence du ministre chargé de l'aviation civile ;
-
-- la circulation aérienne militaire comprenant elle-même la circulation opérationnelle militaire et la circulation d'essais
-et de réception, qui relève de la compétence du ministre de la défense.
+Le ministre de la défense et le ministre chargé de l'aviation civile organisent conjointement l'espace aérien national et les
+espaces aériens placés sous juridiction française et en réglementent l'utilisation.
 
 **Liens relatifs à cet article**
 
@@ -23990,77 +23986,15 @@ et de réception, qui relève de la compétence du ministre de la défense.
 
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 
-###### Article D131-2
+###### Article D131-1-1
 
-La circulation aérienne générale [*définition*] est constituée par l'ensemble des mouvements des aéronefs civils et des
-aéronefs d'Etat soumis à la réglementation propre à ce type de circulation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30 JORF 9 avril 1967)
-
-	**Modifié par**:
-
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
-
-	**Cité par**:
-
-	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
-	  - Code de l'aviation civile - art. D131-9 (M)
-
-
-###### Article D131-3
-
-La circulation opérationnelle militaire est constituée par l'ensemble des mouvements des aéronefs qui, pour des raisons
-d'ordre technique ou militaire, relèvent de la réglementation propre à ce type de circulation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
-
-	**Cité par**:
-
-	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
-	  - Code de l'aviation civile - art. D131-9 (V)
-
-
-###### Article D131-4
-
-La circulation d'essai et de réception est constituée par l'ensemble des mouvements des aéronefs en essai ou en réception
-soumis, pour des raisons d'ordre technique et avec l'agrément du directeur du centre d'essais en vol, à la réglementation
-propre à ce type de circulation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
-
-	**Cité par**:
-
-	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
-	  - Code de l'aviation civile - art. D131-9 (V)
-
-
-###### Article D131-4-1
-
-Le ministre de la défense et le ministre chargé de l'aviation civile organisent conjointement l'espace aérien national et les
-espaces aériens placés sous juridiction française et en réglementent l'utilisation.
+Il est institué un directoire de l'espace aérien, dont les rôles et attributions sont fixés par arrêté conjoint du ministre
+de la défense et du ministre chargé de l'aviation civile. Le directoire de l'espace aérien veille à la coordination des
+actions de l'Etat dans le domaine de l'organisation et de l'utilisation de l'espace aérien. Il est composé du directeur des
+affaires stratégiques et techniques et du directeur de la circulation aérienne militaire.
 
 **Liens relatifs à cet article**
 
@@ -24070,75 +24004,10 @@ espaces aériens placés sous juridiction française et en réglementent l'utili
 
 	**Créé par**:
 
-	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
-
-	**Cité par**:
-
-	  - Décret n°97-905 du 1 octobre 1997 - art. 21 (V)
-
-	**Abrogé par**:
-
 	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 
-###### Article D131-5
-
-Les règles applicables à chacun des types de circulation aérienne doivent être compatibles avec celles qui régissent les
-autres types de circulation. Le ministre de la défense et le ministre chargé de l'aviation civile fixent conjointement les
-règles de nature à assurer cette compatibilité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°95-421 du 20 avril 1995 - art. 2 (V)
-	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
-
-	**Cité par**:
-
-	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
-	  - Arrêté du 3 mai 2013 - art. 13 (V)
-	  - Code de l'aviation civile - art. D131-6 (V)
-
-
-###### Article D131-5-1
-
-Il est institué un directoire de l'espace aérien. Le directoire de l'espace aérien veille à la coordination des actions de
-l'Etat dans le domaine de l'organisation et de l'utilisation de l'espace aérien. Il est composé du directeur de la navigation
-aérienne et du directeur de la circulation aérienne militaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
-
-
-###### Article D131-5-2
+###### Article D131-1-2
 
 Les comités régionaux de gestion de l'espace aérien, dont le ressort géographique, la composition et les attributions sont
 fixés par arrêté du ministre chargé de l'aviation civile et du ministre de la défense, rendent compte au directoire de
@@ -24152,13 +24021,102 @@ l'espace aérien.
 
 	**Créé par**:
 
-	  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
+
+
+###### Article D131-2
+
+La circulation aérienne comprend :
+
+- la circulation aérienne générale, qui relève de la compétence du ministre chargé de l'aviation civile ;
+
+- la circulation aérienne militaire, qui relève de la compétence de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30 JORF 9 avril 1967)
+
+	**Cité par**:
+
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Code de l'aviation civile - art. D131-9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
+
+
+###### Article D131-3
+
+La circulation aérienne générale est constituée par l'ensemble des mouvements des aéronefs soumis à la réglementation propre
+à ce type de circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Code de l'aviation civile - art. D131-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
+
+
+###### Article D131-4
+
+La circulation aérienne militaire est constituée par l'ensemble des mouvements des aéronefs qui, pour des raisons d'ordre
+technique ou militaire, relèvent de la réglementation propre à ce type de circulation.
+
+En son sein, la circulation d'essais et réception est constituée par l'ensemble des mouvements des aéronefs en essais, en
+réception ou en vol à caractère technique qui, pour des raisons techniques et avec l'agrément du directeur du centre d'essais
+en vol, sont soumis à des procédures spécifiques fixées par ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Code de l'aviation civile - art. D131-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
+
+
+###### Article D131-5
+
+Les règles applicables à chacun des types de circulation aérienne doivent être compatibles avec celles qui régissent l'autre
+type de circulation. Le ministre de la défense et le ministre chargé de l'aviation civile fixent conjointement, par arrêté,
+les règles de nature à assurer cette compatibilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°95-421 du 20 avril 1995 - art. 2 (V)
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Décret n°99-16 du 8 janvier 1999 - art. ANNEXE (V)
+	  - Arrêté du 3 mai 2013 - art. 13 (V)
+	  - Code de l'aviation civile - art. D131-6 (V)
+
+	**Modifié par**:
 
 	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
@@ -24180,33 +24138,27 @@ la réglementation propre à la circulation aérienne qui relève de leurs comp�
 
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. D131-5 (Ab)
 
 
-##### Paragraphe 2 : Règles de l'air
-
-##### Attributions et rôles des services civils et des organismes militaires de la circulation aérienne.
-
 ###### Article D131-7
 
-Les règles de l'air définies à l'annexe I (1) de la présente section s'imposent à tous les aéronefs compris dans la
-circulation aérienne générale dans l'espace aérien où les services de la circulation aérienne sont assurés par
-l'administration française.
+Les règles de l'air fixées par arrêté du ministre chargé de l'aviation civile, pris après accord du directoire de l'espace
+aérien, s'imposent, dans l'espace aérien où les services de la circulation aérienne sont assurés sous la responsabilité de
+l'administration française, aux :
+
+- pilotes des aéronefs évoluant en circulation aérienne générale ;
+
+- prestataires de services de la navigation aérienne, soit toute entité ou tout organisme fournissant des services au
+bénéfice de la circulation aérienne générale.
 
 Elles s'imposent, en dehors de cet espace aérien, aux aéronefs portant les marques de nationalité et d'immatriculation
 françaises dans la mesure où elles sont compatibles avec les règles édictées par l'Etat ou l'organisme international qui a
 autorité sur l'espace aérien où se trouvent ces aéronefs.
-
-**Nota:**
-
-: (1) Sous réserve des dispositions des articles D. 131-5 et D. 131-6, les annexes I et II mentionnées aux articles D. 131-7
-et D. 131-9 demeurent celles annexées au décret n° 71-180 du 2 mars 1971 modifiées par les décrets n° 78-1038 du 18 octobre
-1978, n° 79-1059 du 3 décembre 1979 et n° 81-269 du 18 mars 1981. Elles sont publiées au Journal officiel et mises à la
-disposition de toute personne intéressée par le service de l'information aéronautique, rue Champagne,91205 Athis-Mons.
 
 **Liens relatifs à cet article**
 
@@ -24222,13 +24174,14 @@ disposition de toute personne intéressée par le service de l'information aéro
 
 	**Modifié par**:
 
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 
 ###### Article D131-8
 
-Les règles de la circulation aérienne militaire sont établies en conformité avec les règles de l'air dans la mesure où
-celles-ci sont adaptées aux missions des armées et du centre d'essais en vol.
+Les règles de la circulation aérienne militaire, fixées par arrêté du ministre de la défense, pris après accord du directoire
+de l'espace aérien, sont établies en conformité avec les règles de l'air dans la mesure où celles-ci sont adaptées aux
+missions des armées et du centre d'essais en vol.
 
 **Liens relatifs à cet article**
 
@@ -24245,27 +24198,29 @@ celles-ci sont adaptées aux missions des armées et du centre d'essais en vol.
 
 	**Modifié par**:
 
-	  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
+
+##### Paragraphe 2 : Attributions et surveillance des organismes de la circulation aérienne.
 
 ###### Article D131-9
 
-Le rôle qu'exercent au bénéfice de la circulation aérienne générale les services civils chargés de cette circulation est
-défini à l'annexe II de la présente section.
+Les services que rendent au bénéfice de la circulation aérienne générale les organismes chargés de cette circulation sont
+fixés par arrêté du ministre chargé de l'aviation civile, pris après accord du directoire de l'espace aérien.
 
-Le rôle qu'exercent au bénéfice de la circulation aérienne militaire les organismes chargés de cette circulation est défini à
-l'annexe III de la présente section.
+Les services que rendent au bénéfice de la circulation aérienne militaire les organismes chargés de cette circulation sont
+fixés par arrêté du ministre de la défense, pris après accord du directoire de l'espace aérien.
 
-Suivant les modalités précisées par des arrêtés conjoints du ministre chargé de l'aviation civile et du ministre chargé de la
+Suivant les modalités précisées par des arrêtés conjoints du ministre chargé de l'aviation civile et du ministre de la
 défense, certains organismes de la circulation aérienne militaire peuvent rendre au bénéfice de la circulation aérienne
-générale les services définis à l'annexe II précitée et, réciproquement, certains organismes de la circulation aérienne
-générale peuvent rendre au bénéfice de la circulation aérienne militaire les services définis à l'annexe III précitée pour
-autant que ces derniers soient compatibles avec les conditions habituelles d'exercice du contrôle de la circulation aérienne
-générale.
+générale les services définis par l'arrêté cité au premier alinéa du présent article et, réciproquement, certains organismes
+de la circulation aérienne générale peuvent rendre au bénéfice de la circulation aérienne militaire les services définis par
+l'arrêté cité au deuxième alinéa du présent article pour autant que ces derniers soient compatibles avec les conditions
+habituelles d'exercice du contrôle de la circulation aérienne générale.
 
 Ces services sont rendus, en ce qui concerne la circulation aérienne générale, pour le compte du ministre chargé de
-l'aviation civile en application de l'article D. 131-2 de la présente section, et, en ce qui concerne la circulation aérienne
-militaire, pour le compte du ministre de la défense, en application des articles D. 131-3 et D. 131-4 de la présente section.
+l'aviation civile, en application de l'article D. 131-3 de la présente section, et, en ce qui concerne la circulation
+aérienne militaire, pour le compte du ministre de la défense, en application de l'article D. 131-4 de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -24291,24 +24246,27 @@ militaire, pour le compte du ministre de la défense, en application des article
 
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D131-2 (M)
 	  - Code de l'aviation civile - art. D131-3 (M)
 	  - Code de l'aviation civile - art. D131-4 (M)
 
 
 ###### Article D131-10
 
-Le ministre chargé de l'aviation civile assure en accord avec le ministre de la défense et après avis du directeur de
-l'espace aérien, la mise à jour et la publication des annexes I et II au présent chapitre ainsi que la publication de tous
-les rectificatifs, additifs et textes d'application nécessaire.
+Conformément aux dispositions du III de l'article 10 du décret n° 2005-471 du 16 mai 2005 fixant l'organisation de
+l'administration centrale du ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la
+mer, la direction du contrôle de la sécurité de la direction générale de l'aviation civile est l'autorité de surveillance
+nationale, au sens de l'article 4 du règlement (CE) n° 549/2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le
+cadre pour la réalisation du ciel unique européen.
 
-Le ministre de la défense assure en accord avec le ministre chargé de l'aviation civile et, dans la limite de ses
-attributions, aprés avis du délégué à l'espace aérien, la mise à jour et la publication de l'annexe III au présent chapitre
-ainsi que la publication de tous rectificatifs, additifs et textes d'application nécessaires.
+Au sein du ministère de la défense, les fonctions d'autorité de surveillance nationale sont exercées, pour le compte de la
+direction du contrôle de la sécurité, par le directeur de la circulation aérienne militaire.
+
+Un arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation civile précise les conditions d'exercice de
+ces compétences.
 
 **Liens relatifs à cet article**
 
@@ -24337,9 +24295,14 @@ ainsi que la publication de tous rectificatifs, additifs et textes d'application
 	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 8 (Ab)
 	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 9 (Ab)
 
+	**Cite**:
+
+	  - Décret n°2005-471 du 16 mai 2005 - art. 10, v. init.
+	  - Règlement CE 549-2004 2004-03-10 art. 4
+
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 
 ##### Paragraphe 3 : Météorologie.
