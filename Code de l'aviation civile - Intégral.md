@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-11-01
+Version Consolidée au 2005-11-17
 
 # Partie législative
 
@@ -26877,6 +26877,145 @@ taux de l'élément variable de cette redevance sont fixés par l'arrêté du 27
 	**Créé par**:
 
 	  - Décret n°80-910 1980-11-17 art. 1 JORF 21 novembre 1980
+
+
+#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.
+
+###### Article D228-1
+
+La commission ne peut valablement délibérer que si au moins quatre de ses membres sont présents. Si ce quorum n'est pas
+atteint, la commission siège dans les huit jours suivants sur le même ordre du jour. Elle délibère alors quel que soit le
+nombre de membres présents.
+
+Les avis rendus par la commission le sont à la majorité des suffrages exprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
+
+
+###### Article D228-2
+
+Afin de l'assister lors des auditions auxquelles elle procède, la commission peut désigner des experts, compétents en matière
+d'économie du transport aérien, d'exploitation, d'investissements et de stratégie aéroportuaires, ou d'analyse financière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 16 novembre 2005 - art. 2 (V)
+	  - Code de l'aviation civile - art. D228-5 (V)
+
+
+###### Article D228-3
+
+Le directeur général de l'aviation civile et le directeur général de la concurrence, de la consommation et de la répression
+des fraudes, ou leur représentant, sont invités, en qualité d'observateurs, aux séances de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
+
+
+###### Article D228-4
+
+Le secrétariat de la commission est assuré par un secrétaire général nommé par arrêté du ministre chargé de l'aviation civile
+parmi les agents de la direction de la régulation économique de la direction générale de l'aviation civile. Le secrétaire
+général peut être assisté de collaborateurs nommés dans les mêmes conditions.
+
+Le secrétaire général assure, sous l'autorité du président, l'organisation et le fonctionnement de la commission ainsi que la
+préparation de ses réunions et délibérations.
+
+La commission adopte son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
+
+
+###### Article D228-5
+
+Les membres de la commission et les experts mentionnés à l'article D. 228-2, autres que les parlementaires et les
+fonctionnaires en activité, peuvent percevoir des indemnités sous forme de vacations forfaitaires dont le montant total ne
+peut excéder un plafond annuel. Le montant de ces vacations et le plafond annuel prévus à l'alinéa précédent sont fixés par
+arrêté conjoint du ministre chargé de l'aviation civile, du ministre chargé du budget et du ministre chargé de la fonction
+publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 16 novembre 2005 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D228-2 (V)
+
+
+###### Article D228-6
+
+La qualité de membre de la commission consultative aéroportuaire est incompatible avec l'exercice de toute activité
+professionnelle ou privée donnant à son titulaire un intérêt direct ou indirect vis-à-vis d'exploitants d'aérodromes ou de
+transporteurs aériens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
+
+
+###### Article D228-7
+
+Toute personne désignée pour remplacer un membre en cours de mandat l'est pour la durée restant à courir de ce mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
 
 
 ### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.
