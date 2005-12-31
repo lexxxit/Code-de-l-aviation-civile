@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-12-29
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -16950,35 +16950,35 @@ l'article R. 321-1.
 
 ###### Article R330-1
 
-I. - Les décisions relatives aux licences d'exploitation des transporteurs aériens publics, notamment leur délivrance, leur
+I.-Les décisions relatives aux licences d'exploitation des transporteurs aériens publics, notamment leur délivrance, leur
 transformation en licence temporaire, leur suspension et leur retrait, sont prises par arrêté du ministre chargé de
 l'aviation civile, sous réserve des dispositions de l'article R. 330-19, après avis du Conseil supérieur de l'aviation
-marchande.
+marchande. 
 
 Toutefois, cet avis n'est pas requis préalablement au renouvellement d'une licence temporaire décidé après la prolongation
-d'une période de redressement judiciaire, ou au retrait intervenant à la suite de la liquidation judiciaire de la société ou
-de sa dissolution.
+d'une période de procédures de sauvegarde ou de redressement judiciaire, ou au retrait intervenant à la suite de la
+liquidation judiciaire de la société ou de sa dissolution. 
 
-L'avis du conseil est émis après que le transporteur a été invité à présenter ses observations devant celui-ci.
+L'avis du conseil est émis après que le transporteur a été invité à présenter ses observations devant celui-ci. 
 
-II. - Les dispositions des paragraphes 1 à 4 et 6 de l'article 5 du règlement (CEE) n° 2407/92 du 23 juillet 1992
-s'appliquent aux transporteurs aériens effectuant des transports aériens publics au moyen exclusivement d'aéronefs de moins
-de 20 sièges ou dont la masse maximale au décollage est inférieure à 10 tonnes dès lors que leur chiffre d'affaires annuel
-est supérieur à 3 millions d'euros ou qu'ils exploitent des services réguliers.
+II.-Les dispositions des paragraphes 1 à 4 et 6 de l'article 5 du règlement (CEE) n° 2407/92 du 23 juillet 1992 s'appliquent
+aux transporteurs aériens effectuant des transports aériens publics au moyen exclusivement d'aéronefs de moins de 20 sièges
+ou dont la masse maximale au décollage est inférieure à 10 tonnes dès lors que leur chiffre d'affaires annuel est supérieur à
+3 millions d'euros ou qu'ils exploitent des services réguliers. 
 
-III. - Pour l'application des dispositions du dernier alinéa de l'article L. 330-1 du présent code, les transports aériens de
+III.-Pour l'application des dispositions du dernier alinéa de l'article L. 330-1 du présent code, les transports aériens de
 passagers, de fret ou de courrier visés au 2 de l'article 1er du règlement (CEE) n° 2407/92 du 23 juillet 1992 ne nécessitent
 l'obtention d'une licence d'exploitation et d'un certificat de transporteur aérien que si la capacité d'emport, équipage
-compris, des aéronefs utilisés est supérieure selon les cas :
+compris, des aéronefs utilisés est supérieure selon les cas : 
 
-Pour les aéronefs non entraînés par un organe moteur, à quatre personnes ou 400 kilogrammes de charge :
+Pour les aéronefs non entraînés par un organe moteur, à quatre personnes ou 400 kilogrammes de charge : 
 
 Pour les vols locaux à :
 
 - trois personnes lorsque le vol local est effectué au moyen d'un giravion ;
 
 - cinq personnes dans les autres cas. Toutefois, les vols locaux effectués au moyen d'avions à turboréacteurs nécessitent
-dans tous les cas une licence d'exploitation et un certificat de transporteur aérien.
+dans tous les cas une licence d'exploitation et un certificat de transporteur aérien. 
 
 Le vol local est, pour l'application du présent article, un vol :
 
@@ -16989,6 +16989,15 @@ Le vol local est, pour l'application du présent article, un vol :
 - de moins de trente minutes entre le décollage et l'atterrissage sauf pour les aéronefs ultra-légers motorisés ;
 
 - durant lequel l'aéronef ne s'éloigne pas à plus de quarante kilomètres de son point de départ.
+
+**Nota:**
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Conseil supérieur de l'aviation marchande).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
 
 **Liens relatifs à cet article**
 
@@ -17016,8 +17025,7 @@ Le vol local est, pour l'application du présent article, un vol :
 
 	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -29491,6 +29499,28 @@ provisoire.
 	**Cité par**:
 
 	  - Arrêté du 21 janvier 1998 - art. 4 (V)
+
+
+###### Article D421-10
+
+L'âge au-delà duquel le personnel navigant de l'aéronautique civile inscrit à la section D du registre prévu à l'article L.
+421-3 ne peut, en application de l'article L. 421-9, exercer aucune activité en qualité de personnel de cabine dans le
+transport aérien public est fixé à cinquante-cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2004-1427 du 23 décembre 2004 - art. 1 () JORF 29 décembre 2004 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L421-3 (Ab)
+	  - Code de l'aviation civile - art. L421-9 (VT)
 
 
 #### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS
