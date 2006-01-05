@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -1248,6 +1248,214 @@ autorisation administrative d'utiliser un aéroport international.
 
 	  - Code de l'aviation civile - art. L150-4 (M)
 	  - Code de l'aviation civile - art. R132-3 (V)
+
+
+#### CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS.
+
+###### Article L133-1
+
+Sont soumis au contrôle du ministre chargé de l'aviation civile les aéronefs et les autres produits, pièces et équipements,
+ainsi que les organismes et personnes soumis aux exigences techniques de sécurité et de sûreté fixées soit par le présent
+livre, soit par le règlement (CE) n° 1592/2002 du Parlement européen et du Conseil du 15 juillet 2002 concernant des règles
+communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne, ou le règlement
+(CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation
+aérienne dans le ciel unique européen.
+
+Le ministre chargé de l'aviation civile peut soumettre à autorisation ces aéronefs, produits, pièces et équipements
+préalablement à leur utilisation ainsi que ces organismes et personnes préalablement à l'exercice de leurs activités.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 133-1, au premier alinéa, les mots " du ministre chargé de l'aviation civile " et au deuxième alinéa, les mots " le
+ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 6 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 3 juin 2008 - art. 7 (V)
+	  - Code de l'aviation civile - art. L133-3 (VT)
+	  - Code de l'aviation civile - art. L330-6 (VT)
+	  - Code de l'aviation civile - art. L410-5 (VT)
+	  - Code de l'environnement - art. R414-19 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6221-1 (V)
+
+	**Cite**:
+
+	  - Règlement 1592-2002 CE 2002-07-15
+
+
+###### Article L133-2
+
+Le ministre chargé de l'aviation civile peut soumettre à des inspections tout aéronef se trouvant sur un aérodrome français
+pour s'assurer de sa conformité avec les normes de sécurité et de sûreté qui lui sont applicables, qu'elles soient
+françaises, communautaires ou prises en application de la convention relative à l'aviation civile internationale, signée à
+Chicago le 7 décembre 1944.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 133-2, les mots " le ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 6 (V) JORF 6 janvier 2006
+
+	**Cité par**:
+
+	  - Arrêté du 7 décembre 2006 - art. 2.2 (V)
+	  - Code de l'aviation civile - art. L731-4 (VT)
+	  - Code de l'aviation civile - art. R133-12 (V)
+	  - Code de l'aviation civile - art. R133-16 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6221-2 (V)
+
+
+###### Article L133-3
+
+Lorsque l'exercice des activités ou l'exploitation des aéronefs, des produits ou des matériels mentionnés aux articles L.
+133-1 et L. 133-2 présente des risques particuliers pour la sécurité des biens et des personnes, le ministre chargé de
+l'aviation civile peut : 
+
+a) Prescrire des mesures correctives ou restrictives d'exploitation ; 
+
+b) En cas de risque immédiat, ordonner l'interdiction totale ou partielle de l'exercice des activités ou de l'utilisation des
+produits ou des matériels ; 
+
+c) Procéder à l'immobilisation au sol d'un aéronef jusqu'à l'élimination du risque identifié pour la sécurité ; 
+
+d) Subordonner à certaines conditions ou interdire l'activité en France d'un ou plusieurs exploitants d'aéronef d'un pays
+tiers au sens de l'article 2 de la directive 2004/36/ CE du Parlement européen et du Conseil du 21 avril 2004 concernant la
+sécurité des aéronefs des pays tiers empruntant des aéroports communautaires. 
+
+Les autorisations mentionnées à l'article L. 133-1 peuvent être retirées lorsque les méthodes de travail du titulaire, son
+comportement ou les matériels qu'il utilise créent un risque pour la sécurité.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 133-3 les mots " le ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 6 (V) JORF 6 janvier 2006
+
+	**Cité par**:
+
+	  - Arrêté du 24 novembre 2008 (Ab)
+	  - Code de l'aviation civile - art. L330-6 (VT)
+	  - Code de l'aviation civile - art. L410-5 (VT)
+	  - Code de l'aviation civile - art. R133-15 (V)
+	  - Code de l'aviation civile - art. R133-16 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L133-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6221-3 (V)
+
+
+###### Article L133-4
+
+Les agents de l'Etat, ainsi que les organismes ou personnes que le ministre chargé de l'aviation civile habilite à l'effet
+d'exercer les missions de contrôle au sol et à bord des aéronefs ont accès à tout moment aux aéronefs, aux terrains, aux
+locaux à usage professionnel et aux installations où s'exercent les activités contrôlées. Ils ont également accès aux
+documents de toute nature en relation avec les opérations pour lesquelles le contrôle est exercé.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 133-4 les mots " le ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 6 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R133-16 (V)
+	  - Code de l'aviation civile - art. R133-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6221-4 (V)
+
+
+###### Article L133-5
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 6 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6221-5 (V)
 
 
 ### TITRE IV : DOMMAGES ET RESPONSABILITES
@@ -4215,7 +4423,7 @@ de police judiciaire ainsi que, sur l'ordre et sous la responsabilité de ceux-c
 agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale et,
 d'autre part, les agents des douanes, peuvent procéder à la fouille et à la visite par tous moyens appropriés des personnes,
 des bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans les zones non librement
-accessibles au public des aérodromes et de leurs dépendances.
+accessibles au public des aérodromes et de leurs dépendances, ou sortant de celles-ci.
 
 Sont également habilités à procéder à ces fouilles et visites, sous le contrôle des officiers de police judiciaire ou des
 agents des douanes, les agents de nationalité française ou ressortissants d'un Etat membre de l'Union européenne désignés par
@@ -4225,8 +4433,9 @@ Ils ne procèdent à la fouille des bagages à main qu'avec le consentement de l
 qu'avec le consentement de la personne. Dans ce cas, la palpation de sécurité doit être faite par une personne du même sexe
 que la personne qui en fait l'objet.
 
-Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque l'octroi ou le maintien de ceux-ci apparaissent
-incompatibles avec l'exercice des missions susmentionnées.
+Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque la moralité de la personne ou son comportement ne
+présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des
+personnes, de l'ordre public ou sont incompatibles avec l'exercice des missions susmentionnées.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent I.
 
@@ -4244,7 +4453,7 @@ Futuna", "en Polynésie française" et "en Nouvelle-Calédonie".
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Cité par**:
 
@@ -4311,12 +4520,19 @@ Futuna", "en Polynésie française" et "en Nouvelle-Calédonie".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-863 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 9 (V)
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 9 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6342-2 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - Code de procédure pénale - art. 21
 
 
 ###### Article L282-9
@@ -5422,9 +5638,16 @@ effet qu'à compter de la publication des dispositions réglementaires du code d
 ###### Article L330-6
 
 Les entreprises de transport aérien sont soumises au contrôle technique que le ministre chargé de l'aviation civile exerce en
-vue d'assurer la sécurité aérienne.
+vue d'assurer la sécurité aérienne dans les mêmes conditions que celles prévues aux articles L. 133-1, 
+L. 133-3 et L. 133-4.
 
 Les dépenses entraînées par ce contrôle sont à la charge des entreprises.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 330-6, les mots " le ministre chargé de l'aviation civile " (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -5435,7 +5658,7 @@ Les dépenses entraînées par ce contrôle sont à la charge des entreprises.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Liens**:
 
@@ -5452,6 +5675,23 @@ Les dépenses entraînées par ce contrôle sont à la charge des entreprises.
 	  - Arrêté du 20 décembre 2004 - art. 8 (V)
 	  - Code de l'aviation civile - art. L330-11 (VT)
 	  - Code de l'aviation civile - art. L342-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6411-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L133-1 (VT)
+	  - Code de l'aviation civile - art. L133-3 (VT)
 
 
 ###### Article L330-7
@@ -6248,7 +6488,17 @@ L'agrément des organismes de formation, des centres d'expertise de médecine a�
 que l'habilitation des examinateurs prévus aux articles L. 410-2, L. 410-3 et L. 410-4 peuvent être retirés lorsque l'une des
 conditions d'agrément ou d'habilitation cesse d'être satisfaite ou lorsque l'organisme ou les personnes physiques présentent
 par leurs méthodes de travail, leur comportement ou les matériels utilisés un risque pour la sécurité et après que la
-personne concernée a été mise en mesure de présenter ses observations. En cas d'urgence, l'agrément peut être suspendu.
+personne concernée a été mise en mesure de présenter ses observations. En cas d'urgence, l'agrément peut être suspendu. 
+
+Ces organismes, ces centres d'expertise et ces personnes sont soumis au contrôle du ministre chargé de l'aviation civile dans
+les mêmes conditions que celles prévues aux articles L. 133-1, L. 133-3 et L. 133-4.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 410-5, les mots " du ministre chargé de l'aviation civile " et les mots " En cas d'urgence, l'agrément peut être suspendu
+". (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -6256,21 +6506,29 @@ personne concernée a été mise en mesure de présenter ses observations. En ca
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
-
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 17 () JORF 17 janvier 2001
-
 	**Cité par**:
 
 	  - Arrêté du 24 novembre 2003 - art. 7 (V)
 	  - Arrêté du 7 février 2005 - art. 6 (V)
 	  - Code de l'aviation civile - art. D410-3 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6511-9 (V)
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L410-2 (V)
-	  - Code de l'aviation civile - art. L410-3 (V)
-	  - Code de l'aviation civile - art. L410-4 (V)
+	  - Code de l'aviation civile - art. L133-1 (VT)
+	  - Code de l'aviation civile - art. L133-3 (VT)
+	  - Code de l'aviation civile - art. L410-2 (VT)
 
 
 ###### Article L410-6
@@ -7922,7 +8180,7 @@ exonérés du paiement des redevances.
 	  - Règlement CE 550-2004 2004-03-10
 
 
-## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS
+## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS - PROTECTION DE L'INFORMATION.
 
 ### TITRE Ier : DISPOSITIONS GENERALES
 
@@ -7973,14 +8231,6 @@ réalisation de tout ou partie d'une enquête technique.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
-
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
-
 	**Cité par**:
 
 	  - Décret n°2005-1383 du 4 novembre 2005 - art. 7 (Ab)
@@ -7992,6 +8242,21 @@ réalisation de tout ou partie d'une enquête technique.
 	  - Code de la défense. - art. L3125-2 (V)
 	  - Code de la défense. - art. R3125-4 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-3 (VD)
+	  - Code des transports - art. L6222-2 (V)
+	  - Code des transports - art. L6222-3 (V)
+	  - Code des transports - art. L6222-4 (Ab)
+
 
 ###### Article L711-2
 
@@ -7999,18 +8264,14 @@ L'enquête technique est effectuée par un organisme permanent spécialisé ou s
 un accident déterminé, par une commission d'enquête instituée par le ministre chargé de l'aviation civile.
 
 Dans le cadre de l'enquête, l'organisme permanent et les membres de la commission d'enquête agissent en toute indépendance et
-ne reçoivent ni ne sollicitent d'instructions d'aucune autorité, ni d'aucun organisme dont les intérêts pourraient entrer en
+ne reçoivent ni ne sollicitent d'instructions d'aucune autorité ni d'aucun organisme dont les intérêts pourraient entrer en
 conflit avec la mission qui leur est confiée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°2003-495 du 12 juin 2003 - art. 40 (Ab) JORF 13 juin 2003
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Cité par**:
 
@@ -8022,6 +8283,19 @@ conflit avec la mission qui leur est confiée.
 	  - Code de la défense. - art. L3125-2 (V)
 	  - Code de la défense. - art. R3125-1 (M)
 	  - Code de la défense. - art. R3125-26 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-6 (VD)
+	  - Code des transports - art. L1621-7 (VD)
 
 
 ###### Article L711-3
@@ -8043,11 +8317,7 @@ investigations sur le territoire national, lorsque leur participation est néces
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 29 () JORF 4 janvier 2002
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Cité par**:
 
@@ -8057,9 +8327,21 @@ investigations sur le territoire national, lorsque leur participation est néces
 	  - Code de la défense. - art. L3125-2 (V)
 	  - Code de la défense. - art. R3125-25 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-8 (VD)
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L721-1 (M)
+	  - Code de l'aviation civile - art. L721-1
 
 
 ### TITRE II : L'ENQUETE TECHNIQUE
@@ -8081,13 +8363,17 @@ Si nécessaire, les enquêteurs techniques ou, à défaut, les enquêteurs de pr
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-10 (VD)
 
 	**Cité par**:
 
@@ -8115,13 +8401,17 @@ l'officier de police judiciaire est sollicité par l'intermédiaire du procureur
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-11 (VD)
 
 
 ###### Article L721-3
@@ -8143,15 +8433,19 @@ l'autorité judiciaire.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-13 (VD)
 
 	**Cité par**:
 
@@ -8176,15 +8470,19 @@ l'analyse n'entraînent aucun droit à indemnité.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-12 (VD)
 
 
 ###### Article L721-5
@@ -8208,13 +8506,17 @@ de l'aéronef ou des aéronefs concernés.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-14 (VD)
 
 	**Cité par**:
 
@@ -8237,7 +8539,15 @@ légale concernant les victimes.
 
 	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 28 () JORF 4 janvier 2002
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-15 (VD)
 
 	**Cité par**:
 
@@ -8265,20 +8575,27 @@ après le vol de l'enregistrement des conversations et alarmes sonores.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6222-7 (Ab)
 
 
 ###### Article L722-2
 
-Toute personne impliquée, de par sa fonction, dans un incident qu'elle a spontanément et sans délai signalé à l'organisme
-permanent et, le cas échéant, à son employeur ne peut faire l'objet d'aucune sanction disciplinaire ou administrative, sauf
-en cas de manquement délibéré ou répété aux règles de sécurité.
+Toute personne physique ou morale qui, dans l'exercice d'une activité régie par le présent code, a connaissance d'un accident
+ou d'un incident d'aviation civile est tenue d'en rendre compte sans délai à l'organisme permanent, au ministre chargé de
+l'aviation civile ou, le cas échéant, à son employeur selon les modalités fixées par décret en Conseil d'Etat.
+
+La même obligation s'applique à l'égard de la connaissance d'un événement au sens de l'article 2 de la directive 2003/42/CE
+du Parlement européen et du Conseil du 13 juin 2003 concernant les comptes rendus d'événements dans l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -8286,17 +8603,19 @@ en cas de manquement délibéré ou répété aux règles de sécurité.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
-
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V)
+	  - Loi n°2006-10 2006-01-05 art. 7 I, II JORF 6 janvier 2006
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6222-8 (Ab)
+	  - Code des transports - art. L6223-1 (V)
 
 	**Cité par**:
 
@@ -8304,6 +8623,70 @@ en cas de manquement délibéré ou répété aux règles de sécurité.
 	  - Code de l'aviation civile - art. L741-1 (VT)
 	  - Code de l'aviation civile - art. R722-6 (M)
 	  - Code de l'aviation civile - art. R722-7 (M)
+
+	**Cite**:
+
+	  - Directive 2003-42 CE 2003-06-13
+
+
+###### Article L722-3
+
+Aucune sanction administrative, disciplinaire ou professionnelle ne peut être infligée à une personne qui a rendu compte d'un
+accident ou d'un incident d'aviation civile ou d'un événement au sens de l'article 2 de la directive 2003/42/CE du Parlement
+européen et du Conseil du 13 juin 2003 précitée, dans les conditions prévues à l'article L. 722-2, qu'elle ait été ou non
+impliquée dans cet accident, incident ou événement, sauf si elle s'est elle-même rendue coupable d'un manquement délibéré ou
+répété aux règles de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2003-42 CE 2003-06-13
+	  - Code de l'aviation civile - art. L722-2
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6222-9 (Ab)
+	  - Code des transports - art. L6223-2 (V)
+
+
+###### Article L722-4
+
+Le ministre chargé de l'aviation civile publie au moins une fois par an un rapport en matière de sécurité, contenant des
+informations sur les types d'accidents, d'incidents et d'événements recensés.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+722-4 (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 #### CHAPITRE III : PROCES-VERBAUX DE CONSTAT
@@ -8319,23 +8702,33 @@ personne qui en avait la garde.
 
 Lorsqu'une procédure judiciaire est ouverte, une copie du procès-verbal est adressée à l'autorité judiciaire.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le deuxième
+alinéa de l'article 723-1 (Fin de vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6222-6 (Ab)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L721-5 (M)
+	  - Code de l'aviation civile - art. L721-5
 
 
 ### TITRE III : DIFFUSION DES INFORMATIONS ET DES RAPPORTS D'ENQUETE
@@ -8364,14 +8757,6 @@ techniques, le déroulement de l'enquête technique et éventuellement ses concl
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
-
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
-
 	**Cité par**:
 
 	  - Loi n°2003-495 du 12 juin 2003 - art. 40 (Ab)
@@ -8379,9 +8764,22 @@ techniques, le déroulement de l'enquête technique et éventuellement ses concl
 	  - Code de l'aviation civile - art. R731-1 (Ab)
 	  - Code de la défense. - art. L3125-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-16 (VD)
+	  - Code des transports - art. L1621-17 (VD)
+
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-13
 
 
 ###### Article L731-2
@@ -8395,13 +8793,18 @@ dans des délais brefs est de nature à prévenir un accident ou un incident gra
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-20 (VD)
+	  - Code des transports - art. L6222-5 (Ab)
 
 
 ###### Article L731-3
@@ -8420,27 +8823,73 @@ intéressés. Ceux-ci sont tenus au secret professionnel en ce qui concerne les 
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1621-4 (VD)
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. L731-4 (VT)
 
 
-### TITRE IV : DISPOSITIONS PENALES
+###### Article L731-4
 
-#### CHAPITRE UNIQUE
+Le titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
+l'administration et le public, et diverses dispositions d'ordre administratif, social et fiscal ne s'applique ni aux
+documents recueillis pour l'établissement du rapport mentionné à l'article L. 731-3, ni aux comptes rendus d'accidents,
+d'incidents ou d'événements au sens de l'article 2 de la directive 2003/42/CE du Parlement européen et du Conseil du 13 juin
+2003 précitée, et aux documents s'y rapportant, ni aux rapports contenant les informations de sécurité portant sur les
+aéronefs de pays tiers mentionnés à l'article L. 133-2, ni aux rapports d'inspections effectuées sur ces mêmes aéronefs et
+tous documents s'y rapportant, établis par le ministre chargé de l'aviation civile ou reçus d'autres Etats membres de la
+Communauté européenne ou parties à l'Espace économique européen. Sans préjudice du respect des secrets protégés par la loi,
+leur diffusion et leur utilisation sont limitées à ce qui est nécessaire à l'amélioration de la sécurité.
 
-###### Article L741-1
+**Liens relatifs à cet article**
 
-Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour les personnes qui, de par leurs fonctions, sont
-appelées à connaître d'un accident ou d'un incident, de ne pas le porter à la connaissance des autorités administratives.
+	**Cite**:
+
+	  - Directive 2003-42 CE 2003-06-13 art. 2
+	  - Loi n°78-753 du 17 juillet 1978
+	  - Code de l'aviation civile - art. L133-2
+	  - Code de l'aviation civile - art. L731-3
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6222-10 (Ab)
+	  - Code des transports - art. L6223-3 (M)
+
+
+###### Article L731-5
+
+Le ministre chargé de l'aviation civile publie chaque année les mesures correctrices qu'il met en oeuvre à la suite des
+recommandations de sécurité émises par l'organisme permanent. Il justifie tout écart avec ces recommandations.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+731-5 (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -8448,16 +8897,52 @@ appelées à connaître d'un accident ou d'un incident, de ne pas le porter à l
 
 	  - Décret n°67-333 1967-03-30
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+### TITRE IV : DISPOSITIONS PENALES
+
+#### CHAPITRE UNIQUE.
+
+###### Article L741-1
+
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour les personnes qui, de par leurs fonctions, sont
+appelées à connaître d'un accident ou d'un incident, de ne pas en rendre compte dans les conditions fixées au premier alinéa
+de l'article L. 722-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 1967-03-30
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V)
+	  - Loi n°2006-10 2006-01-05 art. 7 I, V JORF 6 janvier 2006
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6232-10 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L722-2
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement 1103-97 CE 1997-06-17
+	  - TXT_SOURCE: Règlement 974-98 CE 1998-05-03
 
 
 ###### Article L741-2
@@ -8473,17 +8958,24 @@ les dissimulant, en les altérant ou en les faisant disparaître.
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Décret n°67-333 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1622-1 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
 ###### Article L741-3
@@ -8506,13 +8998,9 @@ laquelle l'infraction a été commise.
 
 	  - Décret n°67-333 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
 
 	**Cite**:
 
