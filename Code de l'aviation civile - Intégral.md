@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-01-24
 
 # Partie législative
 
@@ -2822,6 +2822,47 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Code de l'aviation civile - art. L282-11
 
 
+###### Article L213-5
+
+L'accès aux lieux de préparation et de stockage des biens et produits visés au premier alinéa de l'article L. 213-4 est
+soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le département et, à Paris, par le
+préfet de police.
+
+L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
+police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-333 du 30 mars 1967
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+	  - Code de l'aviation civile - art. L213-4
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 26 () JORF 24 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6342-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R213-15 (Ab)
+	  - Code de l'aviation civile - art. R213-17 (Ab)
+	  - Code de l'aviation civile - art. R213-7 (M)
+
+
 #### CHAPITRE V : DISPOSITIONS SANITAIRES.
 
 ###### Article L215-1
@@ -5153,6 +5194,43 @@ en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 	**Modifié par**:
 
 	  - Loi n°2002-3 du 3 janvier 2002 - art. 9 () JORF 4 janvier 2002
+
+
+###### Article L321-8
+
+L'accès aux lieux de traitement, de conditionnement et de stockage du fret et des colis postaux visés aux sixième et septième
+alinéas de l'article L. 321-7 est soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le
+département et, à Paris, par le préfet de police.
+
+L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
+police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+	  - Code de l'aviation civile - art. L321-7
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 26 () JORF 24 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6343-3 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R321-12 (Ab)
+	  - Code de l'aviation civile - art. R321-12-1 (Ab)
+	  - Code de l'aviation civile - art. R321-6 (Ab)
 
 
 #### CHAPITRE II : TRANSPORT DE PERSONNES.
