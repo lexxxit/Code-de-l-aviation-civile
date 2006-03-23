@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -7774,7 +7774,7 @@ est égal à celui en vigueur dans le régime général de la sécurité sociale
 
 Le paiement des cotisations est garanti pendant un an, à dater de leur exigibilité :
 
-a) Par un privilège mobilier qui prend rang concurremment avec celui établi par l'article 2101 (4°) du code civil ;
+a) Par un privilège mobilier qui prend rang concurremment avec celui établi par l'article 2331 (4°) du code civil ;
 
 b) Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques.
 
@@ -7790,9 +7790,13 @@ b) Par une hypothèque légale prenant rang du jour de son inscription au bureau
 	  - Code de l'aviation civile - art. L427-2 (VT)
 	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
 	**Cite**:
 
-	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2331 (V)
 	  - Code de l'aviation civile - art. L426-1 (V)
 
 
