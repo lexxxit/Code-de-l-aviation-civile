@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-06-14
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -7949,10 +7949,10 @@ essais et réception, pour une durée qui ne pourra être inférieure à quinze 
 
 ###### Article L510-1
 
-Par dérogation à l'article L. 46 (2e alinéa) du code du domaine de l'Etat, les matériels nécessaires à la pratique du vol à
-voile et du parachutisme peuvent faire l'objet soit d'une location, soit d'un prêt à usage au profit d'associations
-aéronautiques agréées. Dans l'un et l'autre cas le contrat a pour effet de transférer auxdites associations la responsabilité
-des dommages causés par les matériels loués ou prêtés.
+Conformément aux dispositions de l'article L. 2222-8 du code général de la propriété des personnes publiques, les matériels
+nécessaires à la pratique du vol à voile et du parachutisme peuvent faire l'objet soit d'une location, soit d'un prêt à usage
+au profit d'associations aéronautiques agréées. Dans l'un et l'autre cas le contrat a pour effet de transférer auxdites
+associations la responsabilité des dommages causés par les matériels loués ou prêtés.
 
 **Liens relatifs à cet article**
 
@@ -7964,14 +7964,25 @@ des dommages causés par les matériels loués ou prêtés.
 
 	  - Décret n°67-333 1967-03-30
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 	**Cité par**:
 
 	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
-	  - Code général de la propriété des personnes publ... - art. L2222-8 (V)
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat L46 al. 2
+	  - Code général de la propriété des personnes publiques. - art. L2222-8
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6611-1 (V)
 
 
 ### TITRE II : AIDE AUX JEUNES.
@@ -22463,49 +22474,48 @@ accident aérien.
 
 ###### Article R530-7
 
-Les indemnités prévues à l'article R. 530-5 sont fixées comme suit :
+Les indemnités prévues à l'article R. 530-5 sont fixées comme suit : 
 
 1° En cas d'invalidité permanente, après consolidation de la blessure et fixation du pourcentage définitif d'invalidité, la
-victime de l'accident reçoit une indemnité de :
+victime de l'accident reçoit une indemnité de : 
 
-102,90 euros pour une invalidité de 25 à 29 p. 100 ;
+102,90 euros pour une invalidité de 25 à 29 % ; 
 
-205,81 euros pour une invalidité de 30 à 34 p. 100 ;
+205,81 euros pour une invalidité de 30 à 34 % ; 
 
-308,71 euros pour une invalidité de 35 à 39 p. 100 ;
+308,71 euros pour une invalidité de 35 à 39 % ; 
 
-411,61 euros pour une invalidité de 40 à 44 p. 100 ;
+411,61 euros pour une invalidité de 40 à 44 % ; 
 
-514,52 euros pour une invalidité de 45 à 49 p. 100 ;
+514,52 euros pour une invalidité de 45 à 49 % ; 
 
-617,42 euros pour une invalidité de 50 à 54 p. 100 ;
+617,42 euros pour une invalidité de 50 à 54 % ; 
 
-720,32 euros pour une invalidité de 55 à 59 p. 100 ;
+720,32 euros pour une invalidité de 55 à 59 % ; 
 
-823,22 euros pour une invalidité de 60 à 64 p. 100 ;
+823,22 euros pour une invalidité de 60 à 64 % ; 
 
-926,13 euros pour une invalidité de 65 à 69 p. 100 ;
+926,13 euros pour une invalidité de 65 à 69 % ; 
 
-1 029,03 euros pour une invalidité égale ou supérieure à 70 p. 100.
+1 029,03 euro pour une invalidité égale ou supérieure à 70 %. 
 
-Ces allocations sont majorées de 30 p. 100 si la victime était mariée (non séparée de corps) au moment de l'accident. Lorsque
-le degré d'invalidité atteint au moins 70 p. 100 l'allocation indiquée ci-dessus est majorée de 457,35 euros par enfant
-mineur ou à charge vivant, légitime ou naturel reconnu.
+Ces allocations sont majorées de 30 % si la victime était mariée (non séparée de corps) au moment de l'accident. Lorsque le
+degré d'invalidité atteint au moins 70 % l'allocation indiquée ci-dessus est majorée de 457,35 euros par enfant mineur ou à
+charge vivant, légitime ou naturel reconnu. 
 
 2° En cas de décès, le conjoint non divorcé ni séparé de corps, à condition que le mariage ait été contracté antérieurement à
-l'accident, les enfants mineurs ou à charge, légitimes ou naturels reconnus et les ascendants à charge reçoivent une
-indemnité fixée comme suit :
+l'accident, les enfants mineurs ou à charge et les ascendants à charge reçoivent une indemnité fixée comme suit : 
 
-a) Pour la veuve, un capital de 686,02 euros ;
+a) Pour la veuve, un capital de 686,02 euros ; 
 
-b) Pour chacun des enfants 457,35 euros. Cette indemnité est majorée de 50 p. 100 pour les orphelins de père et mère, et pour
-les orphelins dont la mère est inhabile à recevoir une indemnité ;
+b) Pour chacun des enfants 457,35 euros. Cette indemnité est majorée de 50 % pour les orphelins de père et mère, et pour les
+orphelins dont la mère est inhabile à recevoir une indemnité ; 
 
 c) Pour chacun des ascendants, à la condition qu'il soit établi que la victime en était effectivement le soutien avant son
-décès, une indemnité globale et forfaitaire de 457,35 euros.
+décès, une indemnité globale et forfaitaire de 457,35 euros. 
 
 Les veuves, enfants et ascendants ne peuvent prétendre à une indemnité si, avant le décès, la victime avait déjà perçu une
-indemnité d'invalidité permanente au titre du fonds de prévoyance des sports aériens.
+indemnité d'invalidité permanente au titre du fonds de prévoyance des sports aériens. 
 
 Il faut entendre par enfant à charge, pour l'application des 1° et 2° qui précèdent, l'enfant qui, quel que soit son âge, est
 atteint d'une maladie incurable ou d'une infirmité le rendant inapte à tout travail rémunéré.
@@ -22518,7 +22528,7 @@ atteint d'une maladie incurable ou d'une infirmité le rendant inapte à tout tr
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°2006-640 du 1 juin 2006 - art. 22 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
