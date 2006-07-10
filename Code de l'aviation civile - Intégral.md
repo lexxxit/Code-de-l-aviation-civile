@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-11
 
 # Partie législative
 
@@ -11633,6 +11633,233 @@ missions lui incombant.
 	  - Décret n°2002-134 du 31 janvier 2002 - art. 3 () JORF 3 février 2002
 
 
+###### Article R211-8
+
+I.-Lorsque le ministre chargé de l'aviation civile a pris l'arrêté prévu au premier alinéa de l'article L. 211-3, tout
+exploitant d'un aérodrome dont le trafic dépasse le seuil fixé par cet arrêté doit être titulaire d'un certificat de sécurité
+aéroportuaire avant l'expiration d'un délai de dix-huit mois suivant, selon le cas, la publication de l'arrêté ou la date à
+laquelle le seuil de trafic est atteint. 
+
+A cette fin, l'exploitant doit déposer sa demande dans les six mois qui suivent l'une ou l'autre de ces deux dates. 
+
+L'arrêté mentionné au premier alinéa peut, en tant que de besoin, prévoir des délais différents. 
+
+II.-En l'absence de l'arrêté prévu au premier alinéa de l'article L. 211-3, tout exploitant d'aérodrome doit être titulaire
+d'un certificat de sécurité aéroportuaire dans un délai de dix-huit mois à compter, selon le cas, de la publication du décret
+n° 2006-827 du 10 juillet 2006 relatif au certificat de sécurité aéroportuaire et modifiant le code de l'aviation civile ou
+de la création de l'aérodrome. L'exploitant doit déposer sa demande dans les six mois qui suivent l'une ou l'autre de ces
+dates.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 (V)
+	  - Code de l'aviation civile - art. L211-3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R211-10 (V)
+
+
+###### Article R211-9
+
+Tout exploitant qui sollicite le certificat de sécurité aéroportuaire joint à sa demande un manuel d'aérodrome qui décrit les
+dispositions permettant d'assurer en toute sécurité et conformément aux normes en vigueur l'aménagement, le fonctionnement et
+l'usage des équipements, biens et services aéroportuaires nécessaires à la circulation des aéronefs dont la gestion incombe à
+l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 10 juillet 2006 - art. Annexe (V)
+
+
+###### Article R211-10
+
+Le ministre chargé de l'aviation civile s'assure par tous moyens que :
+
+a) Le manuel d'aérodrome est établi conformément à un plan type défini par arrêté du ministre chargé de l'aviation civile ;
+
+b) Les installations, les services, les équipements de l'aérodrome sont conformes aux lois et règlements qui leur sont
+applicables et font l'objet de procédures d'exploitation adéquates ;
+
+c) L'exploitant met en place un système de gestion de la sécurité selon les principes fixés par arrêté du ministre chargé de
+l'aviation civile ;
+
+d) L'exploitant veille à ce que les compétences de ses personnels et de ceux de ses sous-traitants soient adaptées aux
+missions qui leur sont confiées et à ce que leurs qualifications soient maintenues ;
+
+e) L'exploitant veille à la conformité aux lois et règlements applicables des installations et équipements de ses sous-
+traitants et à ce que ceux-ci établissent les procédures d'exploitation adéquates.
+
+Le silence gardé par le ministre chargé de l'aviation civile pendant plus de douze mois sur la demande mentionnée à l'article
+R. 211-8 vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 2011 - art. 1 (V)
+	  - Arrêté du 19 avril 2011 - art. 1 (VD)
+	  - Code de l'aviation civile - art. R211-11 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R211-8 (V)
+
+
+###### Article R211-11
+
+Le ministre chargé de l'aviation civile fixe, dans la limite de cinq années, la durée de validité du certificat de sécurité
+aéroportuaire. Celui-ci peut être renouvelé.
+
+En cas de changement d'exploitant, un nouveau certificat de sécurité aéroportuaire doit être demandé.
+
+Les caractéristiques essentielles de l'aérodrome et de son exploitation sont annexées au certificat de sécurité
+aéroportuaire.
+
+Lorsqu'une modification du manuel d'aérodrome affecte l'une des caractéristiques essentielles, l'exploitant sollicite la
+modification du certificat de sécurité aéroportuaire. Cette demande s'accompagne des parties modifiées du manuel d'aérodrome.
+
+Le manuel d'aérodrome est tenu à jour par l'exploitant et communiqué au ministre chargé de l'aviation civile.
+
+Dans les cas mentionnés au présent article, le délai prévu au dernier alinéa de l'article R. 211-10 est de six mois à compter
+de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R211-10 (V)
+
+
+###### Article R211-12
+
+Une copie du certificat de sécurité aéroportuaire ainsi que le manuel d'aérodrome sont transmis, le cas échéant, au
+signataire de la convention prévue à l'article L. 221-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L221-1 (V)
+
+
+###### Article R211-13
+
+I. - Le ministre chargé de l'aviation civile peut, à tout moment, faire procéder à des contrôles portant sur le respect par
+l'exploitant des dispositions décrites dans son manuel d'aérodrome et des normes en vigueur relatives à la sécurité de la
+circulation des aéronefs.
+
+L'exploitant est tenu, sur demande des agents chargés du contrôle, de leur communiquer tous les documents nécessaires à
+l'exercice de leurs missions.
+
+II. - En cas de manquements constatés aux dispositions décrites dans le manuel d'aérodrome ou à toute norme ou exigence
+afférente au certificat de sécurité aéroportuaire, le ministre chargé de l'aviation civile peut, après mise en demeure restée
+sans effet ou suivie de mesures insuffisantes, décider de restreindre l'utilisation de l'aérodrome ou de soumettre
+l'exploitant à des contrôles renforcés, selon des modalités et pour une durée qu'il fixe.
+
+En cas de risque grave pour la sécurité de l'aviation civile, le ministre chargé de l'aviation civile peut prononcer la
+suspension ou le retrait du certificat de sécurité aéroportuaire. La suspension ou l'abrogation est prononcée après que
+l'exploitant a été mis à même de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+
+###### Article R211-14
+
+Pour l'application des dispositions des articles R. 211-8 à R. 211-13, le ministre chargé de l'aviation civile peut, par
+arrêté, déléguer sa signature aux chefs des services déconcentrés de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile R211-8 à R211-13
+
+
+###### Article R211-15
+
+Les dispositions des articles R. 211-8 à R. 211-14 sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie
+française et en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-827 du 10 juillet 2006 - art. 1 () JORF 11 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile R211-8 à R211-14
+
+
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.
 
 ##### Section 1 : Champ d'application et compétence
@@ -14257,23 +14484,6 @@ qui ne comportent que des étapes courtes au départ de ces hydrobases, ou au to
 	  - Code de l'aviation civile - art. R211-5 (Ab)
 	  - Code de l'aviation civile - art. R221-10 (V)
 	  - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-
-###### Article R222-6
-
-Les aérodromes sont aménagés et équipés de manière à satisfaire aux activités correspondant à leur catégorie. Les modalités
-d'application du présent article seront précisées par un arrêté du ministre chargé de l'aviation civile, après avis du
-conseil supérieur de l'infrastructure et de la navigation aériennes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2006-827 2006-06-10 art. 2 JORF 11 juillet 2006
 
 	**Codifié par**:
 
