@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-11-23
+Version Consolidée au 2006-12-08
 
 # Partie législative
 
@@ -10058,42 +10058,6 @@ f) Les fusées.
 	  - Code de l'aviation civile - art. R133-1-1 (M)
 
 
-###### Article R133-1-3
-
-Les entreprises détenant un certificat d'agrément, ou sollicitant un tel certificat, en application de l'article R. 133-1-1,
-font l'objet d'un contrôle de l'Etat portant sur l'application des dispositions fixées par les conventions internationales,
-les lois et les règlements en vigueur dans les domaines prévus aux articles R. 133-1, R. 133-1-1 et R. 133-2.
-
-Ces entreprises doivent, sur demande des agents chargés du contrôle, leur communiquer tous les documents et leur permettre
-l'accès aux installations de l'entreprise nécessaire à l'exercice de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
-	  - Code de l'aviation civile - art. R330-12 (M)
-	  - Code de l'aviation civile - art. R330-13 (V)
-
-	**Modifié par**:
-
-	  - Décret n°99-74 du 2 février 1999 - art. 2 () JORF 5 février 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R133-1 (M)
-	  - Code de l'aviation civile - art. R133-1-1 (M)
-	  - Code de l'aviation civile - art. R133-2 (V)
-
-
 ###### Article R133-2
 
 Aucun aéronef appartenant à l'une des catégories définies par le ministre chargé de l'aviation civile ne peut être utilisé
@@ -10236,21 +10200,19 @@ ou interdite sur le territoire français ou une partie de celui-ci.
 
 Sauf lorsqu'elles relèvent de la compétence de l'Agence européenne de la sécurité aérienne en vertu des dispositions du
 règlement (CE) n° 1592/2002 du Parlement européen et du Conseil du 15 juillet 2002, les vérifications nécessaires à la
-délivrance et au maintien en état de validité des certificats, des laissez-passer, des licences et des agréments prévus aux
-articles R. 133-1, R. 133-1-1 et R. 133-2 et de la licence de station d'aéronefs mentionnée à l'article R. 133-2-1 sont
-exercées au sol et en vol soit par des agents de l'Etat soit par l'intermédiaire d'organismes techniques ou de personnes
-extérieures à l'administration disposant de la qualification technique nécessaire et habilités à cet effet par le ministre
-chargé de l'aviation civile.
+délivrance et au maintien en état de validité des certificats, des laissez-passer, des licences et des agréments prévus par
+la réglementation communautaire et le présent code sont effectuées par les agents, organismes ou personnes mentionnés à
+l'article L. 133-4. 
 
 L'habilitation des organismes techniques ou des personnes extérieures peut porter sur la délivrance et le maintien en état de
-validité par ceux-ci des certificats, des laissez-passer, des licences et des agréments cités à l'alinéa précédent.
+validité par ceux-ci des certificats, des laissez-passer, des licences et des agréments cités à l'alinéa précédent. 
 
 Des arrêtés du ministre chargé de l'aviation civile déterminent les cas, les conditions et les limites dans lesquels les
 agents de l'Etat, les organismes techniques ou les personnes extérieurs à l'administration habilités à cet effet exercent
-leur action.
+leur action. 
 
 Les contrôleurs auront, pour l'exercice de leur fonction et sur présentation d'un ordre de mission, accès à bord des
-aéronefs.
+aéronefs. 
 
 En ce qui concerne les contrôles en vol effectués à l'égard des transporteurs aériens, la liste des contrôleurs sera
 communiquée aux entreprises soumises à ces contrôles. Un titre de transport devra leur être délivré gratuitement.
@@ -10273,24 +10235,13 @@ communiquée aux entreprises soumises à ces contrôles. Un titre de transport d
 	  - Code de l'aviation civile - art. R133-5 (M)
 	  - Code de l'aviation civile - art. R611-6 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-794 2004-07-29 art. 4 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-794 du 29 juillet 2004 - art. 2 () JORF 3 août 2004
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 1 () JORF 8 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R133-1 (M)
-	  - Code de l'aviation civile - art. R133-1-1 (M)
-	  - Code de l'aviation civile - art. R133-1-2 (V)
-	  - Code de l'aviation civile - art. R133-2 (V)
-	  - Code de l'aviation civile - art. R133-2-1 (V)
-	  - Code de l'aviation civile - art. R133-4 (Ab)
-	  - Code de l'aviation civile - art. R133-9 (M)
-	  - Règlement 1592-2002 CE 2002-07-15 (Parlement et Conseil)
+	  - Code de l'aviation civile - art. L133-4 (VT)
 
 
 ###### Article R133-6
@@ -10338,30 +10289,6 @@ spéciale.
 	**Modifié par**:
 
 	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
-
-
-###### Article R133-8
-
-Tout aéronef qui atterrit ou décolle est soumis au contrôle et à la surveillance des autorités administratives quel que soit
-le lieu ou s'effectue le décollage ou l'atterrissage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 30
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006
 
 
 ###### Article R133-9
@@ -10437,6 +10364,179 @@ du territoire français si l'équivalence a été admise par convention internat
 	**Modifié par**:
 
 	  - Décret n°82-171 1982-02-16 art. 1 JORF 20 février 1982
+
+
+###### Article R133-12
+
+Les inspections au sol des aéronefs réalisées en application de l'article L. 133-2 sont exécutées dans des conditions fixées
+par arrêté du ministre chargé de l'aviation civile. 
+
+A l'issue de l'inspection au sol, le commandant de l'aéronef ou un représentant de l'exploitant de l'aéronef est informé des
+conclusions de l'inspection. Un rapport d'inspection est adressé à l'exploitant, ainsi qu'aux autorités compétentes de l'Etat
+dont relève l'exploitant si des défauts importants sont constatés. 
+
+Lorsqu'un rapport d'inspection comporte des informations fournies spontanément, la source de ces informations ne doit pas
+être identifiable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 2 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 7 décembre 2006 - art. 1 (V)
+	  - Code de l'aviation civile - art. R133-14 (V)
+	  - Code de l'aviation civile - art. R151-1 (M)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L133-2 (VT)
+
+
+###### Article R133-13
+
+Le ministre chargé de l'aviation civile organise la collecte, la gestion et le traitement des informations de sécurité
+concernant les aéronefs des pays tiers au sens de l'article 2 de la directive 2004/36/CE du Parlement européen et du Conseil
+du 21 avril 2004 concernant la sécurité des aéronefs des pays tiers empruntant les aéroports communautaires, notamment :
+
+a) Les informations de sécurité importantes qui sont accessibles, notamment, par le biais :
+
+- des rapports des pilotes ;
+
+- des rapports des organismes de maintenance ;
+
+- des rapports d'incidents ;
+
+- d'autres organismes indépendants des autorités compétentes des Etats membres ;
+
+- des plaintes ;
+
+b) Les informations concernant les mesures arrêtées à la suite d'une inspection au sol :
+
+- l'immobilisation de l'aéronef au sol ;
+
+- l'interdiction pour l'aéronef ou l'exploitant d'opérer à destination ou au-dessus du territoire français ;
+
+- les rectifications requises ;
+
+- les contacts pris avec l'autorité compétente de l'Etat dont relève l'exploitant ;
+
+c) Les informations de suivi concernant l'exploitant, telles que :
+
+- les rectifications apportées ;
+
+- la récurrence d'anomalies.
+
+Ces informations sont consignées sous une forme déterminée par arrêté du ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2004/36/CE 2004-04-21 Parlement
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 2 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 7 décembre 2006 - art. 1 (V)
+	  - Arrêté du 7 décembre 2006 - art. 4 (V)
+	  - Code de l'aviation civile - art. R133-14 (V)
+
+
+###### Article R133-14
+
+Les rapports et informations mentionnés aux articles R. 133-12 et R. 133-13 concernant les aéronefs des pays tiers sont
+transmis à la Commission européenne, et, sur leur demande, aux autorités aéronautiques des autres Etats membres de la
+Communauté européenne, des Etats parties à l'accord sur l'Espace économique européen et de la Confédération helvétique ainsi
+qu'à l'Agence européenne de la sécurité aérienne.
+
+Lorsque l'un de ces rapports ou informations révèle un risque pour la sécurité ou une absence de conformité aux normes de
+sécurité internationales, il est transmis dans tous les cas et sans délai aux autorités mentionnées à l'alinéa précédent
+ainsi qu'à celles de l'Etat dont relève l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 2 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R133-12 (Ab)
+	  - Code de l'aviation civile - art. R133-13 (V)
+
+
+###### Article R133-15
+
+Lorsqu'il immobilise un aéronef jusqu'à l'élimination du risque en application de l'article L. 133-3, le ministre chargé de
+l'aviation civile informe immédiatement les autorités compétentes de l'Etat dont relève l'exploitant et celles de l'Etat
+d'immatriculation de l'aéronef. 
+
+Le ministre chargé de l'aviation civile, lorsqu'il immobilise un aéronef, peut prescrire, en coordination avec l'Etat dont
+relève l'exploitant ou avec l'Etat d'immatriculation de l'aéronef, les conditions dans lequelles l'aéronef peut être autorisé
+à voler jusqu'à un aéroport dans lequel les anomalies pourront être rectifiées. Si les anomalies affectent la validité du
+certificat de navigabilité de l'aéronef, l'immobilisation ne peut être levée que si l'exploitant obtient la permission de
+l'Etat ou des Etats qui seront survolés lors du vol.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 2 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L133-3 (VT)
+
+
+###### Article R133-16
+
+Le ministre chargé de l'aviation civile peut, par arrêté, déléguer sa signature pour prendre les décisions concernant les
+inspections et mesures mentionnées à l'article L. 133-2 et aux paragraphes a, b et c de l'article L. 133-3, et pour prendre
+les décisions concernant l'habilitation mentionnée à l'article L. 133-4, aux chefs des services déconcentrés de l'aviation
+civile, au directeur de l'aviation civile Antilles-Guyane et au directeur du service de l'aviation civile de l'océan Indien,
+ainsi qu'aux fonctionnaires placés sous leur autorité. 
+
+En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis-et-Futuna les décisions mentionnées au premier alinéa
+sont prises par le représentant de l'Etat. Cette autorité peut, par arrêté, déléguer sa signature pour prendre ces décisions
+aux chefs des services d'Etat de l'aviation civile et aux fonctionnaires placés sous leur autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 2 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L133-2 (VT)
+	  - Code de l'aviation civile - art. L133-3 (VT)
+	  - Code de l'aviation civile - art. L133-4 (VT)
 
 
 #### CHAPITRE IV : REDEVANCES.
@@ -23168,9 +23268,46 @@ correspondante.
 	  - Code de l'aviation civile - art. R611-3 (V)
 
 
-## LIVRE VII : ENQUÊTE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS
+## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES
+### TITRE Ier : DISPOSITIONS GENERALES.
+
+###### Article R711-1
+
+L'organisme permanent spécialisé chargé, en application des articles L. 711-1 et L. 711-2, de procéder aux enquêtes
+techniques relatives aux accidents ou incidents dans l'aviation civile est un service à compétence nationale placé auprès du
+vice-président du conseil général des ponts et chaussées, qui a pour nom : "Bureau d'enquêtes et d'analyses pour la sécurité
+de l'aviation civile" et pour sigle "BEA".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1572 du 6 novembre 2007 - art. 3 (V)
+	  - Décret n°2008-680 du 9 juillet 2008 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R1621-1 (V)
+	  - Code des transports - art. R1621-5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1
+	  - Code de l'aviation civile - art. L711-2
+
 
 ###### Article R711-2
 
@@ -23179,20 +23316,17 @@ technique ainsi qu'à l'utilisation générale des enregistreurs de bord.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
 
 ###### Article R711-3
@@ -23201,20 +23335,13 @@ Le BEA comporte un secrétariat général, des départements et des divisions. I
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
 ###### Article R711-4
@@ -23226,18 +23353,21 @@ l'aviation civile.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
 	**Modifié par**:
 
-	  - Décret n°2005-470 du 16 mai 2005 - art. 9 () JORF 17 mai 2005
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R1621-6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
 
 ###### Article R711-5
@@ -23257,20 +23387,13 @@ du BEA.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
 ###### Article R711-6
@@ -23284,24 +23407,21 @@ service.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-3 (M)
+	  - Code de l'aviation civile - art. L711-3
 
 
 ###### Article R711-7
@@ -23316,20 +23436,13 @@ actes, décisions, contrats, conventions et avenants, ainsi que tous bons de com
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
 ###### Article R711-8
@@ -23341,24 +23454,25 @@ Il désigne l'enquêteur technique chargé d'en assurer l'organisation, la condu
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R1621-3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1
 
 
 ###### Article R711-9
@@ -23380,25 +23494,18 @@ française.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Directive 94-56 1994-11-21
+	  - Code de l'aviation civile - art. L711-1 (M)
+
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-
-	**Créé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-1 (M)
-	  - Directive 94-56 1994-11-21
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
 ###### Article R711-10
@@ -23437,64 +23544,24 @@ L'activité de la commission d'enquête prend fin à la publication du rapport d
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-2 (M)
-
-
-#### LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION
-
-##### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS
-
-###### Article R711-1
-
-L'organisme permanent spécialisé chargé, en application des articles L. 711-1 et L. 711-2, de procéder aux enquêtes
-techniques relatives aux accidents ou incidents dans l'aviation civile est un service à compétence nationale placé auprès du
-vice-président du conseil général des ponts et chaussées, qui a pour nom : "bureau d'enquêtes et d'analyses pour la sécurité
-de l'aviation civile" et pour sigle "BEA".
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°2005-470 du 16 mai 2005 - art. 9 () JORF 17 mai 2005
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-1572 du 6 novembre 2007 - art. 3 (V)
-	  - Décret n°2008-680 du 9 juillet 2008 (V)
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-1 (M)
-	  - Code de l'aviation civile - art. L711-2 (M)
+	  - Code de l'aviation civile - art. L711-2
 
 
-### TITRE II : DÉCOUVERTE D'ÉPAVES ET DÉCLARATIONS D'ACCIDENTS OU D'INCIDENTS
+### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS
 
 ###### Article R722-1
 
@@ -23503,20 +23570,13 @@ faire la déclaration sans délai au service de police ou de gendarmerie le plus
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 	**Cite**:
 
@@ -23536,30 +23596,23 @@ sur les accidents et les incidents dans l'aviation civile. Elle est publiée au 
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R722-3 (V)
 	  - Code de l'aviation civile - art. R722-4 (V)
 	  - Code de l'aviation civile - art. R722-5 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Cite**:
 
 	  - Directive 94-56 1994-11-21
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
 
 
 ###### Article R722-3
@@ -23584,16 +23637,9 @@ l'employeur au BEA.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-
-	**Créé par**:
-
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 	**Cite**:
 
@@ -23610,20 +23656,13 @@ de nature à préserver les informations pouvant être utiles à une enquête te
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001 rectificatif JORF 15 décembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 	**Cite**:
 
@@ -23639,12 +23678,31 @@ aéronefs, moteurs ou équipements, dès qu'ils en ont connaissance et quel que 
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
+	  - Décret n°67-334 1967-03-30
+
+	**Modifié par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R722-2 (V)
+
+
+###### Article R722-6
+
+Le ministre chargé de l'aviation civile définit et met en oeuvre un système de collecte, d'enregistrement et de gestion des
+informations issues des comptes rendus des événements mentionnés au deuxième alinéa de l'article L. 722-2. Les accidents et
+incidents mentionnés au premier alinéa de l'article L. 722-2 sont également intégrés dans ce système. Les informations
+collectées sont échangées avec les autres Etats membres de la Communauté économique européenne et les Etats parties à
+l'accord sur l'Espace économique européen, ainsi qu'avec la Confédération helvétique.
+
+Lorsque le ministre chargé de l'aviation civile porte à la connaissance du public des comptes rendus d'événements ou des
+rapports fondés sur ces comptes rendus, il en retire les informations permettant d'identifier leurs auteurs et les tiers.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -23652,14 +23710,80 @@ aéronefs, moteurs ou équipements, dès qu'ils en ont connaissance et quel que 
 
 	**Créé par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R722-2 (M)
+	  - Code de l'aviation civile - art. L722-2 (M)
 
 
-### TITRE III : RAPPORTS D'ENQUÊTE ET RECOMMANDATIONS DE SÉCURITÉ.
+###### Article R722-7
+
+Les obligations mentionnées à l'article L. 722-2 s'appliquent aux personnes suivantes :
+
+a) L'exploitant et le commandant de bord d'un aéronef à turbine ou exploité par une entreprise détenant un certificat de
+transporteur aérien ;
+
+b) Tout agent assurant les tâches de conception, de construction, d'entretien ou de modification d'un aéronef à turbine ou
+exploité par une entreprise détenant un certificat de transporteur aérien ou de tout équipement ou pièce s'y rapportant ;
+
+c) Tout agent qui délivre des certificats d'autorisation de remise en service après des opérations d'entretien d'un aéronef à
+turbine ou exploité par une entreprise détenant un certificat de transporteur aérien ;
+
+d) Tout agent d'un prestataire de services de navigation aérienne rendant des services à la circulation aérienne générale ;
+
+e) Tout agent d'un exploitant d'aérodrome détenant un certificat de sécurité aéroportuaire en application de l'article L.
+211-3 ;
+
+f) Les agents des services qui assurent l'installation, la modification, l'entretien, la réparation, la révision, la
+vérification en vol ou l'inspection des installations de navigation aérienne ;
+
+g) Tout agent d'une entreprise assurant des services d'assistance en escale mentionnés aux paragraphes 5, 6-2, 7, 8 et 9 de
+l'annexe à l'article R. 216-1.
+
+Les personnes ci-dessus désignées rendent compte à leur employeur, ou à défaut :
+
+- au ministre de la défense, lorsqu'elles relèvent de son autorité ; dans ce cas, le ministre de la défense transmet ces
+informations au ministre chargé de l'aviation civile ;
+
+- au ministre chargé de l'aviation civile, dans tous les autres cas.
+
+En outre, lorsqu'il s'agit d'événements dans le domaine de la gestion du trafic aérien, les personnes mentionnées au a
+informent le prestataire de services de navigation aérienne civil ou militaire concerné.
+
+Le ministre de la défense détermine par arrêté les conditions dans lesquelles les personnes relevant de son autorité lui
+rendent compte, aux fins de l'application de l'alinéa précédent.
+
+L'employeur ou le prestataire de services de navigation aérienne transmet les informations qui lui ont été communiquées :
+
+- au ministre de la défense, suivant des modalités définies par arrêté conjoint du ministre chargé de l'aviation civile et du
+ministre de la défense, lorsqu'ils relèvent de ce dernier ; dans ce cas, le ministre de la défense transmet ces informations
+au ministre chargé de l'aviation civile ;
+
+- au ministre chargé de l'aviation civile, suivant des modalités définies par arrêté du ministre chargé de l'aviation civile,
+dans tous les autres cas.
+
+La liste des événements dont les personnes sont tenues de rendre compte en application du deuxième alinéa de l'article L.
+722-2 est fixée par arrêté conjoint des deux ministres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L211-3 (V)
+	  - Code de l'aviation civile - art. L722-2 (M)
+	  - Code de l'aviation civile - art. R216-1 (V)
+
+
+### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.
 
 ###### Article R731-1
 
@@ -23671,24 +23795,21 @@ d'accidents d'aviation civile, leurs familles et leurs associations représentat
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L731-1 (M)
+	  - Code de l'aviation civile - art. L731-1
 
 
 ###### Article R731-2
@@ -23699,24 +23820,25 @@ nécessaire à leur mise en oeuvre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-1 (M)
+	  - Code de l'aviation civile - art. L711-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R1621-9 (M)
 
 
 ###### Article R731-3
@@ -23727,13 +23849,6 @@ relations entre l'administration et le public. Ils sont mis à la disposition du
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
@@ -23742,12 +23857,12 @@ relations entre l'administration et le public. Ils sont mis à la disposition du
 
 	  - Loi n°78-753 1978-07-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
-### TITRE IV : DISPOSITIONS PÉNALES
+### TITRE IV : DISPOSITIONS PENALES.
 
 ###### Article R741-1
 
@@ -23756,24 +23871,17 @@ l'article R. 722-1 est puni de l'amende prévue pour les contraventions de 2e cl
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Convention 1944-12-07
-	  - TXT_SOURCE: Directive 94-56 1994-11-21
-	  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-	  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
+	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R722-1 (M)
+	  - Code de l'aviation civile - art. R722-1 (V)
 
 
 # Partie réglementaire - Décrets simples
