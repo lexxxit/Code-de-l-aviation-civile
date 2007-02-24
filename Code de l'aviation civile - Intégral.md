@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-02-25
 
 # Partie législative
 
@@ -12049,21 +12049,14 @@ l'article R. 217-1.
 
 Sans préjudice des compétences reconnues aux officiers et agents de police judiciaire, ainsi qu'aux agents mentionnés à
 l'article 2 de la loi du 29 floréal an X, les contraventions de grande voirie sur les aérodromes peuvent être constatées par
-les ingénieurs de l'aviation civile et les ingénieurs des études et de l'exploitation de l'aviation civile.
+les ingénieurs de l'aviation civile et les ingénieurs des études et de l'exploitation de l'aviation civile, ainsi que par les
+agents de l'exploitant de l'aérodrome assermentés et habilités à cet effet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
-
-	**Créé par**:
-
-	  - Décret n°91-262 du 4 mars 1991 - art. 6 () JORF 9 mars 1991
 
 	**Cité par**:
 
@@ -12083,6 +12076,14 @@ les ingénieurs de l'aviation civile et les ingénieurs des études et de l'expl
 	  - Code de l'aviation civile - art. R217-3 (V)
 	  - Code de l'aviation civile - art. R217-3-3 (V)
 	  - Code de l'aviation civile - art. R321-5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2007-244 du 23 février 2007 - art. 3 () JORF 25 février 2007
+
+	**Transféré par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 2 () JORF 11 mai 2007
 
 	**Nouveaux textes**:
 
@@ -14779,6 +14780,37 @@ cahier des charges.
 	  - Code de l'aviation civile - art. R224-1 (V)
 
 
+###### Article R223-7
+
+I. - Les dispositions du présent article sont applicables à l'ensemble des aérodromes civils appartenant à l'Etat nonobstant
+toute disposition contraire des concessions en cours.
+
+II. - Pour les besoins du bon fonctionnement aéroportuaire et de l'information des services de l'Etat, les transporteurs
+aériens sont tenus de fournir à l'exploitant de l'aérodrome, avec un préavis suffisant, les informations qu'ils détiennent
+sur les vols au départ ou à l'arrivée, notamment leur origine ou leur destination, leurs horaires programmés et
+prévisionnels, le type d'aéronef, le nombre de passagers et le tonnage de fret embarqués et débarqués.
+
+III. - Pour les besoins de l'information des services de l'Etat, les entreprises d'assistance en escale sont tenues de
+communiquer à l'exploitant de l'aérodrome, dans un délai d'un mois après la fin de chaque saison aéronautique, la liste des
+transporteurs aériens qu'elles ont assistés pendant la saison en précisant les services concernés et, le cas échéant, la
+liste des entreprises sous-traitantes auxquelles elles ont eu recours.
+
+IV. - Pour les besoins de l'information par l'exploitant de l'aérodrome des passagers et du public, les transporteurs aériens
+ou leurs représentants sont tenus de fournir à tout moment à l'exploitant, à sa demande, les informations nécessaires sur
+l'exploitation de leurs vols, concernant notamment la programmation et les correspondances des vols, leurs horaires et
+retards éventuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-244 du 23 février 2007 - art. 5 () JORF 25 février 2007
+
+
 #### CHAPITRE IV : REDEVANCES.
 
 ##### Section 1 : Dispositions générales
@@ -15224,9 +15256,9 @@ e) Une fois conclu, le contrat est rendu public.
 III. - Lorsqu'un contrat a été conclu, l'exploitant engage la consultation des usagers au moins trois mois avant le début de
 chaque période tarifaire.
 
-Il notifie les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles mentionnées au deuxième alinéa du 2°, et,
-le cas échéant, les modulations de celles-ci, par lettre recommandée avec avis de réception et deux mois au moins avant le
-début de chaque période tarifaire, aux ministres chargés de l'aviation civile et de l'économie. Cette notification est
+Il notifie les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles mentionnées au troisième alinéa du 2°,
+et, le cas échéant, les modulations de celles-ci, par lettre recommandée avec avis de réception et deux mois au moins avant
+le début de chaque période tarifaire, aux ministres chargés de l'aviation civile et de l'économie. Cette notification est
 accompagnée de l'avis de la commission consultative économique de l'aérodrome, des éléments permettant de vérifier le respect
 du contrat et des informations mentionnées au IV de l'article R. 224-3.
 
@@ -15241,10 +15273,6 @@ notification, en cas de manquement aux règles générales applicables aux redev
 
 	  - Décret n°67-334 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
-
 	**Cité par**:
 
 	  - Arrêté du 16 septembre 2005 - art. 2 (V)
@@ -15258,6 +15286,10 @@ notification, en cas de manquement aux règles générales applicables aux redev
 	  - Code de l'aviation civile - art. R224-4-2 (Ab)
 	  - Code de l'aviation civile - art. R224-4-3 (Ab)
 	  - Code de l'aviation civile - art. R260-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-244 du 23 février 2007 - art. 4 () JORF 25 février 2007
 
 	**Cite**:
 
@@ -15276,7 +15308,7 @@ I. - En l'absence de contrat, l'exploitant notifie, par lettre recommandée avec
 avant le début de chaque période annuelle, les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles
 mentionnées au troisième alinéa du 2°, et, le cas échéant, leurs modulations, pour homologation par les ministres chargés de
 l'aviation civile et de l'économie. Cette notification est accompagnée des éléments mentionnés à l'article R. 224-3-1 et au
-IV de l'article R. 224-2 ainsi que de l'avis de la commission consultative économique de l'aérodrome.
+IV de l'article R. 224-3 ainsi que de l'avis de la commission consultative économique de l'aérodrome.
 
 Les tarifs des redevances et, le cas échéant, leurs modulations sont réputés homologués et deviennent exécutoires dans les
 conditions fixées au V de l'article R. 224-3 à moins que les ministres chargés de l'aviation civile et de l'économie n'y
@@ -15305,14 +15337,14 @@ qui deviennent exécutoires dans les conditions fixées au V de l'article R. 224
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
-
-	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
-
 	**Cité par**:
 
 	  - Arrêté du 16 septembre 2005 - art. 2 (V)
 	  - Code de l'aviation civile - art. R224-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-244 du 23 février 2007 - art. 4 () JORF 25 février 2007
 
 	**Cite**:
 
