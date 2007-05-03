@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-04-28
+Version Consolidée au 2007-05-04
 
 # Partie législative
 
@@ -11239,8 +11239,9 @@ de la personne qu'il remplace.
 ###### Article R160-8
 
 Afin d'instruire l'affaire dont est saisie la commission, un rapporteur est choisi par le président soit sur une liste de
-personnalités établie par le ministre chargé de l'aviation civile, soit parmi les fonctionnaires de la direction générale de
-l'aviation civile appartenant à un corps de catégorie A.
+personnalités établie par le ministre chargé de l'aviation civile, soit parmi les fonctionnaires appartenant à un corps de
+catégorie A de la direction générale de l'aviation civile ou, pour les manquements relevant du paragraphe 5 de l'article R.
+330-20 et commis par des agents de voyages, de la direction du tourisme.
 
 Le président ou le rapporteur peuvent demander l'audition de toute personne ou la production de toute pièce qu'ils estiment
 utile à l'examen de l'affaire dont la commission a été saisie.
@@ -11258,13 +11259,9 @@ Les membres de la commission sont tenus au respect de la confidentialité des do
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
 
 	**Cité par**:
 
@@ -11272,6 +11269,10 @@ Les membres de la commission sont tenus au respect de la confidentialité des do
 	  - Code de l'aviation civile - art. R217-5-1 (V)
 	  - Code de l'aviation civile - art. R217-7 (Ab)
 	  - Code de l'aviation civile - art. R330-21 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-20 (M)
 
 
 ###### Article R160-9
@@ -17925,6 +17926,113 @@ l'article R. 321-1.
 	  - Code de l'aviation civile - art. R321-1 (V)
 
 
+###### Article R322-3
+
+Dans le présent chapitre, les notions de "transporteur contractuel" et de "transporteur de fait" s'entendent au sens du
+chapitre V de la convention pour l'unification de certaines règles relatives au transport aérien international, signée à
+Montréal le 28 mai 1999. Le transporteur effectif est celui des deux qui assure le service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R330-20 (V)
+	  - Code du tourisme. - art. R211-19 (V)
+
+	**Cite**:
+
+	  - Convention de Montréal 1999-05-28
+
+
+###### Article R322-4
+
+Toute personne qui commercialise des titres de transport aérien informe le consommateur, pour chaque tronçon de vol, de
+l'identité du transporteur contractuel et, le cas échéant, du transporteur de fait.
+
+Cette infomation est communiquée par écrit ou par voie électronique dès que l'identité du transporteur effectif est connue et
+au plus tard lors de la conclusion du contrat de transport aérien.
+
+Pour les contrats conclus par téléphone, le consommateur reçoit un document écrit ou électronique confirmant cette
+information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 31 juillet 2015 - art. 7 (V)
+	  - Code de l'aviation civile - art. R322-5 (V)
+
+
+###### Article R322-5
+
+Pour les vols non réguliers affrétés, l'information prévue à l'article R. 322-4 est fournie sous la forme d'une liste
+comprenant au maximum, par tronçon, trois transporteurs, au nombre desquels figurent le transporteur contractuel et le
+transporteur de fait auquel l'affréteur commercial aura éventuellement recours.
+
+Dès qu'elle est connue, l'identité du transporteur aérien effectif est communiquée par écrit ou par voie électronique au
+consommateur. Cette information est communiquée au plus tard huit jours avant la date prévue au contrat de transport ou au
+moment de la conclusion du contrat si celle-ci intervient moins de huit jours avant le début du voyage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R322-4 (V)
+
+
+###### Article R322-6
+
+Après la conclusion du contrat de transport aérien, le transporteur contractuel informe le consommateur, pour chaque tronçon
+de vol figurant à ce contrat, de toute modification de l'identité du transporteur assurant effectivement ce tronçon.
+
+Cette modification, dès qu'elle est connue, est portée sans délai à la connaissance du consommateur, le cas échéant par
+l'intermédiaire de la personne ayant vendu le titre de transport aérien. Le consommateur en est informé au plus tard au
+moment de l'enregistrement ou, en cas de correspondance s'effectuant sans enregistrement préalable, avant les opérations
+d'embarquement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+
+
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
 
 ###### Article R330-1
@@ -18848,7 +18956,10 @@ de validité lorsque celle-ci est requise en application de l'article L. 330-1 ;
 330-3 ;
 
 4. Soit ne respecte pas les dispositions relatives au dépôt et à l'homologation des tarifs prises en application de l'article
-L. 330-8.
+L. 330-8 ;
+
+5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111/2005 du 14 décembre 2005 reprises aux articles R.
+322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur aérien.
 
 **Liens relatifs à cet article**
 
@@ -18874,7 +18985,7 @@ L. 330-8.
 
 	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
 
 	**Cite**:
 
@@ -18883,6 +18994,8 @@ L. 330-8.
 	  - Code de l'aviation civile - art. L330-3 (M)
 	  - Code de l'aviation civile - art. L330-8 (M)
 	  - Code de l'aviation civile - art. R160-3 (V)
+	  - Code de l'aviation civile R160-3, L330-1, L330-2, L330-3, L330-8, R322-3 à R322-6
+	  - Règlement CE 2111-2005 2005-12-14
 
 
 ###### Article R330-21
