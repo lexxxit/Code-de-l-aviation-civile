@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-05-04
+Version Consolidée au 2007-05-11
 
 # Partie législative
 
@@ -11970,38 +11970,6 @@ française et en Nouvelle-Calédonie.
 La police de la conservation et la police de l'exploitation des aérodromes et des installations à usage aéronautique
 mentionnées à l'article L. 213-1 sont exercées dans les conditions définies par le présent chapitre.
 
-Les exploitants d'aérodromes, les entreprises de transport aérien, les entreprises qui leur sont liées par un contrat de
-louage de services visé au deuxième alinéa de l'article L. 282-8 et les autres personnes autorisées à occuper ou utiliser la
-zone réservée définie à l'article R. 213-2 sont tenus de respecter les mesures édictées en vue de prévenir toute intervention
-illicite pouvant compromettre la sûreté des vols et des personnes. Ils tiennent à jour pour chaque aérodrome où ils exercent
-leur activité un programme de sûreté qui comprend obligatoirement la description de leur activité et de l'organisation qu'ils
-adoptent pour satisfaire à leurs obligations en matière de sûreté et assurer la qualité des mesures qui leur incombent, ainsi
-que des modalités de recours à la sous-traitance.
-
-Les employeurs ne peuvent faire exécuter les tâches concourant à la mise en oeuvre de ces mesures en zone réservée que par
-des personnes ayant bénéficié de formations initiales et continues et d'entraînements périodiques qu'ils leur dispensent. Ces
-formations et ces entraînements portent sur les principes généraux de sûreté et les techniques de prévention contre
-l'introduction de substances et objets illicites dans la zone réservée.
-
-Sans préjudice des pouvoirs dévolus aux préfets par l'article L. 213-2 du présent code, les mesures mentionnées au deuxième
-alinéa ci-dessus font l'objet d'arrêtés pris :
-
-- par le ministre chargé des transports en ce qui concerne les conditions techniques relatives aux infrastructures et
-matériels ;
-
-- conjointement par les ministres chargés des transports, de la défense, de l'intérieur et des douanes, pour les autres
-dispositions, notamment en ce qui concerne les procédures, dans le respect des dispositions de l'article L. 282-8.
-
-Les dispositions de ces arrêtés peuvent être communes à plusieurs aérodromes ou différentes selon le trafic des plates-
-formes, la destination des vols ou l'existence de circonstances spécifiques locales au regard des objectifs de sûreté des
-vols et des personnes.
-
-Le ministre chargé des transports prend les mesures urgentes rendues nécessaires par une situation particulière mettant en
-cause la sûreté des vols et des personnes.
-
-Les infractions aux arrêtés et mesures pris en application du présent article sont passibles des sanctions prévues à
-l'article R. 217-1.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12028,30 +11996,102 @@ l'article R. 217-1.
 	  - Code de l'aviation civile - art. R282-5 (Ab)
 	  - Code de l'aviation civile - art. R611-5 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 1 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L213-1 (M)
-	  - Code de l'aviation civile - art. L213-2 (M)
-	  - Code de l'aviation civile - art. L282-8 (M)
-	  - Code de l'aviation civile - art. R213-2 (M)
 
-
-##### Section 2 : Police de la conservation
 
 ###### Article R213-1-1
 
-Sans préjudice des compétences reconnues aux officiers et agents de police judiciaire, ainsi qu'aux agents mentionnés à
-l'article 2 de la loi du 29 floréal an X, les contraventions de grande voirie sur les aérodromes peuvent être constatées par
-les ingénieurs de l'aviation civile et les ingénieurs des études et de l'exploitation de l'aviation civile, ainsi que par les
-agents de l'exploitant de l'aérodrome assermentés et habilités à cet effet.
+I. - Les exploitants des aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse 70 000 passagers
+ou figurant sur une liste fixée par le ministre chargé des transports sont tenus :
+
+- de mettre en oeuvre un service d'inspection filtrage des passagers et des bagages de cabine (IFPBC) ;
+
+- de mettre en oeuvre un service d'inspection filtrage des bagages de soute (IFBS) et de maintenir leur intégrité jusqu'à
+leur remise aux entreprises de transport aérien ;
+
+- de mettre en oeuvre un dispositif de protection et de surveillance des limites des parties communes de la zone réservée et
+d'équiper certaines zones de dispositifs destinés à en faciliter la surveillance ;
+
+- de mettre en oeuvre un service d'inspection filtrage des personnes, biens, produits et véhicules pénétrant dans la zone
+réservée par un des accès communs de cette zone ou dans les parties critiques de cette zone au sens de la réglementation
+communautaire ;
+
+- d'aménager les infrastructures qu'ils exploitent en tenant compte des impératifs de sûreté.
+
+II. - Les entreprises de transport aérien opérant au départ des aérodromes mentionnés au I sont tenues :
+
+- de mettre en oeuvre des mesures de sûreté relatives aux passagers et à leurs bagages lors de leur enregistrement, de leur
+prise en charge et de leur embarquement ;
+
+- de maintenir l'intégrité des bagages de soute après leur remise par l'exploitant d'aérodrome jusqu'à leur chargement dans
+l'aéronef ;
+
+- de mettre en oeuvre des mesures de sûreté relatives aux biens et produits utilisés à bord des aéronefs ainsi qu'au fret,
+colis et matériel transporté par l'entreprise de transport aérien pour son propre compte ;
+
+- de protéger les aéronefs qu'elles exploitent et de procéder aux opérations de sûreté ;
+
+- d'établir les cartes de navigants prévues à l'article R. 213-4 et de soumettre leurs équipages, ainsi que leurs bagages, à
+des procédures d'inspection filtrage.
+
+III. - Les entreprises ou organismes autorisés à occuper ou utiliser la zone réservée des aérodromes mentionnés au I sont
+tenus, lorsqu'ils occupent des lieux à usage exclusif :
+
+- de mettre en oeuvre le contrôle d'accès à ces lieux ;
+
+- de mettre en oeuvre l'inspection filtrage des personnes, biens, produits et véhicules accédant à la zone réservée par ces
+lieux ;
+
+- d'appliquer les prescriptions liées à cette occupation qui font l'objet d'un arrêté préfectoral.
+
+IV. - Les entreprises ou organismes mentionnés aux I, II et III du présent article sont tenus :
+
+- d'établir, de mettre à jour et d'appliquer un programme de sûreté décrivant les mesures qu'ils mettent en oeuvre
+conformément à la réglementation applicable, et de désigner un responsable sûreté ;
+
+- d'établir, de mettre à jour et d'appliquer un programme d'assurance qualité décrivant l'organisation et les procédures
+adoptées pour assurer la conformité et la qualité des mesures précitées.
+
+Les programmes de sûreté sont modifiés, le cas échéant, pour tenir compte des changements de la réglementation et des
+prescriptions particulières imposées par l'autorité administrative.
+
+V. - Les entreprises ou organismes qui utilisent des équipements de détection doivent être en mesure de justifier à tout
+moment qu'elles respectent les règles applicables à l'utilisation de ces équipements, concernant notamment la certification
+ou la justification des performances ainsi que les procédures d'utilisation.
+
+VI. - Les employeurs des personnes qui exécutent les tâches concourant à la mise en oeuvre des mesures requises au titre des
+I, II et III du présent article, des personnes agréées en application de l'article L. 282-8 et des personnes qui effectuent
+les vérifications spéciales mentionnées à l'article R. 321-10 sont tenus d'établir, de mettre à jour et d'appliquer, dans les
+conditions fixées à l'article R. 213-10, un plan relatif aux formations initiales et continues, ainsi que, le cas échéant,
+aux entraînements périodiques, dispensés aux personnes chargées des tâches suivantes :
+
+- enregistrement et embarquement des passagers et de leurs bagages ;
+
+- transport, réception, conditionnement, manutention, vérification et surveillance des bagages de soute, du fret, de la
+poste, des biens et produits utilisés à bord des aéronefs ;
+
+- préparation des biens et produits utilisés à bord ;
+
+- maintenance des aéronefs en exploitation ;
+
+- vérification et fouille de sûreté des aéronefs ;
+
+- surveillance et contrôle de l'accès aux aéronefs en exploitation ;
+
+- surveillance et contrôle des accès aux installations ;
+
+- contrôle de l'exécution des mesures de sûreté ;
+
+- visite des personnes, des bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans
+les zones non librement accessibles au public des aérodromes et de leurs dépendances ;
+
+- vérification spéciale du fret et des colis postaux.
 
 **Liens relatifs à cet article**
 
@@ -12080,15 +12120,163 @@ agents de l'exploitant de l'aérodrome assermentés et habilités à cet effet.
 
 	**Modifié par**:
 
-	  - Décret n°2007-244 du 23 février 2007 - art. 3 () JORF 25 février 2007
+	  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
 
-	**Transféré par**:
+	**Cite**:
 
-	  - Décret n°2007-775 du 9 mai 2007 - art. 2 () JORF 11 mai 2007
+	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Code de l'aviation civile - art. R321-10 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de l'aviation civile - art. R213-1-5 (V)
+
+
+###### Article R213-1-2
+
+Sans préjudice des pouvoirs dévolus aux préfets par l'article L. 213-2, les modalités d'application de l'article R. 213-1-1
+font l'objet d'arrêtés pris :
+
+- par le ministre chargé des transports, en ce qui concerne les conditions techniques relatives aux infrastructures et
+matériels ;
+
+- conjointement par les ministres chargés des transports, de la défense, de l'intérieur et des douanes, pour les autres
+dispositions, notamment en ce qui concerne les procédures, dans le respect des dispositions de l'article L. 282-8.
+
+- les dispositions de ces arrêtés peuvent être communes à plusieurs aérodromes ou différentes selon le trafic des plates-
+formes, la destination des vols ou l'existence de circonstances spécifiques locales au regard des objectifs de sûreté des
+vols et des personnes ;
+
+- les ministres chargés des transports et de l'intérieur prennent conjointement les mesures urgentes rendues nécessaires par
+une situation particulière mettant en cause la sûreté des vols et des personnes. Ces mesures urgentes ne peuvent être
+prorogées au-delà de dix jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-2 (M)
+	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Code de l'aviation civile - art. R213-1-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R213-7 (Ab)
+	  - Code de l'aviation civile - art. R217-3 (VT)
+
+
+###### Article R213-1-3
+
+I. - Le programme de sûreté des exploitants d'aérodrome mentionnés au I de l'article R. 213-1-1 et ses modifications
+ultérieures font l'objet d'une approbation pour une durée maximale de cinq ans par le préfet exerçant les pouvoirs de police
+sur l'aérodrome après instruction des services de l'aviation civile.
+
+II. - Le programme de sûreté des entreprises de transport aérien mentionnées au II de l'article R. 213-1-1 comporte un volet
+décrivant les procédures communes applicables à l'ensemble des escales et un ou plusieurs volets décrivant les procédures
+spécifiques à chaque escale. Le volet commun du programme de sûreté est approuvé pour une durée maximale de cinq ans ainsi
+que ses modifications ultérieures par le préfet du lieu où l'entreprise a sa principale base d'exploitation, après
+instruction technique des services de l'aviation civile. Le volet local concernant les escales dont le trafic est supérieur à
+un seuil fixé par arrêté pris par le ministre chargé des transports est approuvé pour une durée maximale de cinq ans par le
+préfet exerçant les pouvoirs de police sur l'aérodrome concerné après instruction des services de l'aviation civile et après
+consultation des services locaux compétents de l'Etat.
+
+III. - Les modalités d'approbation des programmes de sûreté, notamment les conditions dans lesquelles les approbations
+délivrées par les autorités étrangères peuvent être reconnues, font l'objet, en tant que de besoin, d'un arrêté du ministre
+chargé des transports.
+
+IV. - Lorsque des manquements aux dispositions prévues par un programme de sûreté mentionné au I et au II du présent article
+sont constatés, l'autorité administrative ayant approuvé le programme de sûreté ou le préfet territorialement compétent
+peuvent imposer des mesures de nature à compenser le manquement constaté, ou restrictives d'exploitation. L'entreprise
+concernée est préalablement avisée de la mesure envisagée et dispose d'un délai de quinze jours pour présenter ses
+observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 29 août 2007 - art. 1 (Ab)
+	  - Arrêté du 29 août 2007 - art. 2 (Ab)
+	  - Code de l'aviation civile - art. R213-7 (Ab)
+	  - Code de l'aviation civile - art. R217-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R213-1-1 (M)
+
+
+###### Article R213-1-4
+
+Pour les aérodromes autres que ceux mentionnés au I de l'article R. 213-1-1, les mesures de sûreté sont définies par le
+préfet dans les conditions fixées à l'article R. 213-3. Les arrêtés préfectoraux peuvent rendre applicable tout ou partie des
+mesures prévues aux articles R. 213-1-1 à R. 213-1-3 et édicter des prescriptions spéciales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R213-1-1 (M)
+	  - Code de l'aviation civile - art. R213-3 (M)
+	  - Code de l'aviation civile R213-1-1, R213-3, R213-1-1 à R213-1-3
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R213-1-6 (V)
+	  - Code de l'aviation civile - art. R217-2 (V)
+	  - Code de l'aviation civile - art. R282-2 (V)
+
+
+##### Section 2 : Police de la conservation
+
+###### Article R213-1-5
+
+Sans préjudice des compétences reconnues aux officiers et agents de police judiciaire, ainsi qu'aux agents mentionnés à
+l'article 2 de la loi du 29 floréal an X, les contraventions de grande voirie sur les aérodromes peuvent être constatées par
+les ingénieurs de l'aviation civile et les ingénieurs des études et de l'exploitation de l'aviation civile, ainsi que par les
+agents de l'exploitant de l'aérodrome assermentés et habilités à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 2 () JORF 11 mai 2007
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. R213-1-1 (M)
+	  - Code de l'aviation civile - art. R213-1-1 (T)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R217-3 (V)
+	  - Code de l'aviation civile - art. R282-3 (V)
 
 	**Cite**:
 
@@ -12215,18 +12403,20 @@ services d'Etat de l'aviation civile en Polynésie française, en Nouvelle-Calé
 
 ###### Article R213-4
 
-I. - L'accès en zone réservée d'un aérodrome des personnes autres que celles visées aux II et III est soumis à la possession
-d'une habilitation valable sur l'ensemble du territoire national et d'un titre de circulation permettant la circulation dans
-un ou plusieurs secteurs de cette zone.
+I. - L'accès en zone réservée d'un aérodrome mentionné au I de l'article R. 213-1-1, des personnes autres que celles
+mentionnées aux II, III et IV du présent article est soumis à la possession d'une habilitation valable sur l'ensemble du
+territoire national et d'un titre de circulation permettant la circulation dans un ou plusieurs secteurs de cette zone.
 
-Les entreprises ou les organismes autorisés à occuper ou utiliser la zone réservée de l'aérodrome formulent les demandes
-d'habilitation et du titre de circulation au profit de leurs salariés ou des personnes agissant pour leur compte.
+Les entreprises ou les organismes autorisés par l'exploitant d'aérodrome à occuper ou utiliser la zone réservée de
+l'aérodrome formulent les demandes d'habilitation et du titre de circulation au profit de leurs salariés ou des personnes
+agissant pour leur compte.
 
-Ces entreprises ou ces organismes leur dispensent les connaissances relatives aux principes généraux de sûreté et aux règles
-particulières à respecter à l'intérieur de la zone réservée d'un aérodrome et leur délivrent l'attestation correspondante.
+Les personnes mentionnées au premier alinéa bénéficient d'une sensibilisation aux principes généraux de sûreté et aux règles
+particulières à respecter à l'intérieur de la zone réservée de l'aérodrome, dispensée par les entreprises ou organismes
+précités qui leur délivrent l'attestation correspondante.
 
-II. - L'accès des personnels navigants professionnels en zone réservée d'un aérodrome figurant sur une liste fixée par le
-ministre chargé des transports est soumis :
+II. - L'accès des personnels navigants professionnels en zone réservée d'un aérodrome mentionné au I de l'article R. 213-1-1,
+est soumis :
 
 - à la possession et au port apparent d'une carte de navigant établie selon les modalités fixées par un arrêté du ministre
 chargé des transports ;
@@ -12237,16 +12427,33 @@ de navigant.
 
 Les employeurs ou, à défaut d'employeur, les intéressés formulent les demandes d'habilitation.
 
-III. - Dans le cadre défini par un arrêté conjoint des ministres chargés des transports, de la défense, de l'intérieur et des
+III. - L'accès des élèves pilotes en zone réservée des mêmes aérodromes est soumis à la possession de l'habilitation
+mentionnée au I. Les organismes de formation au pilotage formulent les demandes d'habilitation.
+
+IV. - Dans le cadre défini par un arrêté conjoint des ministres chargés des transports, de la défense, de l'intérieur et des
 douanes, l'arrêté préfectoral mentionné à l'article R. 213-3 fixe les conditions particulières d'accès en zone réservée des
-passagers, des personnels navigants autres que ceux visés au II, des élèves pilotes, des fonctionnaires et agents de l'Etat
-et des personnes admises pour une durée inférieure à une semaine.
+passagers, des personnels navigants autres que ceux mentionnés au II, des personnes admises pour une durée inférieure à une
+semaine et des fonctionnaires et agents de l'Etat en uniforme ou munis d'un ordre de mission ou d'une commission d'emploi.
+
+V. - Les agents de l'Etat justifiant d'une activité sur plusieurs aérodromes ainsi que les personnes identifiées dans les
+programmes de sûreté au sens du IV de l'article R. 213-1-1 ayant un rôle de supervision sur plusieurs aérodromes qui
+disposent de l'habilitation mentionnée au I peuvent bénéficier d'un titre de circulation valable sur tous les aérodromes
+considérés.
+
+VI. - Un arrêté du ministre des transports fixe celles des installations mentionnées au cinquième alinéa de l'article L.
+213-1 dont l'accès est soumis à la possession d'une habilitation valable sur l'ensemble du territoire national et d'un titre
+de circulation.
+
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 4 du décret 2007-775 modifiant le présent
+article.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -12270,39 +12477,55 @@ et des personnes admises pour une durée inférieure à une semaine.
 	  - Code de l'aviation civile - art. R282-4 (M)
 	  - Code de l'aviation civile - art. R321-12-1 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 4 () JORF 3 août 2002 en vigueur le 1er mai 2003
+	  - Décret n°2007-775 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R213-3 (M)
+	  - Code de l'aviation civile - art. L213-1
+	  - Code de l'aviation civile - art. R213-3
 
 
 ###### Article R213-5
 
-L'habilitation visée au I de l'article R. 213-4 est délivrée par le préfet exerçant les pouvoirs de police sur l'aérodrome
-sur lequel le bénéficiaire de l'habilitation exerce son activité à titre principal. Lorsqu'elle concerne un navigant visé au
-troisième alinéa du II de l'article R. 213-4, l'habilitation est délivrée par le préfet du lieu où l'entreprise a son siège
-social ou, à défaut, son principal établissement. A Paris, la compétence appartient au préfet de police.
+I. - L'habilitation mentionnée au I de l'article R. 213-4 est délivrée par le préfet exerçant les pouvoirs de police sur
+l'aérodrome sur lequel le bénéficiaire exerce son activité à titre principal.
 
-L'habilitation est valable pour une durée qui ne peut excéder cinq ans.
+L'habilitation mentionnée au VI de l'article R. 213-4 est délivrée par le préfet territorialement compétent sur le lieu de
+l'installation dans lequel le bénéficiaire exerce son activité à titre principal.
 
-Elle peut être refusée, retirée ou suspendue par l'autorité de délivrance, dans les formes édictées à l'article 24 de la loi
-du 12 avril 2000 susvisée, lorsque la moralité de la personne ou son comportement ne présentent pas les garanties requises au
-regard de l'ordre public ou sont incompatibles avec l'exercice d'une activité dans la zone réservée de l'aérodrome.
+II. - Lorsqu'elle concerne un navigant mentionné au troisième alinéa du II de l'article R. 213-4, l'habilitation est délivrée
+par le préfet du lieu où l'entreprise a son siège social ou, à défaut, son principal établissement. A Paris, la compétence
+appartient au préfet de police.
+
+III. - Lorsqu'elle concerne un élève pilote, l'habilitation est délivrée par le préfet du lieu où l'organisme de formation a
+son siège ou, à défaut, du lieu de domicile de l'élève pilote. A Paris, la compétence appartient au préfet de police.
+
+IV. - Lorsqu'elle concerne une personne mentionnée au V de l'article R. 213-4, l'habilitation est délivrée par le préfet du
+lieu où celle-ci est affectée. A Paris, la compétence appartient au préfet de police.
+
+V. - L'habilitation est valable pour une durée qui ne peut excéder trois ans.
+
+VI. - L'habilitation peut être refusée, retirée ou suspendue par le préfet territorialement compétent lorsque la moralité ou
+le comportement de la personne titulaire de cette habilitation ne présentent pas les garanties requises au regard de la
+sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes, de l'ordre public ou sont incompatibles avec
+l'exercice d'une activité dans les zones réservées des aérodromes ainsi que dans les installations mentionnées au VI de
+l'article R. 213-4. Le retrait et la suspension s'effectuent dans les formes édictées à l'article 24 de la loi du 12 avril
+2000 susvisée.
 
 En cas d'urgence, l'habilitation peut être suspendue immédiatement pour une durée maximale de deux mois.
 
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 4 du décret 2007-775 modifiant le présent
+article.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-01 art. 25 : champ d'application
 
 	**Codifié par**:
 
@@ -12313,30 +12536,34 @@ En cas d'urgence, l'habilitation peut être suspendue immédiatement pour une du
 	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
 	  - Code de l'aviation civile - art. R213-4 (M)
 
-	**Modifié par**:
-
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 5 () JORF 3 août 2002
-
 	**Cité par**:
 
 	  - Arrêté du 25 février 2004 - art. 3 (V)
 	  - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
 	  - Code de l'aviation civile - art. R213-6-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
 
 ###### Article R213-6
 
-Le titre de circulation prévu au I de l'article R. 213-4 est délivré par le préfet exerçant les pouvoirs de police sur
-l'aérodrome pour lequel le titre est sollicité pour la durée de l'activité en zone réservée de son bénéficiaire.
+I. - La délivrance du titre de circulation prévu au I de l'article R. 213-4, par le préfet exerçant les pouvoirs de police
+sur l'aérodrome pour lequel le titre est sollicité, est subordonnée :
 
-La délivrance du titre de circulation en zone réservée de l'aérodrome est subordonnée :
-
-a) A la justification de l'habilitation prévue à l'article R. 213-4 ;
+a) A la justification de l'habilitation prévue au I de l'article R. 213-4 ;
 
 b) A la justification d'une activité en zone réservée de l'aérodrome et, le cas échéant, dans les secteurs sollicités ;
 
-c) A la présentation d'une attestation de connaissances datant de moins de deux ans telle que prévue au troisième alinéa du I
-de l'article R. 213-4.
+c) A la présentation de l'attestation prévue au troisième alinéa du I de l'article R. 213-4, la sensibilisation ayant été
+suivie depuis moins de six mois.
+
+La délivrance du titre de circulation prévu au VI de l'article R. 213-4 par le préfet territorialement compétent est
+subordonnée à la justification de l'habilitation prévue au VI de l'article R. 213-4.
+
+Le titre de circulation est délivré pour une durée qui n'excède ni la durée de l'habilitation ni la durée envisagée de
+l'activité en zone réservée de son bénéficiaire.
 
 Un arrêté conjoint des ministres chargés de l'intérieur, de la défense, des transports et des douanes fixe la liste des
 titres de circulation en zone réservée, leurs règles de port, d'utilisation et de restitution ainsi que les connaissances
@@ -12344,6 +12571,17 @@ mentionnées au troisième alinéa du I de l'article R. 213-4.
 
 Le préfet retire le titre de circulation, dans les formes édictées à l'article 24 de la loi du 12 avril 2000 susvisée, dès
 lors que l'une des conditions indiquées aux a ou b ci-dessus n'est plus remplie par son bénéficiaire.
+
+II. - Les titres de circulation prévus au V de l'article R. 213-4 sont délivrés par le ministre chargé de l'aviation civile.
+
+III. - En cas d'urgence, le titre de circulation peut être suspendu et sa remise exigée immédiatement par le préfet
+territorialement compétent pour une durée maximale de deux mois, reconductible une fois au cas où les circonstances
+l'exigent.
+
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 4 du décret 2007-775 modifiant le présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -12368,23 +12606,44 @@ lors que l'une des conditions indiquées aux a ou b ci-dessus n'est plus remplie
 	  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
 	  - Code de l'aviation civile - art. R213-4 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 2 () JORF 6 janvier 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
+
+###### Article R213-6-1
+
+Sur les aérodromes autres que ceux mentionnés au I de l'article R. 213-1-1, l'accès en zone réservée est réglementé par le
+préfet dans les conditions fixées à l'article R. 213-3. Les arrêtés préfectoraux peuvent rendre applicables tout ou partie
+des mesures prévues aux articles R. 213-4 à R. 213-6 et édicter des prescriptions spéciales. Lorsqu'une habilitation est
+requise, elle est délivrée, refusée, retirée ou suspendue dans les conditions fixées à l'article R. 213-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 5 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R213-1-1 (M)
+	  - Code de l'aviation civile - art. R213-3 (M)
+	  - Code de l'aviation civile - art. R213-5 (M)
+	  - Code de l'aviation civile R213-1-1, R213-3, R213-4 à R213-6, R213-5
 
 
 ###### Article R213-7
 
-L'exécution des arrêtés ministériels ou interministériels mentionnés, notamment, aux articles R. 213-1, R. 213-4-II, R.
-213-6, R. 213-10, R. 213-11, R. 213-12 et R. 282-6, et des arrêtés pris par le préfet en application de l'article R. 213-3
-est assurée par les fonctionnaires de police, les fonctionnaires et agents de la direction générale de l'aviation civile, par
-les militaires de la gendarmerie, ainsi que par les fonctionnaires des douanes dans les domaines relevant de leur compétence.
-Le préfet dispose également du concours des agents des collectivités et établissements publics chargés d'une exploitation
-aéroportuaire, dans les limites des fonctions qui sont confiées à ces collectivités et établissements.
+L'exécution des arrêtés ministériels ou interministériels mentionnés, notamment, aux articles R. 213-1-2, R. 213-1-3, R.
+213-4, R. 213-6, R. 213-10, R. 213-11, R. 213-12 et R. 282-6, et des arrêtés pris par le préfet en application de l'article
+R. 213-3 est assurée par les fonctionnaires de police, les fonctionnaires et agents de la direction générale de l'aviation
+civile, par les militaires de la gendarmerie, ainsi que par les fonctionnaires des douanes dans les domaines relevant de leur
+compétence. Le préfet dispose également du concours des agents des collectivités et établissements publics chargés d'une
+exploitation aéroportuaire, dans les limites des fonctions qui sont confiées à ces collectivités et établissements.
 
 **Liens relatifs à cet article**
 
@@ -12398,19 +12657,25 @@ aéroportuaire, dans les limites des fonctions qui sont confiées à ces collect
 	  - Arrêté du 4 avril 1996 - art. 38 (V)
 	  - Arrêté du 4 avril 1996 - art. 64 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 2 () JORF 6 janvier 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 6 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R213-1 (M)
-	  - Code de l'aviation civile - art. R213-3 (M)
-	  - Code de l'aviation civile - art. R213-4 (M)
+	  - Code de l'aviation civile - art. R213-1-2
+	  - Code de l'aviation civile - art. R213-1-3
+	  - Code de l'aviation civile - art. R213-10
+	  - Code de l'aviation civile - art. R213-11
+	  - Code de l'aviation civile - art. R213-12
+	  - Code de l'aviation civile - art. R213-3
+	  - Code de l'aviation civile - art. R213-4
+	  - Code de l'aviation civile - art. R213-6
+	  - Code de l'aviation civile - art. R282-6
 
 
 ###### Article R213-8
@@ -12466,8 +12731,8 @@ l'information judiciaire et de l'enquête technique.
 
 ###### Article R213-10
 
-I. - L'employeur des personnes visées aux articles R. 213-1 (3e alinéa), R. 282-6, R. 321-6, R. 321-8 et R. 321-10 s'assure
-des compétences de son personnel dans le domaine de la sûreté du transport aérien requises pour l'exercice des tâches qui lui
+I. - L'employeur des personnes visées aux articles R. 213-1-1 (VI), R. 282-6, R. 321-6, R. 321-8 et R. 321-10 s'assure des
+compétences de son personnel dans le domaine de la sûreté du transport aérien requises pour l'exercice des tâches qui lui
 sont confiées.
 
 A cette fin, il met en oeuvre un plan destiné à dispenser au personnel concerné les formations initiales et continues ainsi
@@ -12477,7 +12742,9 @@ des services compétents de l'Etat.
 L'employeur atteste par écrit de la participation de chacun des personnels et, le cas échéant, des personnels intérimaires à
 ces formations et à ces entraînements. Il présente les attestations aux services compétents de l'Etat.
 
-Ces entraînements et formations sont dispensés par des entreprises ou organismes liés par une convention avec l'Etat.
+Ces entraînements et formations sont dispensés par des entreprises ou organismes liés par une convention avec l'Etat. Cette
+convention est signée par le préfet du lieu de l'établissement après instruction des services de l'aviation civile. A Paris,
+la compétence appartient au préfet de police.
 
 II. - Le plan comprend notamment :
 
@@ -12515,23 +12782,9 @@ d) Les conditions que doivent respecter les entreprises ou organismes assurant l
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 6 () JORF 3 août 2002
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R213-1 (M)
-	  - Code de l'aviation civile - art. R213-11 (V)
-	  - Code de l'aviation civile - art. R213-12 (M)
-	  - Code de l'aviation civile - art. R282-6 (M)
-	  - Code de l'aviation civile - art. R321-10 (M)
-	  - Code de l'aviation civile - art. R321-6 (M)
-	  - Code de l'aviation civile - art. R321-8 (M)
+	  - Décret n°2007-775 du 9 mai 2007 - art. 7 () JORF 11 mai 2007
 
 	**Cité par**:
 
@@ -12539,6 +12792,15 @@ d) Les conditions que doivent respecter les entreprises ou organismes assurant l
 	  - Code de l'aviation civile - art. R213-7 (Ab)
 	  - Code de l'aviation civile - art. R217-1 (V)
 	  - Code de l'aviation civile - art. R217-3 (VT)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R213-11 (V)
+	  - Code de l'aviation civile - art. R213-12 (M)
+	  - Code de l'aviation civile - art. R282-6 (M)
+	  - Code de l'aviation civile - art. R321-10 (M)
+	  - Code de l'aviation civile - art. R321-6 (M)
+	  - Code de l'aviation civile - art. R321-8 (M)
 
 
 ###### Article R213-11
@@ -12580,7 +12842,7 @@ l'issue de chaque formation ou entraînement.
 ###### Article R213-12
 
 Les formations initiales et continues ainsi que les entraînements périodiques que reçoivent les personnes mentionnées aux
-articles R. 213-1 (3e alinéa), R. 321-6 et R. 321-8 répondent à des objectifs pédagogiques et respectent des durées minimales
+articles R. 213-1-1 (VI), R. 321-6 et R. 321-8 répondent à des objectifs pédagogiques et respectent des durées minimales
 définis par un arrêté du ministre chargé des transports, compte tenu des fonctions devant être exercées et des compétences
 techniques exigées. Les objectifs pédagogiques fixent les notions, les situations, les techniques et les procédures que la
 personne doit maîtriser à l'issue de chaque formation ou entraînement. Le contenu de ces formations peut être différent selon
@@ -12593,17 +12855,13 @@ des personnes.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 3 () JORF 6 janvier 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 8 () JORF 11 mai 2007
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R213-1 (M)
+	  - Code de l'aviation civile - art. R213-1-1 (M)
 	  - Code de l'aviation civile - art. R321-6 (M)
 	  - Code de l'aviation civile - art. R321-8 (M)
 
@@ -12616,40 +12874,56 @@ des personnes.
 
 ###### Article R213-13
 
-La demande d'agrément en qualité d'"établissement connu" porte sur chaque établissement du demandeur implanté à l'extérieur
-d'une zone réservée d'un aérodrome.
+I. - La demande d'agrément en qualité d'"établissement connu" précise l'établissement ou les établissements concernés de
+l'entreprise ou de l'organisme, implantés à l'extérieur de la zone réservée, qui sollicitent l'agrément.
 
 Elle doit comporter :
 
-a) Un programme de sûreté respectant les dispositions d'un arrêté du ministre de l'intérieur, du ministre de la défense, du
-ministre chargé des douanes et du ministre chargé des transports ;
+a) Un programme de sûreté ainsi qu'un programme d'assurance qualité ;
 
-b) Un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité visé au troisième alinéa de
-l'article L. 213-4.
+b) Pour chaque établissement, le rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au troisième
+alinéa de l'article L. 213-4 moins de trois mois avant la demande d'agrément.
 
-Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'établissement, des
-modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci, ainsi que des dispositions prises en
-application des points a, b, c et d de l'article R. 213-15.
+II. - Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'entreprise ou de
+l'organisme, des modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci, ainsi que des dispositions
+prises pour chaque établissement en application des points a, b, c et d de l'article R. 213-15.
 
-L'agrément est délivré, pour une durée de cinq ans, par le préfet du lieu de l'établissement.
+Le programme d'assurance qualité prévoit notamment la mise en place de dispositifs d'analyse des incidents relatifs aux
+mesures de sûreté, de vérification de conformité des moyens mis en oeuvre et, le cas échéant, de supervision des sous-
+traitants et la présentation de bilans synthétisant le suivi et les évolutions des dispositifs mis en place.
+
+III. - L'agrément est délivré pour une durée maximale de cinq ans par l'autorité administrative compétente après instruction
+des services de l'aviation civile.
+
+Si la demande d'agrément porte sur un seul établissement, l'autorité administrative compétente est :
+
+- le préfet exerçant les pouvoirs de police sur l'aérodrome, lorsque l'établissement est implanté sur l'emprise d'un
+aérodrome ;
+
+- le préfet du lieu de l'établissement dans les autres cas.
+
+Si la demande d'agrément porte sur plusieurs établissements, l'autorité administrative compétente est le préfet du lieu où
+l'entreprise a son siège social ou, à défaut, son principal établissement.
+
+A Paris, la compétence appartient au préfet de police.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
+	  - Décret n°2007-775 du 9 mai 2007 - art. 9 () JORF 11 mai 2007
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L213-4 (V)
+	  - Code de l'aviation civile - art. L213-4
 
 	**Cité par**:
 
@@ -12659,32 +12933,34 @@ L'agrément est délivré, pour une durée de cinq ans, par le préfet du lieu d
 
 ###### Article R213-14
 
-L'agrément prévu à l'article L. 213-4 est retiré par le préfet qui l'a délivré ou par le préfet exerçant les pouvoirs de
-police sur l'aérodrome sur lequel le titulaire de l'agrément exerce son activité, lorsque des manquements aux dispositions du
-présent code sont constatés. Le titulaire de l'agrément est préalablement avisé de la mesure envisagée et dispose d'un délai
-d'un mois pour présenter ses observations.
+Lorsque des manquements aux obligations découlant du VI de l'article R. 213-1-1 et de l'article R. 213-15 ainsi qu'aux
+dispositions du programme de sûreté prévu au I de l'article R. 213-13 sont constatés, l'autorité administrative compétente
+définie au III de l'article R. 213-13 ou le préfet territorialement compétent peuvent imposer des mesures de nature à
+compenser le manquement constaté, ou restrictives d'exploitation, ou retirer l'agrément. Sauf en cas d'urgence, le titulaire
+de l'agrément est préalablement avisé de la mesure envisagée et dispose d'un délai d'un mois pour présenter ses observations.
 
-En cas d'urgence, l'une ou l'autre des autorités administratives précitées peut prononcer la suspension de l'agrément pour
-une durée maximale de deux mois, par décision motivée. La notification de la mesure de suspension au titulaire de l'agrément
-indique également si une mesure de retrait est envisagée.
+En cas d'urgence, les autorités administratives précitées peuvent prononcer la suspension de l'agrément pour une durée
+maximale de deux mois par décision motivée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
+	  - Décret n°2007-775 du 9 mai 2007 - art. 9 () JORF 11 mai 2007
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L213-4 (V)
+	  - Code de l'aviation civile - art. R213-1-1
+	  - Code de l'aviation civile - art. R213-13
+	  - Code de l'aviation civile - art. R213-15
 
 	**Cité par**:
 
@@ -12697,10 +12973,11 @@ L'"établissement connu" est tenu :
 
 a) De sécuriser les endroits utilisés pour préparer les biens et produits destinés à être utilisés à bord des aéronefs ;
 
-b) De faire exécuter la préparation et la manipulation de ces biens et produits par des personnes dont il tient à jour la
-liste nominative ayant reçu une formation initiale et continue de sûreté portant sur les principes généraux de sûreté et les
-techniques de prévention contre l'introduction de substances et objets illicites dans les biens et produits pendant les
-phases de conditionnement, de transport, de manutention et de stockage ;
+b) De faire exécuter la préparation, la vérification et la manipulation de ces biens et produits par des personnes dont il
+tient à jour la liste nominative, qui sont titulaires de l'habilitation prévue à l'article L. 213-5 et qui ont reçu une
+formation initiale et continue de sûreté portant sur les principes généraux de sûreté et les techniques de prévention contre
+l'introduction de substances et objets illicites dans les biens et produits pendant les phases de conditionnement, de
+transport, de manutention et de stockage ;
 
 c) De mettre en oeuvre des mesures appropriées pendant la préparation et le conditionnement des biens et produits dans le but
 de s'assurer que les biens et produits ne compromettent pas la sûreté des vols ;
@@ -12708,28 +12985,25 @@ de s'assurer que les biens et produits ne compromettent pas la sûreté des vols
 d) De protéger les biens et produits contre l'introduction de substances et objets illicites pouvant compromettre la sûreté
 des vols, pendant leur stockage et leur acheminement jusqu'à la zone réservée ;
 
-e) De fournir au préfet ayant délivré l'agrément, chaque année au plus tard à la date anniversaire de la délivrance de
-l'agrément, un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité en application de
-l'article L. 213-4 ;
+e) De fournir au préfet ayant délivré l'agrément, pour chaque établissement, chaque année au plus tard à la date anniversaire
+de la délivrance de l'agrément, le rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au
+troisième alinéa de l'article L. 213-4 moins de trois mois avant cette date ;
 
 f) De s'assurer du respect par les sous-traitants des dispositions du programme de sûreté mentionnées au cinquième alinéa de
 l'article R. 213-13.
 
 Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article.
 
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 10 du décret 2007-775 modifiant le présent
+article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -12740,9 +13014,18 @@ Un arrêté du ministre chargé des transports fixe les modalités d'application
 	  - Code de l'aviation civile - art. R213-13 (Ab)
 	  - Code de l'aviation civile - art. R213-14 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 10 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L213-4 (V)
+	  - Code de l'aviation civile - art. L213-4
+	  - Code de l'aviation civile - art. L213-5
 
 
 ###### Article R213-16
@@ -12757,7 +13040,7 @@ b) La liste des personnes de l'organisme chargées de conduire les évaluations 
 
 c) Les dispositions prises en application du III.
 
-II. - L'habilitation est délivrée pour une durée de cinq ans par le ministre chargé des transports.
+II. - L'habilitation est délivrée pour une durée maximale de cinq ans par le ministre chargé des transports.
 
 L'habilitation est retirée par le ministre chargé des transports lorsque des manquements aux dispositions du présent code
 sont constatés. Le titulaire de l'habilitation est préalablement avisé de la mesure envisagée et dispose d'un délai d'un mois
@@ -12808,104 +13091,57 @@ entreprises ou organismes possédant ou sollicitant l'agrément d'"établissemen
 	  - Décret n°2002-1026 du 31 juillet 2002 - art. 27 (V)
 	  - Arrêté du 1 septembre 2003 - art. 44 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application et art. 27
+	  - Décret n°2007-775 du 9 mai 2007 - art. 11 () JORF 11 mai 2007
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L213-4 (V)
-	  - Code de l'aviation civile - art. L321-7 (M)
+	  - Code de l'aviation civile - art. L213-4
+	  - Code de l'aviation civile - art. L321-7
 
 
-#### CHAPITRE IV : LE GROUPE INTERMINISTERIEL DE SURETE
+###### Article R213-17
 
-###### Article R214-1
+I. - L'habilitation mentionnée à l'article R. 213-4 vaut habilitation au titre de l'article L. 213-5.
 
-Le groupe interministériel de sûreté présidé par le ministre chargé des transports ou son représentant, comprend en outre dix
-membres appartenant aux administrations centrales de l'Etat désignés par leur ministre respectif :
+II. - L'habilitation au titre de l'article L. 213-5 est demandée par l'entreprise agréée. Elle est délivrée par le préfet
+exerçant les pouvoirs de police sur l'aérodrome lorsque l'établissement est situé sur l'emprise de celui-ci, ou par le préfet
+territorialement compétent dans les autres cas.
 
-- deux représentants du ministre chargé des transports ;
+III. - Elle peut être refusée, retirée ou suspendue lorsque la moralité de la personne ou son comportement ne présentent pas
+les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes, de l'ordre
+public ou sont incompatibles avec l'exercice d'une activité dans les lieux de préparation et de stockage des biens et
+produits destinés à être utilisés à bord des aéronefs.
 
-- deux représentants du ministre de l'intérieur ;
-
-- deux représentants du ministre de la défense ;
-
-- deux représentants du ministre de la justice ;
-
-- deux représentants du ministre chargé des douanes.
-
-Lorsqu'une situation particulière nécessite la consultation d'un ministre non représenté, celui-ci, à la demande du président
-du groupe interministériel de sûreté, désigne un délégué pour assister aux travaux du groupe.
+Sa durée, au maximum de trois ans, ne peut dépasser l'échéance de l'agrément de l'entreprise ou de l'organisme, ni celle du
+contrat de travail de la personne concernée. Le retrait et la suspension s'effectuent dans les formes édictées à l'article 24
+de la loi du 12 avril 2000. En cas d'urgence, l'habilitation peut être suspendue par le préfet territorialement compétent
+pour une durée maximale de deux mois, reconductible une fois au cas où les circonstances l'exigent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24
+	  - Code de l'aviation civile - art. L213-5
+	  - Code de l'aviation civile - art. R213-4
 
 	**Créé par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 8 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 12 () JORF 11 mai 2007
 
 	**Abrogé par**:
 
-	  - Décret n°2007-775 du 9 mai 2007 - art. 24 () JORF 11 mai 2007
-
-
-###### Article R214-2
-
-Le groupe interministériel de sûreté, sur saisine d'un des ministres représentés au sein du groupe, est chargé de donner un
-avis sur le risque que peut représenter une menace potentielle à l'encontre des vols et des personnes et les mesures
-générales de sûreté susceptibles d'être mises en place.
-
-Il peut proposer, en outre, les mesures urgentes rendues nécessaires par une situation particulière mettant en cause la
-sûreté des vols et des personnes.
-
-Il est chargé d'établir, pour chaque aéroport, un bilan sur la mise en oeuvre des mesures de sûreté, prises par le ministre
-chargé des transports.
-
-Il peut faire appel à des personnalités qualifiées et à des experts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 8 () JORF 3 août 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-775 du 9 mai 2007 - art. 24 () JORF 11 mai 2007
-
-
-###### Article R214-3
-
-Le groupe interministériel de sûreté se réunit au moins trois fois par an sur convocation de son président. Son secrétariat
-est assuré par la direction générale de l'aviation civile.
-
-Il élabore son règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 8 () JORF 3 août 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-775 du 9 mai 2007 - art. 24 () JORF 11 mai 2007
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 
 #### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.
@@ -13781,7 +14017,11 @@ b) De l'article R. 213-4 et des textes pris pour son application ;
 
 c) De l'article R. 213-6 en matière de port, d'utilisation et de restitution du titre de circulation en zone réservée ;
 
-d) Des arrêtés et mesures pris en application de l'article R. 213-1.
+d) Des arrêtés et mesures pris en application de l'article R. 213-1-1 ;
+
+e) Du règlement (CE) n° 2320/2002 du 16 décembre 2002 du Parlement européen et du Conseil relatif à l'instauration de règles
+communes dans le domaine de la sûreté de l'aviation civile, de son annexe et des règlements pris par la Commission en
+application de son article 9.
 
 Le préfet peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont
 tirés, après avis de la commission instituée à l'article R. 217-4 :
@@ -13789,10 +14029,13 @@ tirés, après avis de la commission instituée à l'article R. 217-4 :
 - soit prononcer à l'encontre de la personne physique auteur du manquement une amende administrative d'un montant maximum de
 750 euros ;
 
-- soit suspendre le titre de circulation prévu à l'article R. 213-6 pour une durée ne pouvant pas excéder trente jours.
+- soit suspendre le titre de circulation prévu à l'article R. 213-6 pour une durée ne pouvant pas excéder trente jours. Dans
+ce cas, il en exige la remise immédiate.
 
 Toutefois, l'amende ne peut excéder 150 euros et la durée de la suspension six jours, en cas de défaut de port apparent ou de
 l'utilisation en dehors de leur zone de validité du titre de circulation ou d'une autorisation de circulation de véhicule.
+Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à compter de la
+notification de la décision du préfet.
 
 II. - En cas de manquement constaté aux dispositions :
 
@@ -13803,14 +14046,22 @@ b) Du premier alinéa de l'article L. 213-4, de l'article L. 282-8 en ce qu'il p
 de sûreté sont agréés, des articles R. 213-4, R. 213-10, R. 213-11, R. 213-12, R. 282-6, R. 321-8, R. 321-9 et R. 321-10 et
 des textes pris pour leur application ;
 
-c) Des arrêtés et mesures pris en application de l'article R. 213-1.
+c) Des arrêtés et mesures pris en application de l'article R. 213-1-1 ;
+
+d) Du règlement (CE) n° 2320/2002 du 16 décembre 2002 du Parlement européen et du Conseil relatif à l'instauration de règles
+communes dans le domaine de la sûreté de l'aviation civile, de son annexe et des règlements pris par la Commission en
+application de son article 9 ;
+
+e) Des mesures de nature à compenser le manquement constaté, ou restrictives d'exploitation, prévues au IV de l'article R.
+213-1-3, à l'article R. 213-14 ou à l'article R. 321-5.
 
 Le préfet peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont
 tirés, après avis de la commission instituée à l'article R. 217-4, prononcer à l'encontre de la personne morale responsable
 une amende administrative d'un montant maximum de 7 500 euros.
 
 Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation des documents exigibles par la
-réglementation.
+réglementation. Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à
+compter de la notification de la décision du préfet.
 
 **Liens relatifs à cet article**
 
@@ -13818,29 +14069,30 @@ réglementation.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 9 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 13 () JORF 11 mai 2007
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L213-4 (V)
 	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Code de l'aviation civile - art. R213-1-1 (M)
+	  - Code de l'aviation civile - art. R213-1-3 (V)
 	  - Code de l'aviation civile - art. R213-10 (M)
 	  - Code de l'aviation civile - art. R213-11 (V)
 	  - Code de l'aviation civile - art. R213-12 (M)
+	  - Code de l'aviation civile - art. R213-14 (M)
 	  - Code de l'aviation civile - art. R213-3 (M)
 	  - Code de l'aviation civile - art. R213-4 (M)
 	  - Code de l'aviation civile - art. R213-6 (M)
 	  - Code de l'aviation civile - art. R217-4 (M)
 	  - Code de l'aviation civile - art. R282-6 (M)
 	  - Code de l'aviation civile - art. R321-10 (M)
+	  - Code de l'aviation civile - art. R321-5 (M)
 	  - Code de l'aviation civile - art. R321-8 (M)
 	  - Code de l'aviation civile - art. R321-9 (M)
+	  - Règlement CE 2320/2002 2002-12-16
 
 	**Cité par**:
 
@@ -13898,25 +14150,44 @@ Aucune amende ou mesure de suspension ne peut être prononcée plus de deux ans 
 
 ###### Article R217-2-1
 
-Par dérogation aux dispositions des articles R. 217-1 et R. 217-2, le préfet peut, à l'expiration du délai donné à la
-personne concernée pour présenter ses observations, et après avis du délégué permanent de la commission, prononcer une amende
-pour les manquements suivants :
+Par dérogation aux dispositions des articles R. 217-1 et R. 217-2, pour les manquements suivants :
 
-- utilisation d'un titre de circulation en dehors de sa zone de validité ;
+- pénétration en zone réservée sans titre de circulation apparent et valide pour le moment, le lieu et le motif où il est
+utilisé, ou sans les documents exigibles par la réglementation, ou sans se soumettre à l'inspection filtrage ;
 
-- utilisation d'un véhicule en dehors de la zone de validité de son autorisation de circulation ;
+- non-respect des procédures relatives aux palpations et à la fouille des effets personnels et des bagages de cabine ;
 
-- défaut de port apparent du titre de circulation ;
+- défaut de protection des accès en zone réservée et des comptoirs d'enregistrement ;
 
-- défaut d'affichage sur le véhicule de son autorisation de circulation ;
+- non-respect de l'application des mesures de vérification de concordance entre le passager et son identité ou des mesures de
+rapprochement entre le passager et ses bagages de soute ;
 
-- défaut de présentation des documents exigibles par la réglementation.
+- non-présentation des documents exigibles par la réglementation,
 
-Cette procédure ne peut être mise en oeuvre qu'à condition que la possibilité en ait été mentionnée sur le constat dressé en
-application du premier alinéa de l'article R. 217-2.
+le préfet peut prononcer une sanction administrative à l'expiration du délai donné à la personne concernée pour présenter ses
+observations et après avis du délégué permanent de la commission.
 
-Les amendes infligées en application du présent article ne peuvent excéder 150 euros pour les personnes physiques et 1 500
-euros pour les personnes morales.
+Cette procédure ne peut être mise en oeuvre qu'à condition que la possibilité en ait été mentionnée sur le constat prévu au
+premier alinéa de l'article R. 217-2.
+
+En application du présent article, le préfet peut, en tenant compte de la nature et de la gravité des manquements et
+éventuellement des avantages qui en sont tirés :
+
+a) Si l'auteur du manquement est une personne physique, soit prononcer à son encontre une amende administrative d'un montant
+maximum de 750 euros, soit suspendre le titre de circulation prévu à l'article R. 213-6 pour une durée ne pouvant excéder
+trente jours.
+
+Toutefois, l'amende ne peut excéder 150 euros et la durée de la suspension six jours en cas de défaut de port apparent ou de
+l'utilisation en dehors de leur zone de validité du titre de circulation ou d'une autorisation de circulation de véhicule ;
+
+b) Si l'auteur du manquement est une personne morale, prononcer à son encontre une amende administrative d'un montant maximum
+de 7 500 euros.
+
+Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation des documents exigibles par la
+réglementation.
+
+Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à compter de la
+notification de la décision du préfet.
 
 **Liens relatifs à cet article**
 
@@ -13924,16 +14195,13 @@ euros pour les personnes morales.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 11 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 14 () JORF 11 mai 2007
 
 	**Cite**:
 
+	  - Code de l'aviation civile - art. R213-6 (M)
 	  - Code de l'aviation civile - art. R217-1 (M)
 	  - Code de l'aviation civile - art. R217-2 (M)
 
@@ -13970,11 +14238,19 @@ l'impôt et au domaine.
 Les membres de la commission sûreté d'un aérodrome ainsi que leurs suppléants à raison de deux suppléants pour un titulaire
 sont nommés par arrêté du préfet pour une période de trois ans renouvelable.
 
-La commission est présidée, selon le cas, par le directeur de l'aviation civile ou son représentant, le directeur régional de
-l'aviation civile Antilles-Guyane ou son représentant, le chef du service de l'aviation civile ou son représentant à la
-Réunion, à Saint-Pierre-et-Miquelon et à Mayotte. Elle comprend en outre huit membres pour les aérodromes dont le trafic est
-égal ou supérieur à 200 000 passagers par an et quatre membres pour les aérodromes dont le trafic est inférieur à 200 000
-passagers par an, répartis à parts égales entre :
+La commission est présidée par le directeur de l'aviation civile ou le directeur du service de l'aviation civile ou son
+représentant. Elle comprend en outre :
+
+- huit membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse cinq millions de
+passagers ;
+
+- six membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers
+mais est inférieure à cinq millions de passagers ;
+
+- et quatre membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années est inférieure à 200
+000 passagers,
+
+répartis à parts égales entre :
 
 1° D'une part, des représentants de l'Etat désignés sur proposition des différents chefs de service territorialement
 compétents parmi les services de police, de gendarmerie, de l'aviation civile ou des douanes intervenant sur l'aérodrome et,
@@ -13989,10 +14265,10 @@ le cas échéant, de l'autorité militaire ayant qualité d'affectataire seconda
 - des personnels navigants et des autres catégories de personnel employées sur l'aérodrome.
 
 Dans tous les cas, cette commission comprend au moins un représentant de l'exploitant d'aérodrome et, sur les aérodromes dont
-le trafic est supérieur à 200 000 passagers par an, un représentant des compagnies aériennes et un représentant des
-personnels navigants et des autres catégories de personnel employés sur l'aérodrome. En outre, sur les aérodromes où le
-ministère de la défense est affectataire principal, cette commission comprend le représentant de l'autorité militaire
-assurant la direction de l'aérodrome. La commission élit en son sein un délégué permanent.
+la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers, un représentant des compagnies
+aériennes et un représentant des personnels navigants et des autres catégories de personnel employés sur l'aérodrome. En
+outre, sur les aérodromes où le ministère de la défense est affectataire principal, cette commission comprend le représentant
+de l'autorité militaire assurant la direction de l'aérodrome. La commission élit en son sein un délégué permanent.
 
 Dans les départements comportant plus d'un aérodrome, le préfet peut désigner une commission unique sur plusieurs aérodromes.
 Le nombre des membres de cette commission est déterminé au regard de l'aérodrome ayant le trafic le plus important.
@@ -14003,13 +14279,9 @@ Le nombre des membres de cette commission est déterminé au regard de l'aérodr
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 12 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 15 () JORF 11 mai 2007
 
 	**Cité par**:
 
@@ -17025,7 +17297,8 @@ fonctions."
 
 Sans préjudice de l'application des dispositions régissant le cas des contraventions de grande voirie et le cas des
 contraventions au code de la route en zone publique, ceux qui ont contrevenu aux dispositions de l'arrêté préfectoral pris en
-application des points c, h et i de l'article R. 213-3 sont punis :
+application des points c, d en ce qui concerne la conduite, la circulation et le stationnement des véhicules, g, h et i de
+l'article R. 213-3 sont punis :
 
 1. De l'amende prévue pour les contraventions de la 4e classe, lorsque l'infraction aura été commise dans la zone réservée ;
 
@@ -17037,13 +17310,9 @@ application des points c, h et i de l'article R. 213-3 sont punis :
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 5 () JORF 6 janvier 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 16 () JORF 11 mai 2007
 
 	**Cite**:
 
@@ -17148,10 +17417,12 @@ fonctions."
 L'employeur constitue, pour chaque agent présenté en vue de l'agrément pour l'exercice des visites de sûreté prévues à
 l'article L. 282-8, un dossier qui comprend l'identité de l'agent, sa nationalité, les tâches qu'il devra exercer et son
 expérience professionnelle, le nom de l'aérodrome sur lequel ces tâches seront effectuées, les pièces établissant la raison
-sociale du gestionnaire d'aérodrome ou de l'entreprise de transport aérien. Si l'employeur n'est pas un gestionnaire
-d'aérodrome ou une entreprise de transport aérien, il fournit également un extrait du registre K bis mentionnant sa raison
-sociale et une copie de son autorisation administrative prévue dans les dispositions législatives et réglementaires régissant
-les activités privées de surveillance, de gardiennage et de transport de fonds.
+sociale de son entreprise. Si l'employeur n'agit pas pour son propre compte, il fournit également une copie de son
+autorisation administrative prévue par les dispositions législatives et réglementaires régissant les activités privées de
+surveillance, de gardiennage et de transport de fonds.
+
+Les entreprises faisant réaliser les visites de sûreté par leurs propres agents devront en décrire les modalités dans le
+programme de sûreté prévu au IV de l'article R. 213-1.
 
 L'agrément prévu par le deuxième alinéa de l'article L. 282-8 est délivré, refusé et retiré par le préfet compétent sur
 l'aérodrome dans lequel l'agent accomplit ses fonctions et par le procureur de la République près le tribunal de grande
@@ -17159,9 +17430,6 @@ instance dans le ressort duquel est situé cet aérodrome.
 
 L'agrément est valable sur l'ensemble du territoire national. L'agrément est valable pour une durée qui ne peut excéder cinq
 ans.
-
-La suspension immédiate en cas d'urgence prévue au troisième alinéa de l'article L. 282-8 ne peut être prononcée pour une
-durée excédant trois mois. En ce cas, le retrait envisagé et la suspension sont notifiés simultanément à l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -17174,17 +17442,18 @@ durée excédant trois mois. En ce cas, le retrait envisagé et la suspension so
 	  - Arrêté du 22 décembre 1997 - art. 1 (V)
 	  - Décret n°2002-1026 du 31 juillet 2002 - art. 25 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 13 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 17 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Code de l'aviation civile - art. L282-8
+	  - Code de l'aviation civile - art. R213-1
 
 
 ###### Article R282-6
@@ -17318,21 +17587,38 @@ Les procédures de sûreté visées à l'article L. 321-7 sont applicables aux e
 
 ###### Article R321-3
 
-Une demande d'agrément en qualité d'"agent habilité" est présentée pour chaque établissement que le demandeur souhaite faire
-agréer. Elle doit comporter un programme de sûreté du fret aérien.
+I. - La demande d'agrément en qualité d'" agent habilité" précise l'établissement ou les établissements concernés de
+l'entreprise ou de l'organisme qui sollicite l'agrément. Elle doit comporter un programme de sûreté du fret aérien ainsi
+qu'un programme d'assurance qualité.
 
-Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'établissement, des
-modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions prises en application
-des articles R. 321-6, R. 321-7 et R. 321-10.
+II. - Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'entreprise ou de
+l'organisme, des modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions
+prises pour chaque établissement en application des articles R. 321-6, R. 321-7 et R. 321-10.
 
-L'agrément est délivré pour une durée de cinq ans par le préfet du lieu de l'établissement. A Paris, la compétence appartient
-au préfet de police.
+Le programme d'assurance qualité prévoit notamment la mise en place de dispositifs d'analyse des incidents relatifs aux
+mesures de sûreté, de vérification de conformité des moyens mis en oeuvre et, le cas échéant, de supervision des sous-
+traitants et la présentation de bilans synthétisant le suivi et les évolutions des dispositifs mis en place.
+
+III. - L'agrément est délivré pour une durée maximale de cinq ans par l'autorité administrative compétente après instruction
+des services de l'aviation civile.
+
+Si la demande d'agrément porte sur un seul établissement, l'autorité administrative compétente est :
+
+- le préfet exerçant les pouvoirs de police sur l'aérodrome, lorsque l'établissement est implanté sur l'emprise d'un
+aérodrome ;
+
+- le préfet du lieu de l'établissement dans les autres cas.
+
+Si la demande d'agrément porte sur plusieurs établissements, l'autorité administrative compétente est le préfet du lieu où
+l'entreprise a son siège social ou, à défaut, son principal établissement.
+
+A Paris, la compétence appartient au préfet de police.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -17342,35 +17628,52 @@ au préfet de police.
 	  - Code de l'aviation civile - art. R321-5 (Ab)
 	  - Code de l'aviation civile - art. R321-6 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 16 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 18 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R321-10 (M)
-	  - Code de l'aviation civile - art. R321-7 (M)
+	  - Code de l'aviation civile - art. R321-10
+	  - Code de l'aviation civile - art. R321-7
 
 
 ###### Article R321-4
 
-La demande d'agrément en qualité de "chargeur connu" porte sur chaque établissement du demandeur. Elle doit comporter :
+I. - La demande d'agrément en qualité de "chargeur connu" précise l'établissement ou les établissements concernés de
+l'entreprise ou de l'organisme qui sollicite l'agrément. Elle doit comporter :
 
-a) Un programme de sûreté du fret aérien ;
+a) Un programme de sûreté ainsi qu'un programme d'assurance qualité ;
 
-b) Un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité visé au onzième alinéa de
-l'article L. 321-7.
+b) Pour chaque établissement, un rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au onzième
+alinéa de l'article L. 321-7 moins de trois mois avant la demande d'agrément.
 
-Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'établissement, des
-modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions prises en application
-des points a, b, c, d et e de l'article R. 321-12.
+II. - Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'entreprise ou de
+l'organisme, des modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions
+prises pour chaque établissement en application des points a, b, c, d et e de l'article R. 321-12.
 
-L'agrément est délivré pour une durée de cinq ans par le préfet du lieu de l'établissement. A Paris, la compétence appartient
-au préfet de police.
+Le programme d'assurance qualité prévoit notamment la mise en place de dispositifs d'analyse des incidents relatifs aux
+mesures de sûreté, de vérification de conformité des moyens mis en oeuvre et, le cas échéant, de supervision des sous-
+traitants et la présentation de bilans synthétisant le suivi et les évolutions des dispositifs mis en place.
+
+III. - L'agrément est délivré pour une durée maximale de cinq ans par l'autorité administrative compétente après instruction
+des services de l'aviation civile.
+
+Si la demande d'agrément porte sur un seul établissement, l'autorité administrative compétente est :
+
+- le préfet exerçant les pouvoirs de police sur l'aérodrome, lorsque l'établissement est implanté sur l'emprise d'un
+aérodrome ;
+
+- le préfet du lieu de l'établissement dans les autres cas.
+
+Si la demande d'agrément porte sur plusieurs établissements, l'autorité administrative compétente est le préfet du lieu où
+l'entreprise a son siège social ou, à défaut, son principal établissement.
+
+A Paris, la compétence appartient au préfet de police.
 
 **Liens relatifs à cet article**
 
@@ -17385,35 +17688,36 @@ au préfet de police.
 	  - Code de l'aviation civile - art. R321-13 (Ab)
 	  - Code de l'aviation civile - art. R321-5 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 16 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 18 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L321-7 (M)
+	  - Code de l'aviation civile - art. L321-7
 
 
 ###### Article R321-5
 
-L'agrément en qualité d'"agent habilité" ou de "chargeur connu" prévu à l'article L. 321-7 est retiré par le préfet qui l'a
-délivré ou par le préfet compétent sur l'aérodrome lorsque des manquements aux dispositions du présent code sont constatés.
-Le titulaire de l'agrément est préalablement avisé de la mesure envisagée et dispose d'un délai d'un mois pour présenter ses
-observations.
+Lorsque des manquements aux obligations découlant des III, V et VI de l'article R. 213-1-1, des articles R. 321-6, R. 321-7,
+R. 321-10 et R. 321-12 ainsi qu'aux dispositions du programme de sûreté prévu au I des articles R. 321-3 et R. 321-4 sont
+constatés, l'autorité administrative compétente définie au III des articles R. 321-3 et R. 321-4 ou le préfet
+territorialement compétent peuvent imposer des mesures de nature à compenser le manquement constaté, ou restrictives
+d'exploitation, ou retirer l'agrément. Sauf en cas d'urgence, le titulaire de l'agrément est préalablement avisé de la mesure
+de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations. 
 
-En cas d'urgence, l'une ou l'autre des autorités administratives précitées peut prononcer la suspension de l'agrément pour
-une durée maximale de deux mois, par décision motivée. La notification de la mesure de suspension au titulaire de l'agrément
-indique également qu'une mesure de retrait est envisagée.
+En cas d'urgence, les autorités administratives précitées peuvent prononcer la suspension de l'agrément pour une durée
+maximale de deux mois, par décision motivée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -17422,36 +17726,47 @@ indique également qu'une mesure de retrait est envisagée.
 	  - Code de l'aviation civile - art. R321-7 (M)
 	  - Code de l'aviation civile - art. R321-7-2 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 16 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 18 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L321-7 (M)
+	  - Code de l'aviation civile - art. R213-1-1
+	  - Code de l'aviation civile - art. R321-10
+	  - Code de l'aviation civile - art. R321-12
+	  - Code de l'aviation civile - art. R321-3
+	  - Code de l'aviation civile - art. R321-4
+	  - Code de l'aviation civile - art. R321-6
 
 
 ###### Article R321-6
 
 L'"agent habilité" est tenu :
 
-a) De s'assurer que les expéditions qui lui sont remises ne sont accessibles qu'au personnel autorisé par lui, depuis leur
-réception jusqu'à leur livraison au transporteur aérien ou à son représentant ;
+a) De sécuriser les endroits utilisés pour traiter et stocker le fret ou les colis postaux ;
 
-b) D'effectuer ou de faire effectuer la réception, la manutention, la surveillance du fret et la livraison au transporteur
-aérien ou à son représentant par des personnes ayant reçu une formation initiale et continue de sûreté portant sur les
-principes généraux de sûreté et les techniques de prévention contre l'introduction de substances et objets illicites dans les
-marchandises pendant les phases de transport, de manutention et de stockage ;
+b) D'effectuer ou de faire effectuer la réception, la manutention, la vérification spéciale mentionnée à l'article R. 321-10,
+la surveillance des expéditions et la livraison au transporteur aérien ou à son représentant par des personnes, dont il tient
+à jour la liste nominative, qui sont titulaires de l'habilitation prévue à l'article L. 321-8 et qui ont reçu une formation
+initiale et continue de sûreté portant sur les principes généraux de sûreté et les techniques de prévention contre
+l'introduction de substances et objets illicites dans les marchandises pendant les phases de transport, réception,
+conditionnement, manutention, vérification et surveillance ;
 
 c) Lorsqu'il assure l'acheminement des expéditions qui lui sont confiées par un "chargeur connu" ou un autre "agent
 habilité", de les protéger contre l'introduction de substances et objets illicites pouvant compromettre la sûreté des vols ;
 
 d) De s'assurer du respect par les sous-traitants des dispositions du programme de sûreté mentionnées au deuxième alinéa de
 l'article R. 221-3.
+
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 19 du décret 2007-775 modifiant le présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -17473,22 +17788,24 @@ l'article R. 221-3.
 	  - Code de l'aviation civile - art. R321-3 (Ab)
 	  - Code de l'aviation civile - art. R321-5 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 17 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 19 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R221-3 (V)
+	  - Code de l'aviation civile - art. L321-8
+	  - Code de l'aviation civile - art. R221-3
+	  - Code de l'aviation civile - art. R321-10
 
 
 ###### Article R321-7
 
-I. - Pour chaque expédition qui lui est confiée, l'"agent habilité" doit :
+I.-Pour chaque expédition qui lui est confiée, l'" agent habilité " doit :
 
 - enregistrer l'identité et l'adresse du déposant et de l'expéditeur ;
 
@@ -17501,41 +17818,41 @@ I. - Pour chaque expédition qui lui est confiée, l'"agent habilité" doit :
 - établir le certificat de sûreté de l'expédition qui en est dépourvue ;
 
 - porter sur le certificat de sûreté accompagnant l'expédition la mention des opérations qu'il effectue en application des
-dispositions du présent article ;
+dispositions des paragraphes II, III ou IV du présent article ;
 
 - remettre l'expédition accompagnée de son certificat de sûreté ;
 
 - conserver pendant au moins trois mois l'identité et l'adresse du déposant, de l'expéditeur ainsi qu'une copie du certificat
-de sûreté.
+de sûreté. 
 
-II. - L'"agent habilité" peut livrer une expédition au transporteur aérien ou à son représentant, sans effectuer d'autres
+II.-L'" agent habilité " peut livrer une expédition au transporteur aérien ou à son représentant, sans effectuer d'autres
 vérifications sur l'expédition, si l'état de l'emballage ne révèle pas d'anomalie et si les documents accompagnant
 l'expédition, notamment le certificat de sûreté lorsqu'il a été établi, lui permettent d'établir qu'elle entre dans l'un des
-cas suivants :
+cas suivants : 
 
 a) L'expédition provient d'un Etat mettant en oeuvre un programme similaire de la sûreté du fret aérien et est apte au
-transport aérien en application de ce programme ;
+transport aérien en application de ce programme ; 
 
-b) L'expédition est remise par un autre "agent habilité" qui l'a déclarée apte au transport aérien en application des
-dispositions du présent article ;
+b) L'expédition est remise par un autre " agent habilité " qui l'a déclarée apte au transport aérien en application des
+dispositions du présent article ; 
 
-c) L'expédition est remise par un "chargeur connu" qui l'a déclarée apte au transport aérien en application des dispositions
-de l'article R. 321-12.
+c) L'expédition est remise par un " chargeur connu " qui l'a déclarée apte au transport aérien en application des
+dispositions de l'article R. 321-12. 
 
-III. - L'"agent habilité" peut également livrer une expédition au transporteur aérien ou à son représentant, sans effectuer
+III.-L'" agent habilité " peut également livrer une expédition au transporteur aérien ou à son représentant, sans effectuer
 d'autres vérifications sur l'expédition, si l'état de l'emballage ne révèle pas d'anomalie et s'il la déclare apte au
-transport aérien en application des exemptions prévues à l'article R. 321-11.
+transport aérien en application des exemptions prévues à l'article R. 321-11. 
 
-IV. - Dans tous les autres cas que ceux visés au II et au III, l'"agent habilité" ne peut livrer une expédition au
+IV.-Dans tous les autres cas que ceux visés au II et au III, l'" agent habilité " ne peut livrer une expédition au
 transporteur aérien ou à son représentant qu'après avoir procédé à des vérifications spéciales, selon les modalités prévues
-par l'article R. 321-10, et, le cas échéant, selon les procédures particulières prévues à l'article R. 321-11.
+par l'article R. 321-10, et, le cas échéant, selon les procédures particulières prévues à l'article R. 321-11. 
 
 L'expédition pour laquelle il n'a pas pu établir l'aptitude au transport aérien est tenue à la disposition de celui qui en
-est à l'origine. Elle peut être remise à un autre "agent habilité" ou à un transporteur aérien aux fins de sécurisation.
+est à l'origine. Elle peut être remise à un autre " agent habilité " ou à un transporteur aérien aux fins de sécurisation.
 
 **Nota:**
 
-: Décret 2002-1026 du 31 juillet 2002 article 24 : les dispositions de l'article R321-7 n'entreront en vigueur que le 1er mai
+Décret 2002-1026 du 31 juillet 2002 article 24 : les dispositions de l'article R321-7 n'entreront en vigueur que le 1er mai
 2003 en tant qu'ils font obligation, respectivement, aux agents habilités et aux transporteurs aériens d'établir et de
 compléter le certificat de sûreté en application des articles R. 321-7 et R. 321-9.
 
@@ -17564,13 +17881,17 @@ compléter le certificat de sûreté en application des articles R. 321-7 et R. 
 
 	**Modifié par**:
 
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 18 () JORF 3 août 2002
+	  - Décret n°2007-775 du 9 mai 2007 - art. 20 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R321-10 (M)
-	  - Code de l'aviation civile - art. R321-11 (V)
-	  - Code de l'aviation civile - art. R321-12 (M)
+	  - Code de l'aviation civile - art. R321-10
+	  - Code de l'aviation civile - art. R321-11
+	  - Code de l'aviation civile - art. R321-12
 
 
 ###### Article R321-8
@@ -17787,10 +18108,11 @@ Le "chargeur connu" est tenu :
 
 a) De sécuriser les endroits utilisés pour préparer les expéditions de fret aérien ou de colis postaux ;
 
-b) D'exécuter ou de faire exécuter la préparation et la manipulation des expéditions par des personnes dont il tient à jour
-la liste nominative, ayant reçu une formation initiale et continue de sûreté portant sur les principes généraux de sûreté et
-les techniques de prévention contre l'introduction de substances et objets illicites dans les marchandises pendant les phases
-de conditionnement, de transport, de manutention et de stockage ;
+b) D'exécuter ou de faire exécuter la préparation, la vérification et la manipulation des expéditions par des personnes, dont
+il tient à jour la liste nominative, qui sont titulaires de l'habilitation prévue à l'article L. 321-8 et qui ont reçu une
+formation initiale et continue de sûreté portant sur les principes généraux de sûreté et les techniques de prévention contre
+l'introduction de substances et objets illicites dans les marchandises pendant les phases de transport, réception,
+conditionnement, manutention, vérification et surveillance ;
 
 c) De mettre en oeuvre des mesures appropriées pendant la préparation et le conditionnement des expéditions dans le but de
 s'assurer que les expéditions ne compromettent pas la sûreté des vols ;
@@ -17802,9 +18124,9 @@ e) D'établir, pour les seules expéditions aptes au transport aérien qui ne pe
 conditionnement du fait de leurs caractéristiques, un "certificat de sûreté" sur lequel il fait porter la mention des
 opérations effectuées en application des dispositions du présent article ;
 
-f) De fournir au préfet ayant délivré l'agrément, chaque année au plus tard à la date anniversaire de la délivrance de
-l'agrément, un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité visé au onzième alinéa
-de l'article L. 321-7 ;
+f) De fournir au préfet ayant délivré l'agrément, pour chaque établissement, chaque année au plus tard à la date anniversaire
+de la délivrance de l'agrément, le rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au onzième
+alinéa de l'article L. 321-7 moins de trois mois avant cette date ;
 
 g) De s'assurer du respect par les sous-traitants des dispositions du programme de sûreté au quatrième alinéa de l'article R.
 321-4.
@@ -17814,14 +18136,6 @@ g) De s'assurer du respect par les sous-traitants des dispositions du programme 
 	**Codifié par**:
 
 	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 23 () JORF 3 août 2002
 
 	**Cité par**:
 
@@ -17833,9 +18147,60 @@ g) De s'assurer du respect par les sous-traitants des dispositions du programme 
 	  - Code de l'aviation civile - art. R321-5 (Ab)
 	  - Code de l'aviation civile - art. R321-7 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 21 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L321-7 (M)
+	  - Code de l'aviation civile - art. L321-7
+	  - Code de l'aviation civile - art. L321-8
+
+
+###### Article R321-12-1
+
+I. - L'habilitation mentionnée à l'article R. 213-4 vaut habilitation au titre de l'article L. 321-8.
+
+II. - L'habilitation au titre de l'article L. 321-8 est demandée par l'entreprise agréée. Elle est délivrée par le préfet
+exerçant les pouvoirs de police sur l'aérodrome lorsque l'établissement est situé sur l'emprise de celui-ci telle que définie
+à l'article R. 213-2 ou par le préfet territorialement compétent dans les autres cas.
+
+III. - Elle peut être refusée, retirée ou suspendue lorsque la moralité de la personne ou son comportement ne présentent pas
+les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes, de l'ordre
+public ou sont incompatibles avec l'exercice d'une activité dans les lieux de traitement, de conditionnement et de stockage
+du fret et des colis postaux.
+
+Sa durée, au maximum de trois ans, ne peut dépasser l'échéance de l'agrément de l'entreprise ou de l'organisme ni celle du
+contrat de travail de la personne concernée.
+
+Le retrait et la suspension s'effectuent dans les formes édictées à l'article 24 de la loi du 12 avril 2000. En cas
+d'urgence, l'habilitation peut être suspendue par le préfet territorialement compétent pour une durée maximale de deux mois,
+reconductible une fois au cas où les circonstances l'exigent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24
+	  - Code de l'aviation civile - art. L321-8
+	  - Code de l'aviation civile - art. R213-2
+	  - Code de l'aviation civile - art. R213-4
+
+	**Créé par**:
+
+	  - Décret n°2007-775 du 9 mai 2007 - art. 22 () JORF 11 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 
 ###### Article R321-13
