@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-05-11
+Version Consolidée au 2007-05-15
 
 # Partie législative
 
@@ -9666,7 +9666,11 @@ attributions.
 
 ###### Article R131-6
 
-L'autorisation spéciale et temporaire prévue à l'article L. 131-1 est délivrée par le ministre chargé de l'aviation civile.
+L'autorisation spéciale et temporaire prévue à l'article L. 131-1 est délivrée par le ministre chargé de l'aviation civile. 
+
+Lorsqu'elle porte sur l'utilisation d'aéronefs pour du travail aérien, l'autorisation spéciale et temporaire mentionnée à
+l'alinéa précédent est délivrée par le préfet de région, dans les conditions fixées par arrêté du ministre chargé de
+l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -9674,13 +9678,13 @@ L'autorisation spéciale et temporaire prévue à l'article L. 131-1 est délivr
 
 	  - Décret n°67-334 1967-03-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 2 () JORF 16 mars 2003
+	  - Décret n°2007-863 du 14 mai 2007 - art. 15 () JORF 15 mai 2007
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L131-1 (V)
+	  - Code de l'aviation civile - art. L131-1 (VT)
 
 
 #### CHAPITRE II : ATTERRISSAGE.
@@ -9776,9 +9780,13 @@ l'aérodrome d'arrivée et de départ, la route aérienne à suivre et les signa
 
 ###### Article R132-4
 
-Tout atterrissage ou décollage d'un aéronef exploité par une entreprise de transport aérien sur un aéroport entièrement
-coordonné au sens de l'article R. 221-12 est, sauf en cas de force majeure, subordonné à l'attribution préalable du créneau
-horaire correspondant par le coordonnateur désigné sur cet aéroport.
+Tout atterrissage ou décollage d'un aéronef exploité par une entreprise de transport aérien ou tout autre exploitant
+d'aéronef civil sur un aéroport coordonné au sens de l'article R. 221-12 est, sauf en cas de force majeure, subordonné à
+l'attribution préalable, par le coordonnateur désigné sur cet aéroport, du créneau horaire correspondant, tel que défini par
+le règlement mentionné à l'article R. 221-12. 
+
+Les dispositions du précédent alinéa ne s'appliquent pas aux atterrissages d'urgence, aux atterrissages ou décollages de vols
+d'Etat ou de vols humanitaires.
 
 **Liens relatifs à cet article**
 
@@ -9786,13 +9794,9 @@ horaire correspondant par le coordonnateur désigné sur cet aéroport.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
 	**Modifié par**:
 
-	  - Décret n°99-475 du 4 juin 1999 - art. 1 () JORF 9 juin 1999
+	  - Décret n°2007-863 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
 
 	**Cité par**:
 
@@ -9804,7 +9808,7 @@ horaire correspondant par le coordonnateur désigné sur cet aéroport.
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R221-12 (M)
+	  - Code de l'aviation civile - art. R221-12 (V)
 
 
 #### CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS.
@@ -10539,6 +10543,59 @@ aux chefs des services d'Etat de l'aviation civile et aux fonctionnaires placés
 	  - Code de l'aviation civile - art. L133-4 (VT)
 
 
+###### Article R133-17
+
+Le ministre chargé de l'aviation civile délivre la licence de maintenance d'aéronefs prévue à l'article 5 du règlement (CE)
+n° 2042/2003 de la Commission du 20 novembre 2003 relatif au maintien de la navigabilité des aéronefs et des produits, pièces
+et équipements aéronautiques et relatif à l'agrément des organismes et des personnels participant à ces tâches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-863 du 14 mai 2007 - art. 3 () JORF 15 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 23 juin 2009 (V)
+	  - Code de l'aviation civile - art. R160-1 (V)
+
+
+###### Article R133-18
+
+L'exercice, sur un aérodrome dans lequel le service du contrôle de la circulation aérienne n'est pas assuré, de fonctions
+d'information de vol et d'alerte est subordonné à la délivrance par le ministre chargé de l'aviation civile d'une
+qualification attestant l'acquisition de connaissances théoriques et pratiques. Les conditions de délivrance et de validité
+de la qualification sont déterminées par arrêté du ministre chargé de l'aviation civile.
+
+Le ministre chargé de l'aviation civile peut déléguer sa signature pour délivrer et renouveler la qualification mentionnée au
+précédent alinéa aux chefs des services déconcentrés de l'aviation civile, au directeur de l'aviation civile Antilles-Guyane
+et au directeur du service de l'aviation civile de l'océan Indien ainsi qu'aux fonctionnaires placés sous leur autorité.
+
+**Nota:**
+
+: Décret 2007-487 du 30 mars 2007 art. 95 : Le décret du 70-836 du 10 septembre 1970 est abrogé. Toutefois, les dispositions
+de ce décret demeurent en vigueur en tant qu'elles s'appliquent à Saint-Pierre-et-Miquelon et à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-863 du 14 mai 2007 - art. 3 () JORF 15 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 3 () JORF 24 octobre 2007
+
+
 #### CHAPITRE IV : REDEVANCES.
 
 ###### Article R134-1
@@ -11007,15 +11064,61 @@ IV.-L'action publique est éteinte lorsque l'auteur de l'infraction a payé la s
 
 ###### Article R160-1
 
-Le ministre chargé de l'aviation civile peut prononcer une amende administrative à l'encontre d'un transporteur aérien qui :
+I. - Le ministre chargé de l'aviation civile peut prononcer une amende administrative à l'encontre d'un transporteur aérien
+ou de tout autre exploitant d'aéronef civil qui :
 
-1° Soit effectue, en violation de l'article R. 132-4, un vol dont l'horaire de programmation et de commercialisation ne
-correspond pas à un créneau horaire de décollage ou d'atterrissage spécifiquement attribué à cet effet ;
+1° Lorsque ceci préjudicie aux activités de l'aéroport ou au trafic aérien, procède sur un aéroport coordonné, de façon
+répétée et intentionnelle, en violation de l'article R. 132-4, à des atterrissages ou à des décollages sans disposer des
+créneaux horaires correspondants, ou à des horaires significativement différents des créneaux horaires qui lui ont été
+attribués à cet effet par le coordonnateur de l'aéroport, ou utilise des créneaux horaires d'une manière significativement
+différente de celle indiquée au moment de l'attribution.
 
-2° Soit exploite un aéronef en contradiction avec la réglementation relative au retrait d'exploitation des aéronefs bruyants.
+2° Soit exploite un aéronef en contradiction avec la réglementation relative au retrait d'exploitation des aéronefs
+bruyants ;
 
-Cette sanction est décidée après consultation de la commission administrative de l'aviation civile prévue à l'article R.
-160-3.
+3° Soit ne respecte pas les obligations en matière de couverture minimale d'assurance fixées par les dispositions du
+règlement (CE) n° 785/2004 du Parlement européen et du Conseil du 21 avril 2004 relatif aux exigences en matière d'assurance
+applicables aux transporteurs aériens et aux exploitants d'aéronefs.
+
+Le ministre chargé de l'aviation civile fixe le montant de l'amende en tenant compte du type et de la gravité des manquements
+constatés et, éventuellement, des avantages qui en sont retirés. Ce montant ne peut excéder, par manquement constaté, 1 500
+euros pour une personne physique et 7 500 euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau
+manquement commis dans un délai d'un an à compter du précédent manquement.
+
+Lorsque ce manquement mentionné au 3° présente un caractère de particulière gravité, le ministre peut, à la place de l'amende
+administrative, prononcer soit le retrait de la licence d'exploitation, soit le refus du droit d'atterrir sur le territoire
+national conformément aux paragraphes 5 et 6 de l'article 8 du règlement précité.
+
+II. - Lorsque le titulaire de la licence de maintenance d'aéronefs commet, dans l'exercice ou à l'occasion de l'exercice de
+ses fonctions, une des actions énumérées dans la liste du paragraphe 66 B 500 de l'annexe III (partie 66) au règlement
+mentionné à l'article R. 133-17, le ministre chargé de l'aviation civile peut, compte tenu du type et de la gravité des
+manquements constatés, prononcer à son encontre l'une des sanctions suivantes :
+
+1° L'avertissement ;
+
+2° La suspension, jusqu'à ce qu'un complément de formation pratique et/ou théorique réalisé dans les conditions fixées par la
+décision de sanction ait été suivi par l'intéressé, de la licence, des catégories et qualifications qui y sont mentionnées ;
+
+3° Le retrait temporaire avec ou sans sursis de la licence, des qualifications et catégories qui y sont mentionnées ;
+
+4° Le retrait définitif de la licence, des catégories et qualifications qui y sont indiquées avec interdiction, le cas
+échéant, d'en solliciter de nouveau la délivrance à titre définitif ou pendant une durée déterminée par la décision de
+sanction.
+
+III. - Le ministre chargé de l'aviation civile peut suspendre à titre conservatoire, dans l'attente de la consultation de la
+commission mentionnée à l'article R. 160-3, la licence de maintenance d'aéronefs, pour une durée qui ne peut excéder quatre
+mois, s'il estime que les manquements qui ont été portés à sa connaissance sont de nature à mettre gravement en cause la
+sécurité aérienne. Il prononce, après avis de la commission, une décision définitive de sanction avant la fin de la
+suspension.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+administrative de l'aviation civile).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission administrative de l'aviation civile).
 
 **Liens relatifs à cet article**
 
@@ -11023,13 +11126,9 @@ Cette sanction est décidée après consultation de la commission administrative
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+	  - Décret n°2007-863 du 14 mai 2007 - art. 4 () JORF 15 mai 2007
 
 	**Cité par**:
 
@@ -11046,19 +11145,26 @@ Cette sanction est décidée après consultation de la commission administrative
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R132-4 (M)
+	  - Code de l'aviation civile - art. R133-17 (V)
 	  - Code de l'aviation civile - art. R160-3 (V)
+	  - Code de l'aviation civile R132-4, annexe III, R133-17, R160-3
 
 
 ###### Article R160-2
 
-Les manquements énumérés à l'article R. 160-1 sont constatés par les fonctionnaires et agents mentionnés à l'article L.
-150-13. Ces manquements font l'objet de procès-verbaux qui, ainsi que le montant maximum de l'amende encourue, sont notifiés
-dans le délai d'un an à compter de leur commission à la ou les personnes concernées et communiqués au ministre chargé de
-l'aviation civile. La ou les personnes concernées sont invitées à présenter leurs observations dans un délai d'un mois à
-compter de cette notification.
+Les manquements mentionnés à l'article R. 160-1 sont constatés par les fonctionnaires et agents énumérés à l'article L.
+150-13 et font l'objet de procès-verbaux. Ces procès-verbaux sont notifiés dans le délai d'un an à compter de la commission
+des manquements à la ou aux personnes concernées et transmis au ministre chargé de l'aviation civile. La notification indique
+le montant maximal de l'amende ou le degré maximal de la sanction encourue. La ou les personnes concernées sont invitées à
+présenter leurs observations dans un délai d'un mois à compter de cette notification.
 
-A l'expiration de ce délai, le ministre chargé de l'aviation civile saisit la commission administrative de l'aviation civile.
-La ou les personnes concernées par cette saisine en sont informées.
+A l'expiration de ce dernier délai et préalablement au prononcé des amendes et sanctions prévues à l'article R. 160-1, le
+ministre chargé de l'aviation civile saisit pour avis la commission mentionnée à l'article R. 160-3. La ou les personnes
+concernées par cette saisine en sont informées.
+
+Les décisions du ministre mentionnées à l'article R. 160-1 sont notifiées à la ou aux personnes concernées.
+
+Les amendes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
 
 **Liens relatifs à cet article**
 
@@ -11066,18 +11172,15 @@ La ou les personnes concernées par cette saisine en sont informées.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+	  - Décret n°2007-863 du 14 mai 2007 - art. 5 () JORF 15 mai 2007
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. L150-13 (M)
 	  - Code de l'aviation civile - art. R160-1 (M)
+	  - Code de l'aviation civile - art. R160-3 (V)
 
 	**Cité par**:
 
@@ -11119,9 +11222,21 @@ dispositions des livres Ier ou III.
 
 ###### Article R160-4
 
-La commission administrative de l'aviation civile est composée de onze membres et d'un nombre égal de suppléants dont le
+La commission administrative de l'aviation civile est composée de douze membres et d'un nombre égal de suppléants dont le
 mandat est de trois ans, renouvelable, répartis en deux collèges siégeant en séance plénière : un collège permanent et un
-collège spécialisé, ce dernier comportant deux formations distinctes.
+collège spécialisé.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+administrative de l'aviation civile).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission administrative de l'aviation civile).
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, la Commission administrative de l'aviation civile est
+renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -11129,13 +11244,9 @@ collège spécialisé, ce dernier comportant deux formations distinctes.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+	  - Décret n°2007-863 du 14 mai 2007 - art. 10 () JORF 15 mai 2007
 
 
 ###### Article R160-5
@@ -11144,10 +11255,9 @@ Outre le président nommé par décret pris sur le rapport du ministre chargé d
 membres du Conseil d'Etat, le collège permanent est composé de cinq membres titulaires et d'un nombre égal de suppléants
 nommés par arrêté du ministre chargé de l'aviation civile :
 
-- quatre membres représentant l'Etat : un membre de l'inspection générale de l'aviation civile et de la météorologie, un
-représentant du ministre chargé de l'aviation civile, un membre de la gendarmerie des transports aériens désigné sur
-proposition du ministre de la défense et un représentant du ministre chargé de l'économie et des finances désigné sur
-proposition de celui-ci ;
+- quatre membres représentant l'Etat : un membre du conseil général des ponts et chaussées, un représentant du ministre
+chargé de l'aviation civile, un membre de la gendarmerie des transports aériens désigné sur proposition du ministre de la
+défense et un représentant du ministre chargé de l'économie et des finances désigné sur proposition de celui-ci ;
 
 - une personnalité qualifiée choisie en raison de ses compétences dans le domaine de l'aviation civile.
 
@@ -11162,7 +11272,7 @@ l'aviation civile.
 
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2007-863 du 14 mai 2007 - art. 11 () JORF 15 mai 2007
 
 	**Cité par**:
 
@@ -11171,23 +11281,45 @@ l'aviation civile.
 
 ###### Article R160-6
 
-Le collège spécialisé, dont les membres sont nommés par arrêté du ministre chargé de l'aviation civile, comporte deux
-formations constituées afin de statuer respectivement sur des manquements aux dispositions des livres Ier (Aéronefs) ou III
-(Transport aérien) et qui comprennent cinq membres titulaires et un nombre égal de suppléants.
+Le collège spécialisé, dont les membres sont nommés par arrêté du ministre chargé de l'aviation civile, comporte quatre
+formations, respectivement intitulées " Aéronefs ", " Transport aérien " " Maintenance des aéronefs " et " Passagers ",
+constituées afin de statuer sur des manquements aux dispositions des livres Ier ou III. Ces formations comprennent six
+membres titulaires et un nombre égal de suppléants. Un arrêté du ministre chargé de l'aviation civile fixe pour chacune de
+ces formations la liste des manquements dont, réunie avec le collège permanent, elle peut connaître.
 
-La formation "Aéronefs" comprend :
+La formation " Aéronefs " comprend :
 
-1. Quatre représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
-compagnies non établies en France desservant le territoire métropolitain ;
+1° Quatre représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
+compagnies non établies en France desservant le territoire national, et un représentant de l'aviation générale ;
 
-2. Un représentant des gestionnaires d'aéroports.
+2° Un représentant des exploitants d'aéroports.
 
-La formation "Transport aérien" comprend :
+La formation " Transport aérien " comprend :
 
-1. Trois représentants des transporteurs aériens ou de leurs organisations professionnelles et un représentant de l'aviation
-générale ;
+1° Quatre représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
+exploitants d'hélicoptères, et un représentant de l'aviation générale ;
 
-2. Un représentant des chambres de commerce et d'industrie.
+2° Un représentant des exploitants d'aéroports.
+
+La formation " Maintenance des aéronefs " comprend :
+
+1° Deux représentants des organisations professionnelles représentatives des entreprises employant des titulaires de licences
+de maintenance d'aéronef ;
+
+2° Un représentant des fédérations françaises aéronautiques et sportives ;
+
+3° Trois représentants des organisations syndicales représentatives des personnels des activités de maintenance aéronautique.
+
+La formation " Passagers " comprend :
+
+1° Deux représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
+compagnies non établies en France desservant le territoire national ;
+
+2° Un représentant des agents de voyages désigné sur proposition du ministre chargé du tourisme ;
+
+3° Un représentant des exploitants d'aéroports ;
+
+4° Deux représentants des passagers du transport aérien.
 
 **Liens relatifs à cet article**
 
@@ -11195,13 +11327,9 @@ générale ;
 
 	  - Décret n°67-334 1967-03-30
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+	  - Décret n°2007-863 du 14 mai 2007 - art. 12 () JORF 15 mai 2007
 
 	**Cité par**:
 
@@ -11234,6 +11362,28 @@ de la personne qu'il remplace.
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R160-5 (V)
+
+
+###### Article R160-7-1
+
+Les fonctions de membre de la Commission administrative de l'aviation civile sont exercées à titre gratuit. Toutefois, les
+membres de la commission peuvent être remboursés de leur frais de déplacement dans les conditions fixées pour les
+déplacements temporaires par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des
+frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cite**:
+
+	  - Décret n°2006-781 2006-07-03
+
+	**Créé par**:
+
+	  - Décret n°2007-863 du 14 mai 2007 - art. 13 () JORF 15 mai 2007
 
 
 ###### Article R160-8
@@ -11384,66 +11534,6 @@ administrative de l'aviation civile).
 	**Créé par**:
 
 	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
-
-
-###### Article R160-12
-
-Le ministre chargé de l'aviation civile, après avis de la commission administrative de l'aviation civile, fixe, s'il y a
-lieu, le montant de l'amende prévue à l'article R. 160-1 en tenant compte du type et de la gravité des manquements constatés
-et, éventuellement, des avantages qui en sont tirés. Ce montant ne peut excéder 1 500 euros pour une personne physique et 7
-500 euros pour une personne morale par manquement constaté. Ces plafonds sont doublés en cas de nouveau manquement commis
-dans le délai d'un an à compter du précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2007-863 du 14 mai 2007 - art. 21 () JORF 15 mai 2007
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R160-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article R160-13
-
-Les amendes administratives sont notifiées à la ou les personnes concernées et recouvrées comme les créances de l'Etat
-étrangères à l'impôt et au domaine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2007-863 du 14 mai 2007 - art. 21 () JORF 15 mai 2007
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R330-21 (M)
 
 
 ###### Article R160-14
@@ -14678,35 +14768,40 @@ juillet 1994.
 
 ###### Article R221-12
 
-1. La décision de qualifier d'aéroport coordonné, ou d'aéroport entièrement coordonné, un aérodrome ouvert à la circulation
-aérienne publique, conformément aux dispositions de l'article 3 du règlement (CEE) n° 95/93 du Conseil du 18 janvier 1993
-fixant des règles communes en ce qui concerne l'attribution des créneaux horaires dans les aéroports de la Communauté, est
-prise par arrêté du ministre chargé de l'aviation civile pour les aérodromes dont le ministère de la défense n'est pas
-affectataire.
+I. - Conformément aux dispositions de l'article 3 du règlement (CEE) n° 95/93 du Conseil du 18 janvier 1993 modifié fixant
+des règles communes en ce qui concerne l'attribution des créneaux horaires dans les aéroports de la Communauté, un aérodrome
+ouvert à la circulation aérienne publique est qualifié, compte tenu des contraintes créées par le trafic aérien, soit
+"d'aéroport à facilitation d'horaires" soit "d'aéroport coordonné". La décision conférant cette qualification est prise par
+arrêté du ministre chargé de l'aviation civile pour les aérodromes dont le ministère de la défense n'est pas affectataire et
+par arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation civile pour les aérodromes dont le
+ministère de la défense est affectataire principal ou secondaire.
 
-S'il y a lieu de coordonner, en application de l'article 3 du règlement susmentionné, un aérodrome ouvert à la circulation
-aérienne publique dont le ministère de la défense est affectataire principal ou secondaire, celui-ci ne peut être
-qu'entièrement coordonné. La décision de qualification est prise par arrêté conjoint du ministre de la défense et du ministre
-chargé de l'aviation civile.
-
-Lorsqu'un aérodrome est qualifié d'aéroport entièrement coordonné, l'arrêté prévu aux alinéas précédents précise la capacité
-disponible pour l'attribution des créneaux horaires sur cet aérodrome. Cette capacité est déterminée conformément aux
-dispositions de l'article 6 du règlement susmentionné.
+II. - Lorsqu'un aérodrome est qualifié d'aéroport coordonné, l'arrêté prévu au précédent alinéa précise les paramètres de
+coordination obligatoires de l'aéroport, au sens du règlement susmentionné, et leurs valeurs maximales. Ces paramètres et
+leurs valeurs maximales sont déterminés conformément aux dispositions de l'article 6 du règlement précité.
 
 Le ministre chargé de l'aviation civile exerce, par arrêté, le droit de réserver certains créneaux horaires sur les aéroports
-entièrement coordonnés prévu à l'article 9 du règlement susrappelé.
+coordonnés prévu à l'article 9 du règlement précité.
 
-2. Le coordonnateur d'un aéroport coordonné ou entièrement coordonné est désigné par arrêté du ministre chargé de l'aviation
-civile dans les conditions fixées à l'article 4 du règlement susmentionné ; ce coordonnateur peut être une personne physique
-ou morale de droit privé ayant un intérêt légitime au bon fonctionnement de l'aérodrome concerné. Un cahier des charges
-annexé à l'arrêté désignant le coordonnateur définit les moyens qui lui sont nécessaires pour remplir sa mission en
-conformité avec les dispositions nationales et communautaires, ainsi que les moyens et modalités propres à garantir la
-continuité de la mission lui incombant. Il définit également les informations que le coordonnateur communique au ministre
-chargé de l'aviation civile pour l'exercice des missions qui lui sont dévolues par le règlement susmentionné.
+Le ou les comités de coordination prévus à l'article 5 du règlement susmentionné sont créés par arrêté du ministre chargé de
+l'aviation civile. Cet arrêté précise la composition, les compétences et les conditions de fonctionnement de ce ou de ces
+comités.
 
-Le comité de coordination prévu à l'article 5 du règlement susmentionné, pour assister à titre consultatif le coordonnateur
-désigné sur un aéroport entièrement coordonné, est créé par arrêté du ministre chargé de l'aviation civile. Cet arrêté
-précise la composition, les compétences et les conditions de fonctionnement de ce comité de coordination.
+En cas de situation exceptionnelle, un aérodrome peut être temporairement qualifié d'aéroport coordonné par le ministre
+chargé de l'aviation civile si le ministère de la défense n'est pas affectataire de cet aérodrome et conjointement par le
+ministre de la défense et le ministre chargé de l'aviation civile si le ministère de la défense en est affectataire principal
+ou secondaire. Le ministre chargé de l'aviation civile désigne le coordonnateur de cet aéroport pour ladite période et lui
+notifie les paramètres de capacité à prendre en compte ainsi que leurs valeurs maximales. Il en informe les parties
+intéressées.
+
+III. - Le facilitateur d'horaires d'un aéroport à facilitation d'horaires ou le coordonnateur d'un aéroport coordonné est
+désigné par arrêté du ministre chargé de l'aviation civile dans les conditions fixées à l'article 4 du règlement précité. Ce
+facilitateur d'horaires ou ce coordonnateur est une personne qualifiée, qui peut être une personne physique ou morale de
+droit privé. Un cahier des charges annexé à l'arrêté désignant le facilitateur d'horaires ou le coordonnateur définit les
+moyens qui lui sont nécessaires pour remplir ses missions en conformité avec les dispositions nationales et communautaires
+ainsi que les moyens et modalités propres à garantir la continuité de ses missions. Il définit également les informations que
+le facilitateur d'horaires ou le coordonnateur communique au ministre chargé de l'aviation civile pour l'exercice de ses
+missions.
 
 **Liens relatifs à cet article**
 
@@ -14716,7 +14811,7 @@ précise la composition, les compétences et les conditions de fonctionnement de
 
 	**Modifié par**:
 
-	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+	  - Décret n°2007-863 du 14 mai 2007 - art. 2 () JORF 15 mai 2007
 
 	**Cité par**:
 
@@ -16111,8 +16206,7 @@ des nuisances expireront au terme initialement prévu (art. 5).
 Les membres de la Commission nationale de prévention des nuisances prévue à l'article L. 227-4, ainsi que leurs suppléants,
 sont nommés par arrêté du ministre chargé de l'aviation civile pour une période de trois ans renouvelable.
 
-La commission est présidée par un membre de l'inspection générale de l'aviation civile et de la météorologie et comprend en
-outre :
+La commission est présidée par un membre du conseil général des ponts et chaussées et comprend en outre :
 
 1° Quatre représentants de l'Etat, dont un proposé par le ministre chargé de l'environnement et un proposé par le ministre de
 la défense ;
@@ -16134,7 +16228,7 @@ d'indisponibilité de ce suppléant, il peut être fait appel à un second suppl
 
 	**Modifié par**:
 
-	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+	  - Décret n°2007-863 du 14 mai 2007 - art. 14 () JORF 15 mai 2007
 
 	**Cite**:
 
@@ -18716,7 +18810,7 @@ modalités prévues à l'article 6 du règlement (CEE) n° 2407/92.
 
 ###### Article R330-6
 
-I. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par la France, ou par un
+I.-L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par la France, ou par un
 transporteur aérien établi en France titulaire d'une licence d'exploitation délivrée par un autre Etat membre de la
 Communauté européenne, de services aériens réguliers ou non réguliers sur des liaisons comportant au moins un point d'escale
 en France et pour lesquelles le règlement (CEE) n° 2408/92 du 23 juillet 1992 ne s'applique pas est autorisée par le ministre
@@ -18724,27 +18818,38 @@ chargé de l'aviation civile. Un arrêté du ministre précise, notamment, les c
 supérieur de l'aviation marchande peut être requis pour l'autorisation d'exploitation de services réguliers, ainsi que les
 critères selon lesquels sont appréciées les demandes concurrentes émanant de différents transporteurs dans le cas d'une
 limitation des droits de trafic ou du nombre de transporteurs aériens susceptibles de les exploiter. Le silence gardé pendant
-plus de trois mois par le ministre sur une demande vaut décision de rejet.
+plus de trois mois par le ministre sur une demande vaut décision de rejet. 
 
 Les zones dans lesquelles le transporteur est autorisé à assurer des services non réguliers, les lignes régulières qu'il est
 autorisé à exploiter ainsi que la durée et, le cas échéant, les conditions associées à ces autorisations sont fixées par
-l'arrêté d'autorisation.
+l'arrêté d'autorisation. 
 
 Un transporteur aérien titulaire d'une licence d'exploitation délivrée par un Etat membre de la Communauté européenne autre
 que la France est établi au sens du premier alinéa lorsqu'il exerce de façon stable, habituelle et continue une activité de
 transport aérien à partir d'une base d'exploitation située sur le territoire national telle que définie à l'article R.
-330-2-1.
+330-2-1. 
 
-II. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par un autre Etat membre de
-la Communauté et qui n'est pas établi en France, ou par un transporteur titulaire d'une licence d'exploitation délivrée par
-un Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même portée en matière de
-transport aérien, de services aériens réguliers ou non réguliers sur des liaisons comportant au moins un point d'escale en
-France et pour lesquelles le règlement (CEE) n° 2408/92 ne s'applique pas est soumise à autorisation dans des conditions
-fixées par arrêté du ministre chargé de l'aviation civile.
+Les dispositions du I sont applicables sous réserve de celles de l'article R. 330-19-1. 
 
-III. - L'exploitation par un transporteur aérien, autre que ceux visés aux I et II, de services aériens réguliers ou non
+II.-L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par un autre Etat membre de la
+Communauté et qui n'est pas établi en France, ou par un transporteur titulaire d'une licence d'exploitation délivrée par un
+Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même portée en matière de transport
+aérien, de services aériens réguliers ou non réguliers sur des liaisons comportant au moins un point d'escale en France et
+pour lesquelles le règlement (CEE) n° 2408/92 ne s'applique pas est soumise à autorisation dans des conditions fixées par
+arrêté du ministre chargé de l'aviation civile. 
+
+III.-L'exploitation par un transporteur aérien, autre que ceux visés aux I et II, de services aériens réguliers ou non
 réguliers comportant au moins un point d'escale en France est soumise à autorisation dans des conditions fixées par arrêté du
 ministre chargé de l'aviation civile.
+
+**Nota:**
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Conseil supérieur de l'aviation marchande).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
 
 **Liens relatifs à cet article**
 
@@ -18762,10 +18867,11 @@ ministre chargé de l'aviation civile.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1425 du 21 novembre 2006 - art. 2 () JORF 23 novembre 2006
+	  - Décret n°2007-863 du 14 mai 2007 - art. 16 () JORF 15 mai 2007
 
 	**Cite**:
 
+	  - Code de l'aviation civile - art. R330-19-1 (V)
 	  - Code de l'aviation civile - art. R330-2-1 (V)
 	  - Règlement CEE 2408-92 1992-07-23
 
@@ -18819,43 +18925,45 @@ pour une période maximale de trois ans renouvelable.
 
 ###### Article R330-8
 
-I. - Les programmes d'exploitation de services aériens de transport public au départ, à destination ou à l'intérieur du
-territoire national doivent être déposés auprès du ministre chargé de l'aviation civile dans les conditions suivantes :
+I.-Sous réserve des dispositions de l'article R. 330-19-1, les programmes d'exploitation de services aériens de transport
+public au départ, à destination ou à l'intérieur du territoire national doivent être déposés auprès du ministre chargé de
+l'aviation civile dans les conditions suivantes : 
 
 1. Les programmes d'exploitation de services aériens réguliers doivent être déposés au moins un mois avant le début de leur
 mise en oeuvre et comporter une série d'indications sur les conditions techniques et commerciales d'exploitation précisées
-par arrêté du ministre chargé de l'aviation civile ;
+par arrêté du ministre chargé de l'aviation civile ; 
 
 2. Les programmes d'exploitation de services aériens non réguliers doivent être déposés dans des conditions fixées par arrêté
-du ministre chargé de l'aviation civile.
+du ministre chargé de l'aviation civile. 
 
-II. - Les programmes d'exploitation de services aériens réguliers et non réguliers de transport public déposés conformément
-aux dispositions du I peuvent être mis en oeuvre dans les conditions suivantes :
+II.-Les programmes d'exploitation de services aériens réguliers et non réguliers de transport public déposés conformément aux
+dispositions du I peuvent être mis en oeuvre dans les conditions suivantes : 
 
 1. Les programmes d'exploitation de services aériens réguliers et non réguliers de transport public, effectués sur le
 territoire de la Communauté européenne ou des Etats parties à l'accord sur l'Espace économique européen ou à tout autre
 accord ayant la même portée en matière de transport aérien, sur des liaisons comportant au moins un point d'escale en France,
 par des transporteurs titulaires d'une licence d'exploitation délivrée par l'un de ces Etats, peuvent être mis en oeuvre si
 le ministre chargé de l'aviation civile ne s'y est pas opposé dans un délai de quinze jours suivant leur dépôt, sous réserve,
-le cas échéant, de l'application des dispositions de l'article R. 330-9 ;
+le cas échéant, de l'application des dispositions de l'article R. 330-9 ; 
 
 2. Dans tous les autres cas, les programmes d'exploitation doivent recueillir l'approbation du ministre chargé de l'aviation
-civile. Le silence gardé par le ministre pendant plus d'un mois à compter du dépôt vaut décision de rejet.
+civile. Le silence gardé par le ministre pendant plus d'un mois à compter du dépôt vaut décision de rejet. 
 
-III. - Les dispositions du présent article ne s'appliquent pas à l'exploitation de services aériens non réguliers de
-transport public réalisés par des transporteurs titulaires d'une licence d'exploitation délivrée par la France, un autre Etat
-membre de la Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant
-la même portée en matière de transport aérien, sur des liaisons comportant au moins un point d'escale en France et pour
-lesquelles le règlement (CEE) n° 2408/92 du 23 juillet 1992 ne s'applique pas, lorsqu'ils sont effectués au moyen d'aéronefs
-dont la capacité ne dépasse pas 20 sièges ou dont la masse maximale au décollage n'excède pas 10 tonnes et que le chiffre
-d'affaires annuel du transporteur ne dépasse pas un montant équivalent à trois millions d'euros.
+III.-Les dispositions du présent article ne s'appliquent pas à l'exploitation de services aériens non réguliers de transport
+public réalisés par des transporteurs titulaires d'une licence d'exploitation délivrée par la France, un autre Etat membre de
+la Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même
+portée en matière de transport aérien, sur des liaisons comportant au moins un point d'escale en France et pour lesquelles le
+règlement (CEE) n° 2408/92 du 23 juillet 1992 ne s'applique pas, lorsqu'ils sont effectués au moyen d'aéronefs dont la
+capacité ne dépasse pas 20 sièges ou dont la masse maximale au décollage n'excède pas 10 tonnes et que le chiffre d'affaires
+annuel du transporteur ne dépasse pas un montant équivalent à trois millions d'euros.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Accord 1992-05-02 (Espace économique européen)
-	  - Code de l'aviation civile - art. R330-9 (M)
+	  - Code de l'aviation civile - art. R330-19-1 (V)
+	  - Code de l'aviation civile - art. R330-9 (V)
 
 	**Codifié par**:
 
@@ -18902,10 +19010,9 @@ d'affaires annuel du transporteur ne dépasse pas un montant équivalent à troi
 	  - Arrêté du 13 janvier 2017 - art. 1
 	  - Arrêté du 14 mars 2017 - art. 4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Décret n°2007-863 du 14 mai 2007 - art. 16 () JORF 15 mai 2007
 
 
 ###### Article R330-9
@@ -19050,15 +19157,15 @@ en vigueur ainsi que des sanctions prévues aux articles L. 330-4 et R. 330-20 d
 - suspension ou retrait du certificat de transporteur aérien par l'autorité qui l'a délivré conformément aux dispositions de
 l'article R. 330-12-1 lorsque les conditions ayant présidé à sa délivrance ne sont plus respectées ou lorsque le transporteur
 utilise ses aéronefs sans se conformer aux dispositions des articles R. 133-1-1 et R. 330-1-1 et des arrêtés pris pour leur
-application ;
+application ; 
 
 Le certificat de transporteur aérien peut également être suspendu ou retiré par la même autorité et dans les mêmes conditions
 lorsque l'entreprise ne se conforme pas à ses obligations telles qu'elles résultent des articles R. 133-1-3, R. 133-4 et R.
 133-4-1 ;
 
-- suspension ou retrait de la licence d'exploitation de transporteur aérien par l'autorité mentionnée à l'article R. 330-1 en
-application des dispositions du deuxième alinéa de l'article L. 330-1 lorsque les conditions ayant présidé à sa délivrance ne
-sont plus remplies.
+- suspension ou retrait de la licence d'exploitation de transporteur aérien par l'autorité qui l'a délivrée en application
+des dispositions du deuxième alinéa de l'article L. 330-1 lorsque les conditions ayant présidé à sa délivrance ne sont plus
+remplies.
 
 **Liens relatifs à cet article**
 
@@ -19070,28 +19177,22 @@ sont plus remplies.
 
 	  - Décret n°67-334 1967-03-30
 
-	**Modifié par**:
-
-	  - Décret n°2003-230 du 13 mars 2003 - art. 5 () JORF 16 mars 2003
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
-
 	**Cité par**:
 
 	  - Arrêté du 20 décembre 2004 - art. 8 (V)
 	  - Code de l'aviation civile - art. R330-6 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2007-863 du 14 mai 2007 - art. 16 () JORF 15 mai 2007
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-1 (M)
-	  - Code de l'aviation civile - art. L330-4 (V)
-	  - Code de l'aviation civile - art. R133-1-1 (M)
-	  - Code de l'aviation civile - art. R133-1-3 (M)
-	  - Code de l'aviation civile - art. R133-4 (Ab)
-	  - Code de l'aviation civile - art. R133-4-1 (Ab)
-	  - Code de l'aviation civile - art. R330-1 (M)
-	  - Code de l'aviation civile - art. R330-1-1 (M)
-	  - Code de l'aviation civile - art. R330-12-1 (M)
-	  - Code de l'aviation civile - art. R330-20 (M)
+	  - Code de l'aviation civile - art. L330-4 (VT)
+	  - Code de l'aviation civile - art. R133-1-1 (V)
+	  - Code de l'aviation civile - art. R330-1-1 (V)
+	  - Code de l'aviation civile - art. R330-12-1 (V)
+	  - Code de l'aviation civile - art. R330-20 (V)
 
 
 ###### Article R330-12-1
@@ -19264,20 +19365,16 @@ des dispositions de l'article R. 330-19.
 
 ###### Article R330-19
 
-La licence d'exploitation de transporteur aérien et l'autorisation d'exploiter des services aériens mentionnés aux articles
-L. 330-1 et L. 330-2 sont délivrées, suspendues et retirées par le préfet de région du lieu du principal établissement et, le
-cas échéant, du siège social de l'entreprise, lorsque l'entreprise intéressée exploite exclusivement des aéronefs d'une masse
-maximale au décollage inférieure à 10 tonnes ou d'une capacité inférieure à 20 sièges sauf si cette entreprise exploite des
-services réguliers ou si son chiffre d'affaire annuel dépasse un montant équivalant à 3 millions d'écus.
+La licence d'exploitation de transporteur aérien est délivrée, transformée en licence temporaire, suspendue et retirée par le
+préfet de région du lieu du principal établissement de l'entreprise, lorsque l'entreprise intéressée exploite exclusivement
+des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité inférieure à 20 sièges sauf si cette
+entreprise exploite des services réguliers internationaux. 
 
-L'autorisation d'utiliser un aéronef immatriculé à l'étranger et l'autorisation d'affréter un aéronef d'un autre transporteur
-aérien sont délivrées aux transporteurs visés à l'alinéa précédent par le préfet de région.
-
-La licence d'exploitation visée au III de l'article R. 330-1 est délivrée, suspendue et retirée par arrêté du préfet de
-région dans les conditions prévues par les dispositions des articles 3 (paragraphes 1 et 2), 4 (paragraphes 1, 2, 4 et
-première phrase du paragraphe 5), 6, 7 et 8 (paragraphes 1, 2 (a) et 3), 9 à 12 et 13 (paragraphe 2) du règlement (CEE) n°
-2407/92 du 23 juillet 1992. Des garanties financières et morales peuvent, en outre, être demandées dans des conditions fixées
-par arrêté du ministre chargé de l'aviation civile.
+La licence d'exploitation visée au III de l'article R. 330-1 est délivrée, transformée en licence temporaire, suspendue et
+retirée par arrêté du préfet de région dans les conditions prévues par les dispositions des articles 3 (paragraphes 1 et 2),
+4 (paragraphes 1,2,4 et première phrase du paragraphe 5), 6,7 et 8 (paragraphes 1,2 (a) et 3), 9 à 12 et 13 (paragraphe 2) du
+règlement (CEE) n° 2407/92 du 23 juillet 1992. Des garanties financières et morales peuvent, en outre, être demandées dans
+des conditions fixées par arrêté du ministre chargé de l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -19296,14 +19393,42 @@ par arrêté du ministre chargé de l'aviation civile.
 
 	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 6 () JORF 16 mars 2003
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Décret n°2007-863 du 14 mai 2007 - art. 17 () JORF 15 mai 2007
+
+
+###### Article R330-19-1
+
+Le préfet de région compétent pour délivrer la licence d'exploitation à un transporteur aérien visé à l'article R. 330-19
+accorde à ce transporteur l'autorisation d'exploiter des services aériens prévue par l'article L. 330-2, celle d'utiliser un
+aéronef immatriculé à l'étranger prévue par l'article R. 330-4, ainsi que celle prévue à l'article R. 330-9. 
+
+Les programmes d'exploitation des transporteurs aériens mentionnés à l'article R. 330-19 sont soumis à dépôt préalable ou à
+l'approbation du préfet de région dans des conditions fixées par arrêté du ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-863 du 14 mai 2007 - art. 18 () JORF 15 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 3 juin 2008 - art. 1 (V)
+	  - Arrêté du 31 juillet 2015 - art. 1 (V)
+	  - Code de l'aviation civile - art. R330-12-2 (V)
+	  - Code de l'aviation civile - art. R330-6 (V)
+	  - Code de l'aviation civile - art. R330-8 (V)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-1 (M)
-	  - Code de l'aviation civile - art. L330-2 (M)
-	  - Règlement CEE 2407-92 1992-07-23 art. 3, art. 4, art. 6, art. 7, art. 8, art. 9 à art. 12, art. 13
+	  - Code de l'aviation civile - art. L330-2 (V)
+	  - Code de l'aviation civile - art. R330-19 (V)
+	  - Code de l'aviation civile - art. R330-4 (V)
+	  - Code de l'aviation civile - art. R330-9 (V)
 
 
 ###### Article R330-20
@@ -19324,7 +19449,14 @@ de validité lorsque celle-ci est requise en application de l'article L. 330-1 ;
 L. 330-8 ;
 
 5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111/2005 du 14 décembre 2005 reprises aux articles R.
-322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur aérien.
+322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur aérien ;
+
+6. Soit ne respecte pas les obligations à l'égard des passagers fixées par les dispositions du règlement (CE) n° 261/2004 du
+Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d'indemnisation et
+d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de retard important d'un vol ;
+
+7. Soit ne respecte pas les obligations de fourniture des renseignements statistiques sur son trafic prévues à l'article R.
+330-3.
 
 **Liens relatifs à cet article**
 
@@ -19350,7 +19482,7 @@ L. 330-8 ;
 
 	**Modifié par**:
 
-	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+	  - Décret n°2007-863 du 14 mai 2007 - art. 6 () JORF 15 mai 2007
 
 	**Cite**:
 
@@ -19359,17 +19491,17 @@ L. 330-8 ;
 	  - Code de l'aviation civile - art. L330-3 (M)
 	  - Code de l'aviation civile - art. L330-8 (M)
 	  - Code de l'aviation civile - art. R160-3 (V)
-	  - Code de l'aviation civile R160-3, L330-1, L330-2, L330-3, L330-8, R322-3 à R322-6
-	  - Règlement CE 2111-2005 2005-12-14
+	  - Code de l'aviation civile - art. R330-3 (M)
+	  - Code de l'aviation civile R160-3, L330-1, L330-2, L330-3, L330-8, R322-3 à R322-6, R330-3
 
 
 ###### Article R330-21
 
-Les manquements visés à l'article R. 330-20 sont constatés par les fonctionnaires et agents énumérés à l'article L. 150-13.
+Les manquements visés à l'article R. 330-20 sont constatés par les fonctionnaires et agents énumérés à l'article L. 330-10.
 
-Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10, R. 160-13 et R. 160-14 du livre Ier du présent
-code s'appliquent pour l'ensemble de la procédure d'instruction, le recouvrement des amendes et le recours éventuel contre
-les décisions du ministre.
+Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10, R. 160-14 du livre Ier du présent code
+s'appliquent pour l'ensemble de la procédure d'instruction, le recouvrement des amendes et le recours éventuel contre les
+décisions du ministre.
 
 **Liens relatifs à cet article**
 
@@ -19379,17 +19511,11 @@ les décisions du ministre.
 
 	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Décret n°2007-863 du 14 mai 2007 - art. 7 () JORF 15 mai 2007
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L150-13 (M)
-	  - Code de l'aviation civile - art. R160-10 (V)
-	  - Code de l'aviation civile - art. R160-13 (Ab)
-	  - Code de l'aviation civile - art. R160-14 (V)
-	  - Code de l'aviation civile - art. R160-2 (M)
-	  - Code de l'aviation civile - art. R160-8 (M)
-	  - Code de l'aviation civile - art. R160-9 (V)
+	  - Code de l'aviation civile - art. L330-10 (V)
 	  - Code de l'aviation civile - art. R330-20 (M)
 
 
@@ -19397,9 +19523,15 @@ les décisions du ministre.
 
 Le ministre chargé de l'aviation civile, après avis de la commission administrative de l'aviation civile, fixe, s'il y a
 lieu, le montant de l'amende prévue à l'article R. 330-20 en tenant compte du type et de la gravité des manquements constatés
-et éventuellement des avantages qui en sont tirés. Ce montant ne peut excéder 1 500 euros pour une personne physique et 7 500
-euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau manquement commis dans le délai d'un an à compter
-du précédent.
+et éventuellement des avantages qui en sont tirés. Ce montant ne peut excéder, par manquement constaté, 1 500 euros pour une
+personne physique et 7 500 euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau manquement commis dans
+le délai d'un an à compter du précédent.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+administrative de l'aviation civile).
 
 **Liens relatifs à cet article**
 
@@ -19409,7 +19541,7 @@ du précédent.
 
 	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Décret n°2007-863 du 14 mai 2007 - art. 8 () JORF 15 mai 2007
 
 	**Cite**:
 
@@ -19419,6 +19551,58 @@ du précédent.
 
 	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
+###### Article R330-23
+
+La commission prévue à l'article L. 330-10 est délivrée par le ministre chargé de l'aviation civile ou, pour le personnel
+placé sous son autorité, par le ministre de la défense. Elle mentionne l'objet du commissionnement et la circonscription
+géographique dans laquelle l'agent commissionné a vocation, en raison de son affectation, à constater les infractions ou
+manquements.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+administrative de l'aviation civile).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-863 du 14 mai 2007 - art. 9 () JORF 15 mai 2007
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-10 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R330-24 (V)
+
+
+###### Article R330-24
+
+Les agents habilités en application de l'article R. 330-23 prêtent serment devant le tribunal de grande instance de leur
+résidence administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-863 du 14 mai 2007 - art. 9 () JORF 15 mai 2007
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-23 (V)
 
 
 ### TITRE IV : SOCIETE AIR FRANCE.
