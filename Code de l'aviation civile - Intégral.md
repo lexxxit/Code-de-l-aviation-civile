@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-07-28
 
 # Partie législative
 
@@ -30743,71 +30743,6 @@ les-Moulineaux, Persan-Beaumont, Pontoise - Cormeilles-en-Vexin, Saint-Cyr-l'Eco
 	**Créé par**:
 
 	  - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
-
-
-##### Section 1 : Aérodromes constituant Aéroports de Paris.
-
-###### Article D251-1
-
-Les aérodromes suivants font partie de l'ensemble constitué par Aéroports de Paris :
-
-Charles-de-Gaulle, Orly, Le Bourget ;
-
-Chavenay-Villepreux, Chelles-le-Pin, Coulommiers-Voisins ;
-
-Issy-les-Moulineaux, Lognes-Emerainville, Meaux-Esbly ;
-
-Persan-Beaumont, Pontoise - Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le-Noble.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 29 décembre 1994
-	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 3 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
-
-	**Cité par**:
-
-	  - Arrêté du 16 septembre 2005 - art. 1 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
-
-
-###### Article D251-2
-
-Pour chacun de ces aérodromes, des arrêtés pris par le ministre chargé de l'aviation civile, contresignés par le ministre des
-armées (armée de l'air et armée de mer, aéronavale) si ses services les utilisent, fixeront s'il y a lieu les modalités
-d'application.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-610 1949-04-21 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
-
-	**Modifié par**:
-
-	  - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
 
 
 ## LIVRE III : TRANSPORT AERIEN.
