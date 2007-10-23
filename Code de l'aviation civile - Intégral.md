@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-10-24
 
 # Partie législative
 
@@ -10565,37 +10565,6 @@ et équipements aéronautiques et relatif à l'agrément des organismes et des p
 	  - Code de l'aviation civile - art. R160-1 (V)
 
 
-###### Article R133-18
-
-L'exercice, sur un aérodrome dans lequel le service du contrôle de la circulation aérienne n'est pas assuré, de fonctions
-d'information de vol et d'alerte est subordonné à la délivrance par le ministre chargé de l'aviation civile d'une
-qualification attestant l'acquisition de connaissances théoriques et pratiques. Les conditions de délivrance et de validité
-de la qualification sont déterminées par arrêté du ministre chargé de l'aviation civile.
-
-Le ministre chargé de l'aviation civile peut déléguer sa signature pour délivrer et renouveler la qualification mentionnée au
-précédent alinéa aux chefs des services déconcentrés de l'aviation civile, au directeur de l'aviation civile Antilles-Guyane
-et au directeur du service de l'aviation civile de l'océan Indien ainsi qu'aux fonctionnaires placés sous leur autorité.
-
-**Nota:**
-
-: Décret 2007-487 du 30 mars 2007 art. 95 : Le décret du 70-836 du 10 septembre 1970 est abrogé. Toutefois, les dispositions
-de ce décret demeurent en vigueur en tant qu'elles s'appliquent à Saint-Pierre-et-Miquelon et à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2007-863 du 14 mai 2007 - art. 3 () JORF 15 mai 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1509 du 22 octobre 2007 - art. 3 () JORF 24 octobre 2007
-
-
 #### CHAPITRE IV : REDEVANCES.
 
 ###### Article R134-1
@@ -10817,6 +10786,237 @@ de l'aviation civile.
 
 	  - Arrêté du 9 mars 1990 - art. 6 (Ab)
 	  - Arrêté du 16 avril 1996 - art. 6 (VT)
+
+
+#### CHAPITRE V : PERSONNELS DES SERVICES DE LA CIRCULATION AERIENNE.
+
+##### Section 1 : Personnels assurant les services du contrôle de la circulation aérienne.
+
+###### Article R135-1
+
+Les fonctionnaires civils qui assurent les services du contrôle de la circulation aérienne principalement pour des mouvements
+d'aéronefs en circulation aérienne générale doivent être titulaires d'une licence de contrôleur de la circulation aérienne ou
+d'une licence de contrôleur de la circulation aérienne stagiaire.
+
+La licence de contrôleur de la circulation aérienne, ou de contrôleur de la circulation aérienne stagiaire, atteste
+l'acquisition de connaissances générales théoriques et pratiques. Elle précise quelles qualifications et mentions, parmi
+celles énumérées respectivement à l'article 6 et aux articles 7 à 10 de la directive 2006/23/CE du Parlement européen et du
+Conseil du 5 avril 2006 concernant une licence communautaire de contrôleur de la circulation aérienne, a obtenues son
+titulaire et l'autorise, après reconnaissance de son aptitude médicale, à assurer les services du contrôle de la circulation
+aérienne correspondants.
+
+La licence de contrôleur de la circulation aérienne stagiaire autorise son titulaire à assurer les services du contrôle de la
+circulation aérienne sous la surveillance d'un instructeur sur la position.
+
+**Nota:**
+
+Décret n° 2007-1509 art. 2 : " Le premier alinéa de l'article R. 135-1 entre en vigueur le 17 mai 2008. 
+
+Jusqu'au 16 mai 2008, le fait pour les personnes visées à cet article de détenir une qualification de contrôle avec une
+autorisation d'exercice de qualification valide emporte les mêmes conséquences que la détention d'une licence contenant les
+qualifications et mentions de l'organisme d'affectation en état de validité. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2006-23 CE 2006-04-05 art. 6, art. 7 à art. 10
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°90-998 du 8 novembre 1990 - art. 3 (V)
+	  - Décret n°90-998 du 8 novembre 1990 - art. 4 (V)
+	  - Décret n°93-622 du 27 mars 1993 - art. 2 (V)
+	  - Décret n°2007-1511 du 22 octobre 2007 - art. 28 (V)
+	  - Arrêté du 16 mai 2008 - art. 1-1 (V)
+	  - Décret n°2010-920 du 3 août 2010 - art. 9 (VT)
+	  - Décret n°2010-1222 du 19 octobre 2010 - art. 5 (V)
+	  - Arrêté du 22 juillet 2011 - art. 3 (V)
+	  - Arrêté du 27 février 2017 - art. 1
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+
+###### Article R135-2
+
+Les licences de contrôleur et de contrôleur stagiaire de la circulation aérienne sont délivrées aux candidats qui remplissent
+les conditions fixées par l'article 5 de la directive 2006/23/CE du 5 avril 2006 susmentionnée. La validité des mentions et
+qualifications portées sur ces licences est prorogée ou maintenue selon les conditions énumérées par l'article 11 de la même
+directive.
+
+La licence, les qualifications ou les mentions peuvent, après mise en demeure, être suspendues lorsque la compétence du
+contrôleur de la circulation aérienne est mise en question.
+
+Elles peuvent également être suspendues, le temps nécessaire pour assurer la sécurité, en cas d'incident révélant une faute.
+
+La licence peut être retirée en cas de négligence grave ou d'abus. Sauf urgence, la décision de retrait est prise après que
+l'intéressé a été mis à même de présenter sa défense.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2006-23 CE 2006-04-05 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Cité par**:
+
+	  - Décret n°90-998 du 8 novembre 1990 - art. 4-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+
+###### Article R135-3
+
+La prestation de formation destinée aux contrôleurs de la circulation aérienne, y compris les procédures d'évaluation y
+afférentes, est soumise à homologation. L'homologation est délivrée aux organismes de formation qui répondent aux exigences
+du point 1 de l'annexe IV de la directive 2006/23/CE du 5 avril 2006 susmentionnée. La décision d'homologation comporte les
+indications et la déclaration mentionnées au point 2 de la même annexe.
+
+Les cursus de formation, les plans de formation en unité et les programmes de compétence d'unité sont agréés lorsqu'ils
+satisfont aux exigences en matière de formation fixées à l'annexe II de la même directive.
+
+Les titulaires de licence doivent être agréés pour exercer les fonctions d'examinateur de compétence ou d'évaluateur de
+compétence pour la formation en unité et la formation continue.
+
+**Nota:**
+
+Décret n° 2007-1059 art. 2 : " Le premier alinéa de l'article R. 135-3 entre en vigueur le 17 mai 2008. "
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R135-4 (V)
+
+	**Cite**:
+
+	  - Directive 2006-23 CE 2006-04-05 annexe IV, annexe II
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+
+###### Article R135-4
+
+Les agréments et les homologations prévus à l'article R. 135-3 peuvent être suspendus ou retirés, après mise en demeure,
+lorsque l'une des conditions d'agrément ou d'homologation cesse d'être satisfaite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R135-3 (V)
+
+
+###### Article R135-5
+
+La direction du contrôle de la sécurité de la direction générale de l'aviation civile est l'autorité nationale de
+surveillance au sens de l'article 3 de la directive 2006/23/CE du 5 avril 2006 susmentionnée. A ce titre, elle délivre,
+suspend et retire les licences, qualifications et mentions ainsi que les homologations et agréments prévus à la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2006-23 CE 2006-04-05 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+	**Cité par**:
+
+	  - Arrêté du 21 janvier 2008 - art. 1 (V)
+
+
+###### Article R135-6
+
+Les dispositions de la présente section s'appliquent à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, en
+Nouvelle-Calédonie et à Saint-Pierre-et-Miquelon. Toutefois, en Polynésie française, en Nouvelle-Calédonie et à Saint-Pierre-
+et-Miquelon, les licences de contrôleur de la circulation aérienne, les qualifications et mentions qui y sont associées sont
+délivrées, suspendues ou retirées par le représentant de l'Etat. Cette autorité peut, par arrêté, déléguer sa signature pour
+délivrer ces licences, qualifications et mentions aux chefs des services d'Etat de l'aviation civile et aux fonctionnaires
+placés sous leur autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+
+###### Article R135-7
+
+Un arrêté du ministre chargé de l'aviation civile fixe les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+
+##### Section 2 : Personnels assurant le service d'information de vol et d'alerte sur un aérodrome.
+
+###### Article R135-8
+
+L'exercice, sur un aérodrome dans lequel le service du contrôle de la circulation aérienne n'est pas assuré, de fonctions
+d'information de vol et d'alerte est subordonné à la délivrance par le ministre chargé de l'aviation civile d'une
+qualification attestant l'acquisition de connaissances théoriques et pratiques. Les modalités selon lesquelles sont formés et
+évalués les candidats à cette qualification ainsi que les conditions de délivrance et de validité de cette qualification sont
+déterminées par arrêté du ministre chargé de l'aviation civile.
+
+Le ministre chargé de l'aviation civile peut déléguer sa signature pour délivrer et renouveler la qualification mentionnée au
+précédent alinéa aux chefs des services déconcentrés de l'aviation civile, au directeur de l'aviation civile Antilles-Guyane
+et au directeur du service de l'aviation civile de l'océan Indien, ainsi qu'aux fonctionnaires placés sous leur autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-334 1967-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
 
 
 ### TITRE IV : DOMMAGES ET RESPONSABILITES.
