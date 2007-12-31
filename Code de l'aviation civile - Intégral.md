@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-12-24
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -4370,33 +4370,24 @@ exécuter d'office les travaux nécessaires à la remise en état des lieux.
 
 Les autorités ci-après désignées reçoivent copie des procès-verbaux dressés pour constater les infractions à la police de la
 conservation des installations et ouvrages du domaine aéronautique et peuvent adresser au ministère public leur avis sur la
-gravité des faits relevés et présenter des observations devant la juridiction saisie des poursuites :
+gravité des faits relevés et présenter des observations devant la juridiction saisie des poursuites : 
 
 Les directeurs de région aéronautique, pour les aérodromes et installations de leur région ne relevant pas d'un aéroport
-principal ;
+principal ; 
 
-Les directeurs d'aéroport principal, pour les aérodromes et installations faisant partie de l'aéroport principal ;
+Les directeurs d'aéroport principal, pour les aérodromes et installations faisant partie de l'aéroport principal ; 
 
-Les ingénieurs en chef du service des bases aériennes, pour les aérodromes et installations de leur circonscription ;
+Les ingénieurs en chef du service des bases aériennes, pour les aérodromes et installations de leur circonscription ; 
 
-Les commandants de base aérienne militaire, pour l'aérodrome ou la zone relevant de leur autorité.
+Les commandants de base aérienne militaire, pour l'aérodrome ou la zone relevant de leur autorité. 
 
 Les mêmes prérogatives appartiennent au commandant de l'aéroport de Bâle-Mulhouse pour faire réprimer les infractions à la
 police de la conservation des terrains et de l'ensemble des ouvrages et installations réalisés en application de la
-convention franco-suisse du 4 juillet 1949.
+convention franco-suisse du 4 juillet 1949. 
 
-**Nota:**
-
-: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
-publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
-
-Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
+A Mayotte, les prérogatives prévues aux alinéas qui précèdent appartiennent au chef du service de l'aviation civile.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
 
 	**Cité par**:
 
@@ -4407,7 +4398,15 @@ Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel
 
 	**Modifié par**:
 
-	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 21 avril 2005 en vigueur le 22 juillet 2005
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 10
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6372-2 (V)
 
 	**Cite**:
 
@@ -4433,18 +4432,9 @@ Les mêmes prérogatives appartiennent au commandant de l'aéroport de Bâle-Mul
 police de l'exploitation de l'aérodrome et de l'ensemble des ouvrages et installations réalisés en application de la
 convention franco-suisse du 4 juillet 1949.
 
-**Nota:**
-
-: Loi 2005-357 art. 21 : " Les dispositions du titre Ier et celles des articles 15 et 17 entrent en vigueur à la date de
-publication du décret en Conseil d'Etat prévu au I de l'article 5 et, au plus tard, le 31 décembre 2005. " 
-
-Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel du 22 juillet 2005.
+A Mayotte, les prérogatives prévues aux alinéas qui précèdent appartiennent au chef du service de l'aviation civile.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
 
 	**Cité par**:
 
@@ -4458,7 +4448,15 @@ Il s'agit du décret n° 2005-828 du 20 juillet 2005 publié au Journal officiel
 
 	**Modifié par**:
 
-	  - Loi n°2005-357 du 20 avril 2005 - art. 15 () JORF 21 avril 2005 en vigueur le 22 juillet 2005
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 10
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6372-2 (V)
 
 	**Cite**:
 
@@ -5534,16 +5532,10 @@ que si la capacité d'emport des aéronefs utilisés est supérieure à une limi
 décret détermine également les conditions d'octroi de ladite licence d'exploitation et dudit certificat de transporteur
 aérien, notamment en ce qui concerne les garanties morales, financières et techniques exigées du transporteur.
 
+Pour l'application à Mayotte, les mots : "et conformément aux dispositions du règlement (CEE) n° 2407/92 du 23 juillet 1992
+concernant les licences des transporteurs aériens, annexé au présent code "    sont supprimés.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DE L'AVIATION CIVILE annexe
-	  - Décret n°92-2407 1992-07-23
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
 
 	**Cité par**:
 
@@ -5567,7 +5559,16 @@ aérien, notamment en ce qui concerne les garanties morales, financières et tec
 
 	**Modifié par**:
 
-	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 10
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6412-1 (V)
+	  - Code des transports - art. L6412-2 (V)
 
 
 ###### Article L330-2
@@ -5625,18 +5626,17 @@ transporteur, après information des collectivités territoriales, des chambres 
 établissements publics intéressés. Par dérogation au II de l'article 7 de la loi n° 82-1153 du 30 décembre 1982 d'orientation
 des transports intérieurs, cette autorisation peut être délivrée sans qu'ait été conclue au préalable une convention
 répondant à cette disposition sauf lorsque les dispositions des paragraphes d et h de l'article 4 du règlement (CEE) n°
-2408/92 mentionné à l'article L. 330-2 sont appliquées.
+2408 / 92 mentionné à l'article L. 330-2 sont appliquées. 
+
+Pour l'application à Mayotte, les mots : " sauf lorsque les dispositions des paragraphes d et h de l'article 4 du règlement
+(CEE) n° 2408 / 92 mentionné à l'article L. 330-2 sont appliquées " sont supprimés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
 	**Cite**:
 
-	  - Loi n°82-1153 1982-12-30 art. 7
-	  - Code de l'aviation civile - art. L330-2 (M)
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 7 (V)
+	  - Code de l'aviation civile - art. L330-2 (V)
 
 	**Cité par**:
 
@@ -5654,7 +5654,7 @@ répondant à cette disposition sauf lorsque les dispositions des paragraphes d 
 
 	**Modifié par**:
 
-	  - Loi n°96-151 du 26 février 1996 - art. 28 () JORF 27 février 1996
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 10
 
 
 ###### Article L330-4
@@ -8286,15 +8286,13 @@ l'exploitation des prestataires de services de la navigation aérienne, ainsi qu
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article, et notamment les catégories d'usagers
 exonérés du paiement des redevances.
 
+Pour l'application à Mayotte, la dernière phrase du premier alinéa du IX est supprimée.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 120 () JORF 31 décembre 2004
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 10
 
 	**Cité par**:
 
