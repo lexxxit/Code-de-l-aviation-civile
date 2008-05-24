@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -9315,29 +9315,25 @@ habilité, les significations et citations peuvent être délivrées en la perso
 
 ###### Article R123-4
 
-Le procès-verbal de saisie est transcrit au bureau chargé de la tenue du registre d'immatriculation dans le délai de cinq
-jours francs augmenté des délais de distance.
+Le procès- verbal de saisie est transcrit au bureau chargé de la tenue du registre d' immatriculation dans le délai de cinq
+jours francs augmenté des délais de distance. 
 
-Dans la huitaine, le fonctionnaire chargé de la tenue du registre d'immatriculation délivre sur demande écrite du requérant
-un état des inscriptions et, dans les trois jours qui suivent, la saisie est dénoncée par exploit d'huissier ou par lettre
+Dans la huitaine, le fonctionnaire chargé de la tenue du registre d' immatriculation délivre sur demande écrite du requérant
+un état des inscriptions et, dans les trois jours qui suivent, la saisie est dénoncée par exploit d' huissier ou par lettre
 recommandée avec accusé de réception aux créanciers inscrits aux domiciles élus dans leurs inscriptions, avec indication du
 jour de la comparution devant le tribunal de grande instance. Le délai de comparution est de huit jours, si le propriétaire
-est domicilié en France. Dans le cas contraire, les délais sont ceux prévus aux articles 644 et 645 du nouveau code de
-procédure civile.
+est domicilié en France. Dans le cas contraire, les délais sont ceux prévus aux articles 644 et 645 du code de procédure
+civile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-29 1966-01-06 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 644 (V)
 
 	**Cité par**:
 
@@ -9408,42 +9404,41 @@ délai de convocation est de quinzaine sans augmentation à raison de la distanc
 
 ###### Article R123-7
 
-Dans le cas où les créanciers ne s'entendraient pas sur la distribution du prix, il sera dressé procès-verbal de leurs
+Dans le cas où les créanciers ne s' entendraient pas sur la distribution du prix, il sera dressé procès- verbal de leurs
 prétentions et contredits. Dans la huitaine, chacun des créanciers doit déposer au greffe du tribunal de grande instance une
-demande de collocation contenant constitution d'avoué avec titres à l'appui. A la requête du plus diligent, les créanciers
-sont, par simple acte d'avoué à avoué, appelés devant le tribunal, qui statue à l'égard de tous, même des créanciers
-priviligiés.
+demande de collocation contenant constitution d' avoué avec titres à l' appui. A la requête du plus diligent, les créanciers
+sont, par simple acte d' avoué à avoué, appelés devant le tribunal, qui statue à l' égard de tous, même des créanciers
+priviligiés. 
 
 Le jugement est signifié dans les trente jours de sa date, à avoué seulement pour les parties présentes et aux domiciles élus
-pour les parties défaillantes ; le jugement n'est pas susceptible d'opposition. Le délai d'appel est de dix jours à compter
-de la signification du jugement sous réserve des dispositions des articles 644 et 645 du nouveau code de procédure civile.
+pour les parties défaillantes ; le jugement n' est pas susceptible d' opposition. Le délai d' appel est de dix jours à
+compter de la signification du jugement sous réserve des dispositions des articles 644 et 645 du code de procédure civile. 
 
-L'acte d'appel contient assignation et énonciation des griefs à peine de nullité. La disposition finale de l'article 762 du
-code de procédure civile est appliquée, ainsi que les articles 761, 763 et 764 du même code. Dans les huit jours qui suivent
-l'expiration du délai d'appel et, s'il y a appel, dans les huit jours de la signification de l'arrêt le juge déjà désigné
-dresse l'état des créances colloquées en principal, intérêt et frais. Les intérêts des créances utilement colloquées cessent
-de courir à l'égard de la partie saisie.
+L' acte d' appel contient assignation et énonciation des griefs à peine de nullité. La disposition finale de l' article 762
+du code de procédure civile est appliquée, ainsi que les articles 761, 763 et 764 du même code. Dans les huit jours qui
+suivent l' expiration du délai d' appel et, s' il y a appel, dans les huit jours de la signification de l' arrêt le juge déjà
+désigné dresse l' état des créances colloquées en principal, intérêt et frais. Les intérêts des créances utilement colloquées
+cessent de courir à l' égard de la partie saisie. 
 
-Les dépens des contestations ne peuvent être pris sur les deniers à distribuer, sauf les frais de l'avoué le plus ancien.
+Les dépens des contestations ne peuvent être pris sur les deniers à distribuer, sauf les frais de l' avoué le plus ancien. 
 
-Sur l'ordonnance du juge commis, le greffier du tribunal de grande instance délivre les bordereaux de collocation exécutoire
-contre la Caisse des dépôts et consignations dans les termes de l'article 770 du code de procédure civile (ancien). La même
-ordonnance autorisé la radiation par le fonctionnaire chargé de la tenue du registre d'immatriculation des inscriptions des
+Sur l' ordonnance du juge commis, le greffier du tribunal de grande instance délivre les bordereaux de collocation exécutoire
+contre la Caisse des dépôts et consignations dans les termes de l' article 770 du code de procédure civile (ancien). La même
+ordonnance autorisé la radiation par le fonctionnaire chargé de la tenue du registre d' immatriculation des inscriptions des
 créanciers non colloqués. Il est procédé à cette radiation sur la demande de toute partie intéressée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-29 1966-01-06 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 770 (Ab)
+	  - Code de procédure civile - art. 644 (V)
+	  - Code de procédure civile - art. 761 (V)
+	  - Code de procédure civile - art. 762 (V)
 
 
 ###### Article R123-8
@@ -20102,26 +20097,30 @@ effectuées pour se conformer à cette mise en demeure.
 
 ###### Article R360-4
 
-La saisine du président du tribunal de grande instance de Paris mentionnée à l'article L. 360-3 est effectuée par voie
-d'assignation en référé selon la procédure prévue au deuxième alinéa de l'article 485 du nouveau code de procédure civile.
-L'assignation est valablement délivrée à l'adresse du ou des actionnaires intéressés inscrite au registre nominatif ou, le
-cas échéant, à laquelle il a été fait élection de domicile conformément à l'article L. 360-1. Elle doit être accompagnée
-d'une copie des avis mentionnés à l'article R. 360-2, de la ou des mises en demeure effectuées conformément à l'article R.
-360-3, ainsi que d'une copie certifiée conforme des extraits du registre nominatif de la société faisant apparaître que les
-titres en cause n'ont pas été cédés à l'issue du délai de deux mois prévu à l'article L. 360-3.
+La saisine du président du tribunal de grande instance de Paris mentionnée à l' article L. 360- 3 est effectuée par voie d'
+assignation en référé selon la procédure prévue au deuxième alinéa de l' article 485 du code de procédure civile. L'
+assignation est valablement délivrée à l' adresse du ou des actionnaires intéressés inscrite au registre nominatif ou, le cas
+échéant, à laquelle il a été fait élection de domicile conformément à l' article L. 360- 1. Elle doit être accompagnée d' une
+copie des avis mentionnés à l' article R. 360- 2, de la ou des mises en demeure effectuées conformément à l' article R. 360-
+3, ainsi que d' une copie certifiée conforme des extraits du registre nominatif de la société faisant apparaître que les
+titres en cause n' ont pas été cédés à l' issue du délai de deux mois prévu à l' article L. 360- 3.
 
-L'ordonnance emportant désignation de l'organisme mentionné à l'article L. 360-3 est exécutoire de plein droit. Elle indique
-pour chaque actionnaire le nombre de titres à céder par l'organisme.
+L' ordonnance emportant désignation de l' organisme mentionné à l' article L. 360- 3 est exécutoire de plein droit. Elle
+indique pour chaque actionnaire le nombre de titres à céder par l' organisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2003-571 du 27 juin 2003 - art. 1 () JORF 28 juin 2003
+	  - Code de procédure civile - art. 485 (V)
+	  - Code de l'aviation civile - art. L360-1 (V)
+	  - Code de l'aviation civile - art. L360-3 (V)
+	  - Code de l'aviation civile - art. R360-2 (V)
+	  - Code de l'aviation civile - art. R360-3 (V)
 
 
 ###### Article R360-5
