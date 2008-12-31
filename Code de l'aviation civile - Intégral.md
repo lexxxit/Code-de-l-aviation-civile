@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2008-12-18
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -10976,28 +10976,20 @@ lorsque l'une des conditions d'agrément ou d'homologation cesse d'être satisfa
 
 ###### Article R135-5
 
-La direction du contrôle de la sécurité de la direction générale de l'aviation civile est l'autorité nationale de
-surveillance au sens de l'article 3 de la directive 2006/23/CE du 5 avril 2006 susmentionnée. A ce titre, elle délivre,
+La direction de la sécurité de l'aviation civile de la direction générale de l'aviation civile est l'autorité nationale de
+surveillance au sens de l'article 3 de la directive 2006 / 23 / CE du 5 avril 2006 susmentionnée. A ce titre, elle délivre,
 suspend et retire les licences, qualifications et mentions ainsi que les homologations et agréments prévus à la présente
 section.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Directive 2006-23 CE 2006-04-05 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
-
 	**Cité par**:
 
 	  - Arrêté du 21 janvier 2008 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1299 du 11 décembre 2008 - art. 7
 
 
 ###### Article R135-6
@@ -11435,21 +11427,13 @@ Les amendes sont recouvrées comme les créances de l'Etat étrangères à l'imp
 
 La commission administrative de l'aviation civile, placée auprès du ministre chargé de l'aviation civile, a pour mission de
 donner au ministre un avis sur les sanctions administratives qui peuvent être appliquées en cas de manquements aux
-dispositions des livres Ier ou III.
+dispositions des livres Ier à III.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-	**Créé par**:
-
-	  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -11496,24 +11480,21 @@ Outre le président nommé par décret pris sur le rapport du ministre chargé d
 membres du Conseil d'Etat, le collège permanent est composé de cinq membres titulaires et d'un nombre égal de suppléants
 nommés par arrêté du ministre chargé de l'aviation civile :
 
-- quatre membres représentant l'Etat : un membre du conseil général des ponts et chaussées, un représentant du ministre
-chargé de l'aviation civile, un membre de la gendarmerie des transports aériens désigné sur proposition du ministre de la
-défense et un représentant du ministre chargé de l'économie et des finances désigné sur proposition de celui-ci ;
+- quatre membres représentant l'Etat : un membre du     Conseil général de l'environnement et du développement durable, un
+représentant du ministre chargé de l'aviation civile, un membre de la gendarmerie des transports aériens désigné sur
+proposition du ministre de la défense et un représentant du ministre chargé de l'économie et des finances désigné sur
+proposition de celui-ci ;
 
-- une personnalité qualifiée choisie en raison de ses compétences dans le domaine de l'aviation civile.
+- une personnalité qualifiée choisie en raison de ses compétences dans le domaine de l'aviation civile. 
 
 Le vice-président, choisi parmi les membres du collège permanent, est nommé par décret sur le rapport du ministre chargé de
 l'aviation civile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-863 du 14 mai 2007 - art. 11 () JORF 15 mai 2007
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -11524,9 +11505,9 @@ l'aviation civile.
 
 Le collège spécialisé, dont les membres sont nommés par arrêté du ministre chargé de l'aviation civile, comporte quatre
 formations, respectivement intitulées " Aéronefs ", " Transport aérien " " Maintenance des aéronefs " et " Passagers ",
-constituées afin de statuer sur des manquements aux dispositions des livres Ier ou III. Ces formations comprennent six
-membres titulaires et un nombre égal de suppléants. Un arrêté du ministre chargé de l'aviation civile fixe pour chacune de
-ces formations la liste des manquements dont, réunie avec le collège permanent, elle peut connaître.
+constituées afin de statuer sur des manquements aux dispositions des livres Ier à III. Ces formations comprennent six membres
+titulaires et un nombre égal de suppléants. Un arrêté du ministre chargé de l'aviation civile fixe pour chacune de ces
+formations la liste des manquements dont, réunie avec le collège permanent, elle peut connaître.
 
 La formation " Aéronefs " comprend :
 
@@ -11564,18 +11545,14 @@ compagnies non établies en France desservant le territoire national ;
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-863 du 14 mai 2007 - art. 12 () JORF 15 mai 2007
-
 	**Cité par**:
 
 	  - Arrêté du 9 juillet 2007 - art. 1 (V)
 	  - Arrêté du 27 août 2015 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 
 ###### Article R160-7
@@ -11607,52 +11584,60 @@ de la personne qu'il remplace.
 
 ###### Article R160-7-1
 
-Les fonctions de membre de la Commission administrative de l'aviation civile sont exercées à titre gratuit. Toutefois, les
-membres de la commission peuvent être remboursés de leur frais de déplacement dans les conditions fixées pour les
-déplacements temporaires par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des
-frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
+Les membres de la commission administrative de l'aviation civile peuvent être remboursés de leurs frais de déplacement dans
+les conditions fixées par la réglementation applicable aux déplacements temporaires des personnels civils de l'Etat.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+administrative de l'aviation civile).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission administrative de l'aviation civile).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Cite**:
 
-	  - Décret n°2006-781 2006-07-03
+	  - Décret n°2006-781 du 3 juillet 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-863 du 14 mai 2007 - art. 13 () JORF 15 mai 2007
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 
 ###### Article R160-8
 
 Afin d'instruire l'affaire dont est saisie la commission, un rapporteur est choisi par le président soit sur une liste de
 personnalités établie par le ministre chargé de l'aviation civile, soit parmi les fonctionnaires appartenant à un corps de
-catégorie A de la direction générale de l'aviation civile ou, pour les manquements relevant du paragraphe 5 de l'article R.
-330-20 et commis par des agents de voyages, de la direction du tourisme.
+catégorie A de la direction générale de l'aviation civile ou, pour les manquements relevant des paragraphes 5 et 8. de
+l'article R. 330-20 et commis par des agents de voyages, de la direction du tourisme. 
 
 Le président ou le rapporteur peuvent demander l'audition de toute personne ou la production de toute pièce qu'ils estiment
-utile à l'examen de l'affaire dont la commission a été saisie.
+utile à l'examen de l'affaire dont la commission a été saisie. 
 
-La ou les personnes concernées doivent avoir connaissance de l'ensemble des éléments de leur dossier.
+La ou les personnes concernées doivent avoir connaissance de l'ensemble des éléments de leur dossier. 
 
 Un rapport écrit, établi par le rapporteur, est communiqué aux membres de la commission et aux parties concernées avant la
-séance au cours de laquelle l'affaire doit être examinée.
+séance au cours de laquelle l'affaire doit être examinée. 
 
 Les membres de la commission sont tenus au respect de la confidentialité des dossiers soumis à l'examen de la commission.
 
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+administrative de l'aviation civile).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission administrative de l'aviation civile).
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
 
 	**Modifié par**:
 
-	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -11663,7 +11648,7 @@ Les membres de la commission sont tenus au respect de la confidentialité des do
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R330-20 (M)
+	  - Code de l'aviation civile - art. R330-20
 
 
 ###### Article R160-9
@@ -14337,6 +14322,63 @@ aérien.
 
 #### CHAPITRE VII : SANCTIONS ADMINISTRATIVES
 
+###### Article R217-4
+
+Les membres de la commission sûreté d'un aérodrome ainsi que leurs suppléants à raison de deux suppléants pour un titulaire
+sont nommés par arrêté du préfet pour une période de trois ans renouvelable. 
+
+La commission est présidée par                le directeur de la sécurité de l'aviation civile ou son représentant. Elle
+comprend en outre :
+
+- huit membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse cinq millions de
+passagers ;
+
+- six membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers
+mais est inférieure à cinq millions de passagers ;
+
+- et quatre membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années est inférieure à 200
+000 passagers, 
+
+répartis à parts égales entre : 
+
+1° D'une part, des représentants de l'Etat désignés sur proposition des différents chefs de service territorialement
+compétents parmi les services de police, de gendarmerie, de l'aviation civile ou des douanes intervenant sur l'aérodrome et,
+le cas échéant, de l'autorité militaire ayant qualité d'affectataire secondaire ; 
+
+2° D'autre part, des représentants :
+
+- de l'exploitant de l'aérodrome ;
+
+- des personnes autorisées à occuper ou à utiliser la zone réservée de l'aérodrome ;
+
+- des personnels navigants et des autres catégories de personnel employées sur l'aérodrome. 
+
+Dans tous les cas, cette commission comprend au moins un représentant de l'exploitant d'aérodrome et, sur les aérodromes dont
+la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers, un représentant des compagnies
+aériennes et un représentant des personnels navigants et des autres catégories de personnel employés sur l'aérodrome. En
+outre, sur les aérodromes où le ministère de la défense est affectataire principal, cette commission comprend le représentant
+de l'autorité militaire assurant la direction de l'aérodrome. La commission élit en son sein un délégué permanent. 
+
+Dans les départements comportant plus d'un aérodrome, le préfet peut désigner une commission unique sur plusieurs aérodromes.
+Le nombre des membres de cette commission est déterminé au regard de l'aérodrome ayant le trafic le plus important.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1299 du 11 décembre 2008 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R217-2 (V)
+	  - Code de l'aviation civile - art. R217-4-1 (V)
+	  - Code de l'aviation civile - art. R217-4-2 (V)
+	  - Code de l'aviation civile - art. R217-5 (Ab)
+
+
+##### Section 1 : Sûreté.
+
 ###### Article R217-1
 
 I. - En cas de manquement constaté aux dispositions :
@@ -14396,33 +14438,29 @@ compter de la notification de la décision du préfet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-775 du 9 mai 2007 - art. 13 () JORF 11 mai 2007
+	  - DEPLACE: Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L213-4 (V)
-	  - Code de l'aviation civile - art. L282-8 (M)
-	  - Code de l'aviation civile - art. R213-1-1 (M)
-	  - Code de l'aviation civile - art. R213-1-3 (V)
-	  - Code de l'aviation civile - art. R213-10 (M)
-	  - Code de l'aviation civile - art. R213-11 (V)
-	  - Code de l'aviation civile - art. R213-12 (M)
-	  - Code de l'aviation civile - art. R213-14 (M)
-	  - Code de l'aviation civile - art. R213-3 (M)
-	  - Code de l'aviation civile - art. R213-4 (M)
-	  - Code de l'aviation civile - art. R213-6 (M)
-	  - Code de l'aviation civile - art. R217-4 (M)
-	  - Code de l'aviation civile - art. R282-6 (M)
-	  - Code de l'aviation civile - art. R321-10 (M)
-	  - Code de l'aviation civile - art. R321-5 (M)
-	  - Code de l'aviation civile - art. R321-8 (M)
-	  - Code de l'aviation civile - art. R321-9 (M)
+	  - Code de l'aviation civile - art. L213-4
+	  - Code de l'aviation civile - art. L282-8
+	  - Code de l'aviation civile - art. R213-1-1
+	  - Code de l'aviation civile - art. R213-1-3
+	  - Code de l'aviation civile - art. R213-10
+	  - Code de l'aviation civile - art. R213-11
+	  - Code de l'aviation civile - art. R213-12
+	  - Code de l'aviation civile - art. R213-14
+	  - Code de l'aviation civile - art. R213-3
+	  - Code de l'aviation civile - art. R213-4
+	  - Code de l'aviation civile - art. R213-6
+	  - Code de l'aviation civile - art. R217-4
+	  - Code de l'aviation civile - art. R282-6
+	  - Code de l'aviation civile - art. R321-10
+	  - Code de l'aviation civile - art. R321-5
+	  - Code de l'aviation civile - art. R321-8
+	  - Code de l'aviation civile - art. R321-9
 	  - Règlement CE 2320/2002 2002-12-16
 
 	**Cité par**:
@@ -14453,17 +14491,9 @@ Aucune amende ou mesure de suspension ne peut être prononcée plus de deux ans 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
-	**Modifié par**:
-
-	  - Décret n°2002-1026 du 31 juillet 2002 - art. 10 () JORF 3 août 2002
+	  - DEPLACE: Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -14474,9 +14504,9 @@ Aucune amende ou mesure de suspension ne peut être prononcée plus de deux ans 
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L282-11 (V)
-	  - Code de l'aviation civile - art. R217-1 (M)
-	  - Code de l'aviation civile - art. R217-4 (M)
+	  - Code de l'aviation civile - art. L282-11
+	  - Code de l'aviation civile - art. R217-1
+	  - Code de l'aviation civile - art. R217-4
 
 
 ###### Article R217-2-1
@@ -14522,19 +14552,15 @@ notification de la décision du préfet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-775 du 9 mai 2007 - art. 14 () JORF 11 mai 2007
+	  - DEPLACE: Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R213-6 (M)
-	  - Code de l'aviation civile - art. R217-1 (M)
-	  - Code de l'aviation civile - art. R217-2 (M)
+	  - Code de l'aviation civile - art. R213-6
+	  - Code de l'aviation civile - art. R217-1
+	  - Code de l'aviation civile - art. R217-2
 
 
 ###### Article R217-3
@@ -14545,82 +14571,15 @@ l'impôt et au domaine.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 4 () JORF 6 janvier 2002
+	  - DEPLACE: Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R217-3-2 (V)
 	  - Code de l'aviation civile - art. R217-3-3 (V)
 	  - Code de l'aviation civile - art. R217-3-4 (V)
-
-
-###### Article R217-4
-
-Les membres de la commission sûreté d'un aérodrome ainsi que leurs suppléants à raison de deux suppléants pour un titulaire
-sont nommés par arrêté du préfet pour une période de trois ans renouvelable.
-
-La commission est présidée par le directeur de l'aviation civile ou le directeur du service de l'aviation civile ou son
-représentant. Elle comprend en outre :
-
-- huit membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse cinq millions de
-passagers ;
-
-- six membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers
-mais est inférieure à cinq millions de passagers ;
-
-- et quatre membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années est inférieure à 200
-000 passagers,
-
-répartis à parts égales entre :
-
-1° D'une part, des représentants de l'Etat désignés sur proposition des différents chefs de service territorialement
-compétents parmi les services de police, de gendarmerie, de l'aviation civile ou des douanes intervenant sur l'aérodrome et,
-le cas échéant, de l'autorité militaire ayant qualité d'affectataire secondaire ;
-
-2° D'autre part, des représentants :
-
-- de l'exploitant de l'aérodrome ;
-
-- des personnes autorisées à occuper ou à utiliser la zone réservée de l'aérodrome ;
-
-- des personnels navigants et des autres catégories de personnel employées sur l'aérodrome.
-
-Dans tous les cas, cette commission comprend au moins un représentant de l'exploitant d'aérodrome et, sur les aérodromes dont
-la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers, un représentant des compagnies
-aériennes et un représentant des personnels navigants et des autres catégories de personnel employés sur l'aérodrome. En
-outre, sur les aérodromes où le ministère de la défense est affectataire principal, cette commission comprend le représentant
-de l'autorité militaire assurant la direction de l'aérodrome. La commission élit en son sein un délégué permanent.
-
-Dans les départements comportant plus d'un aérodrome, le préfet peut désigner une commission unique sur plusieurs aérodromes.
-Le nombre des membres de cette commission est déterminé au regard de l'aérodrome ayant le trafic le plus important.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-775 du 9 mai 2007 - art. 15 () JORF 11 mai 2007
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R217-1 (V)
-	  - Code de l'aviation civile - art. R217-2 (V)
-	  - Code de l'aviation civile - art. R217-4-1 (V)
-	  - Code de l'aviation civile - art. R217-4-2 (V)
-	  - Code de l'aviation civile - art. R217-5 (Ab)
 
 
 ###### Article R217-5
@@ -14642,21 +14601,94 @@ civile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
+	  - DEPLACE: Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2002-24 du 3 janvier 2002 - art. 4 () JORF 6 janvier 2002
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R217-4 (M)
+	  - Code de l'aviation civile - art. R217-4
+
+
+##### Section 2 : Personnes handicapées et personnes à mobilité réduite.
+
+###### Article R217-6
+
+Le ministre chargé de l'aviation civile peut, après consultation de la commission administrative de l'aviation civile prévue
+à l'article R. 160-3, prononcer une amende administrative à l'encontre de l'exploitant d'aérodrome qui ne respecte pas les
+obligations fixées par le règlement (CE) n° 1107 / 2006 du Parlement européen et du Conseil du 5 juillet 2006 concernant les
+droits des personnes handicapées et des personnes à mobilité réduite lorsqu'elles font des voyages aériens.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 9 juillet 2007 - art. 1 (V)
+	  - Code de l'aviation civile - art. R217-7 (Ab)
+	  - Code de l'aviation civile - art. R217-8 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R160-3
+
+
+###### Article R217-7
+
+Les manquements visés à l'article R. 217-6 sont constatés par les fonctionnaires et agents énumérés à l'article L. 330-10. 
+
+Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10 et R. 160-14 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-10
+	  - Code de l'aviation civile - art. R160-14
+	  - Code de l'aviation civile - art. R160-2
+	  - Code de l'aviation civile - art. R160-8
+	  - Code de l'aviation civile - art. R217-6
+
+
+###### Article R217-8
+
+Le ministre chargé de l'aviation civile, après avis de la Commission administrative de l'aviation civile, fixe, s'il y a
+lieu, le montant de l'amende prévue à l'article R. 217-6 en tenant compte de la nature et de la gravité des manquements
+constatés. Ce montant ne peut excéder 7 500 euros par manquement. Ce plafond est doublé en cas de nouveau manquem ent commis
+dans le délai d'un an à compter du précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R217-6
 
 
 ### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
@@ -18866,21 +18898,13 @@ son obtention.
 
 ###### Article R330-1-2
 
-Les directeurs de l'aviation civile en métropole ont compétence pour délivrer les certificats de transporteur aérien aux
-entreprises dont l'établissement principal est situé dans le ressort territorial de leur direction. Toutefois, en ce qui
-concerne les entreprises exploitant une flotte d'appareils dont la somme des masses maximales au décollage certifiées excède
-5 000 tonnes, ainsi que dans les départements d'outre-mer, cette compétence est exercée par le ministre chargé de l'aviation
-civile.
+Le ministre chargé de l'aviation civile délivre les certificats de transporteur aérien.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Décret n°2008-1299 du 11 décembre 2008 - art. 7
 
 
 ###### Article R330-2
@@ -19682,35 +19706,42 @@ l'approbation du préfet de région dans des conditions fixées par arrêté du 
 ###### Article R330-20
 
 Le ministre chargé de l'aviation civile peut, après consultation de la commission administrative de l'aviation civile prévue
-à l'article R. 160-3, prononcer une amende administrative à l'encontre de la personne physique ou morale qui :
+à l'article R. 160-3, prononcer une amende administrative à l'encontre de la personne physique ou morale qui : 
 
 1. Soit effectue un transport aérien public, sans être titulaire d'une licence d'exploitation de transporteur aérien en cours
-de validité lorsque celle-ci est requise en application de l'article L. 330-1 ;
+de validité lorsque celle-ci est requise en application de l'article L. 330-1 ; 
 
 2. Soit ne respecte pas les obligations de service public imposées conformément aux dispositions de l'article 4 du règlement
 (CEE) n° 2408/92 du 23 juillet 1992 ;
 
 3. Soit effectue un vol ne figurant pas dans un programme d'exploitation autorisé, conformément aux articles L. 330-2 et L.
-330-3 ;
+330-3 ; 
 
 4. Soit ne respecte pas les dispositions relatives au dépôt et à l'homologation des tarifs prises en application de l'article
-L. 330-8 ;
+L. 330-8 ; 
 
-5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111/2005 du 14 décembre 2005 reprises aux articles R.
-322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur aérien ;
+5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111 / 2005 du 14 décembre 2005 reprises aux articles
+R. 322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur
+aérien ; 
 
-6. Soit ne respecte pas les obligations à l'égard des passagers fixées par les dispositions du règlement (CE) n° 261/2004 du
-Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d'indemnisation et
-d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de retard important d'un vol ;
+6. Soit ne respecte pas les obligations à l'égard des passagers fixées par les dispositions du règlement (CE) n° 261 / 2004
+du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d'indemnisation et
+d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de retard important d'un vol ; 
 
 7. Soit ne respecte pas les obligations de fourniture des renseignements statistiques sur son trafic prévues à l'article R.
-330-3.
+330-3 ; 
+
+8. Soit ne respecte pas les obligations fixées par le règlement (CE) n° 1107 / 2006 du Parlement européen et du Conseil du 5
+juillet 2006 concernant les droits des personnes handicapées et des personnes à mobilité réduite lorsqu'elles font des
+voyages aériens.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+administrative de l'aviation civile).
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
 
 	**Cité par**:
 
@@ -19730,17 +19761,16 @@ d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de 
 
 	**Modifié par**:
 
-	  - Décret n°2007-863 du 14 mai 2007 - art. 6 () JORF 15 mai 2007
+	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-1 (M)
-	  - Code de l'aviation civile - art. L330-2 (M)
-	  - Code de l'aviation civile - art. L330-3 (M)
-	  - Code de l'aviation civile - art. L330-8 (M)
+	  - Code de l'aviation civile - art. L330-1 (V)
+	  - Code de l'aviation civile - art. L330-2 (V)
+	  - Code de l'aviation civile - art. L330-8 (V)
 	  - Code de l'aviation civile - art. R160-3 (V)
-	  - Code de l'aviation civile - art. R330-3 (M)
-	  - Code de l'aviation civile R160-3, L330-1, L330-2, L330-3, L330-8, R322-3 à R322-6, R330-3
+	  - Code de l'aviation civile - art. R322-3 (V)
+	  - Code de l'aviation civile - art. R330-3 (V)
 
 
 ###### Article R330-21
@@ -26346,23 +26376,17 @@ aérienne militaire, pour le compte du ministre de la défense, en application d
 
 ###### Article D131-10
 
-Conformément aux dispositions du III de l'article 10 du décret n° 2005-471 du 16 mai 2005 fixant l'organisation de
-l'administration centrale du ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la
-mer, la direction du contrôle de la sécurité de la direction générale de l'aviation civile est l'autorité de surveillance
-nationale, au sens de l'article 4 du règlement (CE) n° 549/2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le
-cadre pour la réalisation du ciel unique européen.
+La direction de la sécurité de l'aviation civile de la direction générale de l'aviation civile est l'autorité de surveillance
+nationale au sens de l'article 4 du règlement (CE) n° 549 / 2004 du Parlement européen et du Conseil du 10 mars 2004 fixant
+le cadre pour la réalisation du ciel unique européen. 
 
 Au sein du ministère de la défense, les fonctions d'autorité de surveillance nationale sont exercées, pour le compte de la
-direction du contrôle de la sécurité, par le directeur de la circulation aérienne militaire.
+direction de la sécurité de l'aviation civile, par le directeur de la circulation aérienne militaire.
 
 Un arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation civile précise les conditions d'exercice de
 ces compétences.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
 
 	**Cité par**:
 
@@ -26385,14 +26409,9 @@ ces compétences.
 	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 8 (Ab)
 	  - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 9 (Ab)
 
-	**Cite**:
-
-	  - Décret n°2005-471 du 16 mai 2005 - art. 10, v. init.
-	  - Règlement CE 549-2004 2004-03-10 art. 4
-
 	**Modifié par**:
 
-	  - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
+	  - Décret n°2008-1299 du 11 décembre 2008 - art. 7
 
 
 ##### Paragraphe 3 : Météorologie.
