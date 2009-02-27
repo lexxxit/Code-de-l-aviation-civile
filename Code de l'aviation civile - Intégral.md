@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-01-01 00:00:01 +0100
+Version Consolidée au 2009-02-28
 
 # Partie législative
 
@@ -15515,7 +15515,7 @@ Ces services ne peuvent donner lieu à la perception d'autres sommes, sous quelq
 ###### Article R224-2
 
 Les dispositions suivantes s'appliquent sur les aérodromes dont le trafic annuel moyen des trois dernières années a dépassé
-100 000 passagers :
+100 000 passagers : 
 
 1° Les redevances comprennent notamment :
 
@@ -15531,36 +15531,29 @@ de l'aéronef et, le cas échéant, de celles de l'aire de stationnement ;
 
 - la redevance par passager, correspondant à l'usage des installations aménagées pour la réception des passagers et du
 public, ainsi que, le cas échéant, aux services complémentaires, tels que la mise à disposition de comptoirs d'enregistrement
-et d'embarquement, ainsi que des installations de tri des bagages. L'assiette de cette redevance est le nombre de passagers
+et d'embarquement, ainsi que des installations de tri des bagages.L'assiette de cette redevance est le nombre de passagers
 embarqués. Sur un même aérodrome, le tarif applicable à une même catégorie de passagers est identique pour toutes les
 aérogares. Toutefois, pour les aérogares mises en service après le 1er août 2005, des tarifs différenciés pourront être fixés
-en fonction des coûts d'investissement et d'exploitation afférents à ces aérogares et de la qualité de service ;
-
-- la redevance pour usage des installations fixes de distribution de carburants d'aviation ; l'assiette de cette redevance,
-qui est due par les exploitants de ces installations, est le volume de carburant distribué.
+en fonction des coûts d'investissement et d'exploitation afférents à ces aérogares et de la qualité de service ; 
 
 Les services complémentaires peuvent, au choix de l'exploitant, être rattachés à l'une ou l'autre des redevances énumérées
-ci-dessus.
+ci-dessus. 
 
-2° Des redevances accessoires peuvent être instaurées par la personne mentionnée au I de l'article R. 224-3.
+2° Des redevances accessoires peuvent être instaurées par la personne mentionnée au I de l'article R. 224-3. 
 
 Elles peuvent notamment correspondre aux services complémentaires mentionnés au 1° ci-dessus, s'ils ne sont pas déjà couverts
 par les redevances qui y sont mentionnées, à la mise à disposition de locaux techniques, d'installations de traitement des
-eaux et d'aires d'entreposage, ainsi qu'à l'usage des installations nécessaires à l'atterrissage, au décollage et au
-stationnement des aéronefs de six tonnes et moins.
+eaux, d'installations fixes de distribution de carburant et d'aires d'entreposage, ainsi qu'à l'usage des installations
+nécessaires à l'atterrissage, au décollage et au stationnement des aéronefs de six tonnes et moins. 
 
 Les conditions tarifaires des redevances accessoires peuvent être fixées par contrat quand elles correspondent à des services
-de nature particulière qui ne sont rendus qu'à certains usagers.
+de nature particulière qui ne sont rendus qu'à certains usagers. 
 
 3° Les exploitants des aérodromes mentionnés au premier alinéa tiennent une comptabilité de leurs services permettant
-d'identifier les coûts relatifs à chacune des catégories de redevances mentionnées au présent article.
+d'identifier les coûts relatifs à chacune des catégories de redevances mentionnées au présent article. 
 
 Les autres conditions d'établissement et de perception des redevances sont précisées, en tant que de besoin, par arrêté
 conjoint des ministres chargés de l'aviation civile et de l'économie.
-
-**Nota:**
-
-Décret 2005-827 du 20 juillet 2005 article 5 : Le 3° de l'article R. 224-2 est applicable à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -15592,17 +15585,13 @@ Décret 2005-827 du 20 juillet 2005 article 5 : Le 3° de l'article R. 224-2 est
 	  - Code de l'aviation civile - art. R224-8 (V)
 	  - Code de l'aviation civile - art. R252-12 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30 JORF 9 avril 1967
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°84-29 du 11 janvier 1984 - art. 3 (An)
 
 	**Modifié par**:
 
-	  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+	  - Décret n°2009-230 du 26 février 2009 - art. 1
 
 
 ###### Article R224-2-1
@@ -15838,7 +15827,7 @@ présent article, notamment pour la définition du périmètre des activités et
 
 ###### Article R224-4
 
-I. - Les contrats prévus au II de l'article L. 224-2 sont passés entre l'Etat, représenté par les ministres chargés de
+I.-Les contrats prévus au II de l'article L. 224-2 sont passés entre l'Etat, représenté par les ministres chargés de
 l'aviation civile et de l'économie, et l'exploitant de l'aérodrome ou des aérodromes considérés. Ils déterminent :
 
 - celles des redevances mentionnées à l'article R. 224-1 dont les conditions d'évolution font l'objet du contrat ; celles-ci
@@ -15853,29 +15842,31 @@ susmentionnées correspondent au début de chacune de ces périodes ;
 - le plafond du taux moyen d'évolution de ces redevances pour chaque période tarifaire ;
 
 - l'ajustement de ce plafond en cas d'écart avec les éléments prévisionnels pris en compte en matière de trafic et
-d'investissements et en cas d'introduction de nouvelles redevances.
+d'investissements et en cas d'introduction de nouvelles redevances. 
 
 Ces contrats prévoient les conditions dans lesquelles est vérifié le caractère proportionné des redevances par rapport aux
-coûts correspondants.
+coûts correspondants. 
 
 Ces contrats déterminent également, en tant que de besoin, les limites à l'amplitude et à la durée des modulations
-mentionnées à l'article R. 224-2-2.
+mentionnées à l'article R. 224-2-2. Toutefois, les contrats ne peuvent fixer de limites particulières aux possibilités de
+modulation visant à réduire ou à compenser les atteintes à l'environnement, prévues au deuxième alinéa de l'article R.
+224-2-2. 
 
-Ils fixent les objectifs de qualité de service, assortis de mécanismes d'incitation financière.
+Ils fixent les objectifs de qualité de service, assortis de mécanismes d'incitation financière. 
 
-Ils précisent en outre le montant des investissements et les principales opérations d'équipement prévus.
+Ils précisent en outre le montant des investissements et les principales opérations d'équipement prévus. 
 
 Ils prévoient les conditions de leur révision ou de leur fin anticipée sur demande des ministres et après avis conforme de la
 commission consultative aéroportuaire, notamment lorsque des circonstances exceptionnelles et imprévisibles affectent les
 éléments prévisionnels pris en compte en matière de trafic et d'investissements, dans une mesure telle qu'elles se traduisent
-par un bouleversement de l'économie du contrat.
+par un bouleversement de l'économie du contrat. 
 
 Ils peuvent prévoir que les redevances sont perçues, sur les aérodromes d'Aéroports de Paris, par les tiers auxquels cette
-société a délégué l'exécution de certaines de ses missions en application du neuvième alinéa de l'article L. 251-2.
+société a délégué l'exécution de certaines de ses missions en application du neuvième alinéa de l'article L. 251-2. 
 
-Un arrêté conjoint des ministres précise, en tant que de besoin, les conditions d'application du présent paragraphe.
+Un arrêté conjoint des ministres précise, en tant que de besoin, les conditions d'application du présent paragraphe. 
 
-II. - L'élaboration de tels contrats inclut les phases successives suivantes :
+II.-L'élaboration de tels contrats inclut les phases successives suivantes : 
 
 a) L'exploitant rend public un dossier, relatif au périmètre d'activités mentionné à l'article R. 224-3-1, qui comprend
 notamment :
@@ -15889,47 +15880,50 @@ l'aérodrome ou les aérodromes qu'il exploite, d'évolution des capacités aér
 le cas échéant, du préfinancement de ceux-ci, d'adéquation des services publics aux besoins des usagers, de qualité desdits
 services, d'évolution des tarifs des redevances et, le cas échéant, de modulations de celles-ci ;
 
-- une évaluation de l'impact économique et financier de ces hypothèses et, le cas échéant, d'hypothèses alternatives ;
+- une évaluation de l'impact économique et financier de ces hypothèses et, le cas échéant, d'hypothèses alternatives ; 
 
 Le contenu de ce dossier est précisé, en tant que de besoin, par arrêté des ministres chargés de l'aviation civile et de
-l'économie ;
+l'économie ; 
 
 b) Dans un délai d'un mois suivant la publication de ce dossier, pouvant être étendu de quinze jours par décision des
 ministres chargés de l'aviation civile et de l'économie, les usagers et les autres parties intéressées adressent leurs
-observations à ces mêmes ministres, qui les communiquent à l'exploitant d'aérodrome ;
+observations à ces mêmes ministres, qui les communiquent à l'exploitant d'aérodrome ; 
 
 c) Le ministre chargé de l'aviation civile saisit la commission consultative aéroportuaire mentionnée à l'article L. 228-1 ;
-l'avis de la commission est rendu public par ce même ministre ;
+l'avis de la commission est rendu public par ce même ministre ; 
 
-d) Sur la base des éléments ci-dessus, le contrat est négocié entre l'Etat et l'exploitant d'aérodrome ;
+d) Sur la base des éléments ci-dessus, le contrat est négocié entre l'Etat et l'exploitant d'aérodrome ; 
 
 Dans le cadre de la préparation des contrats, l'exploitant d'aérodrome transmet aux ministres chargés de l'aviation civile et
 de l'économie et au président de la commission consultative aéroportuaire, à leur demande, tout élément permettant d'évaluer
 l'impact économique et financier susmentionné. Dans le cas où des instruments financiers émis par l'exploitant sont admis aux
 négociations sur un marché réglementé et où ces éléments d'évaluation constituent des informations privilégiées au sens de
-l'article 621-1 du règlement général de l'Autorité des marchés financiers, ceux-ci ne peuvent être communiqués à des tiers ;
+l'article 621-1 du règlement général de l'Autorité des marchés financiers, ceux-ci ne peuvent être communiqués à des tiers ; 
 
-e) Une fois conclu, le contrat est rendu public.
+e) Une fois conclu, le contrat est rendu public. 
 
-III. - Lorsqu'un contrat a été conclu, l'exploitant engage la consultation des usagers au moins trois mois avant le début de
-chaque période tarifaire.
+III.-Lorsqu'un contrat a été conclu, l'exploitant engage la consultation des usagers au moins trois mois avant le début de
+chaque période tarifaire. 
 
 Il notifie les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles mentionnées au troisième alinéa du 2°,
 et, le cas échéant, les modulations de celles-ci, par lettre recommandée avec avis de réception et deux mois au moins avant
 le début de chaque période tarifaire, aux ministres chargés de l'aviation civile et de l'économie. Cette notification est
 accompagnée de l'avis de la commission consultative économique de l'aérodrome, des éléments permettant de vérifier le respect
-du contrat et des informations mentionnées au IV de l'article R. 224-3.
+du contrat et des informations mentionnées au IV de l'article R. 224-3. 
 
 Les tarifs des redevances et, le cas échéant, leurs modulations sont réputés homologués et deviennent exécutoires pour la
 période tarifaire considérée dans les conditions fixées au V de l'article R. 224-3 à moins que les ministres chargés de
 l'aviation civile et de l'économie n'y fassent conjointement opposition dans un délai d'un mois suivant la réception de la
 notification, en cas de manquement aux règles générales applicables aux redevances ou aux stipulations du contrat.
 
+**Nota:**
+
+Décret 2009-230 du 26 février 2009 art. 2 : Les dispositions du septième alinéa de l'article R. 224-4 du code de l'aviation
+civile, dans leur rédaction résultant du II de l'article 1er du présent décret, sont applicables, nonobstant toutes
+stipulations contraires, aux contrats passés entre l'Etat et l'exploitant de l'aérodrome ou des aérodromes, prévus au II de
+l'article L. 224-2, en cours à la date de publication du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
 
 	**Cité par**:
 
@@ -15947,17 +15941,17 @@ notification, en cas de manquement aux règles générales applicables aux redev
 
 	**Modifié par**:
 
-	  - Décret n°2007-244 du 23 février 2007 - art. 4 () JORF 25 février 2007
+	  - Décret n°2009-230 du 26 février 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L224-2 (V)
-	  - Code de l'aviation civile - art. L228-1 (V)
-	  - Code de l'aviation civile - art. L251-2 (M)
-	  - Code de l'aviation civile - art. R224-1 (An)
-	  - Code de l'aviation civile - art. R224-2 (An)
-	  - Code de l'aviation civile - art. R224-2-2 (V)
-	  - Code de l'aviation civile - art. R224-3-1 (V)
+	  - Code de l'aviation civile - art. L224-2
+	  - Code de l'aviation civile - art. L228-1
+	  - Code de l'aviation civile - art. L251-2
+	  - Code de l'aviation civile - art. R224-1
+	  - Code de l'aviation civile - art. R224-2
+	  - Code de l'aviation civile - art. R224-2-2
+	  - Code de l'aviation civile - art. R224-3-1
 
 
 ###### Article R224-4-1
