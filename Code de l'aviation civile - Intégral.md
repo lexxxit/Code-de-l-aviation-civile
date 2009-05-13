@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-02-28
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -2012,44 +2012,16 @@ règlements ;
 	  - Code de l'aviation civile - art. L150-1
 
 
-###### Article L150-7
-
-Quiconque ayant été condamné pour l'une des infractions prévues aux articles précédents commettra une autre des infractions
-prévues aux mêmes articles ou la même infraction dans un délai de cinq ans après l'expiration de la peine d'emprisonnement ou
-le paiement de l'amende ou la prescription de ces deux peines sera condamné au maximum des peines d'emprisonnement et
-d'amende et ces peines pourront être élevées jusqu'au double.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 50
-	  - Loi n°1924-05-31 art. 67
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Abrogé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 122
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. L150-8 (VT)
-
-
 ###### Article L150-8
 
 L'interdiction de conduite d'un aéronef quelconque pourra être prononcée par le jugement ou l'arrêt pour une durée de trois
-mois à trois ans contre le pilote condamné, en vertu des articles L. 150-2, L. 150-4 et L. 150-5.
+mois à trois ans contre le pilote condamné, en vertu des articles L. 150-2, L. 150-4 et L. 150-5. 
 
-Si le pilote est condamné une seconde fois pour l'un quelconque de ces mêmes délits dans un délai prévu par l'article L.
-150-7, l'interdiction de conduire un aéronef sera prononcée et sa durée sera portée au maximum et pourra être élevée jusqu'au
-double.
+En cas de récidive de l'un des délits prévus par les articles L. 150-2, L. 150-4 et L. 150-5, la durée de l'interdiction de
+conduire un aéronef peut être portée au double. 
 
 Les brevets dont seraient porteurs les pilotes resteront déposés pendant toute la durée de l'interdiction au greffe de la
-juridiction qui aura prononcé l'interdiction.
+juridiction qui aura prononcé l'interdiction. 
 
 Les condamnés devront effectuer les dépôts de ces brevets soit à ce greffe, soit à celui de leur domicile, dans les cinq
 jours qui suivront la date à laquelle la condamnation sera devenue définitive, faute de quoi, ils seront punis d'un an
@@ -2058,31 +2030,25 @@ l'article L. 150-2 au cas où ils conduiraient un aéronef pendant la période d
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 52
-	  - Loi n°1924-05-31 art. 69
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-526 du 12 mai 2009 - art. 122
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L150-2 (M)
-	  - Code de l'aviation civile - art. L150-3 (M)
-	  - Code de l'aviation civile - art. L150-4 (M)
-	  - Code de l'aviation civile - art. L150-5 (M)
-	  - Code de l'aviation civile - art. L150-7 (V)
+	  - Code de l'aviation civile - art. L150-2
+	  - Code de l'aviation civile - art. L150-3
+	  - Code de l'aviation civile - art. L150-4
+	  - Code de l'aviation civile - art. L150-5
+	  - Code de l'aviation civile - art. L150-7
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Code des transports - art. L6232-5 (V)
 
 
 ###### Article L150-9
@@ -5469,62 +5435,6 @@ applicables au transport aérien public, quelle que soit l'utilisation faite par
 	  - Code des transports - art. L6412-6 (V)
 
 
-#### CHAPITRE IV : PRIX ABUSIVEMENT BAS EN MATIERE DE TRANSPORT AERIEN.
-
-###### Article L324-1
-
-Est puni d'une amende de 15 000 euros le fait pour tout transporteur aérien, ou tout prestataire de services de transport
-aérien, y compris les auxiliaires de transport, de ne pas s'être conformé à une décision administrative visant à interdire de
-nouvelles baisses des tarifs des services aériens intracommunautaires, prise en application de l'article 6 du règlement (CEE)
-n° 2409/92 du Conseil du 23 juillet 1992 sur les tarifs des passagers et de fret des services aériens.
-
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
-pénal, de l'infraction prévue au présent article. La peine encourue par les personnes morales est l'amende, suivant les
-modalités prévues à l'article 131-38 du code pénal.
-
-Les infractions sont recherchées et constatées dans les conditions prévues aux articles 45 (premier et troisième alinéa), 46,
-47, 51 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence. Le
-procureur de la République est préalablement avisé des opérations envisagées. Les procès-verbaux qui font foi jusqu'à preuve
-du contraire lui sont transmis sans délai. Copie en est adressée à l'intéressé.
-
-Le transporteur aérien, le prestataire de services de transport aérien ou l'auxiliaire de transport évincé en raison d'un
-prix abusivement bas, les organisations professionnelles de transporteurs ou prestataires de services de transport par voie
-aérienne, d'auxiliaires de transport ou de loueurs d'aéronefs avec équipage, représentatives au niveau national, peuvent se
-porter partie civile.
-
-L'action est prescrite dans un délai d'un an à compter de la date de fin d'exécution du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Cite**:
-
-	  - Ordonnance n°86-1243 du 1 décembre 1986
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52
-	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-38
-	  - Règlement CEE 92-2409 1992-07-23
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
 
 ###### Article L330-1
@@ -5631,23 +5541,20 @@ dépôt préalable ou à l'approbation de l'autorité administrative.
 
 ###### Article L330-3
 
-L'autorisation nécessaire pour effectuer des services réguliers de transport de personnes entre un point d'origine et un
-point de destination situés sur le territoire national est délivrée au vu du programme d'exploitation déposé par le
-transporteur, après information des collectivités territoriales, des chambres de commerce et d'industrie et des autres
-établissements publics intéressés. Par dérogation au II de l'article 7 de la loi n° 82-1153 du 30 décembre 1982 d'orientation
-des transports intérieurs, cette autorisation peut être délivrée sans qu'ait été conclue au préalable une convention
-répondant à cette disposition sauf lorsque les dispositions des paragraphes d et h de l'article 4 du règlement (CEE) n°
-2408 / 92 mentionné à l'article L. 330-2 sont appliquées. 
+Les services de transport aérien public à l'intérieur du territoire national peuvent être exploités sans que soit conclue la
+convention prévue au II de l'article 7 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs. 
 
-Pour l'application à Mayotte, les mots : " sauf lorsque les dispositions des paragraphes d et h de l'article 4 du règlement
-(CEE) n° 2408 / 92 mentionné à l'article L. 330-2 sont appliquées " sont supprimés.
+Sous réserve des compétences attribuées à certaines collectivités territoriales, l'Etat peut déléguer tout ou partie de
+l'organisation de services de transport aérien intérieurs au territoire national soumis à des obligations de service public à
+une collectivité territoriale ou à une autre personne publique intéressée l'ayant demandé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 7 (V)
-	  - Code de l'aviation civile - art. L330-2 (V)
+	  - Loi n°82-1153 du 30 décembre 1982
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 7
+	  - Code de l'aviation civile - art. L330-2
 
 	**Cité par**:
 
@@ -5665,7 +5572,15 @@ Pour l'application à Mayotte, les mots : " sauf lorsque les dispositions des pa
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 10
+	  - Loi n°2009-526 du 12 mai 2009 - art. 115
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6412-4 (V)
 
 
 ###### Article L330-4
@@ -5930,23 +5845,18 @@ commissionnés à cet effet et assermentés.
 
 ###### Article L330-11
 
-Les conditions d'application des articles L. 330-3, L. 330-4 et L. 330-6 sont déterminées par décret en Conseil d'Etat.
+Les conditions d'application des articles L. 330-4 et L. 330-6 sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°2003-322 du 9 avril 2003 - art. 1 () JORF 10 avril 2003
+	  - Loi n°2009-526 du 12 mai 2009 - art. 115
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-3 (M)
 	  - Code de l'aviation civile - art. L330-4 (V)
-	  - Code de l'aviation civile - art. L330-6 (M)
+	  - Code de l'aviation civile - art. L330-6 (V)
 
 
 ### TITRE IV : SOCIETE AIR FRANCE.
@@ -8142,40 +8052,6 @@ matière de fonds de concours pour dépenses d'intérêt public.
 
 ## LIVRE VI : IMPUTATION DES CHARGES.
 
-###### Article L611-1
-
-Les entreprises de transport aérien et les exploitants d'aérodromes supportent la charge des dépenses de personnel et de
-matériel du conseil supérieur de l'aviation marchande. La répartition de ces charges entre les différentes entreprises
-intéressées est effectuée dans des conditions fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°54-1312 1954-12-31 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi n°99-243 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-243 du 29 mars 1999 - art. 2 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 115
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D611-2 (V)
-	  - Code de l'aviation civile - art. R611-1 (V)
-
-
 ###### Article L611-2
 
 Donne lieu à rétablissement de crédit : le produit des ventes et abonnements des publications éditées par la section des
@@ -9153,33 +9029,32 @@ les dissimulant, en les altérant ou en les faisant disparaître.
 
 ###### Article L741-3
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies au présent titre.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, selon les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies au présent titre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code
+pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
 	**Modifié par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 7 (V) JORF 6 janvier 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1622-2 (VD)
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
