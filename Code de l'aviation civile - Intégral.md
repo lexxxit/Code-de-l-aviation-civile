@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-21
 
 # Partie législative
 
@@ -13793,24 +13793,85 @@ ceux qui le demandent.
 
 ###### Article R216-8
 
-Un comité des usagers est créé sur tout aérodrome visé au 1° de l'article R. 216-2, au I de l'article R. 216-3 et au 1° ou au
-2° de l'article R. 216-4.
+I.-Lorsqu'il est fait application sur un aérodrome des dispositions du I de l'article R. 216-3, du I de l'article R. 216-5,
+du I de l'article R. 216-7 ou du 1° de l'article R. 216-11, un comité des usagers est créé sur cet aérodrome. 
 
-Ce comité est consulté pour avis, préalablement à toute décision limitant le nombre de prestataires en application de
-l'article R. 216-5 ou de l'article R. 216-7. Les cahiers des charges ou les spécifications techniques auxquels les
-prestataires doivent satisfaire lui sont soumis avant leur adoption.
+Le comité est créé :
 
-La composition, le rôle et les modalités de fonctionnement des comités des usagers sont fixés par décret.
+- pour les aérodromes mentionnés à l'article L. 251-2, par décret ;
+
+- pour les aérodromes appartenant à l'Etat, par arrêté du préfet y exerçant les pouvoirs de police ;
+
+- pour les aérodromes faisant l'objet de la convention prévue à l'article L. 221-1, par le signataire de la convention autre
+que le ministre chargé de l'aviation civile. 
+
+Le comité est consulté préalablement à toute décision : 
+
+1° De limitation du nombre de prestataires ou du nombre de transporteurs aériens autorisés à effectuer de l'auto-assistance
+en escale prise en application des articles R. 216-3, R. 216-5 ou R. 216-7 ; 
+
+2° D'adoption d'un cahier des charges ou de spécifications techniques pour la sélection des prestataires et de sélection de
+prestataires en application de l'article R. 216-16 ; 
+
+3° De désignation du titulaire de la mission de permanence des services d'assistance en escale en application du 1° de
+l'article R. 216-11. 
+
+II.-Le comité est composé des transporteurs aériens usagers de l'aérodrome et, le cas échéant, des organisations
+professionnelles de transporteurs désignées par les transporteurs pour les représenter dans le comité. 
+
+Son président est élu par les membres du comité. Tout membre du comité peut se faire représenter par un autre membre qu'il
+mandate à cet effet. Le nombre de mandats que peut détenir un membre n'est pas limité. 
+
+Par dérogation aux articles 11 et 12 du décret n° 2006-672 du 8 juin 2006, le quorum est atteint lorsque le quart au moins
+des membres sont présents ou représentés. Pour le calcul du quorum, les organisations professionnelles sont décomptées en
+fonction du nombre de mandats de représentation qu'elles détiennent. Le nombre des voix de chaque membre est égal au nombre
+des unités de trafic embarqué ou débarqué sur l'aérodrome par ce membre lors de la dernière année civile pour laquelle le
+trafic de l'aérodrome est connu. Les organisations professionnelles auxquelles des transporteurs ont confié le soin de les
+représenter ont un nombre de voix égal à la somme des unités de trafic détenues par chacun de leurs mandants. 
+
+Aux fins du présent article, on entend par unité de trafic le nombre entier de milliers de passagers embarqués ou débarqués
+par le transporteur aérien sur l'aérodrome, additionné du nombre entier de centaines de tonnes de fret embarqué à bord
+d'aéronefs, ou débarqué d'aéronefs par ce même transporteur. On entend par transporteur aérien le transporteur aérien
+contractuel au sens de l'article 39 du chapitre V de la convention pour l'unification de certaines règles relatives au
+transport aérien international faite à Montréal le 28 mai 1999. 
+
+Les membres qui ne détiennent pas au moins une unité de trafic en application des alinéas précédents disposent chacun d'une
+voix. 
+
+III.-Le règlement intérieur du comité des usagers est arrêté par le comité sur proposition de son président. Il précise les
+modalités d'adoption des comptes rendus des réunions. Il est notifié à la personne compétente pour créer le comité. 
+
+IV.-Le secrétariat du comité est assuré par le gestionnaire de l'aérodrome. Les frais de fonctionnement du comité ainsi que
+la mise à disposition des lieux de réunion sont à la charge du gestionnaire de l'aérodrome. Ces frais sont inclus dans le
+montant des redevances dues pour l'utilisation des installations aéroportuaires par les transporteurs aériens.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité des
+usagers d'aéroports - Assistance en escale).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Comité des usagers d'aéroports - Assistance en escale).
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Comité des usagers d'aéroports (assistance en escale) est
+renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°2006-672 du 8 juin 2006 - art. 11 (V)
+	  - Code de l'aviation civile - art. L221-1 (V)
+	  - Code de l'aviation civile - art. L251-2 (V)
+	  - Code de l'aviation civile - art. R216-11 (V)
+	  - Code de l'aviation civile - art. R216-3 (V)
+	  - Code de l'aviation civile - art. R216-5 (V)
+	  - Code de l'aviation civile - art. R216-7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+	  - Décret n°2009-551 du 19 mai 2009 - art. 1
 
 	**Cité par**:
 
@@ -13819,18 +13880,6 @@ La composition, le rôle et les modalités de fonctionnement des comités des us
 	  - Décret n°2015-622 du 5 juin 2015 - art. (V)
 	  - Code de l'aviation civile - art. D216-1 (V)
 	  - Code de l'aviation civile - art. R216-16 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R216-2 (V)
-	  - Code de l'aviation civile - art. R216-3 (V)
-	  - Code de l'aviation civile - art. R216-4 (V)
-	  - Code de l'aviation civile - art. R216-5 (V)
-	  - Code de l'aviation civile - art. R216-7 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
 
 
 ###### Article R216-9
@@ -14125,36 +14174,45 @@ Les pièces mentionnées au c et au d ne sont exigées que si le demandeur a exe
 1° Les prestataires autorisés à fournir des services d'assistance en escale sur un aérodrome sont soumis à une sélection
 lorsque leur nombre est limité dans les cas prévus à l'article R. 216-5 ou au I, 3° et 4°, de l'article R. 216-7. Cette
 procédure de sélection n'est pas applicable au gestionnaire de l'aérodrome ni à toute entreprise qu'il contrôle directement
-ou indirectement ou qui le contrôle directement ou indirectement.
+ou indirectement ou qui le contrôle directement ou indirectement. 
 
-La sélection des prestataires est opérée dans les conditions suivantes :
+La sélection des prestataires est opérée dans les conditions suivantes : 
 
 a) Le cahier des charges ou les spécifications techniques auxquels ces prestataires doivent répondre sont établis par
 l'entité procédant à la sélection après consultation du comité des usagers prévu à l'article R. 216-8 ainsi, le cas échéant,
 que du gestionnaire de l'aérodrome. Ce cahier des charges fait notamment référence à la législation et à la réglementation
 applicables en matière de droit du travail ainsi qu'aux conventions collectives correspondant aux activités d'assistance en
-escale exercées ;
+escale exercées ; 
 
 b) L'entité procédant à la sélection doit lancer un appel d'offres, publié au Journal officiel des Communautés européennes,
-auquel tout prestataire intéressé peut répondre ;
+auquel tout prestataire intéressé peut répondre ; 
 
-c) Les prestataires sont retenus, après consultation du comité des usagers :
+c) Les prestataires sont retenus, après consultation du comité des usagers : 
 
-I. - Par le gestionnaire, si celui-ci ne fournit pas de services similaires d'assistance en escale et ne contrôle,
-directement ou indirectement, aucune entreprise fournissant de tels services, et ne détient aucune participation dans une
-telle entreprise ;
+I.-Par le gestionnaire, si celui-ci ne fournit pas de services similaires d'assistance en escale et ne contrôle, directement
+ou indirectement, aucune entreprise fournissant de tels services, et ne détient aucune participation dans une telle
+entreprise ; 
 
-II. - Par le préfet exerçant les pouvoirs de police sur l'aérodrome, après consultation du gestionnaire, dans les autres
-cas ; le préfet informe de son choix le gestionnaire et le ministre chargé de l'aviation civile ;
+II.-Dans les autres cas :
 
-III. - Par le ministre chargé de l'aviation civile, pour les aérodromes de Paris-Orly et Charles-de-Gaulle ;
+- pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-Orly, par le ministre chargé de l'aviation civile après
+consultation du gestionnaire ;
 
-d) Les prestataires retenus doivent détenir un agrément ;
+- pour les aérodromes autres que Paris-Charles-de-Gaulle et Paris-Orly, par le préfet exerçant les pouvoirs de police sur
+l'aérodrome, après consultation du gestionnaire et, le cas échéant, du signataire de la convention prévue à l'article L.
+221-1 ; le préfet informe de son choix le gestionnaire, le ministre chargé de l'aviation civile et, le cas échéant, le
+signataire de la convention prévue à l'article L. 221-1. 
 
-e) Les prestataires sont retenus pour une durée maximale de sept années ;
+Le comité des usagers émet un avis lot par lot sur le choix des prestataires. Chaque membre du comité peut désigner autant de
+prestataires que d'autorisations à attribuer par lot regroupant un ensemble de services soumis à limitation. L'avis fait
+mention par ordre décroissant du nombre de voix obtenues par chaque prestataire. 
+
+d) Les prestataires retenus doivent détenir un agrément ; 
+
+e) Les prestataires sont retenus pour une durée maximale de sept années ; 
 
 f) Lorsqu'un prestataire cesse son activité avant l'expiration de la période pour laquelle il a été sélectionné, il est
-procédé à son remplacement suivant la même procédure ;
+procédé à son remplacement suivant la même procédure ; 
 
 g) A compter du 1er janvier 2001, l'un au moins des prestataires sélectionnés ne peut être contrôlé directement ou
 indirectement :
@@ -14165,19 +14223,15 @@ indirectement :
 de l'année précédant celle où s'opère la sélection de ces prestataires ;
 
 - ni par une entité contrôlant ou étant contrôlée directement ou indirectement par ce gestionnaire ou par un tel transporteur
-aérien.
+aérien. 
 
 2° Le gestionnaire de l'aérodrome informe le comité des usagers des décisions prises en application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+	  - Décret n°2009-551 du 19 mai 2009 - art. 2
 
 	**Cité par**:
 
@@ -14187,12 +14241,9 @@ aérien.
 
 	**Cite**:
 
+	  - Code de l'aviation civile - art. L221-1
 	  - Code de l'aviation civile - art. R216-5 (V)
 	  - Code de l'aviation civile - art. R216-7 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
 
 
 #### CHAPITRE VII : SANCTIONS ADMINISTRATIVES
@@ -28959,47 +29010,37 @@ consultatif.
 
 ###### Article D216-1
 
-Le comité des usagers prévu à l'article R. 216-8 est composé des transporteurs aériens usagers de l'aérodrome.
+I.-Le comité des usagers prévu à l'article R. 216-8 est convoqué par son président sur demande du ministre chargé de
+l'aviation civile ou du préfet mentionné au II du c du 1° de l'article R. 216-16 ou du gestionnaire de l'aérodrome ou d'un ou
+plusieurs transporteurs aériens représentant ensemble 25 % des voix des membres du comité ou, le cas échéant, du signataire
+de la convention prévue à l'article L. 221-1. Cette demande est accompagnée d'un ordre du jour. Le président du comité peut
+ajouter à cet ordre du jour les points complémentaires qu'il juge utiles. 
 
-Tout transporteur aérien membre du comité a le choix de participer lui-même aux travaux de celui-ci ou de se faire
-représenter par une organisation professionnelle qu'il mandate à cet effet.
+Par dérogation à l'alinéa précédent, le gestionnaire de l'aérodrome procède à la première convocation du comité des usagers,
+le cas échéant sur demande du ministre chargé de l'aviation civile. 
 
-1° Lorsque le comité procède à un vote, le nombre des voix de chaque transporteur aérien est égal au nombre des unités de
-trafic embarqué et débarqué sur l'aérodrome par ce transporteur aérien lors de la dernière année civile pour laquelle le
-trafic de l'aérodrome est connu.
+II.-Un compte rendu est établi au plus tard trente jours après chaque séance du comité des usagers. Il est communiqué, selon
+le cas, au ministre chargé de l'aviation civile, au préfet mentionné au II du c du 1° de l'article R. 216-16, ou au
+signataire de la convention prévue à l'article L. 221-1, ainsi qu'au gestionnaire de l'aérodrome. Ce compte rendu doit faire
+état de l'ensemble des opinions exprimées.
 
-Tout organisme chargé de représenter des transporteurs aériens lors de la séance détient un nombre de voix égal à la somme
-des voix des transporteurs aériens qui lui ont donné mandat pour la séance, et qui sont concernés par le vote proposé.
+**Nota:**
 
-Le quorum est réuni lorsque le nombre de voix des transporteurs aériens présents ou représentés, décompté comme il est dit
-ci-dessus, est supérieur à la moitié.
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité des
+usagers d'aéroports - Assistance en escale).
 
-2° Aux fins du présent article, on entend par unité de trafic le nombre entier de milliers de passagers embarqués ou
-débarqués par le transporteur aérien sur l'aérodrome (ou, le cas échéant, dans la seule partie de l'aérodrome concerné par le
-vote), additionné du nombre entier de centaines de tonnes de fret embarqué à bord d'aéronefs, ou débarqué d'aéronefs.
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014.(Comité des usagers d'aéroports - Assistance en escale).
 
-3° Après chaque séance du comité, un compte rendu est établi, au plus tard dans le mois qui suit, et transmis au ministre
-chargé de l'aviation civile, au directeur de l'aviation civile et au gestionnaire de l'aérodrome. Il doit refléter l'ensemble
-des opinions exprimées.
-
-4° Le secrétaire du comité est désigné par le gestionnaire de l'aérodrome. Le comité est convoqué pour la première fois par
-le gestionnaire de l'aérodrome, le cas échéant sur demande du ministre chargé de l'aviation civile.
-
-Le comité établit son règlement intérieur.
-
-5° Les frais de fonctionnement du comité ainsi que la mise à disposition des lieux de réunion sont à la charge du
-gestionnaire de l'aérodrome. Ils sont inclus dans le montant des redevances dues pour l'utilisation des installations
-aéroportuaires par les transporteurs aériens.
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Comité des usagers d'aéroports (assistance en escale) est
+renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-335 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°98-211 du 23 mars 1998 - art. 1 () JORF 25 mars 1998
+	  - Décret n°2009-551 du 19 mai 2009 - art. 3
 
 	**Cité par**:
 
@@ -29009,6 +29050,8 @@ aéroportuaires par les transporteurs aériens.
 
 	**Cite**:
 
+	  - Code de l'aviation civile - art. L221-1 (V)
+	  - Code de l'aviation civile - art. R216-16 (V)
 	  - Code de l'aviation civile - art. R216-8 (V)
 
 
