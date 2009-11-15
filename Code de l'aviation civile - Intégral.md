@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-10-07
+Version Consolidée au 2009-11-16
 
 # Partie législative
 
@@ -21849,28 +21849,24 @@ premier renouvellement du conseil d'administration postérieur à la date de pub
 
 ###### Article R426-3
 
-Un commissaire du Gouvernement désigné par arrêté conjoint des ministres chargés respectivement du budget, de la sécurité
-sociale et de l'aviation civile assiste aux délibérations du conseil.
+Un commissaire du Gouvernement représentant le ministre chargé de la sécurité sociale assiste aux délibérations du conseil.
+Il est entendu chaque fois qu'il le demande. Un représentant du ministre chargé de l'aviation civile assiste également aux
+délibérations du conseil. Il est entendu chaque fois qu'il le demande.
 
 Hors le cas d'exécution immédiate à la suite d'une approbation expresse, les décisions du conseil sont exécutoires de plein
-droit dans un délai de vingt jours après leur communication aux ministres mentionnés au premier alinéa. Toutefois, elles
-peuvent être annulées, dans ce délai, par décision de l'un desdits ministres lorsqu'elles sont illégales ou susceptibles de
-mettre en péril l'équilibre financier de la caisse.
+droit dans un délai de vingt jours après leur communication aux ministres chargés de la sécurité sociale et du budget.
+Toutefois, elles peuvent être annulées, dans ce délai, par décision de l'un de ces ministres lorsqu'elles sont illégales ou
+susceptibles de mettre en péril l'équilibre financier de la caisse.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 	**Cité par**:
 
 	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1387 du 11 novembre 2009 - art. 4
 
 
 ###### Article R426-4
@@ -23435,33 +23431,24 @@ Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan app
 Les fonds de la caisse de retraite du personnel navigant professionnel de l'aéronautique civile affectés aux réserves des
 risques gérés, à la gestion administrative ou à l'action sociale ainsi que le report à nouveau ne peuvent être placés que
 sous la forme des actifs autorisés et selon les modalités prévues aux articles R. 623-2 à R. 623-10-4 du code de la sécurité
-sociale.
+sociale. 
 
 Un règlement financier est élaboré par la caisse de retraite du personnel navigant professionnel de l'aéronautique civile
 dans les conditions prévues à l'article R. 623-10-3 du code de la sécurité sociale. Ce règlement financier entre en vigueur
-dans un délai de six mois à compter de sa date de transmission au ministre chargé de la sécurité sociale, au ministre chargé
-du budget et au ministre chargé des transports, à défaut de notification dans ce délai d'une décision de refus motivée dans
-les conditions prévues audit article.
+dans un délai de six mois à compter de sa date de transmission au ministre chargé de la sécurité sociale et au ministre
+chargé du budget, à défaut de notification dans ce délai d'une décision de refus motivée dans les conditions prévues audit
+article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°2002-1314 du 25 octobre 2002 - art. 5 () JORF 1er novembre 2002
+	  - Décret n°2009-1387 du 11 novembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la sécurité sociale R623-2 à R623-10-4, R623-10-3
 	  - Code de la sécurité sociale. - art. R623-10-3 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Code de la sécurité sociale. - art. R623-2 (V)
 
 
 ##### Section 7 : Dispositions transitoires.
