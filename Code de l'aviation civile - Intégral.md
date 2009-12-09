@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-11-16
+Version Consolidée au 2009-12-10
 
 # Partie législative
 
@@ -1038,11 +1038,20 @@ présent code.
 
 ###### Article L123-4
 
-En cas de non-paiement ou de paiement insuffisant des redevances aéroportuaires, de la redevance de route, de la redevance
-pour services terminaux de la circulation aérienne ou des amendes administratives prononcées par l'Autorité de contrôle des
-nuisances sonores aéroportuaires, l'exploitant d'aérodrome ou l'autorité administrative de l'Etat compétente peuvent, après
-avoir mis le redevable en demeure de régulariser sa situation, requérir la saisie conservatoire d'un aéronef exploité par le
-redevable ou lui appartenant auprès du juge du lieu d'exécution de la mesure.
+Après mise en demeure infructueuse du redevable de régulariser sa situation, la saisie conservatoire d'un aéronef exploité
+par le redevable ou lui appartenant peut être requise auprès du juge du lieu d'exécution de la mesure par les autorités et
+dans les situations suivantes : 
+
+- le ministre chargé des transports, en cas de non-paiement ou de paiement insuffisant de la redevance de route ou de la
+redevance pour services terminaux de la circulation aérienne, ainsi qu'en cas de non-restitution d'une aide d'Etat ayant fait
+l'objet d'une décision de récupération de la part de la Commission européenne ou d'un arrêt de la Cour de justice des
+Communautés européennes, sans préjudice, dans ce cas, des compétences dévolues en ce domaine aux représentants de l'État dans
+le département ; 
+
+- l'exploitant d'aérodrome, en cas de non-paiement ou de paiement insuffisant des redevances aéroportuaires ; 
+
+- l'Autorité de contrôle des nuisances sonores aéroportuaires, en cas de non-paiement ou de paiement insuffisant des amendes
+administratives prononcées par cette autorité.
 
 L'ordonnance du juge de l'exécution est transmise aux autorités responsables de la circulation aérienne de l'aérodrome aux
 fins d'immobilisation de l'aéronef. L'ordonnance est notifiée au redevable et au propriétaire de l'aéronef lorsque le
@@ -1054,13 +1063,9 @@ Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°2005-357 du 20 avril 2005 - art. 12 () JORF 21 avril 2005
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 51
 
 
 #### CHAPITRE IV : LOCATION ET MISE A DISPOSITION D'AERONEFS.
@@ -3642,6 +3647,27 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	  - Code général des impôts, CGI. - art. 1609 quatervicies A (V)
 
 
+###### Article L227-11
+
+I.-Le volume de protection environnementale est un volume de l'espace aérien associé à une procédure de départ ou à une
+procédure d'arrivée portée à la connaissance des usagers par la voie de l'information aéronautique, dans lequel le vol doit
+être contenu pour des raisons environnementales. 
+
+II.-Le commandant de bord d'un aéronef volant selon les règles de vol aux instruments conduit son vol à l'intérieur du volume
+de protection environnementale qui est associé à la procédure déclarée en service par l'organisme de contrôle de la
+circulation aérienne, lorsque ce volume de protection existe. 
+
+III.-Un arrêté du ministre chargé de l'aviation civile définit le volume de protection environnementale associé à la
+procédure concernée, les catégories d'aéronefs visées et les cas de dérogation, après avis de l'Autorité de contrôle des
+nuisances sonores aéroportuaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 49
+
+
 #### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.
 
 ###### Article L228-1
@@ -5870,20 +5896,146 @@ commissionnés à cet effet et assermentés.
 	  - Code de l'aviation civile - art. R330-23 (V)
 
 
+###### Article L330-10-1
+
+Les agents et fonctionnaires énumérés à l'article L. 330-10 sont chargés de veiller au respect des dispositions prévues par
+les textes communautaires entrant dans le champ de compétence de l'autorité administrative chargée de l'aviation civile et
+mentionnés à l'annexe du règlement (CE) n° 2006 / 2004 du Parlement européen et du Conseil du 27 octobre 2004 relatif à la
+coopération entre les autorités nationales chargées de veiller à l'application de la législation en matière de protection des
+consommateurs. A cette fin, ils disposent des pouvoirs énumérés à l'article 4 du règlement précité. 
+
+Pour l'exercice de leurs missions, les agents mentionnés au premier alinéa du présent article ont accès, lorsqu'ils sont à
+usage professionnel, aux locaux, terrains, aéronefs, à l'exclusion des domiciles et de la partie des locaux servant de
+domicile. Ils ne peuvent y accéder qu'entre huit heures et vingt heures, ou en dehors de ces heures, lorsque l'accès au
+public est autorisé ou lorsqu'une activité est en cours. 
+
+En cas d'opposition du responsable des lieux, la visite ne peut se dérouler qu'avec l'autorisation du juge des libertés et de
+la détention du tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter. 
+
+Ce magistrat est saisi à la requête de l'autorité administrative chargée de l'aviation civile. Il statue par une ordonnance
+motivée, conformément aux articles 493 à 498 du code de procédure civile. La procédure est sans représentation obligatoire. 
+
+La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Celui-ci peut se rendre dans les locaux durant
+l'intervention.A tout moment, il peut décider l'arrêt ou la suspension de la visite. 
+
+Sous réserve du respect des données à caractère personnel, le secret professionnel ne peut être opposé aux agents et
+fonctionnaires agissant dans le cadre des pouvoirs visés au présent article.
+
+A l'issue de leurs opérations, les agents et fonctionnaires dressent procès-verbal, dont copie est remise aux parties
+intéressées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 50
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6431-2 (V)
+	  - Code des transports - art. L6431-3 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 493
+	  - Code de l'aviation civile - art. L330-10
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L330-10-2 (VT)
+	  - Code de l'aviation civile - art. L330-11 (VT)
+
+
+###### Article L330-10-2
+
+Les agents et fonctionnaires habilités à constater les manquements aux textes mentionnés à l'article L. 330-10-1 peuvent
+enjoindre aux parties intéressées, en leur impartissant un délai raisonnable, de se conformer aux obligations résultant des
+textes mentionnés à l'article L. 330-10-1 ou de faire cesser les manquements à ces textes.
+
+L'autorité administrative chargée de l'aviation civile peut agir devant la juridiction civile pour demander au juge
+d'ordonner, s'il y a lieu sous astreinte, toute mesure de nature à mettre un terme aux manquements prévus par les textes
+visés à l'article L. 330-10-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 50
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6431-4 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L330-10-1
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L330-11 (VT)
+
+
+###### Article L330-10-3
+
+Les dispositions relatives au secret professionnel ne font pas obstacle à la communication aux autorités compétentes des
+Etats membres de l'Union européenne, par l'autorité administrative chargée de l'aviation civile, selon les conditions et
+modalités du règlement (CE) n° 2006 / 2004 du Parlement européen et du Conseil, du 27 octobre 2004 précité d'informations et
+de documents détenus et recueillis dans l'exercice de leurs missions par les agents et fonctionnaires habilités à constater
+et rechercher des manquements aux dispositions de ce règlement et de ses textes d'application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 50
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6431-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L330-11 (VT)
+
+
 ###### Article L330-11
 
-Les conditions d'application des articles L. 330-4 et L. 330-6 sont déterminées par décret en Conseil d'Etat.
+Les conditions d'application des articles L. 330-4 , L. 330-6, L. 330-10-1, L. 330-10-2 et L. 330-10-3 sont déterminées par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 115
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 50
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6412-7 (V)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-4 (V)
-	  - Code de l'aviation civile - art. L330-6 (V)
+	  - Code de l'aviation civile - art. L330-10-1
+	  - Code de l'aviation civile - art. L330-10-2
+	  - Code de l'aviation civile - art. L330-10-3
+	  - Code de l'aviation civile - art. L330-4
+	  - Code de l'aviation civile - art. L330-6
 
 
 ### TITRE IV : SOCIETE AIR FRANCE.
@@ -5952,35 +6104,47 @@ de vote, les dispositions du premier alinéa du présent article sont applicable
 
 ###### Article L342-4
 
-Par dérogation aux dispositions des articles L. 433-2 et L. 435-4 du code du travail, les personnels navigants professionnels
-constituent un collège spécial pour l'élection des représentants du personnel au sein des comités d'établissement de la
-société Air France et disposent d'une représentation spécifique au comité central d'entreprise. Un décret en Conseil d'Etat
-fixe les conditions d'application du présent alinéa.
+Par dérogation aux dispositions des articles L. 2324-11 et L. 2327-4 du code du travail, les personnels navigants
+professionnels autres que ceux mentionnés à l'article L. 423-8 du présent code constituent un collège spécial pour l'élection
+des représentants du personnel au sein des comités d'établissement de la société Air France et disposent d'une représentation
+spécifique au comité central d'entreprise. Un décret en Conseil d'Etat fixe les conditions d'application du présent alinéa.
 
 En cas d'opération donnant lieu à l'apport de tout ou partie de l'actif de la société Air France à une autre société,
 titulaire d'une licence d'exploitation de transporteur aérien, dont elle détient la majorité du capital social et des droits
 de vote, les dispositions de l'alinéa précédent sont applicables à la société bénéficiaire des apports.
 
+**Nota:**
+
+Les I et II entrent en vigueur à compter de la tenue, dans les entreprises concernées, des premières élections
+professionnelles postérieures à la date de publication de la présente loi. 
+
+Toutefois, et jusqu'à la date de ces élections, lorsque la convention de branche ou l'accord d'entreprise ou d'établissement
+n'intéresse que la catégorie professionnelle du personnel navigant technique, la validité de la convention ou de l'accord est
+subordonnée à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli
+au moins la moitié des suffrages exprimés au premier tour des dernières élections au comité d'entreprise ou, à défaut, des
+délégués du personnel.
+
+L'opposition est exprimée dans un délai de huit jours à compter de la date de notification de cette convention ou de cet
+accord.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 136 et 145
-	  - Loi n°48-976 1948-06-16 art. 21
-	  - Décret n°53-916 1953-09-26 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
 
 	**Modifié par**:
 
-	  - Loi n°2004-734 du 26 juillet 2004 - art. 5 () JORF 28 juillet 2004
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 46 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6411-10 (V)
 
 	**Cite**:
 
-	  - Code du travail - art. L433-2 (M)
-	  - Code du travail - art. L435-4 (M)
+	  - Code du travail - art. L433-2
+	  - Code du travail - art. L435-4
 
 
 ### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES
@@ -6916,18 +7080,37 @@ indéterminée).
 ###### Article L422-1
 
 L'équipage est constitué par l'ensemble des personnes embarquées pour le service de l'aéronef en vol. Il est placé sous les
-ordres d'un commandant de bord.
+ordres d'un commandant de bord. 
+
+Afin de permettre l'organisation du transport public aérien, sans préjudice de l'application des articles L. 422-2 à L.
+422-4, dans le respect des dispositions prises pour assurer la sécurité des vols, le personnel navigant est tenu, sauf cas de
+force majeure ou impossibilité médicale, d'assurer son service programmé entre deux passages à l'une des bases d'affectation
+du personnel navigant de l'entreprise.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le deuxième
+alinéa de l'article L. 422-1. (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ancien code de l'aviation civile 156
-	  - Loi n°53-285 1953-04-04 art. 11
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 45 (V)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6522-1 (V)
+	  - Code des transports - art. L6522-5 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L422-2
 
 
 ###### Article L422-2
@@ -7036,8 +7219,8 @@ Le règlement du litige est porté, le cas échéant, devant le tribunal de comm
 
 ###### Article L422-5
 
-La durée annuelle du temps de service des salariés qui exercent l'une des fonctions énumérées à l'article L. 421-1 ne peut
-excéder 2 000 heures, dans lesquelles le temps de vol est limité à 900 heures.
+I.-La durée annuelle du temps de service des salariés qui exercent l'une des fonctions énumérées à l'article L. 421-1 ne peut
+excéder 2 000 heures, dans lesquelles le temps de vol est limité à 900 heures. 
 
 Pour l'application du présent article :
 
@@ -7047,26 +7230,58 @@ intéressées, du temps pendant lequel le salarié est présent sur le site de t
 pour accomplir un vol ou une tâche relevant de son contrat de travail ;
 
 - le temps de vol est le temps qui s'écoule entre l'heure à laquelle l'aéronef quitte son lieu de stationnement en vue de
-décoller jusqu'à celle à laquelle il s'arrête au lieu de stationnement désigné, une fois que tous les moteurs sont éteints.
+décoller jusqu'à celle à laquelle il s'arrête au lieu de stationnement désigné, une fois que tous les moteurs sont éteints. 
+
+II.-Pour les salariés mentionnés au premier alinéa du I, il est admis, dans les conditions d'exploitation des entreprises de
+transport et de travail aériens, qu'à la durée légale du travail effectif, telle que définie au premier alinéa de l'article
+L. 3121-10 du code du travail, correspond un temps de travail exprimé en heures de vol d'une durée déterminée par décret en
+Conseil d'Etat par mois, trimestre ou année civils. Par exception à l'article L. 3121-22 du même code, les heures
+supplémentaires de vol donnent lieu à une majoration de 25 % portant sur les éléments de rémunération, à l'exclusion des
+remboursements de frais. 
+
+Les articles L. 3121-33, L. 3122-29 à L. 3122-45, L. 3131-1 et L. 3131-2 du même code ne s'appliquent pas aux personnels
+entrant dans le champ du premier alinéa du I du présent article. 
+
+Les articles L. 1225-47 à L. 1225-60, L. 3122-28, L. 3123-1, L. 3123-2, L. 3123-5 à L. 3123-8, L. 3123-10, L. 3123-11, L.
+3123-14 à L. 3123-23 et L. 3142-78 à L. 3142-99 du même code sont applicables à ces mêmes personnels dans des conditions
+déterminées, compte tenu des adaptations rendues nécessaires par les contraintes propres aux activités aériennes, par décret
+en Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 2009-1503 du 8 décembre 2009 article 45 : Le premier alinéa du II du présent article entre en vigueur à compter de la
+publication du décret en Conseil d'Etat prévu par ce même alinéa.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 16 () JORF 14 juillet 2004
 
 	**Cité par**:
 
 	  - Décret n°2007-1546 du 30 octobre 2007 - art. 1 (V)
 	  - Code de l'aviation civile - art. L422-6 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 45 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L421-1 (V)
+	  - Code du travail - art. L3121-10
+	  - Code du travail - art. L3121-22
+	  - Code du travail - art. L3121-33
+	  - Code du travail - art. L3122-29
+	  - Code du travail - art. L3131-1
+	  - Code de l'aviation civile - art. L421-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6525-1 (M)
+	  - Code des transports - art. L6525-2 (V)
+	  - Code des transports - art. L6525-3 (M)
+	  - Code des transports - art. L6525-5 (M)
 
 
 ###### Article L422-6
@@ -7364,6 +7579,167 @@ rapatriement au lieu d'engagement sont incessibles et insaisissables.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L6523-11 (V)
+
+
+###### Article L423-7
+
+Pour l'application des articles L. 423-8 à L. 423-10, le personnel navigant technique est celui qui relève des sections A, B
+et C mentionnées à l'article L. 421-1.
+
+**Nota:**
+
+Loi n° 2009-1503 du 8 décembre 2009 article 46 III : Les I et II entrent en vigueur à compter de la tenue, dans les
+entreprises concernées, des premières élections professionnelles postérieures à la date de publication de la présente loi. 
+
+Toutefois, et jusqu'à la date de ces élections, lorsque la convention de branche ou l'accord d'entreprise ou d'établissement
+n'intéresse que la catégorie professionnelle du personnel navigant technique, la validité de la convention ou de l'accord est
+subordonnée à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli
+au moins la moitié des suffrages exprimés au premier tour des dernières élections au comité d'entreprise ou, à défaut, des
+délégués du personnel.
+
+L'opposition est exprimée dans un délai de huit jours à compter de la date de notification de cette convention ou de cet
+accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 46 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6524-1 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L423-8
+
+
+###### Article L423-8
+
+Par dérogation aux articles L. 2314-8 et L. 2324-11 du code du travail, dans les entreprises de transport et de travail
+aériens, lorsque le nombre de personnels navigants techniques est au moins égal à vingt-cinq au moment de la constitution ou
+du renouvellement des délégués du personnel, de la délégation unique du personnel ou des représentants du personnel au comité
+d'entreprise, cette catégorie constitue un collège spécial. 
+
+Lorsque dans un ou plusieurs établissements de l'entreprise il est constitué un collège électoral en application de l'alinéa
+précédent, un délégué titulaire et un délégué suppléant au comité central d'entreprise appartiennent à la catégorie du
+personnel navigant technique.
+
+**Nota:**
+
+Loi n° 2009-1503 du 8 décembre 2009 article 46 III : Les I et II entrent en vigueur à compter de la tenue, dans les
+entreprises concernées, des premières élections professionnelles postérieures à la date de publication de la présente loi. 
+
+Toutefois, et jusqu'à la date de ces élections, lorsque la convention de branche ou l'accord d'entreprise ou d'établissement
+n'intéresse que la catégorie professionnelle du personnel navigant technique, la validité de la convention ou de l'accord est
+subordonnée à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli
+au moins la moitié des suffrages exprimés au premier tour des dernières élections au comité d'entreprise ou, à défaut, des
+délégués du personnel.
+
+L'opposition est exprimée dans un délai de huit jours à compter de la date de notification de cette convention ou de cet
+accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 46 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6524-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L423-7 (VT)
+
+
+###### Article L423-9
+
+Dans les entreprises de transport et de travail aériens ou leurs établissements, lorsqu'un collège électoral spécifique est
+créé pour le personnel navigant technique, est représentative, à l'égard des personnels relevant de ce collège,
+l'organisation syndicale qui satisfait aux critères prévus à l'article L. 2121-1 du code du travail et qui a recueilli au
+moins 10 % des suffrages exprimés au premier tour des dernières élections des titulaires au comité d'entreprise ou de la
+délégation unique du personnel ou, à défaut, des délégués du personnel dans ce collège, quel que soit le nombre de votants. 
+
+Dans les branches qui couvrent les activités de transport et de travail aériens, sont représentatives, à l'égard du personnel
+navigant technique, les organisations syndicales qui remplissent les conditions prévues à l'article L. 2122-5 du code du
+travail dans les collèges électoraux de personnels navigants techniques, ou bien les conditions prévues à l'article L. 2122-6
+du même code.
+
+**Nota:**
+
+Loi n° 2009-1503 du 8 décembre 2009 article 46 III : Les I et II entrent en vigueur à compter de la tenue, dans les
+entreprises concernées, des premières élections professionnelles postérieures à la date de publication de la présente loi. 
+
+Toutefois, et jusqu'à la date de ces élections, lorsque la convention de branche ou l'accord d'entreprise ou d'établissement
+n'intéresse que la catégorie professionnelle du personnel navigant technique, la validité de la convention ou de l'accord est
+subordonnée à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli
+au moins la moitié des suffrages exprimés au premier tour des dernières élections au comité d'entreprise ou, à défaut, des
+délégués du personnel.
+
+L'opposition est exprimée dans un délai de huit jours à compter de la date de notification de cette convention ou de cet
+accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 46 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L2121-1
+
+
+###### Article L423-10
+
+Dans les entreprises dans lesquelles un collège électoral spécifique est créé pour les personnels navigants techniques,
+lorsque la convention de branche ou l'accord d'entreprise ou d'établissement ne concerne que les personnels navigants
+techniques, sa validité est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés
+représentatives ayant recueilli au moins 30 % des suffrages exprimés dans ce collège spécifique au premier tour des dernières
+élections des titulaires au comité d'entreprise ou de la délégation unique du personnel ou, à défaut, des délégués du
+personnel quel que soit le nombre de votants, et à l'absence d'opposition d'une ou de plusieurs organisations syndicales de
+salariés représentatives ayant recueilli la majorité des suffrages exprimés dans ce collège à ces élections, quel que soit le
+nombre de votants. 
+
+Lorsque la convention ou l'accord ne concerne que les personnels navigants techniques, sa validité est subordonnée à sa
+signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli, aux élections prises en
+compte pour la mesure de l'audience prévue au 3° de l'article L. 2122-5 du code du travail ou, le cas échéant, dans le cadre
+de la mesure de l'audience prévue à l'article L. 2122-6 du même code, au moins 30 % des suffrages exprimés dans le collège de
+personnels navigants techniques en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de
+votants, et à l'absence d'opposition d'une ou de plusieurs organisations syndicales de salariés représentatives ayant
+recueilli la majorité des suffrages exprimés dans ce collège à ces élections ou, le cas échéant, dans le cadre de la même
+mesure d'audience, quel que soit le nombre de votants.
+
+**Nota:**
+
+Loi n° 2009-1503 du 8 décembre 2009 article 46 III : Les I et II entrent en vigueur à compter de la tenue, dans les
+entreprises concernées, des premières élections professionnelles postérieures à la date de publication de la présente loi. 
+
+Toutefois, et jusqu'à la date de ces élections, lorsque la convention de branche ou l'accord d'entreprise ou d'établissement
+n'intéresse que la catégorie professionnelle du personnel navigant technique, la validité de la convention ou de l'accord est
+subordonnée à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli
+au moins la moitié des suffrages exprimés au premier tour des dernières élections au comité d'entreprise ou, à défaut, des
+délégués du personnel.
+
+L'opposition est exprimée dans un délai de huit jours à compter de la date de notification de cette convention ou de cet
+accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 46 (V)
 
 
 #### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.
