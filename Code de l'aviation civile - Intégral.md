@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -10891,25 +10891,24 @@ et équipements aéronautiques et relatif à l'agrément des organismes et des p
 L'usage des installations et services mis en oeuvre par l'Etat au-dessus du territoire métropolitain et dans son voisinage,
 pour la sécurité de la circulation aérienne en route et la rapidité de ses mouvements, y compris les services de
 radiocommunication et de météorologie, donne lieu à rémunération sous forme d'une redevance pou services rendus, dite
-redevance de route.
+redevance de route. 
+
+Le montant de la redevance pour services rendus, dite redevance de route, est déterminé selon les règles adoptées par les
+instances compétentes, conformément à l'accord multilatéral signé à Bruxelles le 12 février 1981 et aux dispositions du
+règlement (CE) n° 1794/2006 de la Commission du 6 décembre 2006, par l'application d'un taux unitaire, calculé à partir du
+coût des services de la navigation aérienne, aux unités de service qui sont fonction de la masse maximale au décollage de
+l'aéronef et de la distance parcourue dans les espaces aériens pour lesquels les services de navigation aérienne incombent à
+la France en vertu des dispositions prises par l'organisation de l'aviation civile internationale ou d'autres accords en
+découlant. 
 
 Un arrêté conjoint du ministre chargé des finances et du ministre chargé de l'aviation civile assure la publication des
-règles relatives à la redevance pour services rendus, dite redevance de route, adoptées par les instances compétentes,
-conformément à l'accord multilatéral fait à Bruxelles le 12 février 1981.
+règles relatives à la redevance pour services rendus, dite redevance de route, mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Accord 1981-02-12, fait à Bruxelles
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°90-641 du 18 juillet 1990 - art. 1 () JORF 21 juillet 1990
 
 	**Liens**:
 
@@ -10925,6 +10924,10 @@ conformément à l'accord multilatéral fait à Bruxelles le 12 février 1981.
 	  - Arrêté du 23 décembre 2009 (Ab)
 	  - Code de l'aviation civile - art. R134-2 (M)
 	  - Code de l'aviation civile - art. R134-4 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1609 du 18 décembre 2009 - art. 2
 
 
 ###### Article R134-2
@@ -10958,7 +10961,7 @@ la comptabilité publique.
 	  - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. ANNEXE II, III (Ab)
 
 
-###### Article R134-4
+###### Article R134-3
 
 Les services rendus par l'Etat pour la sécurité de la circulation aérienne et pour la rapidité de ses mouvements à l'arrivée
 et au départ des aérodromes dont l'activité dépasse un certain seuil donnent lieu à rémunération sous forme d'une redevance
@@ -10977,13 +10980,6 @@ Le taux unitaire normal doit tenir compte du coût national du service rendu.
 Des taux unitaires particuliers peuvent être fixés pour certaines zones dans lesquelles le coût du service rendu s'écarte de
 plus de 10 % du coût national.
 
-Le taux unitaire normal est établi de façon à équilibrer les coûts et les recettes. Il est d'abord calculé de façon
-prévisionnelle en fonction des coûts et des recettes escomptés de l'année au titre de laquelle la redevance est due ; puis,
-une fois connus les résultats comptables, le déficit ou l'excédent de recouvrement résultant de la différence entre les coûts
-et les recettes prévisionnels et les coûts et les recettes réellement constatés est intégré dans l'assiette des redevances
-perçues les années ultérieures jusqu'à la sixième au plus tard. Cette différence inclut le montant des admissions en non-
-valeur et le solde des provisions pour clients douteux.
-
 L'arrêté peut prévoir des modes de calcul fondés sur des moyennes pondérées pour des aéronefs d'un même type exploités par
 une même entreprise.
 
@@ -10994,9 +10990,27 @@ territoires d'outre-mer.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°2009-1609 du 18 décembre 2009 - art. 3
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. R134-4 (VT)
+
+
+###### Article R134-4
+
+La redevance de route et la redevance pour services terminaux de la circulation aérienne prévues aux articles R. 134-1 et R.
+134-3 font l'objet, pour la métropole, d'un système d'incitation tel que prévu par l'article 11 du règlement (CE) n° 549 /
+2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le cadre pour la réalisation du ciel unique européen,
+l'article 15 du règlement (CE) n° 550 / 2004 du Parlement européen et du Conseil du 10 mars 2004 relatif à la fourniture de
+services de navigation aérienne dans le ciel unique européen et l'article 12 du règlement (CE) n° 1794 / 2006 du 6 décembre
+2006 de la Commission établissant un système commun de tarification des services de navigation aérienne visant à améliorer la
+fourniture des services de navigation aérienne, consistant en une modulation du montant des redevances appliquée sur une base
+non discriminatoire et transparente.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -11017,15 +11031,87 @@ territoires d'outre-mer.
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 9 mars 1990 - art. Annexe (M)
-	  - TRANSFERE: Décret n°2009-1609 du 18 décembre 2009 - art. 3
 
 	**Modifié par**:
 
-	  - Décret n°2005-1634 du 26 décembre 2005 - art. 1 () JORF 27 décembre 2005
+	  - Décret n°2009-1609 du 18 décembre 2009 - art. 4
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'aviation civile - art. R134-3 (VD)
+	  - Code de l'aviation civile - art. R134-1
+
+
+###### Article R134-4-1
+
+Un plan de performance est établi, pour une période de trois à cinq ans, après consultation des usagers de l'espace aérien,
+notamment par l'intermédiaire de la commission consultative du budget annexe " contrôle et exploitation aériens ”. Ce plan,
+signé conjointement par le directeur général de l'aviation civile et le directeur des services de la navigation aérienne
+après avis du directeur du budget, est rendu public. 
+
+Il fixe les objectifs de performance assignés à la direction des services de la navigation aérienne, les ressources et moyens
+à mettre en œuvre pour atteindre ces objectifs, l'évolution prévisible des coûts et du trafic ainsi que les modalités
+détaillées de calcul des incitations économiques et des ajustements de trafic ou d'investissements. 
+
+Pour chacune des redevances, il détermine pour chaque année un taux unitaire maximal de référence. 
+
+Ce taux unitaire maximal de référence fait l'objet de modulations, consistant en : 
+
+― des incitations financières en fonction des objectifs de performance et des réalisations constatées portant sur la qualité
+du service et l'efficacité de la gestion du trafic aérien, sur la réalisation de projets, ou sur un niveau de coopération
+avec d'autres prestataires de services de navigation aérienne pour tenir compte des effets de réseau et de la construction
+des blocs d'espace aérien fonctionnels prévus par l'article 15 du règlement européen (CE) n° 550 / 2004 mentionné à l'article
+R. 134-4 ; 
+
+― des ajustements en fonction du niveau de trafic ou du niveau d'investissements effectivement réalisés. 
+
+Le plan de performance peut être révisé en cours de période si les conditions rencontrées, notamment en termes de trafic ou
+de conjoncture économique, diffèrent de celles prévues dans des proportions déterminées dans le plan.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1609 du 18 décembre 2009 - art. 4
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R134-4
+
+
+###### Article R134-4-2
+
+Les résultats de performance obtenus, les incitations financières qui en résultent et les ajustements éventuels font l'objet
+avant la fixation du taux unitaire annuel des redevances d'une consultation au moins annuelle des usagers de l'espace aérien,
+notamment par l'intermédiaire de la commission consultative du budget annexe "contrôle et exploitation aériens”. 
+
+Le taux unitaire annuel de chacune des redevances peut, le cas échéant, intégrer en tout ou partie les modulations issues
+d'un précédent plan de performance, selon des modalités précisées dans le nouveau plan. 
+
+Le taux unitaire annuel de la redevance de route déterminé par l'application des dispositions précédentes est proposé à la
+commission élargie prévue à l'accord multilatéral signé à Bruxelles le 12 février 1981 et publié par arrêté conjoint du
+ministre chargé de l'aviation civile et du ministre chargé du budget. Le taux unitaire annuel de la redevance pour services
+terminaux de la circulation aérienne déterminé par l'application des dispositions précédentes est fixé par arrêté conjoint du
+ministre chargé de l'aviation civile et du ministre chargé du budget. Ces arrêtés précisent modalités d'ajustement de taux en
+fonction du niveau de trafic ou du niveau d'investissements effectivement réalisés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1609 du 18 décembre 2009 - art. 4
+
+
+###### Article R134-4-3
+
+Un arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget fixe le cas échéant la liste des
+équipements et des procédures qui, en permettant d'optimiser l'utilisation des services de navigation aérienne, ouvrent droit
+pour les usagers à une réduction de leurs redevances pendant une durée limitée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1609 du 18 décembre 2009 - art. 4
 
 
 ###### Article R134-5
@@ -11105,6 +11191,60 @@ de l'aviation civile.
 
 	  - Arrêté du 9 mars 1990 - art. 6 (Ab)
 	  - Arrêté du 16 avril 1996 - art. 6 (VT)
+
+
+###### Article R134-7
+
+Dans l'espace aérien confié à la France par l'Organisation de l'aviation civile internationale ou pour lequel les services de
+la navigation aérienne ont été délégués à la France par un Etat tiers, l'usage des installations et services mis en œuvre par
+l'Etat outre-mer pour la sécurité de la circulation aérienne en route et la rapidité de ses mouvements, y compris les
+services de radiocommunication et de météorologie, donne lieu à rémunération sous forme d'une redevance pour services rendus,
+dite redevance océanique. 
+
+La redevance océanique est due par l'exploitant de l'aéronef ou, s'il est inconnu, par le propriétaire de l'aéronef. 
+
+Son montant est déterminé en fonction de la masse maximum au décollage de l'aéronef et de la distance parcourue dans les
+espaces aériens pour lesquels les services de navigation aérienne incombent à la France en vertu des dispositions prises par
+l'Organisation de l'aviation civile internationale ou d'autres accords en découlant, par l'application d'un taux unitaire,
+suivant des modalités fixées par arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget. 
+
+Le taux unitaire normal de la redevance océanique est fixé chaque année par arrêté conjoint du ministre chargé de l'aviation
+civile et du ministre chargé du budget sur la base du coût des services rendus et des objectifs de couverture de ces coûts.
+
+L'arrêté peut prévoir des modes de calcul fondés sur des moyennes pondérées des masses maximales au décollage d'aéronefs d'un
+même type exploités par une même entreprise. 
+
+Des taux unitaires réduits peuvent être fixés pour tenir compte des conditions économiques de la desserte aérienne des
+collectivités concernées et pour les vols dont l'aérodrome de départ et l'aérodrome d'arrivée sont situés sur le territoire
+national ou sur le territoire soumis aux règles du traité instituant la communauté européenne. 
+
+Les modalités de recouvrement et de paiement de la redevance océanique sont les mêmes que celles de la redevance pour
+services terminaux de la circulation aérienne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1648 du 23 décembre 2009 - art. 1
+
+
+###### Article R134-8
+
+La direction du transport aérien est l'autorité de surveillance chargée de l'application des règles relatives aux redevances
+au titre du règlement (CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars 2004 relatif à la fourniture de
+services de navigation aérienne dans le ciel unique européen et du règlement (CE) n° 1794/2006 du 6 décembre 2006 de la
+Commission établissant un système commun de tarification des services de navigation aérienne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1609 du 18 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - règlement (CE) n°1794/2006 du 6 décembre 2006
+	  - règlement (CE) n°550/2004
 
 
 #### CHAPITRE V : PERSONNELS DES SERVICES DE LA CIRCULATION AERIENNE.
