@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-03-13
 
 # Partie législative
 
@@ -31475,6 +31475,350 @@ Les dispositions du code du travail relatives à la médecine du travail sont ap
 	**Modifié par**:
 
 	  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+
+
+### TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE.
+
+###### Article D370-1
+
+Le Conseil supérieur de l'aviation civile est placé auprès du ministre chargé de l'aviation civile.
+
+**Nota:**
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil supérieur de l'aviation civile).
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2014-589 du 6 juin 2014 - art. (V)
+	  - Décret n°2015-622 du 5 juin 2015 - art. (V)
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-1 (T)
+
+
+###### Article D370-2
+
+Le Conseil supérieur de l'aviation civile peut être consulté par le ministre chargé de l'aviation civile sur toute question
+intéressant le transport aérien, notamment dans les domaines du développement durable, des entreprises et des services de
+transport aérien, des aérodromes et des clients du transport aérien. Il peut en particulier recueillir son avis sur les
+projets de loi et de règlement, les projets de texte communautaire et les projets de décision en matière de licence
+d'exploitation de transporteur aérien ou d'autorisation d'exploitation de services aériens. 
+
+Le Conseil supérieur de l'aviation civile peut, lorsqu'il en décide à la majorité, présenter au ministre chargé de l'aviation
+civile toute proposition portant sur des questions intéressant le transport aérien. 
+
+Le ministre chargé de l'aviation civile peut saisir le Conseil supérieur de l'aviation civile de tout avis du Conseil
+national des transports qui intéresse le transport aérien. Il transmet les avis du Conseil supérieur de l'aviation civile au
+Conseil national des transports sur toute question relevant également de la compétence de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-2 (T)
+
+
+###### Article D370-3
+
+Le président du Conseil supérieur de l'aviation civile est nommé pour cinq ans par décret pris sur le rapport du ministre
+chargé de l'aviation civile.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-3 (T)
+
+
+###### Article D370-4
+
+Outre le président, le Conseil supérieur de l'aviation civile comprend vingt-sept membres : 
+
+1° Un député désigné par l'Assemblée nationale ; 
+
+Un sénateur désigné par le Sénat ; 
+
+2° Un conseiller régional et un conseiller général, désignés sur proposition respectivement de l'Association des régions de
+France et de l'Assemblée des départements de France ; 
+
+3° Six représentants de l'Etat : 
+
+- un représentant du ministre chargé de l'économie ; 
+
+- un représentant du ministre chargé de l'aviation civile ; 
+
+- un représentant du ministre des affaires étrangères ; 
+
+- un représentant du ministre chargé de l'aménagement du territoire ; 
+
+- un représentant du ministre chargé de l'intérieur ; 
+
+- un représentant du ministre chargé de l'outre-mer. 
+
+Les représentants des ministres sont nommés sur proposition de chacun d'entre eux. 
+
+4° Le président du Conseil national des transports ou son représentant ; 
+
+5° Trois représentants des entreprises de transport aérien désignés après avis des organisations professionnelles
+intéressées ; 
+
+6° Deux représentants des exploitants d'infrastructures aéroportuaires ; 
+
+7° Quatre représentants des salariés désignés sur proposition des organisations syndicales représentatives dans le domaine du
+transport aérien ; 
+
+8° Trois représentants des usagers du transport aérien ; 
+
+9° Quatre personnalités nommées en raison de leur compétence dans le domaine de l'aviation civile. Quatre autres
+personnalités nommées en raison de leur compétence dans le domaine de l'aviation civile sont nommées dans les mêmes
+conditions en tant que suppléantes. 
+
+Les membres du Conseil supérieur de l'aviation civile mentionnés aux 2°, 3° et 5° à 9° sont nommés par arrêté du ministre
+chargé de l'aviation civile. 
+
+La durée du mandat des membres du Conseil supérieur de l'aviation civile est de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-4 (T)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D370-6 (V)
+
+
+###### Article D370-5
+
+Le Conseil supérieur de l'aviation civile peut se faire assister de groupes de travail. 
+
+Chaque groupe de travail est composé de membres du Conseil supérieur de l'aviation civile et de membres issus des formations
+adjointes au Conseil supérieur de l'aviation civile, désignés par le président du conseil en fonction de la mission qui lui
+est confiée. Chaque groupe de travail est présidé par un membre du Conseil supérieur de l'aviation civile désigné par le
+président. 
+
+Le groupe de travail peut entendre toute personne extérieure dont l'audition est de nature à éclairer ses travaux. 
+
+Le président du groupe de travail fait rapport au Conseil supérieur de l'aviation civile des résultats de sa mission. 
+
+Quatre formations adjointes au Conseil supérieur de l'aviation civile sont composées respectivement de représentants des
+clients du transport aérien, des exploitants d'aéronefs, des exploitants d'infrastructures aéroportuaires et des salariés des
+entreprises œuvrant dans le domaine du transport aérien. 
+
+Chacune de ces formations adjointes comprend au plus douze membres, non membres du Conseil supérieur de l'aviation civile,
+nommés par le ministre chargé de l'aviation civile après avis du Conseil supérieur de l'aviation civile. 
+
+A l'invitation du président, les membres des formations adjointes au Conseil supérieur de l'aviation civile peuvent assister
+sans voix délibérative aux séances du conseil, hormis les cas où le conseil examine des projets de décisions individuelles.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-5 (T)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D370-9 (V)
+
+
+###### Article D370-6
+
+En cas d'absence ou d'empêchement du président du Conseil supérieur de l'aviation civile, le ministre chargé de l'aviation
+civile désigne pour le suppléer l'un des membres nommés au titre du 9° de l'article D. 370-4. 
+
+Sauf urgence, les membres du Conseil supérieur de l'aviation civile reçoivent, cinq jours au moins avant la date de la
+séance, une convocation comportant l'ordre du jour fixé par le président et les documents nécessaires à l'examen des affaires
+qui y sont inscrites.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-6 (T)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D370-4
+
+
+###### Article D370-7
+
+Le Conseil supérieur de l'aviation civile ne peut délibérer que si la majorité des membres est présente ou représentée. 
+
+Lorsque le quorum n'est pas atteint, le Conseil supérieur de l'aviation civile délibère valablement sans condition de quorum
+après une nouvelle convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé. 
+
+Un membre qui n'est pas suppléé peut donner un mandat à un autre membre. Chaque membre ne peut recevoir qu'un seul mandat. 
+
+Le Conseil supérieur de l'aviation civile se prononce à la majorité des voix des membres présents ou représentés. Le
+président a voix prépondérante en cas de partage égal des voix. 
+
+Chaque délibération du Conseil supérieur de l'aviation civile donne lieu à la rédaction d'un avis qui est transmis par le
+président au ministre chargé de l'aviation civile.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-7 (T)
+
+
+###### Article D370-8
+
+Le directeur général de l'aviation civile ou ses représentants peuvent assister, sans voix délibérative, aux séances du
+Conseil supérieur de l'aviation civile. 
+
+Lorsqu'ils ne sont pas membres du conseil, les directeurs des services des ministères intéressés ou leurs représentants
+peuvent assister, sans voix délibérative, aux séances du Conseil supérieur de l'aviation civile lorsque sont examinées des
+affaires ressortissant à leurs attributions.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-8 (T)
+
+
+###### Article D370-9
+
+Les rapporteurs devant le Conseil supérieur de l'aviation civile sont choisis par le président soit parmi les membres du
+conseil, soit au sein des formations adjointes mentionnées à l'article D. 370-5, soit parmi les fonctionnaires de l'Etat
+ayant au moins un grade équivalant à celui du premier grade du corps des administrateurs civils.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-9 (T)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D370-5
+
+
+###### Article D370-10
+
+Le ministre chargé de l'aviation civile met à la disposition du Conseil supérieur de l'aviation civile les moyens nécessaires
+à son fonctionnement. Le secrétariat du conseil est assuré par un secrétaire permanent nommé par arrêté du ministre chargé de
+l'aviation civile. 
+
+Le secrétaire permanent du Conseil supérieur de l'aviation civile assure, sous l'autorité du président, le fonctionnement du
+conseil. Il peut, en outre, assurer, concurremment avec les rapporteurs, l'instruction des affaires soumises au conseil.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-10 (T)
+
+
+###### Article D370-11
+
+Le président du Conseil supérieur de l'aviation civile ou son suppléant et le secrétaire permanent reçoivent pour chaque
+séance du conseil une indemnité dont le taux est fixé par arrêté conjoint des ministres chargés de l'aviation civile et du
+budget. 
+
+Les frais de déplacement des personnes participant aux séances du conseil sont remboursés dans les conditions prévues par la
+réglementation applicable aux fonctionnaires de l'Etat.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile - art. D360-11 (T)
 
 
 ## LIVRE IV : PERSONNEL NAVIGANT
