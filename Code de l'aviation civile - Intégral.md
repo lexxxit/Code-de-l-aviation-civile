@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-04-21
+Version Consolidée au 2010-04-29
 
 # Partie législative
 
@@ -16924,40 +16924,32 @@ des nuisances expireront au terme initialement prévu (art. 5).
 
 #### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.
 
-##### Section 1 : Commission nationale de prévention des nuisances
+##### Section 1 : Autorité de contrôle des nuisances sonores     aéroportuaires (ACNUSA)
 
 ###### Article R227-1
 
-Les membres de la Commission nationale de prévention des nuisances prévue à l'article L. 227-4, ainsi que leurs suppléants,
-sont nommés par arrêté du ministre chargé de l'aviation civile pour une période de trois ans renouvelable.
+A compter de la notification, prévue au III de l'article L. 227-4, du procès-verbal et du montant de l'amende encourue, la
+personne concernée dispose d'un délai de quinze jours pour présenter par écrit ses observations à l'autorité.
 
-La commission est présidée par un membre du conseil général des ponts et chaussées et comprend en outre :
+A réception des observations ou, à défaut, à l'issue de ce délai, le rapporteur permanent saisit les fonctionnaires et agents
+chargés de l'instruction des manquements et leur communique, lorsqu'elles existent, les observations de la personne
+concernée.
 
-1° Quatre représentants de l'Etat, dont un proposé par le ministre chargé de l'environnement et un proposé par le ministre de
-la défense ;
+A l'issue de leur instruction, ces fonctionnaires et agents transmettent le dossier au rapporteur permanent. 
 
-2° Quatre personnalités qualifiées dans le domaine de l'aéronautique, dont au moins un exploitant et un gestionnaire
-d'aérodrome ;
-
-3° Quatre personnalités qualifiées dans le domaine de l'environnement, proposées par le ministre chargé de l'environnement,
-dont une au moins au titre des associations de riverains.
-
-Chacun de ces membres titulaires dispose d'un suppléant nommé dans les mêmes conditions que ci-dessus. En cas
-d'indisponibilité de ce suppléant, il peut être fait appel à un second suppléant nommé dans les mêmes conditions.
+Le rapporteur permanent s'assure que le dossier d'instruction contient tous les éléments nécessaires au traitement de
+l'affaire. Il peut se faire communiquer, par les fonctionnaires et agents chargés de l'instruction, tout complément ou
+précision qu'il juge utile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-863 du 14 mai 2007 - art. 14 () JORF 15 mai 2007
+	  - Décret n°2010-405 du 27 avril 2010 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L227-4 (M)
+	  - Code de l'aviation civile - art. L227-4
 
 	**Cité par**:
 
@@ -16966,109 +16958,67 @@ d'indisponibilité de ce suppléant, il peut être fait appel à un second suppl
 
 ###### Article R227-2
 
-Les membres titulaires ou suppléants de la Commission nationale de prévention des nuisances qui perdent la qualité en raison
-de laquelle ils ont été nommés cessent de plein droit d'appartenir à la commission.
+Le rapporteur permanent clôt l'instruction menée par les fonctionnaires et agents mentionnés à l'article R. 227-1. Il
+communique le dossier d'instruction à la personne concernée en lui précisant les faits reprochés, leur qualification, les
+textes applicables à ces faits et l'amende encourue et en l'invitant à présenter ses observations dans un délai d'un mois.
 
-En cas de vacance survenant plus de six mois avant l'expiration du mandat, il est pourvu à la nomination, dans les conditions
-prévues à l'article R. 227-1, d'un nouveau membre dont le mandat expire à la date à laquelle aurait expiré le mandat de la
-personne qu'il remplace.
+A réception de ces observations ou, à défaut, à l'issue de ce délai, le rapporteur permanent communique le dossier au
+président de l'autorité. Ce dernier fait convoquer la personne concernée au minimum un mois avant la séance au cours de
+laquelle l'affaire doit être examinée en lui communiquant le dossier complet de l'instruction qui comporte une notification
+des griefs retenus, les textes qui les fondent et le montant de l'amende encourue et en lui indiquant qu'elle peut se
+présenter ou se faire représenter à la séance. 
+
+Dans les cas prévus au deuxième alinéa de l'article L. 227-4, le président de l'autorité peut prononcer le classement sans
+suite de la procédure. Le rapporteur permanent notifie cette décision à la personne concernée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+	  - Décret n°2010-405 du 27 avril 2010 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R227-1 (M)
+	  - Code de l'aviation civile - art. L227-4
+	  - Code de l'aviation civile - art. R227-1
 
 
 ###### Article R227-3
 
-La Commission nationale de prévention des nuisances se réunit sur convocation de son président. Elle ne peut siéger que si
-huit au moins de ses membres titulaires ou suppléants sont présents.
+L'autorité convoque ses membres et ses membres associés cinq jours au moins avant la date de la séance relative à l'exercice
+du pouvoir de sanction. L'ordre du jour et les dossiers complets des affaires inscrites à la séance sont joints à la
+convocation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+	  - Décret n°2010-405 du 27 avril 2010 - art. 1
 
 
 ###### Article R227-4
 
-Les fonctions de membre de la Commission nationale de prévention des nuisances sont gratuites. Toutefois, les membres de la
-commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements
-temporaires par le décret du 3 juillet 2006.
+Les séances relatives à l'exercice du pouvoir de sanction se tiennent valablement en l'absence des membres associés dûment
+convoqués.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Décret n°2006-781 2006-07-03
-
 	**Modifié par**:
 
-	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
+	  - Décret n°2010-405 du 27 avril 2010 - art. 1
 
 
 ###### Article R227-5
 
-La commission établit son règlement intérieur. Un agent de la direction générale de l'aviation civile est désigné par le
-ministre chargé de l'aviation civile pour exercer les fonctions de secrétaire général sous l'autorité du président de la
-commission.
+L'autorité peut entendre, pendant la séance, toute personne dont elle estime l'audition utile, notamment les fonctionnaires
+et agents chargés de l'instruction. 
+
+Seuls prennent part à la délibération sur une affaire les membres de l'autorité ayant assisté aux débats relatifs à celle-ci
+et, le cas échéant, entendu la défense de la personne concernée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
-
-	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
-
-
-###### Article R227-6
-
-Pour chaque affaire, un rapporteur, non membre de la commission, est désigné par le président. Après avoir entendu le
-rapporteur et, le cas échéant, la personne concernée ou son représentant, la commission délibère hors de leur présence. Au
-cas où un membre est personnellement intéressé à l'affaire soumise à l'examen de la commission, il n'est pas admis à assister
-aux délibérations.
-
-Le secrétaire général de la commission ainsi que les agents assurant le secrétariat sont autorisés à assister aux
-délibérations sans pouvoir y prendre part.
-
-Nul ne peut assister ni prendre part à une délibération et statuer sur une affaire s'il n'a participé aux débats relatifs à
-celle-ci et entendu la personne concernée ou son représentant dans sa défense si celle-ci a été présentée.
-
-La commission délibère valablement au cas où la personne concernée dûment convoquée et n'ayant pas bénéficié d'une décision
-de report de l'examen du dossier prise par le président néglige de comparaître ou de se faire représenter.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
-
-	**Abrogé par**:
 
 	  - Décret n°2010-405 du 27 avril 2010 - art. 1
 
