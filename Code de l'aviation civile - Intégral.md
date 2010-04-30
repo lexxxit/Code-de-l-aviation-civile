@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-04-29
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -4080,18 +4080,22 @@ exécuter les travaux d'office aux frais et risques des personnes civilement res
 
 ###### Article L281-3
 
-Les astreintes sont recouvrées par les comptables directs du Trésor, sur réquisition du ministre intéressé ou de son délégué.
+Les astreintes sont recouvrées par les comptables publics compétents, sur réquisition du ministre intéressé ou de son
+délégué.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 59-62 1959-01-03 art. 2, dernier alinéa
-	  - Ordonnance n°59-62 du 3 janvier 1959 - art. 2, v. init.
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 101
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6372-10 (V)
 
 
 ###### Article L281-4
@@ -5358,37 +5362,44 @@ sécurité ou le bon ordre à bord d'un aéronef.
 ###### Article L322-5
 
 Lorsque des violences sont commises dans un aéronef ou dans un lieu destiné à l'accès à un aéronef, la sanction est celle
-prévue par les articles 222-12 et 222-13 du code pénal.
+prévue par les articles 222-12 et 222-13 du code pénal. 
 
 Lorsque l'auteur de l'un des délits mentionnés à l'alinéa précédent se trouve hors d'état de justifier d'un domicile ou d'un
 emploi sur le territoire français ou d'une caution agréée par l'administration habilitée à percevoir les amendes garantissant
 le paiement éventuel des condamnations pécuniaires encourues, le ou les bagages ainsi que le contrat de transport de la
 personne pourront être retenus par l'officier ou l'agent de police judiciaire, jusqu'au versement d'une consignation dont le
-montant ne pourra excéder 1 500 euros.
+montant ne pourra excéder 1 500 euros. 
 
 La décision imposant le paiement d'une consignation est prise par le procureur de la République, qui est tenu de statuer dans
 le délai de la garde à vue si la personne fait l'objet de cette mesure ou, à défaut, dans un délai de quatre heures à compter
 soit de la constatation du délit si celui-ci a été commis dans un lieu destiné à l'accès à un aéronef, soit de l'arrivée des
-passagers si le délit a été commis dans un aéronef.
+passagers si le délit a été commis dans un aéronef. 
 
-La consignation est versée à un comptable du Trésor ou à un agent visé à l'article L. 330-10 porteur d'un carnet de
+La consignation est versée au comptable public compétent ou à un agent visé à l'article L. 330-10 porteur d'un carnet de
 quittances à souche.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Loi n°2003-239 du 18 mars 2003 - art. 78
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 78 () JORF 19 mars 2003
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 101
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6433-2 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 222-12 (M)
-	  - Code pénal - art. 222-13 (M)
-	  - Code de l'aviation civile - art. L330-10 (V)
+	  - Code pénal - art. 222-12
+	  - Code de l'aviation civile - art. L330-10
 
 
 #### CHAPITRE III : AFFRETEMENT D'AERONEFS.
