@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-06-13
+Version Consolidée au 2010-06-21
 
 # Partie législative
 
@@ -11551,20 +11551,7 @@ l'article R. 131-3 et les pilotes qui auront participé à ces manifestations ;
 6° Ceux qui auront réalisé des enregistrements d'images ou de données dans le champ du spectre visible au-dessus du
 territoire national sans avoir souscrit une déclaration dans les délais et conditions prévus par l'article D. 133-10.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des contraventions prévues au présent article. La peine encourue par les personnes morales est l'amende, selon les
-modalités prévues par l'article 131-41 du code pénal.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 51
-	  - Loi n°1924-05-31, art. 68
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
 
 	**Cité par**:
 
@@ -11572,18 +11559,18 @@ modalités prévues par l'article 131-41 du code pénal.
 
 	**Modifié par**:
 
-	  - Décret n°2006-521 du 5 mai 2006 - art. 1 () JORF 7 mai 2006
+	  - Décret n°2010-671 du 18 juin 2010 - art. 5
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-13 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code de l'aviation civile - art. D133-10 (M)
-	  - Code de l'aviation civile - art. R131-1 (V)
-	  - Code de l'aviation civile - art. R131-2 (V)
-	  - Code de l'aviation civile - art. R131-3 (M)
-	  - Code de l'aviation civile - art. R131-5 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-13
+	  - Code pénal - art. 131-41
+	  - Code de l'aviation civile - art. D133-10
+	  - Code de l'aviation civile - art. R131-1
+	  - Code de l'aviation civile - art. R131-2
+	  - Code de l'aviation civile - art. R131-3
+	  - Code de l'aviation civile - art. R131-5
 
 
 ###### Article R151-5
@@ -19861,25 +19848,12 @@ prescriptions de l'article L. 330-1 ;
 - de ne pas déférer à la demande qui lui est faite en application des articles R. 133-1-3, R. 330-3 et R. 330-11 ou de
 transmettre des informations mensongères ou erronées ;
 
-- d'effectuer des services aériens sans l'autorisation prévue à l'article R. 330-9.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies au présent article.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41 du code pénal.
+- d'effectuer des services aériens sans l'autorisation prévue à l'article R. 330-9. 
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 du code
 pénal.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-1102 1954-11-12 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
 
 	**Cité par**:
 
@@ -19890,20 +19864,17 @@ pénal.
 
 	**Modifié par**:
 
-	  - Décret n°2003-230 du 13 mars 2003 - art. 5 () JORF 16 mars 2003
-	  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+	  - Décret n°2010-671 du 18 juin 2010 - art. 5
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
-	  - Code de l'aviation civile - art. L330-1 (M)
-	  - Code de l'aviation civile - art. R133-1-3 (M)
-	  - Code de l'aviation civile - art. R330-11 (M)
-	  - Code de l'aviation civile - art. R330-3 (M)
-	  - Code de l'aviation civile - art. R330-9 (M)
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code de l'aviation civile - art. L330-1
+	  - Code de l'aviation civile - art. R133-1-3
+	  - Code de l'aviation civile - art. R330-11
+	  - Code de l'aviation civile - art. R330-3
+	  - Code de l'aviation civile - art. R330-9
 
 
 ###### Article R330-15
