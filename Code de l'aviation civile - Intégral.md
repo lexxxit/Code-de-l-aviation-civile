@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-06-21
+Version Consolidée au 2010-07-11
 
 # Partie législative
 
@@ -11885,9 +11885,9 @@ Outre le président nommé par décret pris sur le rapport du ministre chargé d
 membres du Conseil d'Etat, le collège permanent est composé de cinq membres titulaires et d'un nombre égal de suppléants
 nommés par arrêté du ministre chargé de l'aviation civile :
 
-- quatre membres représentant l'Etat : un membre du     Conseil général de l'environnement et du développement durable, un
+- quatre membres représentant l'Etat : un membre du Conseil général de l'environnement et du développement durable, un
 représentant du ministre chargé de l'aviation civile, un membre de la gendarmerie des transports aériens désigné sur
-proposition du ministre de la défense et un représentant du ministre chargé de l'économie et des finances désigné sur
+proposition du ministre de l'intérieur et un représentant du ministre chargé de l'économie et des finances désigné sur
 proposition de celui-ci ;
 
 - une personnalité qualifiée choisie en raison de ses compétences dans le domaine de l'aviation civile. 
@@ -11899,7 +11899,7 @@ l'aviation civile.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
+	  - Décret n°2010-773 du 8 juillet 2010 - art. 2
 
 	**Cité par**:
 
