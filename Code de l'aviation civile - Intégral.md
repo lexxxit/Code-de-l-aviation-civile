@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-09-25
 
 # Partie législative
 
@@ -25209,23 +25209,20 @@ corrélative d'un numéro d'ordre.
 
 Le registre d'immatriculation est ouvert à la direction générale à l'aviation civile.
 
-Il est tenu, sous l'autorité du ministre chargé de l'aviation civile, par un fonctionnaire désigné par ses soins, sur la
-proposition du directeur général de l'aviation civile.
+Le registre d'immatriculation est tenu, sous l'autorité du ministre chargé de l'aviation civile, par un fonctionnaire qui
+peut être suppléé par un autre fonctionnaire placé sous son autorité. Le fonctionnaire chargé de la tenue du registre et son
+suppléant sont désignés par le ministre chargé de l'aviation civile, sur la proposition du directeur général de l'aviation
+civile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°2010-1111 du 22 septembre 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. D121-16 (V)
-
-	**Modifié par**:
-
-	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
-	  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
 ###### Article D121-3
@@ -26078,47 +26075,6 @@ en donner l'attestation au pied du dernier enregistrement effectué au registre 
 	**Modifié par**:
 
 	  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
-
-
-###### Article D121-36
-
-Le fonctionnaire chargé de la tenue du registre d'immatriculation perçoit à son profit un droit fixé uniformément à 1,5 euro
-pour l'ensemble des formalités ausquelles donne lieu, par aéronef, chacune des opérations suivantes :
-
-Inscription d'un aéronef ;
-
-Inscription d'une mutation de propriété ;
-
-Inscription d'un acte constitutif d'hypothèque ou de tout autre acte ou jugement constitutif ou déclaratif de droit réel ;
-
-Inscription d'un acte de location ;
-
-Transcription d'un procès-verbal de saisie ;
-
-Radiation d'une inscription hypothécaire ou d'une transcription du procès-verbal de saisie.
-
-L'accomplissement des formalités prescrites par le présent titre ne peut donner lieu, pour le fonctionnaire chargé de la
-tenue du registre d'immatriculation, à aucune perception autre que celle indiquée ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2001-861 du 18 septembre 2001 - art. 1 () JORF 20 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1111 du 22 septembre 2010 - art. 2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 2866-98 1998-12-31
-	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
 #### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.
