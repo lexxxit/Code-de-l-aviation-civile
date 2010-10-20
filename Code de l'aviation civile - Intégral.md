@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-10-17
+Version Consolidée au 2010-10-21
 
 # Partie législative
 
@@ -11254,13 +11254,8 @@ aérienne correspondants.
 La licence de contrôleur de la circulation aérienne stagiaire autorise son titulaire à assurer les services du contrôle de la
 circulation aérienne sous la surveillance d'un instructeur sur la position.
 
-**Nota:**
-
-Décret n° 2007-1509 art. 2 : " Le premier alinéa de l'article R. 135-1 entre en vigueur le 17 mai 2008. 
-
-Jusqu'au 16 mai 2008, le fait pour les personnes visées à cet article de détenir une qualification de contrôle avec une
-autorisation d'exercice de qualification valide emporte les mêmes conséquences que la détention d'une licence contenant les
-qualifications et mentions de l'organisme d'affectation en état de validité. "
+L'obligation de détention de la licence s'applique également au personnel relevant du ministre de la défense qui assure les
+services du contrôle de la circulation aérienne pour des mouvements d'aéronefs en circulation aérienne générale.
 
 **Liens relatifs à cet article**
 
@@ -11270,7 +11265,7 @@ qualifications et mentions de l'organisme d'affectation en état de validité. "
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -11284,9 +11279,9 @@ qualifications et mentions de l'organisme d'affectation en état de validité. "
 	  - Arrêté du 22 juillet 2011 - art. 3 (V)
 	  - Arrêté du 27 février 2017 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+	  - Décret n°2010-1222 du 19 octobre 2010 - art. 1
 
 
 ###### Article R135-2
@@ -11357,6 +11352,19 @@ Décret n° 2007-1059 art. 2 : " Le premier alinéa de l'article R. 135-3 entre 
 	**Créé par**:
 
 	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+
+
+###### Article R135-3-1
+
+Les centres de médecine aéronautique et les médecins examinateurs qui délivrent, pour les contrôleurs de la circulation
+aérienne, après examen, les attestations d'aptitude médicale exigées pour rendre les services du contrôle de la circulation
+aérienne doivent être agréés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1222 du 19 octobre 2010 - art. 2
 
 
 ###### Article R135-4
@@ -11442,19 +11450,61 @@ qualification attestant l'acquisition de connaissances théoriques et pratiques.
 évalués les candidats à cette qualification ainsi que les conditions de délivrance et de validité de cette qualification sont
 déterminées par arrêté du ministre chargé de l'aviation civile.
 
-Le ministre chargé de l'aviation civile peut déléguer sa signature pour délivrer et renouveler la qualification mentionnée au
-précédent alinéa aux chefs des services déconcentrés de l'aviation civile, au directeur de l'aviation civile Antilles-Guyane
-et au directeur du service de l'aviation civile de l'océan Indien, ainsi qu'aux fonctionnaires placés sous leur autorité.
+En cas d'incident, la qualification peut être suspendue par l'autorité qui l'a délivrée, le temps nécessaire pour assurer la
+sécurité et pour une durée maximale de deux mois. 
+
+En cas de négligence grave, la qualification peut être retirée par l'autorité qui l'a délivrée. La décision de retrait est
+prise après que l'intéressé a été mis à même de présenter ses observations. Toutefois, en cas d'urgence, la décision de
+retrait peut être prononcée sans formalité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2010-1222 du 19 octobre 2010 - art. 3
+
+
+##### Section 3 : Personnels techniques des services   de la navigation aérienne
+
+###### Article R135-9
+
+Les personnels techniques des prestataires de services de navigation aérienne, au sens de l'article 8 du règlement (CE) n°
+2096 / 2005 de la Commission du 20 décembre 2005 établissant les exigences communes pour la fourniture de services de
+navigation aérienne, doivent posséder et entretenir un niveau de connaissances leur conférant un niveau de compréhension
+adéquat des services de gestion du trafic aérien. 
+
+Ceux d'entre eux qui sont chargés d'assurer des tâches opérationnelles liées à la sécurité doivent répondre aux exigences
+techniques concernant la maintenance prévues au paragraphe 3. 3 de l'annexe II du règlement (CE) n° 2096 / 2005 et aux
+exigences concernant l'alimentation électrique et la climatisation, fixées par arrêté du ministre chargé de l'aviation
+civile.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2007-1509 du 22 octobre 2007 - art. 1 () JORF 24 octobre 2007
+	  - Décret n°2010-1222 du 19 octobre 2010 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2013-1011 du 12 novembre 2013 - art. 13 (V)
+	  - Décret n°2014-4 du 3 janvier 2014 - art. 3 (V)
+	  - Arrêté du 17 décembre 2015 (V)
+
+
+###### Article R135-10
+
+Les dispositions de la présente section s'appliquent dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1222 du 19 octobre 2010 - art. 4
 
 
 ### TITRE IV : DOMMAGES ET RESPONSABILITES.
