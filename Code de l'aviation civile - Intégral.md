@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-10-21
+Version Consolidée au 2010-10-22
 
 # Partie législative
 
@@ -11570,23 +11570,27 @@ tenu informé.
 
 ###### Article R151-1
 
-Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe :
+Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe : 
 
 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de l'aéronef lorsque ce document est exigé par la
-réglementation en vigueur ;
+réglementation en vigueur ; 
 
 2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef pendant les trois ans qui suivent la dernière
-inscription ;
+inscription ; 
 
-3° Ceux qui ont contrevenu aux articles R. 131-1 et R. 131-2 ;
+3° Ceux qui ont contrevenu aux articles R. 131-1 et R. 131-2 ; 
 
 4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront pas obtenu l'autorisation requise par
-l'article R. 131-3 et les pilotes qui auront participé à ces manifestations ;
+l'article R. 131-3 et les pilotes qui auront participé à ces manifestations ; 
 
-5° Ceux qui auront contrevenu à l'article R. 131-5 ;
+5° Ceux qui auront contrevenu à l'article R. 131-5 ; 
 
 6° Ceux qui auront réalisé des enregistrements d'images ou de données dans le champ du spectre visible au-dessus du
-territoire national sans avoir souscrit une déclaration dans les délais et conditions prévus par l'article D. 133-10.
+territoire national sans avoir souscrit une déclaration dans les délais et conditions prévus par l'article D. 133-10. 
+
+Est puni de l'amende prévue pour les contraventions de la troisième classe le fait pour le pilote et pour l'exploitant ou le
+propriétaire d'un hélicoptère de ne pas respecter les limitations fixées par le préfet en application de l'article D.
+132-6-1.
 
 **Liens relatifs à cet article**
 
@@ -11596,17 +11600,15 @@ territoire national sans avoir souscrit une déclaration dans les délais et con
 
 	**Modifié par**:
 
-	  - Décret n°2010-671 du 18 juin 2010 - art. 5
+	  - Décret n°2010-1226 du 20 octobre 2010 - art. 5
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-13
-	  - Code pénal - art. 131-41
+	  - Code de l'aviation civile - art. D132-6-1
 	  - Code de l'aviation civile - art. D133-10
 	  - Code de l'aviation civile - art. R131-1
-	  - Code de l'aviation civile - art. R131-2
-	  - Code de l'aviation civile - art. R131-3
+	  - Code de l'aviation civile - art. R131-3 (V)
 	  - Code de l'aviation civile - art. R131-5
 
 
@@ -17263,6 +17265,123 @@ internationale de planification des mouvements d'aéronefs relative à la pério
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R227-8 (V)
+
+
+###### Article R227-16
+
+Sans préjudice des compétences qui lui sont conférées par les articles L. 571-7 et R. 571-31-4 et suivants du code de
+l'environnement, le ministre chargé de l'aviation civile peut, en vue de réduire les nuisances sonores, réglementer le trafic
+des hélicoptères au départ ou à destination ou à proximité de chaque aérodrome situé dans les agglomérations de largeur
+moyenne comprise entre 1 200 mètres et 3 600 mètres, qui figurent sur la carte aéronautique OACI au 1/500 000, publiée par
+l'Institut géographique national, ainsi que des aérodromes situés à moins d'un demi-mille nautique (926 mètres) ou 463 mètres
+côté mer pour les agglomérations littorales dans les conditions fixées aux articles R. 227-17 à R. 227-19.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1226 du 20 octobre 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L571-7 (V)
+	  - Code de l'environnement - art. R571-31-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R227-17 (V)
+	  - Code de l'aviation civile - art. R227-18 (V)
+	  - Code de l'aviation civile - art. R227-19 (V)
+
+
+###### Article R227-17
+
+Le ministre chargé de l'aviation civile peut fixer, pour chaque aérodrome relevant de sa compétence situé dans les zones
+mentionnées à l'article R. 227-16, tout ou partie des limitations suivantes : 
+
+I.-Limiter, en fonction des caractéristiques de l'environnement et des conditions d'exercice de l'activité aérienne des
+aérodromes concernés, le nombre maximal de mouvements d'hélicoptères par plage horaire, par jour, mois, saison et année ; 
+
+II.-Déterminer les plages horaires et hebdomadaires dans lesquelles le trafic des hélicoptères dont le niveau de performance
+acoustique est inférieur à un seuil fixé par ce ministre est interdit ; 
+
+III.-Déterminer les plages horaires et hebdomadaires pendant lesquelles les essais moteurs sont interdits. 
+
+Le ministre peut prévoir les cas où il peut exceptionnellement être dérogé en raison de manifestations à caractère
+international ou d'importance économique majeure aux limites fixées en application du I du présent article. 
+
+Les limitations fixées en application du présent article ne concernent pas les transports sanitaires ni les missions urgentes
+de protection civile.
+
+L'Autorité de contrôle des nuisances sonores aéroportuaires instituée aux articles L. 227-1 et suivants et, lorsqu'elles
+existent, les commissions consultatives de l'environnement des aérodromes concernés sont consultées sur les projets d'arrêtés
+pris en application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1226 du 20 octobre 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L227-1
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R227-16 (VD)
+	  - Code de l'aviation civile - art. R227-20 (V)
+
+
+###### Article R227-18
+
+L'exploitant de chaque aérodrome situé dans une zone définie à l'article R. 227-16 tient à jour un registre des mouvements
+d'hélicoptères. Il recense, pour chaque mouvement, l'heure, le type d'appareil et, lorsqu'il s'agit d'un transport sanitaire
+ou d'une mission urgente de protection civile, l'objet du vol. Ce registre peut être consulté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1226 du 20 octobre 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R227-16
+
+
+###### Article R227-19
+
+Durant la phase d'approche, l'atterrissage et le décollage au départ ou à destination des aérodromes situés dans les zones
+définies à l'article R. 227-16, les équipages sont tenus de respecter les procédures de conduite à moindre bruit définies
+dans le manuel de vol ou d'exploitation de leur aéronef.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1226 du 20 octobre 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R227-16
+
+
+###### Article R227-20
+
+Les manquements aux règles fixées par le ministre chargé de l'aviation civile en application de l'article R. 227-17 peuvent
+donner lieu au prononcé des sanctions administratives prévues à l'article L. 227-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1226 du 20 octobre 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L227-4
+	  - Code de l'aviation civile - art. R227-17
 
 
 ### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
@@ -27034,6 +27153,28 @@ Un arrêté interministériel fixe les modalités d'application du présent arti
 	**Anciens textes**:
 
 	  - Décret n°1959-03-06 art. 1
+
+
+###### Article D132-6-1
+
+L'autorisation spéciale délivrée par le préfet en application de l'article D. 132-6 précise les limitations concernant le
+nombre des mouvements d'hélicoptères, les plages horaires d'utilisation, les manœuvres d'approche, de décollage et
+d'atterrissage, les caractéristiques acoustiques des appareils et les essais moteurs imposées pour l'usage de chaque
+hélisurface. Ces limitations ne sont pas applicables aux transports sanitaires et aux missions urgentes de protection civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1226 du 20 octobre 2010 - art. 4
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D132-6
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R151-1 (V)
 
 
 ##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.
