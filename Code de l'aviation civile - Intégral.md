@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-10-22
+Version Consolidée au 2010-11-01
 
 # Partie législative
 
@@ -1040,24 +1040,24 @@ présent code.
 
 Après mise en demeure infructueuse du redevable de régulariser sa situation, la saisie conservatoire d'un aéronef exploité
 par le redevable ou lui appartenant peut être requise auprès du juge du lieu d'exécution de la mesure par les autorités et
-dans les situations suivantes : 
+dans les situations suivantes :
 
 - le ministre chargé des transports, en cas de non-paiement ou de paiement insuffisant de la redevance de route ou de la
 redevance pour services terminaux de la circulation aérienne, ainsi qu'en cas de non-restitution d'une aide d'Etat ayant fait
 l'objet d'une décision de récupération de la part de la Commission européenne ou d'un arrêt de la Cour de justice des
 Communautés européennes, sans préjudice, dans ce cas, des compétences dévolues en ce domaine aux représentants de l'État dans
-le département ; 
+le département ;
 
-- l'exploitant d'aérodrome, en cas de non-paiement ou de paiement insuffisant des redevances aéroportuaires ; 
+- l'exploitant d'aérodrome, en cas de non-paiement ou de paiement insuffisant des redevances aéroportuaires ;
 
-- l'Autorité de contrôle des nuisances sonores aéroportuaires, en cas de non-paiement ou de paiement insuffisant des amendes
+- l'Autorité de contrôle des nuisances aéroportuaires, en cas de non-paiement ou de paiement insuffisant des amendes
 administratives prononcées par cette autorité.
 
 L'ordonnance du juge de l'exécution est transmise aux autorités responsables de la circulation aérienne de l'aérodrome aux
-fins d'immobilisation de l'aéronef. L'ordonnance est notifiée au redevable et au propriétaire de l'aéronef lorsque le
-redevable est l'exploitant.
+fins d'immobilisation de l'aéronef.L'ordonnance est notifiée au redevable et au propriétaire de l'aéronef lorsque le
+redevable est l'exploitant. 
 
-Les frais entraînés par la saisie conservatoire sont à la charge du redevable.
+Les frais entraînés par la saisie conservatoire sont à la charge du redevable. 
 
 Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 
@@ -1065,7 +1065,15 @@ Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 51
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6123-2 (V)
 
 
 #### CHAPITRE IV : LOCATION ET MISE A DISPOSITION D'AERONEFS.
@@ -3208,48 +3216,59 @@ convention susmentionnée.
 
 ###### Article L227-1
 
-L'Autorité de contrôle des nuisances sonores aéroportuaires est une autorité administrative indépendante, composée de huit
-membres nommés en raison de leur compétence dans les domaines économique, juridique ou technique ou de leur connaissance en
-matière d'environnement, de santé humaine ou de transport aérien :
+L'Autorité de contrôle des nuisances aéroportuaires est une autorité administrative indépendante, composée de dix membres
+nommés en raison de leur compétence dans les domaines économique, juridique ou technique ou de leur connaissance en matière
+d'environnement, de santé humaine ou de transport aérien : 
 
-1° Un président nommé par décret pris en conseil des ministres ; celui-ci exerce ses fonctions à plein temps ;
+1° Un président nommé par décret pris en conseil des ministres ; celui-ci exerce ses fonctions à plein temps ; 
 
-2° Deux membres respectivement désignés par le président de l'Assemblée nationale et par le président du Sénat ;
+2° Deux membres respectivement désignés par le président de l'Assemblée nationale et par le président du Sénat ; 
 
-3° Cinq membres, nommés par décret en conseil des ministres, respectivement compétents en matière :
+3° Sept membres, nommés par décret en conseil des ministres, respectivement compétents en matière :
 
 - d'acoustique, sur proposition du ministre chargé de l'environnement ;
 
 - de nuisances sonores, sur proposition du ministre chargé de l'environnement ;
 
+- d'émissions atmosphériques de l'aviation, sur proposition du ministre chargé de l'aviation civile ;
+
+- d'impact de l'activité aéroportuaire sur l'environnement, sur proposition du ministre chargé de l'environnement ; 
+
 - de santé humaine, sur proposition du ministre chargé de la santé ;
 
 - d'aéronautique, sur proposition du ministre chargé de l'aviation civile ;
 
-- de navigation aérienne, sur proposition du ministre chargé de l'aviation civile.
+- de navigation aérienne, sur proposition du ministre chargé de l'aviation civile. 
 
-Le mandat des membres de l'autorité est de six ans. Il n'est pas révocable.
+Le mandat des membres de l'autorité est de six ans. Il n'est pas révocable. 
 
-Pour assurer un renouvellement par moitié de l'autorité, quatre membres sont nommés tous les trois ans.
+Pour assurer un renouvellement par moitié de l'autorité, cinq membres sont nommés tous les trois ans. 
 
 Sauf démission, il ne peut être mis fin aux fonctions de membre qu'en cas d'empêchement constaté par l'autorité dans des
-conditions qu'elle définit.
+conditions qu'elle définit. 
 
 Tout membre exerçant une activité ou détenant un mandat, un emploi ou des intérêts incompatibles avec sa fonction est déclaré
-démissionnaire d'office, après consultation de l'autorité, selon les formes requises pour sa nomination.
+démissionnaire d'office, après consultation de l'autorité, selon les formes requises pour sa nomination. 
 
 Si, en cours de mandat, le président ou un membre de l'autorité cesse d'exercer ses fonctions, le mandat de son successeur
-est limité à la période restant à courir. Ce successeur est nommé dans un délai de deux mois.
+est limité à la période restant à courir. Ce successeur est nommé dans un délai de deux mois. 
 
 Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
 mandat, en application de l'alinéa ci-dessus, n'a pas excédé deux ans.
 
-L'autorité ne peut délibérer que si quatre au moins de ses membres sont présents. Si elle n'a pu délibérer, une réunion doit
-se tenir dans un délai maximum d'un mois. Elle délibère à la majorité des membres présents. En cas de partage égal des voix,
-celle du président est prépondérante.
+L'autorité ne peut délibérer que si cinq au moins de ses membres sont présents. Si elle n'a pu délibérer, une réunion doit se
+tenir dans un délai maximum d'un mois. Elle délibère à la majorité des membres présents. En cas de partage égal des voix,
+celle du président est prépondérante. 
 
 Les fonctions de président sont rémunérées et les fonctions de membre de l'autorité sont indemnisées dans des conditions
 fixées par arrêté interministériel.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne au 1° de
+l'article L. 227-1, les mots " celui-ci exerce ses fonctions à plein temps ", et, au dernier alinéa, les mots " arrêté
+ministériel " (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -3261,7 +3280,16 @@ fixées par arrêté interministériel.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 48 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 175
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6361-1 (M)
+	  - Code des transports - art. L6361-2 (V)
 
 
 ###### Article L227-2
@@ -3292,32 +3320,45 @@ d'intérêts dans une entreprise des secteurs aéronautique ou aéroportuaire.
 
 ###### Article L227-3
 
-L'Autorité de contrôle des nuisances sonores aéroportuaires émet, à son initiative ou sur saisine du ministre chargé de
-l'aviation civile, du ministre chargé de l'urbanisme et du logement ou du ministre chargé de l'environnement ou d'une
-commission consultative de l'environnement mentionnée à l'article L. 571-13 du code de l'environnement ou d'une association
-concernée par l'environnement sonore aéroportuaire, des recommandations sur toute question relative à la mesure du bruit et
-notamment à la définition d'indicateurs de mesure adéquats, à l'évaluation de la gêne sonore, à la maîtrise des nuisances
-sonores du transport aérien et de l'activité aéroportuaire, et à la limitation de leur impact sur l'environnement, en
-particulier par les procédures de moindre bruit pour le décollage et l'atterrissage. L'autorité prend connaissance des
-informations et propositions émises par l'ensemble des parties concernées par le bruit lié aux aérodromes et aux trajectoires
-de départ, d'attente et d'approche. 
+L'Autorité de contrôle des nuisances aéroportuaires peut émettre, à son initiative ou sur saisine d'un ministre, d'une
+commission consultative de l'environnement mentionnée à l'article L. 571-13 du code de l'environnement, d'une commune ou d'un
+établissement public de coopération intercommunale inclus pour tout ou partie dans le périmètre du plan d'exposition au bruit
+ou du plan de gêne sonore d'un aérodrome, ou d'une association concernée par l'environnement aéroportuaire, des
+recommandations sur toute question relative aux nuisances environnementales générées par le transport aérien sur et autour
+des aéroports. Pour les nuisances sonores, ces recommandations sont relatives à la mesure du bruit, et notamment à la
+définition d'indicateurs de mesure adéquats, à l'évaluation et à la maîtrise des nuisances sonores du transport aérien et de
+l'activité aéroportuaire ainsi qu'à la limitation de leur impact sur l'environnement, notamment par les procédures
+particulières de décollage ou d'atterrissage élaborées en vue de limiter les nuisances sonores. L'autorité prend connaissance
+des informations et propositions émises par l'ensemble des parties concernées par la pollution atmosphérique liée à
+l'exploitation des aérodromes ou le bruit lié aux aérodromes et aux trajectoires de départ, d'attente et d'approche. Lorsque
+les territoires couverts par le schéma régional du climat, de l'air et de l'énergie ou le plan de protection de l'atmosphère
+comprennent un aérodrome visé au I de l'article 1609 quatervicies A du code général des impôts ou sont affectés par la
+pollution atmosphérique de ces aérodromes, elle est consultée par les autorités compétentes chargées d'élaborer ce plan ou
+schéma. Elle rend un rapport faisant état de la synthèse de ces informations et propositions chaque année. Les services de
+l'administration locale ou centrale répondent à ce rapport et, d'une façon générale, aux avis et recommandations de
+l'autorité dans un délai de six mois. 
 
 Elle est habilitée à saisir l'autorité administrative compétente de tout manquement aux règles fixées pour la protection de
 l'environnement sonore des aérodromes, passible d'une sanction administrative.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 175
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°99-588 du 12 juillet 1999 - art. 1 () JORF 13 juillet 1999
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6361-5 (V)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-13 (V)
+	  - Code général des impôts, CGI. - art. 1609 quatervicies A
+	  - Code de l'environnement - art. L571-13
 
 	**Cité par**:
 
@@ -3326,7 +3367,7 @@ l'environnement sonore des aérodromes, passible d'une sanction administrative.
 
 ###### Article L227-4
 
-I.-L'Autorité de contrôle des nuisances sonores aéroportuaires prononce une amende administrative à l'encontre :
+I.-L'Autorité de contrôle des nuisances aéroportuaires prononce une amende administrative à l'encontre :
 
 - soit de la personne physique ou morale exerçant une activité de transport aérien public au sens du premier alinéa de
 l'article L. 330-1,
@@ -3341,18 +3382,19 @@ l'article L. 310-1 et au premier alinéa de l'article L. 330-1,
 
 ne respectant pas les mesures prises par le ministre chargé de l'aviation civile sur un aérodrome fixant :
 
-- des restrictions permanentes ou temporaires d'usage de certains types d'aéronefs en fonction de la classification
-acoustique, de leur capacité en sièges ou de leur masse maximale certifiée au décollage ;
+- des restrictions permanentes ou temporaires d'usage de certains types d'aéronefs en fonction de leurs émissions
+atmosphériques polluantes, de la classification acoustique, de leur capacité en sièges ou de leur masse maximale certifiée au
+décollage ;
 
-- des restrictions permanentes ou temporaires apportées à l'exercice de certaines activités en raison des nuisances sonores
-qu'elles occasionnent ;
+- des restrictions permanentes ou temporaires apportées à l'exercice de certaines activités en raison des nuisances
+environnementales qu'elles occasionnent ;
 
-- des procédures particulières de décollage ou d'atterrissage en vue de limiter les nuisances sonores engendrées par ces
-phases de vol ;
+- des procédures particulières de décollage ou d'atterrissage en vue de limiter les nuisances environnementales engendrées
+par ces phases de vol ;
 
 - des règles relatives aux essais moteurs ;
 
-- des valeurs maximales de bruit à ne pas dépasser. 
+- des valeurs maximales de bruit ou d'émissions atmosphériques polluantes à ne pas dépasser. 
 
 II.-Pour l'exercice de son pouvoir de sanction, et dans les conditions fixées par son règlement intérieur, l'autorité
 bénéficie du concours de sept membres associés :
@@ -3369,7 +3411,7 @@ bénéficie du concours de sept membres associés :
 
 Ces membres associés et leurs deux suppléants respectifs sont nommés par arrêté du ministre chargé de l'aviation civile pour
 une période de trois ans renouvelable. Les membres associés titulaires et leurs suppléants perdent leur qualité de membre
-s'ils perdent la qualité en fonction de laquelle ils ont été désignés. 
+s'ils perdent la qualité en fonction de leurs émissions atmosphériques polluantes, de laquelle ils ont été désignés. 
 
 III.-Les manquements aux mesures prévues au I sont constatés par les fonctionnaires et agents visés à l'article L. 150-13.
 Ces manquements font l'objet de procès-verbaux qui, ainsi que le montant de l'amende encourue, sont notifiés à la personne
@@ -3419,7 +3461,20 @@ Les conditions d'application du présent article sont déterminées par décret 
 
 	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 48
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 175
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6361-12 (V)
+	  - Code des transports - art. L6361-13 (V)
+	  - Code des transports - art. L6361-14 (V)
+	  - Code des transports - art. L6361-4 (V)
+	  - Code des transports - art. L6361-9 (V)
 
 	**Cite**:
 
@@ -3432,7 +3487,9 @@ Les conditions d'application du présent article sont déterminées par décret 
 ###### Article L227-5
 
 Pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des impôts, l'Autorité de contrôle des
-nuisances sonores aéroportuaires : 
+nuisances aéroportuaires : 
+
+I. ― Dans le domaine des nuisances sonores : 
 
 1° Définit :
 
@@ -3480,13 +3537,31 @@ de ce contrôle ;
 
 9° Peut être saisie, en cas de désaccord sur l'exécution des engagements visés au 8°, d'une demande de médiation par l'une ou
 l'autre des parties, par la commission consultative de l'environnement mentionnée ci-dessus, par le ministre chargé de
-l'aviation civile ou par le ministre chargé de l'environnement.
+l'aviation civile ou par le ministre chargé de l'environnement. 
+
+II. ― Dans le domaine de la pollution atmosphérique générée par l'aviation, l'autorité est chargée de contribuer au débat en
+matière d'environnement aéroportuaire.A ce titre, l'autorité peut formuler des propositions d'études pour améliorer les
+connaissances dans ce domaine et diffuser ces études auprès du public ou de toute personne physique ou morale qui en fait la
+demande. 
+
+III. ― L'Autorité de contrôle des nuisances aéroportuaires est consultée sur les projets de textes réglementaires
+susceptibles de donner lieu à des amendes administratives au sens de l'article L. 227-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 48
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 175
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6361-6 (V)
+	  - Code des transports - art. L6361-7 (V)
 
 	**Cite**:
 
@@ -3504,85 +3579,113 @@ l'aviation civile ou par le ministre chargé de l'environnement.
 ###### Article L227-6
 
 Pour l'exercice de ses missions visées au premier alinéa de l'article L. 227-3 et à l'article L. 227-5, l'Autorité de
-contrôle des nuisances sonores aéroportuaires peut charger un ou plusieurs de ses membres ou de ses agents, ou des experts
-qu'elle aura mandatés, de procéder à des vérifications sur place ou de se faire communiquer tous renseignements et documents
-utiles à ses missions.
+contrôle des nuisances aéroportuaires peut charger un ou plusieurs de ses membres ou de ses agents, ou des experts qu'elle
+aura mandatés, de procéder à des vérifications sur place ou de se faire communiquer tous renseignements et documents utiles à
+ses missions. 
 
 Les autorités publiques, les agents publics, les exploitants d'aérodromes et les transporteurs aériens ne peuvent s'opposer à
 l'action de l'autorité pour quelque motif que ce soit et doivent prendre toutes mesures utiles pour la faciliter.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°99-588 du 12 juillet 1999 - art. 1 () JORF 13 juillet 1999
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6361-8 (V)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L227-3 (V)
-	  - Code de l'aviation civile - art. L227-5 (M)
+	  - Code de l'aviation civile - art. L227-3
+	  - Code de l'aviation civile - art. L227-5
 
 
 ###### Article L227-7
 
-L'Autorité de contrôle des nuisances sonores aéroportuaires établit chaque année un rapport rendant compte de son activité.
-Ce rapport est remis au Gouvernement et au Parlement.
+L'Autorité de contrôle des nuisances aéroportuaires établit chaque année un rapport rendant compte de son activité. Ce
+rapport est remis au Gouvernement et au Parlement.
 
 L'autorité peut suggérer dans ce rapport public toute modification législative ou réglementaire que lui paraissent appeler
-notamment les évolutions techniques et l'approfondissement des connaissances en matière de santé humaine.
+notamment les évolutions techniques et l'approfondissement des connaissances en matière de santé humaine. 
+
+Ce rapport comporte notamment une partie consacrée aux vols de nuit.
+
+L'autorité présente son rapport annuel aux commissions consultatives de l'environnement des aérodromes visés au I de
+l'article 1609 quatervicies A du code général des impôts.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+227-7 (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 48
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 175
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1609 quatervicies A
 
 
 ###### Article L227-8
 
-Les crédits nécessaires au fonctionnement de l'Autorité de contrôle des nuisances sonores aéroportuaires sont inscrits au
-budget général de l'Etat sur proposition du ministre chargé de l'aviation civile.
+Les crédits nécessaires au fonctionnement de l'      Autorité de contrôle des nuisances aéroportuaires sont inscrits au
+budget général de l'Etat sur proposition du ministre chargé de l'aviation civile. 
 
 Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
-applicables à leur gestion.
+applicables à leur gestion. 
 
 Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité au contrôle de la Cour des
 comptes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°67-333 1967-03-30
-
-	**Créé par**:
-
-	  - Loi n°99-588 du 12 juillet 1999 - art. 1 () JORF 13 juillet 1999
-
 	**Cité par**:
 
 	  - Arrêté du 10 mars 2009 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6361-10 (Ab)
 
 	**Cite**:
 
 	  - Loi n°1922-08-10
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 
 ###### Article L227-9
 
-L'Autorité de contrôle des nuisances sonores aéroportuaires dispose de services qui sont placés sous l'autorité de son
-président.
+L'      Autorité de contrôle des nuisances aéroportuaires dispose de services qui sont placés sous l'autorité de son
+président. 
 
-Celui-ci nomme le rapporteur permanent et son suppléant.
+Celui-ci nomme le rapporteur permanent et son suppléant. 
 
-Pour l'exécution de ses missions, l'autorité établit son règlement intérieur qui est publié au Journal officiel. 
+Pour l'exécution de ses missions, l'autorité établit son règlement intérieur qui est publié au Journal officiel.
 
 L'autorité peut employer des fonctionnaires en position de détachement dans les mêmes conditions que le ministère chargé de
-l'aviation civile. Elle peut recruter des agents contractuels.
+l'aviation civile. Elle peut recruter des agents contractuels. 
 
 Les personnels des services de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils
 ont pu avoir connaissance en raison de leurs fonctions.
@@ -3591,7 +3694,15 @@ ont pu avoir connaissance en raison de leurs fonctions.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 48
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6361-11 (M)
 
 
 ###### Article L227-10
@@ -3605,20 +3716,15 @@ Les modifications à prendre en compte sont celles revêtant un caractère perma
 significative, les conditions de survol. 
 
 Le bilan de l'enquête publique est porté à la connaissance de la commission consultative de l'environnement et de l'Autorité
-de contrôle des nuisances sonores aéroportuaires, qui émettent un avis sur la modification de la circulation aérienne
-envisagée. 
+de contrôle des nuisances aéroportuaires, qui émettent un avis sur la modification de la circulation aérienne envisagée. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°67-333 1967-03-30
-
-	**Modifié par**:
-
-	  - Loi - art. 19 (V) JORF 31 décembre 2003
+	  - CGI 1609 quatervicies A
 
 	**Liens**:
 
@@ -3631,9 +3737,17 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	  - Arrêté du 4 avril 2006 - art. 3 (VT)
 	  - Code de l'aviation civile - art. R227-7 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des impôts, CGI. - art. 1609 quatervicies A (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6362-2 (V)
 
 
 ###### Article L227-11
@@ -3648,13 +3762,21 @@ circulation aérienne, lorsque ce volume de protection existe.
 
 III.-Un arrêté du ministre chargé de l'aviation civile définit le volume de protection environnementale associé à la
 procédure concernée, les catégories d'aéronefs visées et les cas de dérogation, après avis de l'Autorité de contrôle des
-nuisances sonores aéroportuaires.
+nuisances aéroportuaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 49
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6362-1 (V)
 
 
 #### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.
