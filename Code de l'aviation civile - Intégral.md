@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2010-12-01 00:00:01 +0100
 
 # Partie législative
 
@@ -10123,6 +10123,12 @@ l'organisation de l'aviation civile internationale.
 
 ###### Article R242-1
 
+Il est soumis à une commission centrale constituée pour donner son avis sur les servitudes aéronautiques.
+
+Il est approuvé et rendu exécutoire par décret en Conseil d'Etat, à moins que les conclusions du rapport d'enquête, les avis
+des services et des collectivités publiques intéressés ne soient favorables, auquel cas il est statué par arrêté du ministre
+chargé de l'aviation civile, en accord s'il y a lieu, avec le ministre des armées.
+
 La liste des pièces à annexer à la demande est fixée par un arrêté conjoint des ministres chargés de l'aviation civile et de
 la défense nationale.
 
@@ -10133,19 +10139,22 @@ La déclaration d'utilité publique de tout ou partie des opérations nécessair
 peut être contenue dans le décret ou l'arrêté rendant celui-ci exécutoire si l'autorité qui statue a elle-même compétence
 pour prononcer cette déclaration.
 
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 242-1 abrogé par l'article 7 de
+ladite ordonnance, la phrase "Il est soumis à une commission centrale constituée pour donner son avis sur les servitudes
+aéronautiques" et le 3ème alinéa sont maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementaires du
+code des transports.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°67-334 du 30 mars 1967
 
-	**Liens**:
-
-	  - RECTIFICATION: Ordonnance n°2010-1307 du 28 octobre 2010, v. init. (rectificatif)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
 
 	**Cité par**:
 
@@ -10249,6 +10258,9 @@ A l'extérieur des zones grevées de servitudes de dégagement en application du
 installations qui, en raison de leur hauteur, pourraient constituer des obstacles à la navigation aérienne est soumis à une
 autorisation spéciale du ministre chargé de l'aviation civile et du ministre de la défense. 
 
+Des arrêtés ministériels déterminent les installations soumises à autorisation ainsi que la liste des pièces qui doivent être
+annexées à la demande d'autorisation.
+
 L'autorisation peut être subordonnée à l'observation de conditions particulières d'implantation, de hauteur ou de balisage
 suivant les besoins de la navigation aérienne dans la région intéressée.
 
@@ -10263,10 +10275,10 @@ Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables.
 
 **Nota:**
 
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 7 et 9 : les deux premiers alinéas de l'article R. 244-1 sont abrogés.
-L'abrogation des dispositions mentionnées à l'article 7 ne prendra effet qu'à compter de la publication des dispositions
-réglementaires du code des transports pour ce qui concerne au premier alinéa de l'article R. 244-1 les mots du ministre
-chargé de l'aviation civile et du ministre de la défense ".
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 244-1 les trois premiers alinéas
+sont abrogés par l'article 7 de ladite ordonnance, au premier alinéa les mots "du ministre chargé de l'aviation civile et du
+ministre de la défense" ainsi que les 2 premiers alinéas sont maintenus en vigueur jusqu'à l'entrée en vigueur des
+dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -10288,12 +10300,12 @@ chargé de l'aviation civile et du ministre de la défense ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R242-1 (M)
-	  - Code de l'aviation civile - art. R242-3 (M)
+	  - Code de l'aviation civile - art. R242-1
+	  - Code de l'aviation civile - art. R242-3
 	  - Loi n°1906-06-15
 
 
