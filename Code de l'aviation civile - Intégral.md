@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-12-01 00:00:01 +0100
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -9166,6 +9166,8 @@ mentionnées au IV de l'article R. 224-3.
 
 
 ##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une chambre de commerce et d'industrie
+
+##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une      chambre de commerce et d'industrie territoriale
 
 ###### Article R224-6
 
