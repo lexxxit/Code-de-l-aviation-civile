@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-26
 
 # Partie législative
 
@@ -4594,13 +4594,23 @@ Les amendes sont recouvrées comme les créances de l'Etat étrangères à l'imp
 
 La commission administrative de l'aviation civile, placée auprès du ministre chargé de l'aviation civile, a pour mission de
 donner au ministre un avis sur les sanctions administratives qui peuvent être appliquées en cas de manquements aux
-dispositions des livres Ier à III.
+dispositions des livres Ier à III du présent code ou aux dispositions relatives aux quotas d'émissions de gaz à effet de
+serre de l'article R. 229-37-7 du code de l'environnement.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, la Commission administrative de l'aviation civile est
+renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
+	  - Décret n°2011-90 du 24 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R229-37-7
 
 	**Cité par**:
 
@@ -4672,41 +4682,43 @@ l'aviation civile.
 
 Le collège spécialisé, dont les membres sont nommés par arrêté du ministre chargé de l'aviation civile, comporte quatre
 formations, respectivement intitulées " Aéronefs ", " Transport aérien " " Maintenance des aéronefs " et " Passagers ",
-constituées afin de statuer sur des manquements aux dispositions des livres Ier à III. Ces formations comprennent six membres
-titulaires et un nombre égal de suppléants. Un arrêté du ministre chargé de l'aviation civile fixe pour chacune de ces
-formations la liste des manquements dont, réunie avec le collège permanent, elle peut connaître.
+constituées afin de statuer sur des manquements aux dispositions des livres Ier à III du présent code ou aux dispositions
+relatives aux quotas d'émissions de gaz à effet de serre de l'article R. 229-37-7 du code de l'environnement. Ces formations
+comprennent six membres titulaires et un nombre égal de suppléants. Un arrêté du ministre chargé de l'aviation civile fixe
+pour chacune de ces formations la liste des manquements dont, réunie avec le collège permanent, elle peut connaître. 
 
-La formation " Aéronefs " comprend :
-
-1° Quatre représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
-compagnies non établies en France desservant le territoire national, et un représentant de l'aviation générale ;
-
-2° Un représentant des exploitants d'aéroports.
-
-La formation " Transport aérien " comprend :
+La formation " Aéronefs " comprend : 
 
 1° Quatre représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
-exploitants d'hélicoptères, et un représentant de l'aviation générale ;
+compagnies non établies en France desservant le territoire national, et un représentant de l'aviation générale ; 
 
-2° Un représentant des exploitants d'aéroports.
+2° Un représentant des exploitants d'aéroports. 
 
-La formation " Maintenance des aéronefs " comprend :
+La formation " Transport aérien " comprend : 
+
+1° Quatre représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
+exploitants d'hélicoptères, et un représentant de l'aviation générale ; 
+
+2° Un représentant des exploitants d'aéroports. 
+
+La formation " Maintenance des aéronefs " comprend : 
 
 1° Deux représentants des organisations professionnelles représentatives des entreprises employant des titulaires de licences
-de maintenance d'aéronef ;
+de maintenance d'aéronef ; 
 
-2° Un représentant des fédérations françaises aéronautiques et sportives ;
+2° Un représentant des fédérations françaises aéronautiques et sportives ; 
 
-3° Trois représentants des organisations syndicales représentatives des personnels des activités de maintenance aéronautique.
+3° Trois représentants des organisations syndicales représentatives des personnels des activités de maintenance
+aéronautique. 
 
-La formation " Passagers " comprend :
+La formation " Passagers " comprend : 
 
 1° Deux représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
-compagnies non établies en France desservant le territoire national ;
+compagnies non établies en France desservant le territoire national ; 
 
-2° Un représentant des agents de voyages désigné sur proposition du ministre chargé du tourisme ;
+2° Un représentant des agents de voyages désigné sur proposition du ministre chargé du tourisme ; 
 
-3° Un représentant des exploitants d'aéroports ;
+3° Un représentant des exploitants d'aéroports ; 
 
 4° Deux représentants des passagers du transport aérien.
 
@@ -4719,7 +4731,11 @@ compagnies non établies en France desservant le territoire national ;
 
 	**Modifié par**:
 
-	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
+	  - Décret n°2011-90 du 24 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R229-37-7
 
 
 ###### Article R160-7
@@ -9165,8 +9181,6 @@ mentionnées au IV de l'article R. 224-3.
 	  - Code de l'aviation civile - art. R224-3 (V)
 
 
-##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une chambre de commerce et d'industrie
-
 ##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une      chambre de commerce et d'industrie territoriale
 
 ###### Article R224-6
@@ -12552,26 +12566,34 @@ de validité lorsque celle-ci est requise en application de l'article L. 330-1 ;
 4. Soit ne respecte pas les dispositions relatives au dépôt et à l'homologation des tarifs prises en application de l'article
 L. 330-8 ; 
 
-5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111 / 2005 du 14 décembre 2005 reprises aux articles
-R. 322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur
+5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111/2005 du 14 décembre 2005 reprises aux articles R.
+322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur
 aérien ; 
 
-6. Soit ne respecte pas les obligations à l'égard des passagers fixées par les dispositions du règlement (CE) n° 261 / 2004
-du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d'indemnisation et
+6. Soit ne respecte pas les obligations à l'égard des passagers fixées par les dispositions du règlement (CE) n° 261/2004 du
+Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d'indemnisation et
 d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de retard important d'un vol ; 
 
 7. Soit ne respecte pas les obligations de fourniture des renseignements statistiques sur son trafic prévues à l'article R.
 330-3 ; 
 
-8. Soit ne respecte pas les obligations fixées par le règlement (CE) n° 1107 / 2006 du Parlement européen et du Conseil du 5
+8. Soit ne respecte pas les obligations fixées par le règlement (CE) n° 1107/2006 du Parlement européen et du Conseil du 5
 juillet 2006 concernant les droits des personnes handicapées et des personnes à mobilité réduite lorsqu'elles font des
-voyages aériens.
+voyages aériens ; 
+
+9. Soit, s'agissant d'un exploitant d'aéronef mentionné à l'article L. 229-5 du code de l'environnement, transporteur aérien
+commercial au sens du p de l'article 3 de la directive 2003/87/ CE du 13 octobre 2003, ne respecte pas les obligations
+relatives aux quotas d'émission de gaz à effet de serre résultant des dispositions de l'article R. 229-37-7 du code de
+l'environnement.
 
 **Nota:**
 
 Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
 administrative de l'aviation civile).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission administrative de l'aviation civile).
 
 **Liens relatifs à cet article**
 
@@ -12591,18 +12613,21 @@ administrative de l'aviation civile).
 	  - Code du tourisme. - art. R211-14-2 (T)
 	  - Code du tourisme. - art. R211-19 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
-
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-1 (V)
-	  - Code de l'aviation civile - art. L330-2 (V)
-	  - Code de l'aviation civile - art. L330-8 (V)
-	  - Code de l'aviation civile - art. R160-3 (V)
-	  - Code de l'aviation civile - art. R322-3 (V)
-	  - Code de l'aviation civile - art. R330-3 (V)
+	  - Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003
+	  - Code de l'environnement - art. L229-5
+	  - Code de l'environnement - art. R229-37-7
+	  - Code de l'aviation civile - art. L330-1
+	  - Code de l'aviation civile - art. L330-2
+	  - Code de l'aviation civile - art. L330-8
+	  - Code de l'aviation civile - art. R160-3
+	  - Code de l'aviation civile - art. R322-3
+	  - Code de l'aviation civile - art. R330-3
+
+	**Modifié par**:
+
+	  - Décret n°2011-90 du 24 janvier 2011 - art. 2
 
 
 ###### Article R330-21
