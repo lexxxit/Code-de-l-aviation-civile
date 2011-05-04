@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-01-26
+Version Consolidée au 2011-05-05
 
 # Partie législative
 
@@ -16408,6 +16408,233 @@ environnement).
 	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL
+
+#### CHAPITRE Ier : Discipline
+
+###### Article R431-1
+
+Les personnels navigants non professionnels de l'aéronautique civile titulaires d'un titre délivré ou validé par le ministre
+chargé de l'aviation civile à l'encontre desquels auront été relevées des infractions aux règles édictées en vue d'assurer la
+sécurité par le code des transports et par le code de l'aviation civile ainsi que par les textes pris pour leur application
+sont passibles de sanctions disciplinaires dans les conditions prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-2
+
+Les sanctions disciplinaires qui peuvent être prononcées à l'encontre des personnels navigants non professionnels sont : 
+
+1° Le blâme ; 
+
+2° La suspension du privilège d'effectuer des vols en qualité de commandant de bord tant qu'un complément de formation
+pratique ou théorique, dans les conditions spécifiées par la décision de sanction, n'a pas été réalisé ; 
+
+3° La suspension des licences ou qualifications, assortie ou non d'un sursis ou d'une obligation d'un complément de formation
+pratique ou théorique, dans les conditions spécifiées par la décision de sanction ; 
+
+4° Le retrait des licences ou qualifications, assorti, le cas échéant, de l'interdiction d'en solliciter une nouvelle
+délivrance pendant une durée déterminée et qui ne peut excéder cinq ans ; 
+
+5° La suspension de la validation d'une ou plusieurs licences étrangères ; 
+
+6° Le retrait de la validation d'une ou plusieurs licences étrangères.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R431-5 (V)
+
+
+###### Article R431-3
+
+Ces sanctions disciplinaires sont prononcées, après avis d'une commission de discipline des personnels navigants non
+professionnels, par le ministre chargé de l'aviation civile et, en Polynésie française, en Nouvelle-Calédonie et à Saint-
+Pierre-et-Miquelon, par le représentant de l'Etat et, à Wallis-et-Futuna, par le représentant de l'Etat en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+	  - Code de l'aviation civile - art. D431-3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-4
+
+I. ― Il est institué auprès du directeur de chaque échelon local de la direction de la sécurité de l'aviation civile une
+commission de discipline des personnels navigants non professionnels composée ainsi qu'il suit : 
+
+a) Deux représentants de la direction de la sécurité de l'aviation civile, dont un président ; 
+
+b) Une personnalité compétente en matière de navigation aérienne choisie par le directeur de l'échelon local de la direction
+de la sécurité de l'aviation civile ; 
+
+c) Trois représentants des fédérations nationales des disciplines aéronautiques désignés dans des conditions fixées par
+arrêté du ministre chargé de l'aviation civile. 
+
+Ces fédérations désignent leurs représentants, titulaires ou suppléants. Si une fédération ne désigne pas son représentant,
+celui-ci est désigné par le directeur de l'échelon local de la direction de la sécurité de l'aviation civile dans les
+conditions fixées par l'arrêté susmentionné. 
+
+II. ― En Polynésie française, en Nouvelle-Calédonie et à Saint-Pierre-et-Miquelon, il est institué auprès du représentant de
+l'Etat une commission de discipline des personnels navigants non professionnels composée ainsi qu'il suit : 
+
+a) Le chef du service de l'aviation civile ou le directeur du service d'Etat de l'aviation civile, ou le directeur de
+l'aviation civile en Nouvelle-Calédonie, président ; 
+
+b) Un représentant du service de l'aviation civile chargé des affaires d'aviation générale ; 
+
+c) Une personnalité compétente en matière de navigation aérienne choisie par le chef du service de l'aviation civile ou le
+directeur du service d'Etat de l'aviation civile, ou le directeur de l'aviation civile en Nouvelle-Calédonie ; 
+
+d) Trois personnalités proposées par les aéro-clubs locaux dans des conditions fixées par arrêté du représentant de l'Etat. 
+
+III. ― Les membres de la commission mentionnés au I du présent article sont nommés par le directeur de l'échelon local de la
+direction de la sécurité de l'aviation civile. 
+
+Les membres de la commission mentionnés au II du présent article sont nommés par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2011 - art. 1 (V)
+	  - Code de l'aviation civile - art. R431-5 (V)
+
+
+###### Article R431-5
+
+Les membres des commissions de discipline sont nommés pour trois ans. Leur mandat est renouvelable. Des membres suppléants
+peuvent être nommés en même temps et dans les mêmes formes que les membres titulaires. 
+
+Les personnes ayant fait l'objet d'une des sanctions prévues à l'article R. 431-2 depuis moins de trois ans ne peuvent être
+membres d'une commission de discipline. 
+
+Cessent de faire partie d'une commission de discipline les membres qui viennent à perdre la qualité en vertu de laquelle ils
+ont été désignés ou qui se démettent de leurs fonctions. Tout membre dont le mandat est interrompu est remplacé selon les
+formes prévues à l'article R. 431-4 et pour la durée restant à courir jusqu'à l'expiration de son mandat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R431-2
+	  - Code de l'aviation civile - art. R431-4
+
+
+###### Article R431-6
+
+La commission de discipline est saisie par l'autorité auprès de laquelle elle a été instituée. 
+
+La commission de discipline compétente est celle du ressort territorial de l'échelon local de la direction de la sécurité de
+l'aviation civile ou du service d'Etat de l'aviation civile ou de la direction de l'aviation civile en Nouvelle-Calédonie où
+a été commise l'infraction. 
+
+A la demande de l'intéressé, la commission de discipline compétente est celle du ressort territorial du domicile de ce
+dernier. 
+
+A Wallis-et-Futuna, la commission de discipline compétente est celle placée auprès du représentant de l'Etat en Nouvelle-
+Calédonie. 
+
+Au cas où l'infraction a été commise à l'étranger ou dans les Terres australes et antarctiques françaises, le directeur de la
+sécurité de l'aviation civile désigne la commission de discipline.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-7
+
+Le président désigne le secrétaire de la commission qui assiste aux séances et aux délibérations, sans voix délibérative, et
+qui est tenu au secret. Il peut également désigner un ou plusieurs experts qui sont entendus par la commission. 
+
+Le président de la commission notifie par écrit à l'intéressé les manquements qui lui sont reprochés ainsi que les sanctions
+qu'il encourt. Il l'invite à présenter ses observations par écrit dans un délai qu'il fixe et qui ne peut être inférieur à un
+mois à compter de la date à laquelle l'intéressé a reçu la notification des griefs. 
+
+Le président convoque les membres de la commission ainsi que l'intéressé, qui peut se faire assister ou représenter par une
+personne de son choix. 
+
+Le secrétariat de la commission communique à l'intéressé l'ensemble des pièces du dossier. L'intéressé dispose d'un délai de
+dix jours à compter de cette notification pour présenter ses observations éventuelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-8
+
+Le président choisit un rapporteur sur une liste établie par l'autorité auprès de laquelle la commission est instituée. Le
+rapporteur entend toute personne et il recueille toute information utile à l'instruction de l'affaire. Son rapport est versé
+au dossier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-9
+
+La commission de discipline ne peut siéger valablement que si quatre au moins de ses membres sont présents. En cas de partage
+égal des voix, le président a voix prépondérante. 
+
+Les délibérations de la commission ont lieu hors de la présence de l'intéressé et de son représentant. Le rapporteur ne prend
+pas part au vote. Les délibérations sont secrètes. L'autorité auprès de laquelle la commission est instituée met fin aux
+fonctions des membres qui auraient violé le secret des délibérations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-10
+
+En cas d'urgence l'autorité compétente pour prononcer la sanction peut suspendre, à titre conservatoire, pour une durée
+maximum de trois mois, les licences ou qualifications 
+
+Elle saisit sans délai la commission de discipline.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
 ## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.
 
 ### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.
@@ -25947,412 +26174,32 @@ l'aviation civile (direction générale de l'aviation civile).
 
 ### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL
 
-#### CHAPITRE V : DISCIPLINE.
+#### CHAPITRE Ier : Discipline
 
-###### Article D435-1
+###### Article D431-3
 
-Les personnels navigants de l'aéronautique civile titulaires d'un titre aéronautique non professionnel à l'encontre desquels
-auront été relevées des infractions aux règles édictées en vue d'assurer la sécurité par le code de l'aviation civile ainsi
-qu'aux textes pris pour son application sont passibles de sanctions disciplinaires dans les conditions prévues aux articles
-ci-après.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 du 30 mars 1967
-
-	**Cité par**:
-
-	  - Arrêté du 4 avril 1996 - art. 23 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2004-919 du 31 août 2004 - art. 7 () JORF 2 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-2
-
-Les sanctions disciplinaires qui peuvent être prononcées à l'encontre des personnels navigants non professionnels sont :
-
-- le blâme ;
-
-- la suspension du privilège d'effectuer des vols en qualité de commandant de bord tant qu'un complément de formation
-pratique ou/et théorique, dans les conditions spécifiées par la décision de sanction, n'a pas été réalisé ;
-
-- la suspension des licences ou qualifications, assortie ou non d'un sursis ou/et d'une obligation d'un complément de
-formation pratique ou/et théorique, dans les conditions spécifiées par la décision de sanction ;
-
-- l'annulation des licences ou qualifications, assortie le cas échéant de l'interdiction d'en solliciter une nouvelle
-délivrance pendant une durée déterminée et qui ne peut excéder cinq ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-919 du 31 août 2004 - art. 8 () JORF 2 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D435-6 (Ab)
-
-
-###### Article D435-3
-
-Ces sanctions disciplinaires sont prononcées, après avis d'une commission de discipline des personnels navigants non
-professionnels, par :
-
-- le directeur de l'aviation civile en métropole et le directeur régional de l'aviation civile pour l'ensemble des trois
-régions de Guadeloupe, de Guyane et de Martinique ;
-
-- le représentant de l'Etat dans le département de la Réunion, la Polynésie française, la Nouvelle-Calédonie, la collectivité
-départementale de Mayotte et la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-L'autorité compétente pour prononcer la sanction est celle de la circonscription territoriale dans le ressort de laquelle a
-été commise l'infraction.
-
-A la demande du contrevenant, l'autorité compétente est celle de la circonscription territoriale dans le ressort de laquelle
-est domicilié le contrevenant.
-
-Au cas où l'infraction a été commise à l'étranger, le ministre chargé de l'aviation civile désigne l'autorité qui sera
-compétente pour prononcer la sanction.
+L'autorité mentionnée à l'article R. 431-3 qui prononce une sanction disciplinaire doit notifier cette dernière au navigant
+qui en est l'objet au plus tard trois mois à compter de la date à laquelle la commission de discipline a été saisie, laquelle
+dispose de deux mois pour donner son avis. Elle en informe les autorités administratives concernées.
 
 **Nota:**
 
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-919 du 31 août 2004 - art. 9 () JORF 2 septembre 2004
-
-	**Cité par**:
-
-	  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
-	  - Décret n°2014-589 du 6 juin 2014 - art. (V)
-	  - Code de l'aviation civile - art. D435-4 (Ab)
-	  - Code de l'aviation civile - art. D435-6 (Ab)
-	  - Code de l'aviation civile - art. D435-8 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-4
-
-Il est institué auprès de chacune des autorités mentionnées à l'article D. 435-3 une commission de discipline des personnels
-navigants non professionnels composée ainsi qu'il suit :
-
-I. - En métropole et dans l'ensemble des trois régions de Guadeloupe, de Guyane et de Martinique :
-
-a) Deux membres représentant, selon le cas, le directeur de l'aviation civile ou le directeur régional de l'aviation civile
-pour l'ensemble des trois régions de Guadeloupe, de Guyane et de Martinique, dont un président ;
-
-b) Un membre choisi en raison de sa compétence en matière de navigation aérienne, selon le cas, par le directeur de
-l'aviation civile ou par le directeur régional de l'aviation civile pour l'ensemble des trois régions de Guadeloupe, de
-Guyane et de Martinique ;
-
-c) Un membre représentant l'Aéro-club de France ;
-
-d) Un membre représentant la Fédération nationale aéronautique ou la Fédération française de vol à voile ;
-
-e) Un membre représentant la fédération couvrant l'activité du contrevenant.
-
-Les fédérations reconnues au plan national conformément à l'article D. 510-3 désignent leurs représentants, titulaires ou
-suppléants. Si une ou plusieurs fédérations ne désignent pas de représentant, le directeur de l'aviation civile ou le
-directeur régional de l'aviation civile pour l'ensemble des trois régions de Guadeloupe, de Guyane et de Martinique pourra
-désigner un ou plusieurs membres choisis en raison de leur compétence dans le ou les domaines considérés.
-
-II. - Dans le département de la Réunion, la Polynésie française, la Nouvelle-Calédonie, la collectivité départementale de
-Mayotte et la collectivité territoriale de Saint-Pierre-et-Miquelon :
-
-a) Le directeur du service de l'aviation civile ou le chef du service de l'aviation civile ou le directeur du service d'Etat
-de l'aviation civile, président ;
-
-b) L'agent du service de l'aviation civile chargé des affaires d'aviation générale ;
-
-c) Un membre choisi en raison de sa compétence en matière de navigation aérienne ;
-
-d) Trois membres représentant les aéro-clubs locaux.
-
-Les membres mentionnés aux b, c et d sont nommés par le délégué du Gouvernement sur proposition, en ce qui concerne ceux
-mentionnés aux b et c, du président de la commission et, en ce qui concerne les représentants mentionnés au d, des aéro-clubs
-locaux.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Cité par**:
-
-	  - Décret n°98-264 du 2 avril 1998 - art. 9 (V)
-	  - Code de l'aviation civile - art. D435-6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2004-919 du 31 août 2004 - art. 10 () JORF 2 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. D435-3
-	  - Code de l'aviation civile - art. D510-3
-
-
-###### Article D435-5
-
-Assistent aux séances et aux délibérations, sans voix délibérative, et sont tenus au secret :
-
-- le secrétaire de la commission choisi par le président de la commission de discipline ;
-
-- le cas échéant, un ou plusieurs experts, désignés par le président de la commission de discipline.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 du 30 mars 1967
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
-	**Modifié par**:
-
-	  - Décret n°98-264 du 2 avril 1998 - art. 5 () JORF 7 avril 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-6
-
-Les membres des commissions de discipline sont nommés pour trois ans par l'autorité compétente prévue à l'article D. 435-3.
-Leur mandat est renouvelable. Des membres suppléants peuvent être nommés en même temps et dans les mêmes formes que les
-membres titulaires.
-
-Les personnes ayant fait l'objet d'une condamnation définitive inscrite au bulletin n° 2 du casier judiciaire ou d'une des
-sanctions prévues à l'article D. 435-2 ne peuvent être membres d'une commission de discipline.
-
-Cessent de faire partie d'une commission de discipline les membres qui viennent à perdre la qualité en vertu de laquelle ils
-ont été désignés, qui se démettent de leurs fonctions ou qui sont déclarés démissionnaires pour absence non justifiée à deux
-séances consécutives. Tout membre dont le mandat est interrompu est remplacé selon les formes prévues à l'article D. 435-4 et
-pour la durée restant à courir jusqu'à l'expiration de son mandat.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-919 du 31 août 2004 - art. 11 () JORF 2 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. D435-2
-	  - Code de l'aviation civile - art. D435-3
-	  - Code de l'aviation civile - art. D435-4
-
-
-###### Article D435-7
-
-La commission de discipline est saisie par l'autorité auprès de laquelle elle a été instituée.
-
-Le président de la commission notifie par écrit à la personne traduite devant la commission les poursuites dont elle fait
-l'objet en lui faisant connaître les manquements qui lui sont reprochés ainsi que les sanctions qu'elle encoure. Il l'invite
-à présenter ses observations par écrit dans un délai qu'il fixe et qui ne peut être inférieur à un mois à compter de la date
-à laquelle l'intéressé a reçu la notification des poursuites.
-
-Le secrétariat de la commission communique à l'intéressé, s'il y a lieu, les pièces complémentaires non adressées au moment
-de la notification. L'intéressé dispose d'un délai de dix jours à compter de cette notification pour présenter ses
-observations éventuelles sur ces pièces complémentaires.
-
-En complément de la convocation, le président de la commission de discipline adresse à ses membres les pièces en sa
-possession.
-
-Il choisit un rapporteur sur une liste nominative établie par l'autorité auprès de laquelle la commission est instituée et
-convoque les membres de la commission ainsi que l'intéressé, qui peut se faire assister ou représenter par une personne de
-son choix. Le rapporteur entend toute personne et recueille toute information utile à l'instruction de l'affaire. A l'issue
-de l'instruction, le rapporteur remet au président de la commission un rapport écrit, qui est versé au dossier de la personne
-traduite devant la commission.
-
-La commission de discipline ne peut siéger valablement que si quatre au moins de ses membres sont présents. En cas de partage
-égal des voix, le président a voix prépondérante.
-
-Les délibérations de la commission ont lieu hors de la présence de l'intéressé, de son représentant et du rapporteur. Les
-délibérations sont secrètes. L'autorité auprès de laquelle la commission est instituée met fin aux fonctions des membres qui
-auraient violé le secret des délibérations.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-919 du 31 août 2004 - art. 12 () JORF 2 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-8
-
-Les avis des commissions de discipline sont transmis dans un délai maximum de trois mois à compter de la date à laquelle
-elles ont été saisies à l'autorité compétente désignée à l'article D. 435-3.
-
-Dans le cas où le délai ne peut être respecté, le président de la commission doit solliciter de cette autorité un délai
-supplémentaire.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, les Commissions de discipline des personnels navigants non
+professionnels sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
-
-	**Codifié par**:
-
-	  - Décret n°67-335 du 30 mars 1967
-
-	**Abrogé par**:
-
 	  - Décret n°2011-484 du 3 mai 2011 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2015-622 du 5 juin 2015 - art. (V)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D435-3
-
-
-###### Article D435-9
-
-L'autorité qui prononce la sanction la notifie au navigant qui en est l'objet le plus tôt possible et dans un délai maximum
-de quarante-cinq jours après la tenue de la commission de discipline.
-
-Les autorités administratives concernées en sont informées dans le même délai.
-
-La décision de sanction peut faire l'objet d'un recours hiérarchique auprès du ministre chargé de l'aviation civile dans un
-délai de deux mois courant à compter de la notification de la décision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
-	**Modifié par**:
-
-	  - Décret n°98-264 du 2 avril 1998 - art. 7 () JORF 7 avril 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-10
-
-En cas de faute grave l'autorité compétente pour prononcer la sanction peut, s'il y a urgence, procéder, pour une durée
-maximum de deux mois, au retrait provisoire des licences ou qualifications après avis du président de la commission de
-discipline compétente ou, en son absence, de son suppléant.
-
-Elle rend compte immédiatement au ministre chargé de l'aviation civile de cette décision et saisit sans délai la commission
-de discipline qui doit émettre son avis dans les deux mois.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 du 30 mars 1967
-
-	**Cite**:
-
-	  - Décret n°79-445 du 1 juin 1979
-	  - Code de l'aviation civile
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
-	**Modifié par**:
-
-	  - Décret n°98-264 du 2 avril 1998 - art. 8 () JORF 7 avril 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2011-484 du 3 mai 2011 - art. 2
+	  - Code de l'aviation civile - art. R431-3
 
 
 ## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.
