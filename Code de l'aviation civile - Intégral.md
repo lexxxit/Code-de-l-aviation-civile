@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-05-05
+Version Consolidée au 2011-07-01
 
 # Partie législative
 
@@ -13338,53 +13338,6 @@ inscription au registre.
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R426-1 (VD)
-
-
-###### Article R421-4
-
-L'autorisation d'exercer une activité professionnelle en métropole ou dans les départements et territoires d'outre-mer
-susceptible d'être accordée aux personnes n'ayant pas la nationalité française par application de l'article L. 421-5 fait
-l'objet dans chaque cas particulier d'une décision prise dans le cadre des lois et règlements relatifs au contrôle du séjour
-et de l'emploi par :
-
-Le ministre des armées pour la catégorie Essais et réceptions ;
-
-Le ministre chargé de l'aviation civile, pour les catégories Transport aérien et Travail aérien.
-
-A titre exceptionnel, leur inscription sur les registres du personnel navigant professionnel de l'aéronautique civile peut,
-dans chaque cas particulier, être autorisée par arrêté contresigné :
-
-Par le ministre des affaires étrangères, le ministre chargé de l'aviation civile et le ministre des armées, pour la catégorie
-Essais et réceptions ;
-
-Par le ministre des affaires étrangères et le ministre chargé de l'aviation civile, pour les catégories Transport aérien et
-Travail aérien.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de l'aviation civile 152 alinéas 2 et suivants
-	  - Loi n°53-285 1953-04-04 art. 7, alinéas 2 et suivants
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cité par**:
-
-	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
-	  - Arrêté du 21 janvier 1998 - art. 3 (V)
-	  - Code de l'aviation civile - art. D421-4 (V)
-	  - Code de l'aviation civile - art. R421-3 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-759 du 28 juin 2011 - art. 7 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L421-5
 
 
 ##### Section 2 : Conseil du personnel navigant professionnel.
