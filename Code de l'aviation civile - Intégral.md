@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-07-03
+Version Consolidée au 2011-09-11
 
 # Partie législative
 
@@ -5116,10 +5116,9 @@ Toute administration civile ou militaire de l'Etat, dont les services, forces ou
 pour l'exercice de leurs missions, font un usage aéronautique permanent d'un aérodrome et y disposent d'installations ou
 peuvent se trouver dans la nécessité d'en disposer, peut demander à être désignée comme affectataire.
 
-Les affectataires sont désignés après avis du Conseil supérieur de l'infrastructure et de la navigation aériennes par arrêté
-interministériel publié au Journal officiel. Cet arrêté désigne l'affectataire principal de l'aérodrome et, le cas échéant,
-les affectataires secondaires. Il précise en outre les services, forces ou établissements aux besoins desquels l'aérodrome
-est affecté ainsi que les activités aériennes autorisées.
+Les affectataires sont désignés par arrêté interministériel publié au Journal officiel. Cet arrêté désigne l'affectataire
+principal de l'aérodrome et, le cas échéant, les affectataires secondaires. Il précise en outre les services, forces ou
+établissements aux besoins desquels l'aérodrome est affecté ainsi que les activités aériennes autorisées.
 
 Les aérodromes sont affectés à titre principal soit au ministère chargé de l'aviation civile, soit au ministère chargé de la
 défense en fonction des activités aéronautiques auxquelles est voué l'aérodrome.
@@ -5138,11 +5137,11 @@ Ces dispositions ne s'appliquent pas aux aérodromes à usage privé.
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-134 du 31 janvier 2002 - art. 2 () JORF 3 février 2002
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -8307,8 +8306,7 @@ La longueur d'étape au départ de l'aérodrome ;
 
 La nécessité éventuelle d'assurer normalement le service en toutes circonstances.
 
-Les limites entre les étapes longues, moyennes et courtes sont fixées par le ministre chargé de l'aviation civile, après avis
-du conseil supérieur de l'infrastructure et de la navigation aériennes.
+Les limites entre les étapes longues, moyennes et courtes sont fixées par le ministre chargé de l'aviation civile.
 
 Un service est dit à grande distance s'il comporte au moins une étape longue, à moyenne distance s'il ne comporte pas d'étape
 longue mais s'il comporte au moins une étape moyenne, à courte distance s'il ne comporte que des étapes courtes.
@@ -8317,7 +8315,11 @@ longue mais s'il comporte au moins une étape moyenne, à courte distance s'il n
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article R222-5
@@ -8377,30 +8379,35 @@ Un aérodrome peut, pour les besoins de la défense nationale, comporter des car
 catégorie dans laquelle il est classé en raison de son utilisation civile. Mention en est faite dans le décret de classement
 de l'aérodrome.
 
-Des arrêtés interministériels, pris après avis du conseil supérieur de l'infrastructure et de la navigation aériennes,
-détermineront les caractéristiques des aménagements et des équipements à réaliser pour satisfaire aux besoins particuliers de
-la défense nationale sur ces aérodromes.
+Des arrêtés interministériels détermineront les caractéristiques des aménagements et des équipements à réaliser pour
+satisfaire aux besoins particuliers de la défense nationale sur ces aérodromes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article R222-8
 
-Le décret de classement d'un aérodrome est pris après avis du conseil supérieur de l'infrastructure et de la navigation
-aériennes.
-
-En outre, lorsqu'il s'agit d'un aérodrome créé par une personne de droit public autre que l'Etat, ou par une personne de
-droit privé, le décret est pris après accord de la personne en cause ou de ses ayants droit et fait mention de cet accord.
+Lorsqu'il s'agit d'un aérodrome créé par une personne de droit public autre que l'Etat ou par une personne de droit privé, le
+décret de classement de cet aérodrome est pris après accord de la personne en cause ou de ses ayants droit et fait mention de
+cet accord.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 #### CHAPITRE III : EXPLOITATION.
@@ -10139,8 +10146,6 @@ l'organisation de l'aviation civile internationale.
 
 ###### Article R242-1
 
-Il est soumis à une commission centrale constituée pour donner son avis sur les servitudes aéronautiques.
-
 Il est approuvé et rendu exécutoire par décret en Conseil d'Etat, à moins que les conclusions du rapport d'enquête, les avis
 des services et des collectivités publiques intéressés ne soient favorables, auquel cas il est statué par arrêté du ministre
 chargé de l'aviation civile, en accord s'il y a lieu, avec le ministre des armées.
@@ -10157,10 +10162,9 @@ pour prononcer cette déclaration.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 242-1 abrogé par l'article 7 de
-ladite ordonnance, la phrase "Il est soumis à une commission centrale constituée pour donner son avis sur les servitudes
-aéronautiques" et le 3ème alinéa sont maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementaires du
-code des transports.
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 242-1 modifié par l'article 7 de
+ladite ordonnance le 3ème alinéa (" Il est approuvé et rendu exécutoire ...) est maintenu en vigueur jusqu'à l'entrée en
+vigueur des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -10170,7 +10174,7 @@ code des transports.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -10180,8 +10184,7 @@ code des transports.
 
 ###### Article R242-2
 
-En cas d'urgence des mesures provisoires de sauvegarde peuvent être prises par arrêté ministériel après enquête publique et
-avis de la commission mentionnée à l'article précédent.
+En cas d'urgence des mesures provisoires de sauvegarde peuvent être prises par arrêté ministériel après enquête publique.
 
 Ces mesures provisoires cessent d'être applicables si, dans un délai de deux ans à compter de cet arrêté, elles n'ont pas été
 reprises dans un plan de dégagement régulièrement approuvé.
@@ -10194,27 +10197,13 @@ maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementai
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-92 1959-01-03 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L6351-2 (V)
-	  - Code des transports - art. L6351-4 (V)
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 #### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.
@@ -10272,7 +10261,7 @@ ministre chargé de la défense nationale" (Fin de vigueur : date indéterminée
 
 A l'extérieur des zones grevées de servitudes de dégagement en application du présent titre, l'établissement de certaines
 installations qui, en raison de leur hauteur, pourraient constituer des obstacles à la navigation aérienne est soumis à une
-autorisation spéciale du ministre chargé de l'aviation civile et du ministre de la défense. 
+autorisation spéciale du ministre chargé de l'aviation civile et du ministre de la défense.
 
 Des arrêtés ministériels déterminent les installations soumises à autorisation ainsi que la liste des pièces qui doivent être
 annexées à la demande d'autorisation.
@@ -10285,18 +10274,22 @@ accord.
 
 Lorsque les installations en cause ainsi que les installations visées par la loi du 15 juin 1906 sur les distributions
 d'énergie qui existent à la date du 8 janvier 1959, constituent des obstacles à la navigation aérienne, leur suppression ou
-leur modification peut être ordonnée par décret pris après avis de la commission visée à l'article R. 242-1.
+leur modification peut être ordonnée par décret.
 
 Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 244-1 les trois premiers alinéas
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 244-1 les deux premiers alinéas
 sont abrogés par l'article 7 de ladite ordonnance, au premier alinéa les mots "du ministre chargé de l'aviation civile et du
-ministre de la défense" ainsi que les 2 premiers alinéas sont maintenus en vigueur jusqu'à l'entrée en vigueur des
-dispositions réglementaires du code des transports.
+ministre de la défense" sont maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementaires du code des
+transports.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 15 juin 1906
 
 	**Cité par**:
 
@@ -10316,13 +10309,7 @@ dispositions réglementaires du code des transports.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R242-1
-	  - Code de l'aviation civile - art. R242-3
-	  - Loi n°1906-06-15
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 #### CHAPITRE V : TERRAINS RESERVES.
@@ -20714,10 +20701,8 @@ en matière de nuisances sonores.
 
 ###### Article D211-2
 
-La création d'un aérodrome par l'Etat est soumise à l'avis préalable du Conseil supérieur de l'infrastructure et de la
-navigation aériennes. Si aucune opposition ne se manifeste au conseil de la part des départements ministériels intéressés, la
-décision est prise par le ministre chargé de l'aviation civile, et, dans le cas contraire, par arrêté conjoint du ministre
-chargé de l'aviation civile, du ministre des armées et des autres ministres intéressés.
+La décision de création d'un aérodrome par l'Etat est prise par le ministre chargé de l'aviation civile ou, le cas échéant,
+par arrêté conjoint du ministre chargé de l'aviation civile et du ou des autres ministres intéressés. 
 
 La création d'un aérodrome par une personne autre que l'Etat est subordonnée à une autorisation administrative délivrée dans
 les conditions fixées aux titres II et III ci-après. Toutefois, lorsque l'aérodrome fait l'objet d'une convention conclue en
@@ -20727,13 +20712,13 @@ d'autorisation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-779 1959-06-22 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -20742,9 +20727,9 @@ d'autorisation.
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L221-1 (V)
-	  - Code de l'aviation civile - art. R221-4 (V)
-	  - Code de l'aviation civile - art. R222-3 (V)
+	  - Code de l'aviation civile - art. L221-1
+	  - Code de l'aviation civile - art. R221-4
+	  - Code de l'aviation civile - art. R222-3
 
 
 ###### Article D211-3
@@ -20900,24 +20885,18 @@ prononcer la suspension de l'autorisation ou la restriction de ses effets.
 ###### Article D212-3
 
 L'autorisation d'ouverture d'un aérodrome à la circulation aérienne publique ou de mise en service d'un aérodrome à usage
-restreint ne peut, sauf en cas d'urgence, être suspendue, restreinte ou retirée que par un arrêté ministériel pris après avis
-du Conseil supérieur de l'infrastructure et de la navigation aériennes, si cette mesure intervient en application des 1°, 2°,
-3° ou 4° de l'article D. 212-1. Dans tous les cas, l'arrêté doit être motivé ; il est publié au Journal officiel de la
-République française.
+restreint ne peut, sauf en cas d'urgence, être suspendue, restreinte ou retirée que par un arrêté ministériel. L'arrêté doit
+être motivé ; il est publié au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°59-779 1959-06-22 art. 30
-
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. D212-1 (V)
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article D212-4
@@ -22227,20 +22206,22 @@ La demande d'autorisation de créer un aérodrome destiné à être ouvert à la
 circulation aérienne publique un aérodrome existant est adressée au ministre chargé de l'aviation civile, accompagnée d'un
 dossier dont la composition sera fixée par arrêté ministériel.
 
-Elle est soumise à l'avis du Conseil supérieur de l'infrastructure et de la navigation aériennes. Si aucune opposition ne se
-manifeste au conseil de la part des départements ministériels intéressés, la décision est prise par arrêté du ministre chargé
-de l'aviation civile et, dans le cas contraire, par arrêté conjoint du ministre chargé de l'aviation civile, du ministre des
-armées et des autres ministres intéressés.
+La décision est prise par arrêté du ministre chargé de l'aviation civile ou, le cas échéant, par arrêté conjoint du ministre
+chargé de l'aviation civile et du ou des autres ministres intéressés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article D221-3
@@ -22767,26 +22748,29 @@ l'article D. 231-1 ou l'arrêté d'agrément mentionné à l'article D. 232-6.
 
 Sauf application du dernier alinéa de l'article D. 211-2, la demande d'autorisation de créer un aérodrome à usage restreint
 est adressée au ministre chargé de l'aviation civile, accompagnée d'un dossier dont la composition sera fixée par arrêté
-ministériel.
+ministériel. 
 
-Elle est soumise à une enquête technique et à l'avis du Conseil supérieur de l'infrastructure et de la navigation aériennes.
-Si aucune opposition ne se manifeste au conseil de la part des départements ministériels intéressés, la décision est prise
-par arrêté du ministre chargé de l'aviation civile, et dans le cas contraire, par arrêté conjoint du ministre chargé de
-l'aviation civile, du ministre des armées et des autres ministres intéressés.
+Elle est soumise à une enquête technique et, le cas échéant, à l'avis du ou des autres départements ministériels intéressés ;
+la décision est prise par arrêté du ministre chargé de l'aviation civile ou, le cas échéant, par arrêté conjoint du ministre
+chargé de l'aviation civile et du ou des autres ministres intéressés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D211-2 (V)
+	  - Code de l'aviation civile - art. D211-2
 
 
 ###### Article D232-3
@@ -23083,91 +23067,22 @@ celle de la manifestation.
 
 #### CHAPITRE Ier : DISPOSITIONS GENERALES.
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.
-
-###### Article D241-1
-
-Il est créé une commission centrale des servitudes aéronautiques chargée de donner son avis sur toutes questions concernant
-l'établissement, la modification ou la suppression des servitudes qui lui sont soumises par le ou les ministres intéressés.
-
-Cette commission sera obligatoirement consultée sur l'opportunité d'admettre au bénéfice des dispositions du titre IV de la
-deuxième partie (décrets portant R.A.P. et décrets en Conseil d'Etat) les aérodromes, installations et emplacements visés aux
-b, c et d de l'article R. 241-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 du 30 mars 1967
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R241-2
-
-
-###### Article D241-2
-
-La commission centrale des servitudes aéronautiques est constituée au sein du Conseil supérieur de l'infrastructure et de la
-navigation aériennes.
-
-Elle est placée sous la présidence du président de cet organisme et comprend :
-
-Les membres du Conseil supérieur de l'infrastructure et de la navigation aériennes ;
-
-Les représentants du ministre chargé de la construction, du ministre de l'agriculture, du ministre de l'industrie et du
-ministre de l'intérieur et suivant l'ordre du jour ;
-
-Les représentants des départements ministériels intéressés autres que ceux visés ci-dessus.
-
-La commission peut entendre toute personnalité choisie en raison de sa compétence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-
-###### Article D241-3
-
-La commission centrale des servitudes aéronautiques se réunit sur convocation de son président, chaque fois que l'importance
-ou le nombre des affaires qui lui sont soumises le justifie.
-
-Les avis émis par la commission sont motivés. Ils sont pris à la majorité des membres présents, la voix du président étant
-prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 du 30 mars 1967
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-
 ##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.
 
 ###### Article D241-4
 
 Les spécifications techniques destinées à servir de base à l'établissement des servitudes aéronautiques sont fixées par
-arrêté du ministre chargé de l'aviation civile ou du ministre des armées, après avis de la commission centrale des servitudes
-aéronautiques.
+arrêté du ministre chargé de l'aviation civile ou du ministre des armées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -23244,10 +23159,14 @@ plan de dégagement, sans préjudice de ceux qui pourront être établis ultéri
 	  - Décret n°67-335 1967-03-30
 
 
-###### Article D242-4
+###### Article D242-5
 
-Le plan de dégagement accompagné des résultats de l'enquête publique et des résultats de la conférence entre services est
-soumis avant son approbation à l'avis de la commission centrale des servitudes aéronautiques.
+Lorsque des mesures provisoires de sauvegarde doivent être prises en application de l'article L. 6351-4 du code des
+transports, il est procédé à une enquête publique précédée d'une conférence entre services intéressés dans les conditions
+fixées à l'article D. 242-2. 
+
+L'arrêté approuvant les mesures provisoires de sauvegarde est pris par le ministre chargé de l'aviation civile ou par le
+ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -23255,31 +23174,14 @@ soumis avant son approbation à l'avis de la commission centrale des servitudes 
 
 	  - Décret n°67-335 du 30 mars 1967
 
-	**Abrogé par**:
-
-	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-
-###### Article D242-5
-
-Lorsque des mesures provisoires de sauvegarde doivent être prises en application de l'article R. 241-5, il est procédé à une
-enquête publique précédée d'une conférence entre services intéressés dans les conditions fixées à l'article D. 242-2. Les
-mesures envisagées ainsi que les résultats de l'enquête publique et de la conférence entre services sont soumis à l'avis de
-la commission centrale des servitudes aéronautiques.
-
-L'arrêté approuvant les mesures provisoires de sauvegarde est pris par le ministre chargé de l'aviation civile ou par le
-ministre des armées, après avis favorable de la commission centrale des servitudes aéronautiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D242-2 (V)
-	  - Code de l'aviation civile R241-5, D242-2
+	  - Code des transports - art. L6351-4
+	  - Code de l'aviation civile - art. D242-2
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ##### Section 2 : Application du plan de dégagement.
@@ -23333,9 +23235,9 @@ sauvegarde.
 ###### Article D242-8
 
 Par dérogation à l'article D. 242-7, le préfet peut autoriser, dans les mêmes zones, des installations et équipements
-concourant à la sécurité de la navigation aérienne et du transport aérien public, après avis préalable de la Commission
-centrale des servitudes aéronautiques et sous réserve qu'une étude technique démontre que la sécurité et la régularité de
-l'exploitation des aéronefs ne sont pas affectées.
+concourant à la sécurité de la navigation aérienne et du transport aérien public sous réserve qu'une étude technique
+approuvée par les services de l'aviation civile démontre que la sécurité et la régularité de l'exploitation des aéronefs ne
+sont pas affectées. 
 
 Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est transmise au maire de la commune concernée.
 
@@ -23343,11 +23245,7 @@ Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est t
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2004-1177 du 28 octobre 2004 - art. 2 () JORF 6 novembre 2004
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Cité par**:
 
@@ -23355,13 +23253,13 @@ Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est t
 	  - Décret n°2012-1495 du 27 décembre 2012 - art. 3 (V)
 	  - Code de l'aviation civile - art. D242-10 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D242-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°60-1059 1960-09-24 art. 12
+	  - Code de l'aviation civile - art. D242-7
 
 
 ###### Article D242-11
@@ -23696,35 +23594,6 @@ entre l'Etat et la personne qui crée l'aérodrome.
 
 #### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.
 
-###### Article D244-1
-
-Les arrêtés ministériels prévus à l'article R. 244-1 pour définir les installations soumises à autorisation à l'extérieur des
-zones grevées de servitudes de dégagement seront pris après avis de la commission centrale des servitudes aéronautiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D244-2 (V)
-	  - Code de l'urbanisme - art. II (M)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R244-1
-
-	**Anciens textes**:
-
-	  - Décret n°60-1059 1960-09-24 art. 24
-
-
 ###### Article D244-2
 
 Les demandes visant l'établissement des installations mentionnées à l'article D. 244-1, et exemptées du permis de construire,
@@ -23779,30 +23648,26 @@ sécurité de la navigation aérienne ne peuvent en aucun cas ouvrir un droit à
 ###### Article D244-4
 
 Les décrets visant à ordonner la suppression ou la modification d'installations constituant des obstacles à la navigation
-aérienne dans les conditions prévues au quatrième alinéa de l'article R. 244-1 sont pris après avis de la commission centrale
-des servitudes aéronautiques et contresignés par le ministre chargé de l'aviation civile et par les ministres intéressés.
-
-**Nota:**
-
-Décret n° 80-562 du 18 juillet 1980 (art. 2) concerne l'article R. 244-1 alinéa 4.
+aérienne dans les conditions prévues au quatrième alinéa de l'article R. 244-1 sont contresignés par le ministre chargé de
+l'aviation civile et par les ministres intéressés.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°67-335 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R244-1 (M)
+	  - Code de l'aviation civile - art. R244-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. II (M)
-
-	**Anciens textes**:
-
-	  - Décret n°60-1059 1960-09-24 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°67-335 1967-03-30
 
 
 #### CHAPITRE V : TERRAINS RESERVES.
