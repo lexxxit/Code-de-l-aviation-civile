@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-09-11
+Version Consolidée au 2011-10-16
 
 # Partie législative
 
@@ -962,13 +962,13 @@ effet qu'à compter de la publication des dispositions réglementaires du code d
 
 La Commission consultative aéroportuaire est placée auprès du ministre chargé de l'aviation civile qui la consulte lors de la
 préparation des contrats mentionnés au II de l'article L. 224-2, notamment sur les programmes d'investissement, les objectifs
-de qualité de service et l'évolution des redevances pour services rendus. Elle rend un avis motivé dans le mois qui suit la
-demande.
+de qualité de service et l'évolution des redevances pour services rendus. Elle rend un avis motivé dans les deux mois qui
+suivent la demande. 
 
 Elle peut également émettre, à la demande de ce ministre, des avis sur toute question relative à l'économie du secteur
-aéroportuaire.
+aéroportuaire. 
 
-Les avis émis par la commission sont rendus publics.
+Les avis émis par la commission sont rendus publics. 
 
 Elle auditionne, à son initiative ou à leur demande, les exploitants d'aérodromes, les transporteurs aériens, leurs
 organisations professionnelles et toute autre personne morale qu'elle juge compétente ou concernée.
@@ -983,11 +983,11 @@ effet qu'à compter de la publication des dispositions réglementaires du code d
 
 	**Codifié par**:
 
-	  - Décret n°67-333 1967-03-30
+	  - Décret n°67-333 du 30 mars 1967
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Ordonnance n°2011-1300 du 14 octobre 2011 - art. 2
 
 	**Cité par**:
 
@@ -996,11 +996,7 @@ effet qu'à compter de la publication des dispositions réglementaires du code d
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L224-2
-
-	**Modifié par**:
-
-	  - Loi n°2005-357 2005-04-21 art. 8 JORF 21 avril 2005
+	  - Code de l'aviation civile - art. L224-2 (Ab)
 
 
 ###### Article L228-2
