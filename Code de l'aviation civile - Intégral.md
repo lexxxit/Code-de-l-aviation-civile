@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-12-28
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -10013,20 +10013,21 @@ internationale de planification des mouvements d'aéronefs relative à la pério
 Sans préjudice des compétences qui lui sont conférées par les articles L. 571-7 et R. 571-31-4 et suivants du code de
 l'environnement, le ministre chargé de l'aviation civile peut, en vue de réduire les nuisances sonores, réglementer le trafic
 des hélicoptères au départ ou à destination ou à proximité de chaque aérodrome situé dans les agglomérations de largeur
-moyenne comprise entre 1 200 mètres et 3 600 mètres, qui figurent sur la carte aéronautique OACI au 1/500 000, publiée par
-l'Institut géographique national, ainsi que des aérodromes situés à moins d'un demi-mille nautique (926 mètres) ou 463 mètres
-côté mer pour les agglomérations littorales dans les conditions fixées aux articles R. 227-17 à R. 227-19.
+moyenne comprise entre 1 200 mètres et 3 600 mètres, qui figurent sur la carte aéronautique OACI au 1/500 000, publiée par l'
+Institut national de l'information géographique et forestière, ainsi que des aérodromes situés à moins d'un demi-mille
+nautique (926 mètres) ou 463 mètres côté mer pour les agglomérations littorales dans les conditions fixées aux articles R.
+227-17 à R. 227-19.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1226 du 20 octobre 2010 - art. 3
+	  - Décret n°2011-1371 du 27 octobre 2011 - art. 30 (VD)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-7 (V)
-	  - Code de l'environnement - art. R571-31-4 (V)
+	  - Code de l'environnement - art. L571-7
+	  - Code de l'environnement - art. R571-31-4
 
 	**Cité par**:
 
@@ -12960,10 +12961,8 @@ privées, soit de services publics ne relevant pas du ministère chargé de la d
 remboursement dans des conditions fixées par un arrêté pris par le ministre chargé de la défense et le ministre chargé du
 budget.
 
-Les sommes dues au titre de ces remboursements sont versées à concurrence de 70 % au compte des reversements de fonds sur les
-dépenses des ministères et pour le surplus, soit 30 %, aux produits divers du budget. Les sommes imputées au compte des
-reversements de fonds sur les dépenses des ministères sont rétablies au chapitre intéressé du budget au ministère de la
-défense.
+Les sommes dues au titre de ces remboursements sont rétablies au programme budgétaire concerné du ministère chargé de la
+défense. 
 
 En vue de couvrir la responsabilité civile éventuelle de l'Etat, encourue par le fait ou à l'occasion de ces transports, le
 ministre chargé de la défense est autorisé à contracter toutes assurances nécessaires dans des conditions fixées par un
@@ -12971,17 +12970,9 @@ arrêté du ministre chargé du budget. Le montant des primes d'assurances est i
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°64-482 1964-05-28 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°80-909 du 17 novembre 1980 - art. 5 () JORF 21 novembre 1980
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Liens**:
 
@@ -12993,6 +12984,10 @@ arrêté du ministre chargé du budget. Le montant des primes d'assurances est i
 	  - Décret n°2001-421 du 14 mai 2001 - art. 1 (V)
 	  - Arrêté du 29 octobre 2012 - art. 1 (V)
 	  - Arrêté du 29 octobre 2012 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-2050 du 29 décembre 2011 - art. 1
 
 
 ### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.
@@ -14800,10 +14795,10 @@ susceptibles de mettre en péril l'équilibre financier de la caisse.
 
 ###### Article R426-5
 
-a) Salaire brut
+a) Salaire brut 
 
 Le salaire brut s'entend après déduction des indemnités afférentes aux activités au sol indépendantes de la fonction de
-navigant et des indemnités représentatives de frais.
+navigant et des indemnités représentatives de frais. 
 
 Pour les navigants exerçant hors de France métropolitaine, il est tenu compte d'un salaire brut fictif exprimé en francs
 métropolitains et déterminé annuellement par le conseil d'administration. Ce salaire brut fictif représente approximativement
@@ -14811,28 +14806,28 @@ la rémunération qu'aurait en métropole un navigant de même ancienneté pour 
 pas obligatoirement assujetti au régime de sécurité sociale applicable en France métropolitaine et dans les départements
 d'outre-mer ou à un régime de protection sociale similaire en vigueur dans les territoires d'outre-mer, ledit salaire peut
 être majoré, par décision du conseil d'administration de la caisse de retraite, de 0,6 fois le plafond annuel de calcul des
-cotisations de la sécurité sociale en vigueur.
+cotisations de la sécurité sociale en vigueur. 
 
 Les salaires bruts réels et les salaires bruts fictifs éventuellement majorés prévus à l'alinéa précédent sont plafonnés à la
-limite supérieure de la deuxième tranche définie au e du présent article.
+limite supérieure de la deuxième tranche définie à l'article R. 426-16-1-1. 
 
-b) Indice de variation des salaires
+b) Indice de variation des salaires 
 
 L'indice de variation des salaires du dernier exercice civil connu est constaté chaque année au 1er juillet par le conseil
-d'administration et appliqué au 1er janvier suivant.
+d'administration et appliqué au 1er janvier suivant. 
 
 Pour déterminer cet indice, la caisse calcule, pour chacune des spécialités du personnel navigant telles qu'elles sont
 définies par le conseil d'administration, le salaire moyen brut non plafonné du dernier exercice civil connu relatif aux
 navigants âgés de plus de trente ans et de moins de quarante-neuf ans au 1er janvier dudit exercice. A cet effet, la masse
 salariale de chaque spécialité est divisée par un effectif théorique, lui-même déterminé en divisant par 360 le nombre de
 jours ayant donné lieu à cotisations. Le coefficient d'évolution des salaires par spécialité résulte du rapport entre ce
-salaire moyen non plafonné et celui de l'exercice précédent.
+salaire moyen non plafonné et celui de l'exercice précédent. 
 
 En vue d'établir le coefficient global d'évolution des salaires, chaque coefficient d'évolution des salaires par spécialité
 est pondéré en fonction de l'effectif des navigants de plus de trente ans et de moins de quarante-neuf ans de la spécialité
 correspondante. Cette pondération s'effectue en multipliant ledit coefficient par l'effectif théorique de la spécialité. Le
 coefficient global d'évolution des salaires résulte du rapport entre la somme des produits ainsi obtenus et l'effectif
-théorique global toutes spécialités confondues.
+théorique global toutes spécialités confondues. 
 
 L'indice annuel de variation des salaires du dernier exercice civil est égal au produit de l'indice de l'année antérieure par
 le coefficient global d'évolution des salaires entre les deux années précédant immédiatement l'exercice en cours. Jusqu'à
@@ -14840,33 +14835,41 @@ l'exercice 2006 inclus, pour déterminer le niveau des salaires servant dès le 
 cet indice est corrigé des taux d'évolution du salaire brut moyen annuel par tête versé par les entreprises non financières,
 non agricoles, pour l'année civile considérée et l'exercice précédent. Ces taux sont publiés dans le rapport annexé au projet
 de loi de finances des années considérées prévu par l'article 32 de l'ordonnance n° 59-2 du 2 janvier 1959 puis l'article 50
-de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
+de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances. 
 
 Le tableau annexé au présent code fournit les indices à prendre en considération jusqu'à l'exercice 2004. Les indices
-applicables pour les exercices 2005 et 2006 sont calculés conformément aux dispositions du précédent alinéa.
+applicables pour les exercices 2005 et 2006 sont calculés conformément aux dispositions du précédent alinéa. 
 
 A compter du 1er janvier 2007, l'indice corrigé de variation des salaires est celui appliqué en 2006, revalorisé chaque année
 du taux de revalorisation annuel des pensions appliqué au 1er juillet de l'année précédente, conformément aux dispositions de
-l'article R. 426-16-2.
+l'article R. 426-16-2. 
 
-c) Salaire moyen indexé de carrière
+Au 1er janvier 2012, l'indice corrigé de variation des salaires est obtenu en revalorisant celui appliqué en 2011 du taux de
+revalorisation annuel des pensions appliqué au 1er juillet 2011, en application de l'article R. 426-16-2, majoré de 25 %. 
+
+A compter du 1er janvier 2013, l'indice corrigé de variation des salaires est obtenu en revalorisant celui appliqué l'année
+précédente du pourcentage de variation entre l'indice des prix à la consommation hors tabac, France entière, publié par
+l'Institut national de la statistique et des études économiques afférent au mois de novembre de la pénultième année et ce
+même indice afférent au mois de novembre de l'année précédente. 
+
+c) Salaire moyen indexé de carrière 
 
 Pour chacune des annuités ou fractions d'annuités validées à titre onéreux, le salaire indexé est obtenu en divisant le
 salaire brut plafonné défini au a du présent article, ayant servi d'assiette aux cotisations, par l'indice corrigé de
 variation des salaires defini au b ci-dessus. Le salaire moyen indexé de carrière est obtenu en divisant la somme des
-salaires indexés par le nombre d'annuités validées à titre onéreux.
+salaires indexés par le nombre d'annuités validées à titre onéreux. 
 
 Toutefois, et sous réserve du paragraphe d du présent article, lorsque l'affilié ne bénéficie pas des dispositions prévues au
 e de l'article R. 426-13 et réunit plus de vingt-cinq annuités validées à titre onéreux, les salaires afférents aux vingt-
-cinq meilleures annuités sont seuls pris en compte dans le calcul.
+cinq meilleures annuités sont seuls pris en compte dans le calcul. 
 
 Lorsque la durée totale des services civils et des services de guerre précédés et suivis de services civils est supérieure à
 vingt-cinq ans, seuls sont pris en compte pour le calcul du salaire moyen les salaires afférents aux meilleures années de
-services civils, le nombre de ces années étant fixé à la différence entre vingt-cinq ans et la durée des services de guerre.
+services civils, le nombre de ces années étant fixé à la différence entre vingt-cinq ans et la durée des services de guerre. 
 
-Le salaire moyen indexé ainsi obtenu constitue une constante pour le calcul des arrérages de pension pour l'intéressé.
+Le salaire moyen indexé ainsi obtenu constitue une constante pour le calcul des arrérages de pension pour l'intéressé. 
 
-d) Salaire moyen indexé majoré
+d) Salaire moyen indexé majoré. 
 
 Lorsque l'affilié réunit plus de vingt-cinq annuités à titre onéreux, il est tenu compte partiellement, pour le calcul de la
 pension, des périodes supplémentaires, que celles-ci aient été validées :
@@ -14874,77 +14877,227 @@ pension, des périodes supplémentaires, que celles-ci aient été validées :
 - à titre onéreux ;
 
 - à titre gratuit au titre des services militaires mentionnés au f de l'article R. 426-13 pour les affiliés justifiant,
-antérieurement au 1er juillet 1995, de quinze ans de services civils ou de périodes d'incapacité médicale temporaire
-mentionnées aux a, b et c de l'article R. 426-13 ;
+antérieurement au 1er juillet 1995, de vingt ans de services civils ou de périodes d'incapacité médicale temporaire
+mentionnés aux a et c de l'article R. 426-13 ;
 
-- à titre gratuit au titre des services de guerre ou assimilés mentionnés au g de l'article R. 426-13.
+- à titre gratuit au titre des services de guerre ou assimilés mentionnés au e de l'article R. 426-13. 
 
-Lorsque les services ainsi validés le sont à titre gratuit, ils doivent avoir été précédés et suivis de services civils.
+Lorsque les services ainsi validés le sont à titre gratuit, ils doivent avoir été précédés et suivis de services civils. 
 
-Le calcul de la pension s'effectue dans les conditions précisées par la formule suivante :
+Le calcul de la pension s'effectue dans les conditions précisées par la formule suivante : 
 
-(formule non reproduite voir JORF 1er juillet 1995 p. 9869 et p. 9870).
+Vous pouvez consulter la formule : 
 
-e) Tranches de salaires
+http :// www. legifrance. gouv. fr/ jopdf/ common/ jo _ pdf. jsp ? numJO = 0 & dateJO = 20111113 & numTexte = 7 & pageDebut =
+19050 & pageFin = 19056 
 
-Jusqu'au 1er janvier 2005 pour l'application du présent chapitre, le salaire annuel est divisé en deux tranches pour l'année
-de base 1962. Les limites des tranches de salaires retenues sont les suivantes :
+Dans laquelle : 
 
-Première tranche de 0 à 5 854,04 euros ;
+SMIM représente le salaire moyen indexé majoré annuel ; 
 
-Deuxième tranche de 5 854,04 à 13 171,60 euros ;
+SQM25, le salaire quotidien moyen indexé des vingt-cinq meilleures annuités ; 
 
-Chaque année, ces limites sont réévaluées au 1er janvier par l'indice corrigé de variation des salaires défini au point b du
-présent article.
+NJV, les périodes décomptées en jours précédées et suivies de services civils et validées au titre des e et f de l'article R.
+426-13, à raison d'un nombre maximal de 360 jours par annuité ; 
 
-A compter du 1er janvier 2005, pour l'application du présent chapitre, le salaire annuel est divisé en deux tranches :
+∑ SIC la somme des salaires indexés de carrière ; 
 
-- la limite supérieure de la première tranche et inférieure de la deuxième tranche est fixée à :
+" a " est égal à :
 
-2,6 fois le plafond annuel de calcul des cotisations de sécurité sociale mentionné à l'article L. 241-3 du code de la
-sécurité sociale en vigueur pour l'exercice 2005 ;
+- pour les pensions prenant effet en 2012, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 9 360 ;
 
-2,9 fois le plafond pour l'exercice 2006, 
+- pour les pensions prenant effet en 2013, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 9 720 ;
 
-3,2 fois le plafond pour l'exercice 2007, 
+- pour les pensions prenant effet en 2014, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 10 080 ;
 
-3,5 fois le plafond à partir de l'exercice 2008 ;
+- pour les pensions prenant effet en 2015, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 10 440 ;
 
-- la limite supérieure de la deuxième tranche est fixée à huit fois le plafond.
+- pour les pensions prenant effet en 2016, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 10 800 ;
 
-f) Valeur du fonds de retraite.
+- pour les pensions prenant effet en 2017, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 11 160 ;
 
-La valeur du fonds de retraite est exprimée par N, en nombre d'années.
+- pour les pensions prenant effet en 2018, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 11 520 ;
 
-La caisse calcule chaque année la valeur N, égale au solde du fonds de retraite au 31 décembre de l'année précédente, après
-les reversements prévus à l'article R 426-27, divisé par le montant des prestations servies au titre de ce fonds au cours du
-dernier exercice.
+- pour les pensions prenant effet en 2019, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 11 880 ;
 
-Les valeurs de N seront arrondies au quart d'année le plus proche sur décision du conseil d'administration.
+- pour les pensions prenant effet en 2020, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 12 240 ;
 
-En cas de modification des règles comptables ou fiscales servant de base à l'établissement de la valeur au 31 décembre du
-fonds de retraite, il est procédé pour l'année où survient cette modification au calcul de :
+- pour les pensions prenant effet en 2021, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 12 600 ;
 
-- la valeur N selon les anciennes règles, d'une part (N 0) ;
+- pour les pensions prenant effet en 2022, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 12 960 ;
 
-- la valeur N selon les nouvelles règles, d'autre part (N 1).
+- pour les pensions prenant effet en 2023, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 13 320 ;
 
-Le ratio k = N 1/N 0 appelé coefficient de raccordement s'applique alors à l'ensemble des valeurs absolues N utilisées, afin
-de neutraliser les effets de ces modifications techniques.
+- pour les pensions prenant effet en 2024, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 13 680 ;
+
+- pour les pensions prenant effet en 2025, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 14 040 ;
+
+- pour les pensions prenant effet en 2026, à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement
+ou au rachat de cotisations, au sens de l'article R. 426-14, et 14 400 ;
+
+- pour les pensions prenant effet à compter de l'exercice 2027, au nombre de jours ayant donné lieu au versement ou au rachat
+de cotisations, au sens de l'article R. 426-14. 
+
+TV est déterminé par l'application de la formule suivante, sans que sa valeur puisse excéder 1 : 
+
+TV = 0,4. 
+
+Vous pouvez consulter la formule : 
+
+http :// www. legifrance. gouv. fr/ jopdf/ common/ jo _ pdf. jsp ? numJO = 0 & dateJO = 20111113 & numTexte = 7 & pageDebut =
+19050 & pageFin = 19056 
+
+Dans lequel TT est le temps total validé en jours, à titre onéreux, et b prend les valeurs suivantes selon l'année où la
+pension prend effet : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+ANNÉES 
+
+</th>
+      <th>
+
+2012 
+
+</th>
+      <th>
+
+2013 
+
+</th>
+      <th>
+
+2014 
+
+</th>
+      <th>
+
+2015 
+
+</th>
+      <th>
+
+2016 
+
+</th>
+      <th>
+
+2017 
+
+</th>
+      <th>
+
+2018 
+
+</th>
+      <th>
+
+2019 
+
+</th>
+      <th>
+
+2020 
+
+</th>
+      <th>
+
+À COMPTER 
+
+de 2021 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+b = 
+
+</td>
+      <td align="center">
+
+0,002 
+
+</td>
+      <td align="center">
+
+0,004 
+
+</td>
+      <td align="center">
+
+0,006 
+
+</td>
+      <td align="center">
+
+0,008 
+
+</td>
+      <td align="center">
+
+0,01 
+
+</td>
+      <td align="center">
+
+0,012 
+
+</td>
+      <td align="center">
+
+0,014 
+
+</td>
+      <td align="center">
+
+0,016 
+
+</td>
+      <td align="center">
+
+0,018 
+
+</td>
+      <td align="center">
+
+0,02
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°59-2 du 2 janvier 1959 - art. 32 (Ab)
-	  - Loi n°2001-692 du 1 août 2001 - art. 50 (M)
-	  - Code de la sécurité sociale. - art. L241-3 (M)
-	  - Code de l'aviation civile - art. R426-13 (M)
-	  - Code de l'aviation civile - art. R426-27 (M)
+	  - Ordonnance n°59-2 du 2 janvier 1959 - art. 32
+	  - Loi organique n°2001-692 du 1er août 2001 - art. 50 (V)
+	  - Code de l'aviation civile - art. R426-13 (V)
+	  - Code de l'aviation civile - art. R426-14 (V)
+	  - Code de l'aviation civile - art. R426-16-1-1 (V)
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -14959,7 +15112,7 @@ de neutraliser les effets de ces modifications techniques.
 
 	**Modifié par**:
 
-	  - Décret n°2005-609 du 27 mai 2005 - art. 1 () JORF 29 mai 2005 en vigueur le 1er janvier 2005
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 1
 
 
 ##### Section 2 : Cotisations.
@@ -14967,19 +15120,20 @@ de neutraliser les effets de ces modifications techniques.
 ###### Article R426-6
 
 Les personnels affiliés à la caisse lui sont redevables selon les modalités fixées par le conseil d'administration d'une
-cotisation égale à 6 % de leur traitement brut plafonné défini à l'article R. 426-5 a.
+cotisation égale à 7,668 % de leur traitement brut plafonné défini à l'article R. 426-5 a. Les produits de cette cotisation
+sont affectés à la section mentionnée au a de l'article R. 426-27. 
 
 La cotisation de l'affilié est précomptée par son employeur lors de chaque paie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-8 1963-01-05 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -14990,23 +15144,25 @@ La cotisation de l'affilié est précomptée par son employeur lors de chaque pa
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R426-5 (M)
+	  - Code de l'aviation civile - art. R426-27
+	  - Code de l'aviation civile - art. R426-5
 
 
 ###### Article R426-7
 
-Les employeurs des personnels affiliés à la caisse lui versent une cotisation égale à 12 % du traitement brut plafonné défini
-à l'article R. 426-5 a.
+Les employeurs des personnels affiliés à la caisse lui versent une cotisation égale à 13,632 % du traitement brut plafonné
+défini à l'article R. 426-5 a. Les produits de cette cotisation sont affectés à la section mentionnée au a de l'article R.
+426-27.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-8 1963-01-05 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -15016,24 +15172,40 @@ Les employeurs des personnels affiliés à la caisse lui versent une cotisation 
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R426-5 (M)
+	  - Code de l'aviation civile - art. R426-27
+	  - Code de l'aviation civile - art. R426-5
 
 
 ###### Article R426-8
 
-Les cotisations prévues aux articles R. 426-6 et R. 426-7 sont appelées à concurrence d'un taux d'appel exprimé en
-pourcentage qui est fonction de la valeur du fonds de retraite. Cette valeur est exprimée par N en nombre d'années.
+Les cotisations prévues aux articles R. 426-6 et R. 426-7 sont appelées à concurrence d'un taux d'appel fixé à : 
 
-Le taux d'appel est fixé pour une période de douze mois commençant au 1er janvier. Il est déterminé en utilisant la valeur de
-N de l'avant-dernier exercice, selon la formule 125 - 4 N + E.
+1° 101 % pour l'exercice 2012 ; 
 
-Le conseil d'administration attribue à E une valeur comprise entre - 1,5 et + 1,5.
+2° 102 % pour l'exercice 2013 ; 
+
+3° 103 % pour l'exercice 2014 ; 
+
+4° 104 % pour l'exercice 2015 ; 
+
+5° 105 % à compter de l'exercice 2016. 
+
+A compter de l'exercice 2016, le conseil d'administration de la Caisse de retraite du personnel navigant professionnel de
+l'aéronautique civile examine chaque année avant le 30 juin le niveau prévisionnel du fonds mentionné au a de l'article R.
+426-27 à l'horizon de trente ans, estimé en application de l'article R. 426-27-2. Si, à cet horizon, ce niveau est inférieur
+à cinq fois le montant prévisionnel des prestations mentionnées au a de l'article R. 426-27, à cette date, le taux d'appel
+des cotisations prévues aux articles R. 426-6 et R. 426-7 est augmenté l'année suivante d'un taux de 0,5 % et le conseil
+d'administration peut alors décider d'une hausse complémentaire dans une limite d'un taux de 0,5 %. La mise en œuvre des
+dispositions du présent alinéa ne peut conduire à un taux d'appel supérieur à 110 %. 
+
+Les taux de cotisation obtenus, après application du taux d'appel, sont arrondis à deux décimales, au centième le plus
+proche.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -15043,43 +15215,30 @@ Le conseil d'administration attribue à E une valeur comprise entre - 1,5 et + 1
 
 	**Modifié par**:
 
-	  - Décret n°2005-609 du 27 mai 2005 - art. 2 () JORF 29 mai 2005 en vigueur le 1er janvier 2005
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 4
 
 	**Cite**:
 
+	  - Code de l'aviation civile - art. R426-27 (V)
+	  - Code de l'aviation civile - art. R426-27-2 (V)
 	  - Code de l'aviation civile - art. R426-6 (V)
-	  - Code de l'aviation civile - art. R426-7 (V)
 
 
 ###### Article R426-9
 
 Sur demande des intéressés, les cotisations des personnels navigants des essais réception, des parachutistes professionnels
 et des personnels navigants contractuels de la sécurité civile sont majorées de 50 %. Dans ce cas, les cotisations des
-employeurs sont majorées dans la même proportion.
+employeurs sont majorées dans la même proportion. 
 
 Les majorations prévues ci-dessus ne sont plus appliquées lorsque le nombre d'annuités calculé en fonction des dispositions
-de l'article R. 426-13 atteint le nombre nécessaire pour l'ouverture du droit à pension à taux plein, conformément aux
-dispositions des articles R. 426-11-1 et R. 426-11-2. Au-delà de cette limite, ces personnels et leurs employeurs
-continueront à cotiser selon les dispositions prévues aux articles R. 426-6, R. 426-7 et R. 426-8.
+de l'article R. 426-13 atteint le nombre de trente. Au-delà de cette limite, ces personnels et leurs employeurs continueront
+à cotiser selon les dispositions prévues aux articles R. 426-6, R. 426-7 et R. 426-8.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-8 1963-01-05 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Décret n°94-1047 1994-12-06
-	  - Code de l'aviation civile - art. R426-11-1 (V)
-	  - Code de l'aviation civile - art. R426-11-2 (V)
-	  - Code de l'aviation civile - art. R426-6 (V)
-	  - Code de l'aviation civile - art. R426-7 (V)
-	  - Code de l'aviation civile - art. R426-8 (M)
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -15090,55 +15249,94 @@ continueront à cotiser selon les dispositions prévues aux articles R. 426-6, R
 
 	**Modifié par**:
 
-	  - Décret n°2006-1809 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 5
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R426-6
 
 
 ###### Article R426-10
 
-Les charges afférentes aux opérations mentionnées aux b et c de l'article R. 426-27 sont couvertes par des cotisations
-distinctes assises sur le salaire brut plafonné défini à l'article R. 426-5 dont les taux respectifs sont fixés par décision
-du conseil d'administration de la caisse de retraite.
+Les charges afférentes aux opérations mentionnées au b de l'article R. 426-27 sont couvertes par des cotisations distinctes,
+assises sur le salaire brut plafonné défini au a de l'article R. 426-5, dans la limite du plafond annuel mentionné à
+l'article L. 241-3 du code de la sécurité sociale, supportées pour moitié par les employeurs et pour moitié par les affiliés,
+et dont le taux est fixé par le conseil d'administration de la caisse avant le 30 juin par une décision motivée tenant compte
+de la situation financière du fonds, compris entre 0,68 % et 1,08 %. A défaut de décision du conseil d'administration de la
+caisse à l'issue de ce délai, le taux est égal à 0,88 %. 
 
-Si la somme des taux de ces cotisations est inférieure ou égale à 3 % du salaire brut plafonné, les cotisations sont
-supportées pour les deux tiers par les employeurs et pour un tiers par les affiliés.
-
-Si la somme de ces taux est comprise entre 3 et 4 %, la contribution des employeurs est limitée à 2 %, l'excédent de
-contribution étant à la charge intégrale des affiliés.
-
-Si la somme de ces taux dépasse 4 %, la fraction excédentaire est supportée pour les deux tiers par les employeurs et pour un
-tiers par les affiliés.
+Les charges afférentes aux opérations mentionnées au c de l'article R. 426-27 sont couvertes par des cotisations distinctes,
+assises sur le salaire brut plafonné défini à l'article R. 426-5, supportées pour moitié par les employeurs et pour moitié
+par les affiliés, et dont le taux est fixé par le conseil d'administration de la caisse avant le 30 juin par une décision
+motivée tenant compte de la situation financière du fonds, compris entre 0,10 % et 0,50 %. A défaut de décision du conseil
+d'administration de la caisse à l'issue de ce délai, le taux est égal à 0,30 %.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
 	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 	  - Code de l'aviation civile - art. R426-14 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 6
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R426-27 (M)
-	  - Code de l'aviation civile - art. R426-5 (M)
+	  - Code de la sécurité sociale. - art. L241-3
+	  - Code de l'aviation civile - art. R426-27
 
 
 ##### Section 3 : Constitution du droit à pension.
 
 ###### Article R426-11
 
-Cette pension est dite à taux plein si l'affilié compte un nombre déterminé d'annuités acquises au titre des services
-valables pour la retraite tels qu'ils sont définis à l'article R. 426-13.
+I.-Une pension de retraite est servie à l'affilié qui demande la liquidation de ses droits à pension, dans les conditions
+précisées aux articles suivants, dès lors qu'il réunit cumulativement à la date d'effet de la pension les conditions
+suivantes : 
 
-Lorsque l'intéressé compte moins que ce nombre d'annuités au titre de services valables pour la retraite, il a droit à une
-pension proportionnelle.
+1° Avoir atteint l'âge de cinquante ans ; 
+
+2° Justifier de vingt annuités acquises au titre des services valables pour la retraite tels qu'ils sont définis à l'article
+R. 426-13. Cette condition n'est pas requise lorsque l'assuré a atteint l'âge prévu à l'article R. 426-12. 
+
+II.-A.-La pension est dite à taux plein si l'affilié réunit cumulativement à la date d'effet de la pension les conditions
+suivantes : 
+
+1° Avoir atteint l'âge de cinquante-cinq ans ou justifier de trente annuités acquises au titre des services valables pour la
+retraite tels qu'ils sont définis à l'article R. 426-13 ; 
+
+2° La somme de l'âge et du nombre d'annuités acquises au titre des services valables pour la retraite tels qu'ils sont
+définis à l'article R. 426-13, est supérieure ou égale à 80. 
+
+Lorsque l'affilié ne remplit pas les conditions de liquidation des droits à pension à taux plein, il est appliqué à la
+pension une décote égale à 5 % par année manquante, dans les conditions suivantes : 
+
+a) Si l'affilié est âgé de moins de cinquante-cinq ans à la date d'effet de la pension, le nombre d'années manquantes est
+déterminé en prenant la plus grande valeur entre, d'une part, le nombre de jours séparant l'âge de prise d'effet de la
+pension de l'âge mentionné au 1° et, d'autre part, le nombre de jours séparant le nombre de jours acquis au titre des
+services valables pour la retraite tels qu'ils sont définis à l'article R. 426-13, à la date d'effet de la pension, de la
+durée mentionnée au 1°, exprimée en jours, cette valeur étant ensuite divisée par 360 et arrondie à la seconde décimale
+inférieure ; 
+
+b) Si l'affilié est âgé de cinquante-cinq ans ou plus à la date d'effet de la pension, le nombre d'années manquantes est
+déterminé par la différence entre, d'une part, la somme prévue au 2°, exprimée en jours, et, d'autre part, la somme du nombre
+d'annuités acquises au titre des services valables pour la retraite tels qu'ils sont définis à l'article R. 426-13 et de son
+âge, exprimé en jours, à la date d'effet de la pension, cette différence étant ensuite divisée par 360 et arrondie à la
+seconde décimale inférieure. 
+
+B.-A compter du 1er janvier 2022, la pension est dite à taux plein si l'affilié justifie, à la date d'effet de la pension,
+d'au moins trente annuités acquises au titre des services valables pour la retraite tels qu'ils sont définis à l'article R.
+426-13. 
+
+Lorsque l'affilié n'atteint pas cette durée, il est appliqué à la pension une décote égale à 5 % par annuité manquante. Le
+nombre d'annuités manquantes est égal à la différence entre le nombre d'annuités mentionné au précédent alinéa et le nombre
+de jours validés, au sens de l'article R. 426-13, divisé par 360.
 
 **Liens relatifs à cet article**
 
@@ -15162,200 +15360,28 @@ pension proportionnelle.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 7
 
 	**Cite**:
 
 	  - Code de l'aviation civile - art. R426-13
 
 
-###### Article R426-11-1
-
-Le droit à pension à taux plein d'un affilié est ouvert aux conditions suivantes :
-
-Avoir atteint l'âge de cinquante ans ;
-
-Avoir validé un nombre d'annuités au moins égal à :
-
-25, lorsque N est supérieur ou égal à 7 ;
-
-(32 - N), lorsque N est supérieur à 2 et inférieur à 7 ;
-
-30, lorsque N est inférieur ou égal à 2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Créé par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 6 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R426-11-4 (VT)
-	  - Code de l'aviation civile - art. R426-9 (V)
-
-
-###### Article R426-11-2
-
-Le droit à pension proportionnelle d'un affilié est ouvert aux conditions suivantes :
-
-Avoir atteint l'âge de cinquante ans ;
-
-Avoir été affilié pour la première fois au régime prévu par le présent chapitre à une date antérieure d'au moins quinze ans à
-la date d'ouverture du droit ;
-
-Avoir validé un nombre d'annuités au moins égal à :
-
-(75 - âge), lorsque N est supérieur ou égal à 7 ;
-
-(82 - N) - âge lorsque N est inférieur à 7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Créé par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 6 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R426-11-4 (VT)
-	  - Code de l'aviation civile - art. R426-15-1 (VT)
-	  - Code de l'aviation civile - art. R426-9 (V)
-
-
-###### Article R426-11-3
-
-Lorsque l'affilié ne réunit pas le nombre d'annuités visé à l'article précédent, calculé pour un âge fixé à soixante ans, le
-droit à pension proportionnelle, sans application des coefficients d'anticipation prévus à l'article R. 426-18-1, est ouvert
-à l'âge de soixante ans sous réserve des dispositions plus favorables des accords de coordination, et des exceptions prévues
-à l'article R. 426-15-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Créé par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 6 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R426-15-1 (VT)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R426-15-2
-	  - Code de l'aviation civile - art. R426-18-1
-
-
-###### Article R426-11-4
-
-Pour l'application des dispositions des articles R. 426-11-1, R. 426-11-2 et R. 426-18-1, les valeurs de N à utiliser sont :
-
-- celle du pénultième exercice pour une entrée en jouissance au cours du 1er semestre ;
-
-- celle du précédent exercice pour une entrée en jouissance au cours du 2e semestre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Créé par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 6 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R426-11-1
-	  - Code de l'aviation civile - art. R426-11-2
-	  - Code de l'aviation civile - art. R426-18-1
-
-
 ###### Article R426-12
 
-Sera comptée pour une annuité entière toute année ayant donné lieu à versement de cotisations pendant douze mois et au cours
-de laquelle l'affilié aura accompli un nombre d'heures de vol égal à trois fois la durée du travail normal mensuel définie
-par les articles D. 422-1 à D. 422-7 pour les avions à hélices et par les articles D. 422-8 à D. 422-15 pour les avions à
-réaction.
-
-Ce minimum d'heures de vol pourra être abaissé par décision du conseil d'administration, notamment pour les essais et
-réceptions et le travail aérien.
-
-Le minimum de sauts requis pour les parachutistes professionnels sera fixé par le conseil d'administration.
-
-Toute annuité pour laquelle le minimum d'heures de vol ou de sauts n'aura pas été accompli par l'affilié ne sera comptée que
-pour une fraction d'année, calculée proportionnellement au nombre d'heures de vol ou de sauts effectués.
-
-Toutefois, le conseil d'administration pourra décider de ne pas faire application de cette disposition à certains navigants
-qui n'auraient pu effectuer le nombre d'heures de vol ou de sauts requis pour leur catégorie en raison de circonstances
-exceptionnelles.
+Lorsque l'affilié au sens de l'article R. 426-1 ne réunit pas les conditions mentionnées à l'article R. 426-11 et que la
+pension prend effet à compter d'un âge au moins égal à celui mentionné au premier alinéa de l'article L. 6521-4 du code des
+transports, il n'est pas appliqué de décote.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-8 1963-01-05 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°95-825 du 30 juin 1995 - art. 7 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 8
 
 	**Cité par**:
 
@@ -15367,89 +15393,77 @@ exceptionnelles.
 
 	**Cite**:
 
-	  - Code de l'aviation civile D422-1 à D422-7, D422-8 à D422-15
+	  - Code de l'aviation civile - art. R426-1
+	  - Code de l'aviation civile - art. R426-11
+	  - Code des transports - art. L6521-4
 
 
 ###### Article R426-13
 
-Sont considérées comme valables pour la retraite :
+Sont considérées comme valables pour la retraite les périodes suivantes, exprimées en jours, dans la limite de 360 jours pour
+une année complète : 
 
 a) Les périodes de services civils effectifs accomplis en qualité de navigant postérieurement à la date d'application du
-régime ;
+régime ; 
 
-b) Les périodes de services civils effectifs accomplis en qualité de navigant antérieurement à la date d'application du
-régime ;
+b) La moitié de la durée des services ayant donné lieu à la majoration de cotisation dans les conditions prévues à l'article
+R. 426-9 ; 
 
 c) Les périodes d'incapacité médicale temporaire ayant donné lieu au paiement de tout ou partie du salaire dans les cas
-prévus aux articles L. 424-1 et L. 424-2 ;
+prévus aux articles L. 6526-1 et L. 6526-2 du code des transports ; 
 
 d) Les périodes d'incapacité médicale temporaire, au-delà de celles visées au c, ayant donné lieu au versement de prestations
-servies par un régime de prévoyance à adhésion obligatoire ;
+servies par un régime de prévoyance à adhésion obligatoire ; 
 
-e) Les périodes d'inaptitude temporaire sans solde liées à la maternité dans le cadre de la suspension d'un contrat de
-travail de navigant ;
+e) Dans la limite de la moitié des services civils, la durée des services de guerre ou assimilés effectués dans les armées
+françaises ou alliées, sous réserve que ces services n'aient pas été validés dans un autre régime visé aux articles L. 711-1
+et L. 921-1 du code de la sécurité sociale ; les services de guerre dits " assimilés " sont constatés par le conseil
+d'administration en application des dispositions législatives et réglementaires applicables au régime général de la sécurité
+sociale ; 
 
 f) La durée des services militaires obligatoires d'appel, de maintien et de rappel sous les drapeaux effectués en temps de
-paix dans les armées françaises si les intéressés justifient par ailleurs de quinze ans de services visés aux a, b, c, et d
-ci-dessus, et si ces services militaires n'ont pas été validés dans un autre régime de retraite visé aux articles L. 711-1 et
-L. 731-1 du code de la sécurité sociale ;
+paix dans les armées françaises si les intéressés justifient par ailleurs de vingt ans de services visés aux a, c et d ci-
+dessus, et si ces services militaires n'ont pas été validés dans un autre régime de retraite visé aux articles L. 711-1 et L.
+921-1 du code de la sécurité sociale ; 
 
-g) Dans la limite de la moitié des services civils, la durée des services de guerre ou assimilés effectués dans les armées
-françaises ou alliées sous réserve que ces services n'aient pas été validés dans un autre régime visé au f ; les services de
-guerre dits "assimilés" sont constatés par le conseil d'administration en application des dispositions législatives et
-réglementaires applicables au régime général de la sécurité sociale ;
-
-h) La durée des services militaires accomplis en temps de paix en qualité de navigant, au-delà de la durée légale, autres que
+g) La durée des services militaires accomplis en temps de paix en qualité de navigant, au-delà de la durée légale, autres que
 ceux visés au f, par les personnels titulaires d'un brevet de personnel navigant militaire, sous réserve que ces services
-n'aient pas donné lieu à constitution de pension ;
+n'aient pas donné lieu à constitution de pension ; 
 
-i) Les périodes d'interruption involontaire pour événements de guerre antérieurs au 1er juin 1946 en ce qui concerne les
-affiliés qui, avant ces événements, remplissaient les conditions prévues à l'article R. 426-1, sous réserve qu'ils aient
-repris par la suite une activité professionnelle de navigant ;
+h) Sous réserve qu'elles ne donnent pas lieu à constitution d'un droit à pension dans un autre régime de retraite visé aux
+articles L. 711-1 et L. 921-1 du code de la sécurité sociale, certaines périodes de suspension de l'activité de navigant
+déterminées parmi les périodes de suspension prévues par le code du travail, les conventions collectives et les
+réglementations particulières applicables aux personnels navigants professionnels de l'aéronautique civile. Un arrêté
+conjoint des ministres chargés du budget, de la sécurité sociale et de l'aviation civile établit la liste de ces périodes
+après avis du conseil d'administration de la caisse de retraite ; 
 
-j) Dans la limite d'un an, les périodes postérieures à la première affiliation consacrées à l'acquisition d'une qualification
-de navigant professionnel de l'aéronautique civile n'ayant pas donné lieu à rémunération ;
+i) Dans la limite d'un an, les périodes postérieures à la première affiliation consacrées à l'acquisition d'une qualification
+de navigant professionnel de l'aéronautique civile n'ayant pas donné lieu à rémunération ; 
 
-k) La durée des services civils effectués en qualité de navigant avant le 27 avril 1951 par le personnel navigant en congé du
-personnel navigant de l'armée de l'air ou de l'aéronavale et par le personnel dégagé des cadres de l'armée au titre de la loi
-n° 46-607 du 5 avril 1946 ;
+j) Dans la limite de douze trimestres de quatre-vingt-dix jours, les trimestres d'études qui peuvent faire l'objet d'un
+rachat dans le régime général, en application de l'article L. 351-14-1 du code de la sécurité sociale, dans la limite de la
+durée requise pour l'obtention d'une retraite sans décote ; 
 
-l) Outre les périodes de services civils mentionnés au b, la moitié de la durée des services ayant donné lieu à la majoration
-de cotisation dans les conditions prévues à l'article R. 426-9 ;
+k) Les périodes de congé maternité mentionné à l'article L. 1225-17 et suivants du code du travail ainsi que les périodes
+d'inaptitude temporaire liées à la grossesse dans le cadre de la suspension d'un contrat de travail de navigant ; 
 
-m) Les périodes de chômage ayant donné lieu à versement des prestations en application des dispositions du titre V du livre
-III du code du travail, si le contrat de travail précédent était un contrat de navigant ayant entraîné versement des
-cotisations à la caisse ;
+l) Les périodes de congé de paternité mentionné à l'article L. 1225-35 du code du travail ; 
 
-n) Les périodes de préretraite indemnisées par le Fonds national de l'emploi ;
-
-o) Sous réserve qu'elles ne donnent pas lieu à constitution d'un droit à pension dans un autre régime de retraite visé au f
-ci-dessus, certaines périodes de suspension de l'activité de navigant déterminées parmi les périodes de suspension prévues
-par le code du travail, les conventions collectives et les réglementations particulières applicables aux personnels navigants
-professionnels de l'aéronautique civile. Un arrêté conjoint des ministres chargés du budget, de la sécurité sociale et de
-l'aviation civile établit la liste de ces périodes après avis du conseil d'administration de la caisse de retraite ;
-
-p) Les périodes d'inactivité sans solde, liées au travail à temps alterné dans le cadre d'un contrat de travail à durée
+m) Les périodes d'inactivité sans solde, liées au travail à temps alterné dans le cadre d'un contrat de travail à durée
 indéterminée, ou les périodes d'inactivité relevant d'un congé parental pris sous forme de temps alterné, sous réserve
-qu'elles ne donnent pas lieu à prestations dans le régime ou à cotisations dans un autre régime ;
+qu'elles ne donnent pas lieu à prestations dans le régime ou à cotisations dans un autre régime ; 
 
-q) Les périodes de congé de paternité mentionné à l'article L. 122-25-4 du code du travail.
+n) Les périodes de préretraite indemnisées par le Fonds national de l'emploi ; 
+
+o) Les périodes de chômage ayant donné lieu à versement des prestations en application des dispositions du titre II du livre
+IV de la cinquième partie du code du travail, si ces périodes de chômage sont indemnisées au titre de la rupture d'un contrat
+de travail de navigant ayant fait l'objet de cotisations à la caisse.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°46-607 1946-04-05
-	  - Code du travail - art. L122-25-4 (M)
-	  - Code de la sécurité sociale. - art. L711-1 (M)
-	  - Code de la sécurité sociale. - art. L731-1 (T)
-	  - Code de l'aviation civile - art. L424-1 (V)
-	  - Code de l'aviation civile - art. L424-2 (V)
-	  - Code de l'aviation civile - art. R426-1 (V)
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Liens**:
 
@@ -15474,89 +15488,90 @@ q) Les périodes de congé de paternité mentionné à l'article L. 122-25-4 du 
 
 	**Modifié par**:
 
-	  - Décret n°2005-609 du 27 mai 2005 - art. 3 () JORF 29 mai 2005 en vigueur le 1er janvier 2005
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 9
+
+	**Cite**:
+
+	  - Code du travail
+	  - Code du travail - art. L1225-17
+	  - Code du travail - art. L1225-35
+	  - Code de la sécurité sociale. - art. L351-14-1
+	  - Code de la sécurité sociale. - art. L711-1 (V)
+	  - Code de la sécurité sociale. - art. L921-1 (V)
+	  - Code des transports - art. L6526-1
+	  - Code des transports - art. L6526-2 (V)
 
 
 ###### Article R426-14
 
-Les services mentionnés aux a, c et l de l'article R. 426-13 ne sont pris en compte que si les cotisations prévues aux
-articles R. 426-6 à R. 426-10 ont été acquittées sur les salaires versés aux intéressés pendant lesdites périodes.
+I. - Pour l'application du présent chapitre, sont considérées comme périodes cotisées les périodes suivantes :
 
-Les services mentionnés aux f, h, i, j et o de l'article R. 426-13 ne peuvent être pris en compte que moyennant le versement
-par l'intéressé, pour chaque année à valider, de la double cotisation définie aux articles R. 426-6, R. 426-7 et R. 426-8 et
-des cotisations prévues à l'article R. 426-10, assise sur le premier salaire annuel brut perçu après reprise d'activité
-normale, à l'exclusion des rémunérations des périodes de stage, de formation ou de contrôle.
+a) Les services mentionnés aux a, b et c de l'article R. 426-13. Ils ne sont pris en compte que si les cotisations prévues
+aux articles R. 426-6 à R. 426-10 ont été acquittées sur les salaires versés aux intéressés pendant lesdites périodes. Les
+services mentionnés au c de l'article R. 426-13, pour les périodes à compter du 1er janvier 2012, peuvent être pris en compte
+sur la base de la totalité du salaire annuel brut d'activité qui était perçu avant que les services soient accomplis dans le
+cadre des périodes mentionnées au c de l'article R. 426-13, sous réserve que l'affilié s'acquitte, au plus tard dans l'année
+qui suit la période, de la différence entre, d'une part, les cotisations qui auraient été versées, en application des
+articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10, sur ce salaire et, d'autre part, les cotisations effectivement versées ;
 
-Les services mentionnés aux m et n de l'article R. 426-13 sont pris en compte pour la durée de versement des prestations
-moyennant le versement par l'intéressé, pour chacune des périodes à valider, de la double cotisation (affiliés et employeurs)
-résultant des articles R. 426-6, R. 426-7 et R. 426-8 et des cotisations prévues à l'article R. 426-10 assises sur les
-prestations brutes perçues ou sur le dernier salaire annuel brut d'activité, au choix de l'intéressé.
+b) Les services mentionnés au d de l'article R. 426-13. Ils ne sont pris en compte que si l'intéressé s'acquitte des
+cotisations prévues aux articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10, assises sur les prestations brutes perçues. Les
+services mentionnés au d de l'article R. 426-13, pour les périodes à compter du 1er janvier 2012, peuvent être pris en compte
+sur la base de la totalité des prestations brutes perçues correspondantes, dans le cas où l'employeur aurait versé des
+cotisations, au titre de ces services, correspondant à un salaire inférieur aux prestations brutes perçues correspondantes,
+sous réserve que l'affilié s'acquitte, dans l'année qui suit la période, de la différence entre, d'une part, les cotisations
+qui auraient été versées, en application des articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10, sur les prestations brutes
+moyennes et, d'autre part, les cotisations effectivement versées.
 
-Toutefois, lorsque l'Union nationale pour l'emploi dans l'industrie et le commerce (UNEDIC) verse des cotisations pour la
-retraite complémentaire du bénéficiaire des prestations servies par elle, les services mentionnés au m sont pris en compte,
-pour la durée de versement des prestations, sur la base d'un salaire recomposé, qui est calculé, pour ladite durée, en
-divisant le montant des cotisations versées par l'UNEDIC par le taux des cotisations (affiliés et employeurs) résultant des
-articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10. Ces services pourront être pris en compte, pour la durée de versement des
-prestations, sur la base de la totalité du salaire annuel brut d'activité, moyennant le paiement par l'intéressé des
-cotisations (affiliés et employeurs) résultant des mêmes articles, assises sur le salaire annuel brut d'activité déduction
-faite du salaire recomposé.
+II. - Pour l'application du présent chapitre, peuvent être validées pour la retraite, en faisant l'objet d'un rachat, les
+périodes suivantes :
 
-Les services mentionnés aux b et k de l'article précédent ne peuvent être pris en compte que moyennant le rachat des droits
-correspondant aux cotisations prévues à l'article R. 426-6, assises sur les salaires réels pour les services accomplis après
-le 31 décembre 1945.
+a) Les services mentionnés au c de l'article R. 426-13, pour les périodes à compter du 1er janvier 2012, prises en compte sur
+la base de la totalité du salaire annuel brut d'activité qui était perçu avant que les services soient accomplis dans le
+cadre des périodes mentionnées au c de l'article R. 426-13, lorsque le versement de l'assuré intervient plus d'une année
+après la période ;
 
-Les services mentionnés au d de l'article R. 426-13 sont pris en compte pour la durée des versements des prestations
-moyennant le versement par l'intéressé, pour chaque période à valider, de la double cotisation (affiliés et employeurs)
-définie aux articles R. 426-6 à R. 426-10, assises sur les prestations brutes perçues.
+b) Les services mentionnés au d de l'article R. 426-13, pour les périodes à compter du 1er janvier 2012, prises en compte sur
+la base de la totalité des prestations brutes perçues correspondantes, dans le cas où l'employeur aurait versé des
+cotisations, au titre de ces services, correspondant à un salaire inférieur aux prestations brutes perçues correspondantes,
+lorsque le versement de l'assuré intervient plus d'une année après la période ;
 
-Les services mentionnés aux e, p et q de l'article R. 426-13 sont pris en compte pour leur durée pour l'application de
-l'article R. 426-11. Moyennant le versement par l'intéressé de la double cotisation (affiliés et employeurs) définie aux
-articles R. 426-6 à R. 426-10 assise sur le dernier salaire annuel brut précédant ces périodes, ils seront pris en compte
-pour l'application de l'article R. 426-16-1.
+c) Les services mentionnés aux f, g, h et i de l'article R. 426-13, moyennant le versement par l'intéressé, pour chaque année
+à valider, des cotisations définies aux articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10, assises sur le premier salaire
+annuel brut perçu suivant la période correspondante. Lorsque ce salaire a été perçu sur une période inférieure à 360 jours,
+il est annualisé ;
 
-Pour les versements de cotisations mentionnées au deuxième alinéa et les rachats de droits mentionnés au cinquième alinéa du
-présent article, lorsque les années de perception des salaires retenus pour l'assiette sont antérieures au 1er janvier 1946,
-ces salaires sont remplacés par les salaires forfaitaires annuels déterminés par arrêté ministériel. Dans tous les cas de
-rachat, les cotisations correspondantes seront multipliées par le rapport entre l'indice corrigé de variation des salaires
-défini au point b de l'article R. 426-5 et celui de l'année à laquelle correspond le salaire retenu pour l'assiette.
+d) Les services mentionnés au j de l'article R. 426-13, moyennant le versement par l'intéressé de cotisations de rachat
+assurant la neutralité actuarielle de l'opération pour le régime, au regard du supplément de pension apporté par le rachat,
+selon une formule fixée par le conseil d'administration de la caisse ;
 
-**Liens relatifs à cet article**
+e) Les services mentionnés aux k, l et m de l'article R. 426-13, moyennant le versement par l'intéressé des cotisations
+définies aux articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10, assises sur le dernier salaire annuel brut précédant ces
+périodes. Lorsque ce salaire a été perçu sur une période inférieure à 360 jours, il est annualisé ;
 
-	**Codifié par**:
+f) Les services mentionnés aux n et o de l'article R. 426-13 moyennant le versement par l'intéressé, pour chacune des
+périodes à valider, des cotisations définies aux articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10, assises sur les
+prestations brutes perçues ou sur le salaire annuel brut d'activité précédent, au choix de l'intéressé. Lorsque ce salaire a
+été perçu sur une période inférieure à 360 jours, il est annualisé. Toutefois, lorsque l'établissement mentionné à l'article
+L. 5312-1 du code du travail verse des cotisations pour la retraite complémentaire du bénéficiaire des prestations servies
+par lui, les services mentionnés au o sont pris en compte, pour la durée de versement des prestations, sur la base d'un
+salaire recomposé, qui est calculé, pour ladite durée, en divisant le montant des cotisations versées par cet établissement
+par le taux des cotisations définies aux articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10. Ces services pourront être pris
+en compte, pour la durée de versement des prestations, sur la base de la totalité du salaire annuel brut d'activité,
+moyennant le paiement par l'intéressé des cotisations définies aux articles R. 426-6, R. 426-7, R. 426-8 et R. 426-10,
+résultant des mêmes articles, assises sur le salaire annuel brut d'activité déduction faite du salaire recomposé. Lorsque ce
+salaire a été perçu sur une période inférieure à 360 jours, il est annualisé.
 
-	  - Décret n°67-334 1967-03-30
+III. - Pour l'application du présent chapitre, sont considérés comme périodes validées :
 
-	**Modifié par**:
+1° Les périodes mentionnées aux I et II du présent article ;
 
-	  - Décret n°2005-609 du 27 mai 2005 - art. 4 () JORF 29 mai 2005 en vigueur le 1er janvier 2005
+2° Les services mentionnés aux e, f, k, l et m de l'article R. 426-13.
 
-	**Cite**:
+IV. - Les versements correspondant aux périodes rachetées en application du II sont affectés d'un coefficient d'âge qui
+dépend de l'âge de l'assuré.
 
-	  - Code de l'aviation civile - art. R426-11 (M)
-	  - Code de l'aviation civile - art. R426-13 (M)
-	  - Code de l'aviation civile - art. R426-16-1 (M)
-	  - Code de l'aviation civile - art. R426-6 (V)
-	  - Code de l'aviation civile - art. R426-7 (V)
-	  - Code de l'aviation civile - art. R426-8 (M)
-	  - Code de l'aviation civile R426-13, R426-6 à R426-10, R426-6, R426-7, R426-8, R426-11, R426-16-1
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R426-16-3 (VD)
-	  - Code de l'aviation civile - art. R426-5 (V)
-
-
-###### Article R426-15-1
-
-Le droit à pension peut être ouvert par anticipation :
-
-a) Pour les pensions à taux plein, postérieurement au quarante-cinquième anniversaire, avec application des coefficients de
-minoration prévus à l'article R. 426-18 ;
-
-b) Pour les pensions proportionnelles, à l'exception de celles visées à l'article R. 426-11-3, postérieurement au
-cinquantième anniversaire, si l'intéressé ne justifie pas du nombre de jours validés nécessaires à l'ouverture du droit à
-pension proportionnelle conformément aux dispositions du deuxième alinéa de l'article R. 426-11-2, avec application des
-coefficients actuariels d'anticipation prévus à l'article R. 426-18-1.
+Les versements de ces cotisations doivent s'effectuer dans des conditions garantissant la neutralité actuarielle.
 
 **Liens relatifs à cet article**
 
@@ -15566,23 +15581,16 @@ coefficients actuariels d'anticipation prévus à l'article R. 426-18-1.
 
 	**Modifié par**:
 
-	  - Décret n°95-825 du 30 juin 1995 - art. 10 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 10
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R426-11-2
-	  - Code de l'aviation civile - art. R426-11-3
-	  - Code de l'aviation civile - art. R426-18
-	  - Code de l'aviation civile - art. R426-18-1
+	  - Code du travail - art. L5312-1
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R426-16-3 (VD)
+	  - Code de l'aviation civile - art. R426-5 (V)
 
 
 ###### Article R426-15-2
@@ -15608,25 +15616,27 @@ En ce qui concerne les affiliés reconnus par le conseil médical de l'aéronaut
 l'inaptitude définitive à l'exercice de la profession, l'ouverture du droit à pension peut prendre effet à compter de la date
 à laquelle les intéressés remplissent l'une et l'autre des deux conditions suivantes :
 
-- avoir atteint l'âge de cinquante ans ;
+- avoir atteint l'âge mentionné au 1° du I de l'article R. 426-11 ;
 
-- avoir été affilié pour la première fois au régime prévu par le présent chapitre à une date antérieure d'au moins quinze ans
-à la date d'ouverture du droit.
+- avoir été affilié pour la première fois au régime prévu par le présent chapitre à une date antérieure au moins égale, à la
+date d'ouverture du droit, à la durée mentionnée au 2° du I de l'article R. 426-11. 
+
+Pour l'application du présent article, la pension est, par dérogation aux dispositions de l'article R. 426-11, liquidée sans
+décote et la cessation de l'activité de navigant doit être liée à la survenance de l'inaptitude.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°95-825 du 30 juin 1995 - art. 11 () JORF 1er juillet 1995
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 11
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. L341-1
 
 	**Cité par**:
 
@@ -15637,30 +15647,30 @@ l'inaptitude définitive à l'exercice de la profession, l'ouverture du droit à
 
 ###### Article R426-15-3
 
-Le droit à pension est ouvert, sans coefficient d'anticipation, à l'expiration des durées de versement des allocations
-d'assurance mentionnées à l'article L. 351-3 du code du travail pour tout affilié licencié alors que son contrat de travail
-était un contrat de navigant. Ces dispositions s'entendent si l'intéressé a plus de cinquante ans et plus de 5 400 jours
-validés conformément à l'article R. 426-13.
+Le droit à pension est ouvert, sans décote, à l'expiration des durées de versement des allocations d'assurance mentionnées à
+l'article L. 351-3 du code du travail pour tout affilié licencié en application de l'article L. 1233-3 du code du travail à
+l'exclusion de la rupture de contrat résultant des dispositions des articles L. 6521-4 et L. 6521-5 du code des transports
+alors que son contrat de travail était un contrat de navigant. Ces dispositions s'entendent si l'intéressé a atteint l'âge
+mentionné au 1° du I de l'article R. 426-11 et la durée mentionnée au 2° du I de l'article R. 426-11 validés conformément à
+l'article R. 426-13.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°95-825 du 30 juin 1995 - art. 12 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 12
 
 	**Cite**:
 
-	  - Code du travail - art. L351-3 (M)
-	  - Code de l'aviation civile - art. R426-13 (M)
+	  - Code du travail - art. L1233-3
+	  - Code du travail - art. L351-3
+	  - Code de l'aviation civile - art. R426-11 (V)
+	  - Code de l'aviation civile - art. R426-13 (V)
+	  - Code des transports - art. L6521-4 (V)
 
 	**Cité par**:
 
@@ -15700,17 +15710,20 @@ présentation des demandes ainsi que les modalités de suspension des pensions e
 La pension est déterminée sur la base du salaire moyen indexé de carrière défini au c de l'article R. 426-5 ou, le cas
 échéant, sur la base du salaire moyen indexé majoré défini au d de l'article R. 426-5.
 
-Ce salaire est divisé en deux tranches conformément au e de l'article R. 426-5. A chacune d'elles est attribué, pour toute
-annuité validée définie à l'article R. 426-13, dans la limite de vingt-cinq, un taux de pension égal à 1,85 % pour la
-première tranche et à 1,4 % pour la deuxième tranche. La somme obtenue est multipliée par l'indice de variation des salaires
-corrigé applicable  à la date de liquidation de la pension.
+Ce salaire est divisé en deux tranches conformément à l'article R. 426-16-1-1. A chacune d'elles est attribué, pour toute
+annuité validée à titre onéreux définie à l'article R. 426-13, dans la limite d'une durée, un taux de pension égal à 1,85 %
+pour la première tranche et à 1,4 % pour la deuxième tranche. La somme obtenue est multipliée par l'indice de variation des
+salaires corrigé applicable à la date de liquidation de la pension. Cette durée est égale à la valeur "a" prévue au d de
+l'article R. 426-5 divisée par 360.
 
 Si l'affilié a eu ou a adopté au moins trois enfants, la pension est majorée de 0,12 % du plafond mensuel de calcul des
 cotisations de la sécurité sociale en vigueur, pour toute annuité validée dans la limite de 25.
 
 Pour la période de jouissance comprise entre l'âge auquel l'affilié aura atteint le nombre d'annuités nécessaires pour
-l'ouverture du droit à pension, et ce au plus tôt au cinquantième anniversaire, et soixante ans, la pension mensuelle est
-assortie d'une majoration dans les conditions suivantes :
+l'ouverture du droit à pension, et ce au plus tôt à l'âge mentionné au 1° du A du II de l'article R. 426-11, et l'âge
+mentionné à l'article L. 161-17-2 du code de la sécurité sociale, la pension mensuelle est assortie d'une majoration si
+l'affilié remplit les conditions prévues pour la liquidation d'une pension sans décote dans les conditions prévues aux
+articles R. 426-11, R. 426-15-2, R. 426-15-3 et R. 426-17 dans les conditions suivantes :
 
 - pour les affiliés bénéficiant des prestations d'un régime légal obligatoire d'assurance maladie maternité autre que celui
 instauré par la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle, la majoration est
@@ -15725,11 +15738,14 @@ deux premiers alinéas du présent article ;
 - pour les affiliés n'entrant dans aucun des deux cas prévus ci-dessus, la majoration est d'un montant de 1,12 % du plafond
 mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite de vingt-cinq.
 
+La majoration prévue aux alinéas précédents n'est pas versée aux affiliés dont la pension prend effet à compter de l'âge
+mentionné à l'article R. 426-12 et qui ne respectent pas la condition d'annuité prévue au 2° du I de l'article R. 426-11.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -15740,54 +15756,51 @@ mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annui
 
 	**Modifié par**:
 
-	  - Décret n°2005-609 du 27 mai 2005 - art. 5 () JORF 29 mai 2005 en vigueur le 1er janvier 2005
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 13
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R426-13 (M)
-	  - Code de l'aviation civile - art. R426-5 (M)
+	  - Code de l'aviation civile - art. R426-13
+	  - Code de l'aviation civile - art. R426-5
+
+
+###### Article R426-16-1-1
+
+Les tranches de salaires prévues au second alinéa de l'article R. 426-16-1 sont déterminées comme suit : 
+
+1° La limite supérieure de la première tranche est fixée à quatre fois le plafond annuel de calcul des cotisations de
+sécurité sociale mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur pour l'exercice considéré ; 
+
+2° La limite supérieure de la deuxième tranche est fixée à huit fois le plafond annuel de calcul des cotisations de sécurité
+sociale mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur pour l'exercice considéré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 14
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L241-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R426-16-1 (V)
+	  - Code de l'aviation civile - art. R426-5 (V)
 
 
 ###### Article R426-16-2
 
-Les pensions sont revalorisées au 1er janvier et au 1er juillet de chaque année.
-
-Le taux de revalorisation appliqué à titre provisionnel au 1er janvier est égal à la moitié du taux annuel pratiqué au 1er
-juillet précédent.
-
-Le taux de revalorisation annuel appliqué au 1er juillet est déterminé par les formules ci-dessous :
-
-a) Lorsque N est supérieur à 2, le taux de revalorisation en pourcentage est égal à :
-
-(formule non reproduite).
-
-Le conseil d'administration peut faire varier ce taux dans un intervalle E de plus ou moins 0,5 p. 100 ;
-
-b) Lorsque N est inférieur ou égal à 2, le taux de revalorisation en pourcentage est égal à :
-
-(formule non reproduite).
-
-Dans ces formules :
-
-Ic représente le pourcentage de variation des prix à la consommation hors tabac France entière publié par l'I.N.S.E.E. pour
-les douze mois de l'année précédente ;
-
-N est la valeur définie au f de l'article R. 426-5.
+Les pensions sont revalorisées au 1er janvier de chaque année du pourcentage de variation entre l'indice des prix à la
+consommation hors tabac, France entière, publié par l'Institut national de la statistique et des études économiques afférent
+au mois de novembre de l'année précédente et ce même indice afférent au mois de novembre de la pénultième année.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 15 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -15795,34 +15808,53 @@ N est la valeur définie au f de l'article R. 426-5.
 	  - Décret n°2011-1500 du 10 novembre 2011 - art. 26 (VD)
 	  - Code de l'aviation civile - art. R426-5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 15
+
+
+###### Article R426-16-3
+
+Lorsque le nombre d'annuités ayant fait l'objet de cotisations ou de rachats, en application de l'article R. 426-14, est au
+moins égal à vingt-cinq, la pension calculée à la date d'effet du droit et avant application d'une décote ne peut être
+inférieure à 2 % du plafond annuel de la sécurité sociale mentionné à l'article L. 241-3 par annuité cotisée ou rachetée en
+application de l'article R. 426-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 16
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L241-3 (V)
+	  - Code de l'aviation civile - art. R426-14
+
 
 ###### Article R426-17
 
 En cas de décès ou d'incapacité permanente totale à la suite d'un accident aérien survenu en service et en cas de décès à la
 suite d'une maladie reconnue imputable au service aérien, le nombre d'annuités pris en compte pour le calcul de la pension
-directe ou des pensions de réversion et d'orphelin est fixé à vingt-cinq quelle que soit l'ancienneté effective. Toutefois,
-il ne peut en aucun cas être supérieur au nombre maximal d'annuités que l'intéressé aurait pu totaliser s'il avait cotisé
-jusqu'à l'âge de soixante ans, ou jusqu'à l'âge atteint à la date de l'accident si celui-ci est postérieur au soixantième
-anniversaire.
+directe ou des pensions de réversion et d'orphelin est porté au nombre d'annuités que l'intéressé aurait totalisé s'il avait
+cotisé jusqu'à l'âge prévu à l'article R. 426-12 ou, s'il est postérieur, jusqu'à l'âge atteint à la date de l'accident, sans
+que cette opération ne conduise à excéder, dans l'un et l'autre cas, vingt-cinq annuités. Par dérogation aux dispositions de
+l'article R. 426-11, la pension est liquidée sans décote. 
 
 En cas d'inaptitude définitive à exercer le métier de navigant résultant d'un accident aérien survenu en service ou d'une
 maladie imputable au service aérien, le nombre d'annuités acquises pris en compte est égal à la somme des annuités acquises
 au titre de l'article R. 426-13 et d'annuités complémentaires. Le nombre des annuités complémentaires est égal à la moitié de
-la différence entre vingt-cinq annuités et celles acquises au titre de l'article R. 426-13, sans pouvoir excéder la moitié de
-la différence entre soixante ans et l'âge atteint lors de l'inaptitude définitive. En cas d'abandon de la profession pour des
-raisons autres que de santé, l'imputabilité au service aérien doit avoir été demandée dans les deux ans suivant la cessation
-d'activité.
+la différence entre vingt-cinq et le nombre d'annuités acquises au titre de l'article R. 426-13, sans pouvoir excéder la
+moitié de la différence entre l'âge prévu à l'article R. 426-12 et l'âge atteint lors du constat de l'inaptitude définitive.
+En cas d'abandon de la profession pour des raisons autres que de santé, l'imputabilité au service aérien doit avoir été
+demandée dans les deux ans suivant la cessation d'activité. Par dérogation aux dispositions de l'article R. 426-11, la
+pension est liquidée sans décote.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -15833,177 +15865,104 @@ d'activité.
 	  - Code de l'aviation civile - art. R426-19 (V)
 	  - Code de l'aviation civile - art. R426-27 (V)
 
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R426-13 (M)
-
-
-###### Article R426-18
-
-Dans le cas de jouissance anticipée avant l'âge de cinquante ans, à l'exception des situations visées à l'article R.
-426-15-2, de la pension mentionnée au a de l'article R. 426-15-1, la pension annuelle calculée conformément aux prescriptions
-du présent chapitre est affectée des coefficients de minoration suivants :
-
-AGE ATTEINT PAR L'INTÉRESSÉ A LA DATE D'ENTRÉE EN JOUISSANCE DE LA PENSION / COEFFICIENTS
-
-45 ans / 0,65
-
-46 ans / 0,73
-
-47 ans / 0,81
-
-48 ans / 0,88
-
-49 ans / 0,95
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
 	**Modifié par**:
 
-	  - Décret n°95-825 du 30 juin 1995 - art. 16 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
-	  - Code de l'aviation civile - art. R426-15-1 (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
-
-
-###### Article R426-18-1
-
-I. - Dans les cas de jouissance anticipée après cinquante ans de la pension mentionnée au b de l'article R. 426-15-1, mais à
-l'exception des situations visées aux articles R. 426-15-2 et R. 426-15-3, la pension annuelle calculée conformément aux
-prescriptions du présent chapitre est affectée d'un coefficient d'anticipation compris entre 0,6 et 1 résultant de la formule
-suivante :
-
-Coefficient d'anticipation :
-
-(formule non reproduite).
-
-dans laquelle :
-
-- a = 0, si N est supérieur ou égal à 7 ;
-
-- a = 1, si N est inférieur à 7 ;
-
-- TT est le temps total validé en jours.
-
-II. - Toutefois, ce coefficient d'anticipation ne sera pas appliqué aux personnels navigants, nés avant le 1er janvier 1955,
-non actifs à la date d'application du décret n° 95-825 du 30 juin 1995, et qui justifieront, pour le personnel féminin d'au
-moins dix ans de services valables pour la retraite tels que définis à l'article R. 426-13, et pour le personnel masculin
-d'au moins quinze ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 17
 
 	**Cite**:
 
-	  - Décret n°95-825 du 30 juin 1995
+	  - Code de l'aviation civile - art. R426-12
 	  - Code de l'aviation civile - art. R426-13
-	  - Code de l'aviation civile - art. R426-15-2
-	  - Code de l'aviation civile - art. R426-15-3
-
-	**Créé par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 17 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
-	  - Code de l'aviation civile - art. R426-11-3 (VT)
-	  - Code de l'aviation civile - art. R426-11-4 (VT)
-	  - Code de l'aviation civile - art. R426-15-1 (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
 
 
 ##### Section 5 : Pension de réversion.
 
 ###### Article R426-19
 
-1. En cas de décès d'un affilié en activité ou titulaire d'une pension en cours de jouissance ou d'un droit à pension
-différé, le conjoint survivant apte à recevoir et chacun de ses enfants à charge ont droit à une pension.
+I.-En cas de décès d'un affilié en activité ou titulaire d'une pension en cours de jouissance ou d'un droit à pension
+différée, le conjoint survivant apte à recevoir et chacun des enfants de l'affilié, à charge au sens de l'article R. 426-20
+du présent code, ont respectivement droit à pension de réversion et pension d'orphelin dans les conditions précisées au
+présent article. 
 
-a) La pension de réversion au profit du conjoint survivant apte à recevoir est égale à un pourcentage de la pension de
-l'affilié fixé à de 60 %.
+II.-La pension de réversion au profit du conjoint survivant apte à recevoir est égale à un pourcentage de la pension de
+l'affilié fixé à 60 %. 
 
-b) La pension au profit de chacun des enfants à charge est égale à 12 % de la pension de l'affilié.
+Si l'affilié décédé était en activité ou titulaire d'une pension en cours de jouissance, l'ouverture du droit à pension de
+réversion est immédiate. 
 
-Toutefois, le total des pensions ainsi allouées ne peut dépasser 100 % de la pension de l'affilié. S'il y a excédent, il est
-procédé à une réduction temporaire des pensions des orphelins.
+Dans les autres cas, l'ouverture du droit à pension de réversion est ajournée jusqu'à la date à laquelle l'affilié aurait
+atteint l'âge mentionné à l'article R. 426-12. Cette ouverture du droit est immédiate si l'affilié décédé avait au moins un
+enfant à charge à la date de son décès. 
 
-S'il n'y a pas ou s'il n'y a plus de conjoint apte à recevoir, la pension de réversion mentionnée au a) ci-dessus est
-attribuée aux enfants à charge à titre de pension temporaire, la pension visée au premier alinéa du b) ci-dessus étant
-maintenue à chacun d'eux dans la limite du maximum fixé à l'alinéa précédent.
+L'entrée en jouissance de la pension de réversion est fixée à la date d'ouverture du droit, à condition que le bénéficiaire
+de la pension ait fait parvenir sa demande écrite à la caisse dans un délai de six mois suivant la date d'ouverture du
+droit. 
 
-2. Si l'affilié décédé était en activité ou titulaire d'une pension en cours de jouissance, l'ouverture du droit à la pension
-de réversion est immédiate.
+La pension de l'affilié servant à déterminer la pension de réversion visée ci-dessus est celle qui est définie aux premier,
+deuxième et troisième alinéas de l'article R. 426-16-1, majorée s'il y a lieu, compte tenu des dispositions de l'article R.
+426-17. 
 
-Si l'affilié décédé était titulaire d'un droit à pension différée et si la condition de quinze annuités de services valables
-pour la retraite est remplie, l'ouverture du droit à la pension de réversion est ajournée jusqu'à la date à laquelle il
-aurait atteint l'âge d'ouverture du droit à sa pension. Toutefois, l'ouverture du droit à la pension ne peut être postérieure
-au cinquantième anniversaire du conjoint survivant. Cette entrée en jouissance est immédiate s'il y a au moins un enfant à
-charge.
+Si l'affilié décédé était en activité ou titulaire d'une pension en cours de jouissance assortie d'une majoration et n'avait
+pas atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale au moment de son décès, la pension de
+l'affilié servant à déterminer la pension de réversion est assortie d'une majoration dans les conditions suivantes : 
 
-Si la condition de quinze annuités valables pour la retraite n'est pas remplie, l'ouverture du droit à la pension de
-réversion est ajournée jusqu'à ce que le conjoint survivant soit âgé de cinquante-cinq ans sauf s'il y a deux enfants à
-charge.
-
-L'entrée en jouissance de la pension de réversion est fixée à la date d'ouverture du droit, à condition que la demande soit
-formulée par le bénéficiaire de la pension, dans un délai de six mois suivant la date d'ouverture du droit.
-
-3. La pension de l'affilié, servant à déterminer la pension de réversion et les pensions temporaires visées ci-dessus, est
-celle qui est définie aux premier, deuxième et troisième alinéas de l'article R. 426-16-1, majorée s'il y a lieu, compte tenu
-des dispositions de l'article R. 426-17.
-
-Si l'affilié décédé n'avait pas atteint l'âge de soixante ans au moment de son décès et tant que le conjoint survivant n'aura
-pas atteint le même âge, la pension de l'affilié servant à déterminer la pension de réversion est assortie d'une majoration
-dans les conditions suivantes :
-
-- si le conjoint survivant bénéficie des prestations d'un régime légal obligatoire d'assurance maladie maternité autre que
+1° Si le conjoint survivant bénéficie des prestations d'un régime légal obligatoire d'assurance maladie maternité autre que
 celui instauré par la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle, la majoration
 est d'un montant de 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée
-dans la limite de vingt-cinq ;
+dans la limite de vingt-cinq ; 
 
-- si le conjoint survivant entre dans le champ d'application de la loi du 27 juillet 1999 mentionnée ci-dessus, la majoration
+2° Si le conjoint survivant entre dans le champ d'application de la loi du 27 juillet 1999 mentionné ci-dessus, la majoration
 est d'un montant comprenant d'une part 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur,
-par annuité validée dans la limite de vingt-cinq, et d'autre part 5 % de la pension mensuelle de l'affilié décédé calculée
-conformément aux deux premiers alinéas de l'article R. 426-16-1 ;
+par annuité validée dans la limite de vingt-cinq, et, d'autre part, 5 % de la pension mensuelle de l'affilié décédé calculée
+conformément aux deux premiers alinéas de l'article R. 426-16-1 ; 
 
-- si le conjoint survivant n'entre dans aucun des deux cas prévus ci-dessus, la majoration est d'un montant de 1,12 % du
+3° Si le conjoint survivant n'entre dans aucun des deux cas prévus ci-dessus, la majoration est d'un montant de 1,12 % du
 plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite de vingt-
-cinq.
+cinq. 
 
 Cette majoration est prise en compte, dans le calcul de la pension, jusqu'à la date à laquelle l'affilié décédé aurait
-atteint son soixantième anniversaire.
+atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale. 
+
+III.-La pension d'orphelin au profit de chacun des enfants à charge est égale à 12 % de la pension de l'affilié. Le taux est
+porté à 50 % au profit de chacun des orphelins de père et de mère, de moins de 21 ans, et sans limite d'âge au profit de
+l'enfant handicapé tel que défini à l'article R. 426-20. 
+
+L'ouverture du droit à pension d'orphelin est immédiate. L'entrée en jouissance de la pension d'orphelin est fixée à la date
+d'ouverture du droit, à condition que le bénéficiaire de la pension ou son représentant légal ait fait parvenir sa demande
+écrite à la caisse, dans un délai de six mois suivant la date d'ouverture du droit. 
+
+La pension de l'affilié servant à déterminer la pension d'orphelin visée ci-dessus est celle qui est définie aux premier,
+deuxième et troisième alinéas de l'article R. 426-16-1, majorée s'il y a lieu, compte tenu des dispositions de l'article R.
+426-17. 
+
+Si l'affilié décédé était en activité ou titulaire d'une pension en cours de jouissance assortie d'une majoration, s'il
+n'avait pas atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale au moment de son décès, la pension
+de l'affilié servant à déterminer la pension d'orphelin est assortie d'une majoration dans les conditions suivantes : 
+
+1° Si l'orphelin bénéficie des prestations d'un régime légal obligatoire d'assurance maladie maternité autre que celui
+instauré par la loi du 27 juillet 1999 portant création d'une couverture maladie universelle, la majoration est d'un montant
+de 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite
+de vingt-cinq ; 
+
+2° Si l'orphelin entre dans le champ d'application de la loi du 27 juillet 1999 mentionné ci-dessus, la majoration est d'un
+montant comprenant d'une part 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par
+annuité validée dans la limite de vingt-cinq, et d'autre part 5 % de la pension mensuelle de l'affilié décédé calculée
+conformément aux deux premiers alinéas de l'article R. 426-16-1 ; 
+
+3° Si l'orphelin n'entre dans aucun des deux cas prévus ci-dessus, la majoration est d'un montant de 1,12 % du plafond
+mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite de vingt-cinq. 
+
+Cette majoration est prise en compte, dans le calcul de la pension, jusqu'à la date à laquelle l'affilié décédé aurait
+atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale. 
+
+IV.-Le total des pensions de réversion et d'orphelins allouées ne peut dépasser 100 % de la pension de l'affilié. S'il y a
+excédent, la pension allouée à chacun des ayants droit est réduite proportionnellement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -16011,39 +15970,34 @@ atteint son soixantième anniversaire.
 	  - Code de l'aviation civile - art. R426-21 (VD)
 	  - Code de l'aviation civile - art. R426-27 (VD)
 
-	**Modifié par**:
-
-	  - Décret n°2005-609 du 27 mai 2005 - art. 6 () JORF 29 mai 2005 en vigueur le 1er janvier 2005
-
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R426-16-1 (M)
-	  - Code de l'aviation civile - art. R426-17 (V)
-	  - Code de l'aviation civile - art. R426-5 (M)
+	  - Loi n°99-641 du 27 juillet 1999
+	  - Code de la sécurité sociale. - art. L161-17-2
+	  - Code de l'aviation civile - art. R426-12
+	  - Code de l'aviation civile - art. R426-20
+
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 18
 
 
 ###### Article R426-20
 
-Sont considérés comme enfants à charge pour l'application du présent code les enfants légitimes, les enfants naturels dont la
-filiation est légalement établie, les enfants adoptés ainsi que les enfants à la charge de l'affilié décédé lorsque seule une
-filiation directe en a interdit l'adoption, s'ils sont âgés de moins de vingt et un ans et s'ils n'exercent pas une activité
-rémunérée, sauf si cette dernière leur procure un salaire inférieur au salaire servant de base de calcul aux allocations
-familiales.
+Sont considérés comme enfants à charge pour l'application du présent code les enfants âgés de moins de vingt et un ans dont
+la filiation est légalement établie en application du titre VII du livre Ier du code civil ou résulte d'une adoption
+plénière, s'ils n'exercent pas une activité rémunérée sauf si celle-ci leur procure un salaire inférieur au salaire servant
+de base au calcul des allocations familiales. 
 
 Sont assimilés aux enfants à charge, après leur vingt et unième anniversaire, les enfants atteints d'une infirmité permanente
-les mettant dans l'impossibilité de gagner leur vie, à la condition qu'ils aient été atteints de l'infirmité au jour du décès
-de l'affilié ou avant leur vingt et unième anniversaire si celui-ci est postérieur au décès de l'affilié.
+les mettant dans l'impossibilité de gagner leur vie, à la condition qu'ils aient été atteints de l'infirmité avant leur vingt
+et unième anniversaire ou avant leur vingt-cinquième anniversaire s'ils poursuivaient des études secondaires ou supérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -16052,46 +16006,18 @@ de l'affilié ou avant leur vingt et unième anniversaire si celui-ci est posté
 	  - Code de l'aviation civile - art. R426-19 (V)
 	  - Code de l'aviation civile - art. R426-24 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 19
+
 
 ###### Article R426-21
 
-Le bénéfice des dispositions de l'article R. 426-19 est reconnu aux enfants adoptés sous réserve que la cessation des
-fonctions de l'affilié soit postérieure à l'acte d'adoption et, dans ce cas, les conditions d'antériorité prévues à l'article
-R. 426-22 pour le mariage sont exigées au regard de l'acte ou du jugement.
+Le conjoint est inapte à recevoir en cas de remariage.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R426-19 (M)
-	  - Code de l'aviation civile - art. R426-22 (M)
-
-
-###### Article R426-22
-
-Le conjoint est inapte à recevoir dans les cas suivants :
-
-1. En cas de mariage contracté moins de deux ans avant le décès de l'affilié retraité, sauf si un ou plusieurs enfants sont
-issus du mariage ou si l'affilié est décédé à la suite d'une maladie ou d'un accident imputables au service aérien, ou s'il
-avait obtenu ou était en droit d'obtenir une pension d'invalidité ; le mariage doit dans tous les cas être antérieur à
-l'événement qui a entraîné la cessation des fonctions ou la mort de l'affilié.
-
-2. En cas de remariage ; toutefois, le conjoint remarié, s'il est redevenu veuf ou s'il est divorcé ou séparé de corps peut,
-sur sa demande, recouvrer son droit à pension ; la pension de réversion ainsi servie est éventuellement diminuée de la ou des
-pensions de réversion qu'il percevrait par suite du décès de son ou de ses nouveaux conjoints.
+Lorsque, au décès de l'affilié ou du pensionné, il existe un conjoint survivant et un ou plusieurs conjoints divorcés aptes à
+recevoir, la pension de réversion est répartie entre le conjoint survivant et le ou les conjoints divorcés, au prorata de la
+durée respective de chaque mariage.
 
 **Liens relatifs à cet article**
 
@@ -16099,54 +16025,18 @@ pensions de réversion qu'il percevrait par suite du décès de son ou de ses no
 
 	  - Décret n°67-334 du 30 mars 1967
 
-	**Modifié par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 19 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
 	**Cité par**:
 
 	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
-	  - Code de l'aviation civile - art. R426-21 (VD)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 20
 
+	**Cite**:
 
-###### Article R426-23
-
-Lorsque, au décès de l'affilié ou du pensionné, il existe un conjoint survivant et un ou plusieurs conjoints divorcés aptes à
-recevoir, la pension de réversion est répartie entre le conjoint survivant et le ou les conjoints divorcés, au prorata de la
-durée respective de chaque mariage.
-
-Au décès de l'un des bénéficiaires, sa part accroîtra la part des autres, dans les conditions fixées ci-après, sauf réversion
-du droit au profit des enfants à charge issus du mariage du bénéficiaire et de l'affilié.
-
-Lorsqu'il existe des ayants cause de deux ou plusieurs lits, par suite d'un ou plusieurs mariages antérieurs de l'affilié ou
-du pensionné, la pension de réversion du bénéficiaire décédé est divisée en parts égales entre chaque lit représenté par le
-conjoint survivant ou le ou les conjoints divorcés aptes à recevoir ou par un ou plusieurs enfants à charge.
-
-Si un lit cesse d'être représenté, sa part accroîtra celle du ou des autres lits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
+	  - Code de l'aviation civile - art. R426-19
+	  - Code de l'aviation civile - art. R426-22
 
 
 ##### Section 6 : Dispositions diverses.
@@ -16156,44 +16046,13 @@ Si un lit cesse d'être représenté, sa part accroîtra celle du ou des autres 
 Les pensions de retraite sont servies mensuellement et à terme échu.
 
 Le conseil d'administration fixe les montants de la pension en deçà desquels le versement est effectué soit
-trimestriellement, soit annuellement.
+trimestriellement, soit annuellement sous réserve des dispositions du troisième alinéa.
 
-Lorsque le montant de la pension doit donner lieu à un versement annuel, le bénéficiaire peut recevoir sur sa demande, et au
-plus tôt à l'âge d'ouverture des droits, un capital égal au montant des doubles cotisations versées chaque année et indexées
-par le rapport entre l'indice de variation des salaires applicable au cours de l'année de la liquidation et l'indice de
-variation des salaires en vigueur au cours de l'année de versement de ces cotisations. Lorsque l'affilié décède avant d'avoir
-perçu le capital ou la pension annuelle prévus aux deux alinéas précédents, son conjoint apte à recevoir reçoit sur sa
-demande un capital ou une pension annuelle au plus tôt à la date à laquelle l'affilié décédé aurait atteint l'âge d'ouverture
-de ses droits à pension. A défaut de conjoint apte à recevoir, ce versement est effectué au profit des enfants qui, à la date
-d'ouverture des droits à pension, rempliraient les conditions fixées par l'article R. 426-20 pour être considérés comme à
-charge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R426-20 (V)
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R426-25 (VT)
-
-
-###### Article R426-25
-
-Les affiliés qui ont reçu le capital mentionné au premier alinéa de l'article R. 426-24 applicable avant l'entrée en vigueur
-du décret n°84-469 du 18 juin 1984 et qui remplissent les conditions fixées à l'article R. 426-11 peuvent bénéficier d'une
-pension servie sous déduction du montant de la rente à capital aliéné correspondant au capital perçu, revalorisée par
-l'indice de variation des salaires entre la date de versement du capital et la date de versement de la pension de retraite.
+Lorsque le montant mensuel de la pension es inférieur à 2 % du plafond mensuel de calcul des cotisations de sécurité sociale
+mentionné à l'article L. 241-3 du code de la sécurité sociale à la date de l'ouverture possible du droit à pension, il est
+versé, en lieu et place de la liquidation des droits sous la forme d'une pension mensuelle, un capital unique égal au produit
+du montant des droits théoriques annuels et d'un coefficient fixé par le conseil d'administration en fonction de l'âge du
+bénéficiaire à la date d'effet de la liquidation des droits.
 
 **Liens relatifs à cet article**
 
@@ -16201,20 +16060,17 @@ l'indice de variation des salaires entre la date de versement du capital et la d
 
 	  - Décret n°67-334 du 30 mars 1967
 
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 21
+
 	**Cite**:
 
-	  - Décret n°84-469 du 18 juin 1984
-	  - Code de l'aviation civile - art. R426-11
-	  - Code de l'aviation civile - art. R426-24
+	  - Code de la sécurité sociale. - art. L241-3
 
-	**Liens**:
+	**Cité par**:
 
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
+	  - Code de l'aviation civile - art. R426-25 (VT)
 
 
 ###### Article R426-26
@@ -16223,78 +16079,50 @@ Il est institué un fonds social en vue de permettre au conseil d'administration
 individuelle en faveur d'anciens navigants ou de leurs ayants droit ou des personnes qui étaient à charge des navigants ou
 d'anciens navigants lors du décès de ceux-ci. Cette action sociale pourra revêtir la forme de financement accordé à des
 établissements ou services assurant l'hébergement des retraités, l'aide à la dépendance partielle ou totale, l'hébergement en
-foyers pour handicapés, l'aide aux enfants handicapés ayants droit.
+foyers pour handicapés, l'aide aux enfants handicapés ayants droit. 
 
 Le conseil d'administration est chargé de définir les procédures de fonctionnement du fonds social, auquel il pourra affecter
-chaque année un crédit dans la limite de 1 % des cotisations encaissées au cours de l'exercice précédent dans les trois
-autres fonds. Les sommes qui n'auront pas été utilisées à la fin d'un exercice sont reportées à l'exercice suivant.
+chaque année un crédit dans la limite de 0,2 % des cotisations encaissées au cours de l'exercice précédent dans le fonds
+mentionné au a de l'article R. 426-27. Les sommes qui n'auront pas été utilisées à la fin d'un exercice sont reportées à
+l'exercice suivant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-8 1963-01-05 art. 26
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°95-825 du 30 juin 1995 - art. 20 () JORF 1er juillet 1995
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
 	  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 22
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R426-27
+
 
 ###### Article R426-27
 
 Les opérations de la caisse de retraite du personnel navigant professionnel de l'aéronautique civile sont suivies dans trois
-sections financièrement autonomes :
+sections financièrement autonomes : 
 
 a) Section dite Fonds de retraite, chargée de suivre les opérations prévues par le présent chapitre, à l'exception de celles
-visées aux b et c ci-dessous ;
+visées aux b et c ci-dessous ; 
 
-b) Section dite Fonds spécial, chargée de suivre les opérations prévues par le dernier alinéa des articles R. 426-16-1 et R.
-426-19 3 ainsi que par l'article R. 426-17 y compris les prestations de retraite ou les pensions de réversion et d'orphelins
-versées entre la liquidation des droits conformément à cet article R. 426-17 et l'âge normal d'entrée en jouissance de la
-retraite ;
+b) Section dite Fonds de majoration, chargée de suivre les opérations prévues par le quatrième alinéa de l'article R.
+426-16-1, le sixième alinéa du II et le quatrième alinéa du III de l'article R. 426-19 ; 
 
 c) Section dite Fonds d'assurance chargée de l'application des articles L. 424-5 et L. 424-6 ;
-
-d) Il est procédé, au 31 décembre de chaque année, au reversement sur le fonds de retraite des excédents éventuels de chacun
-des deux autres fonds, constatés au-delà des plus élevées des valeurs suivantes :
-
-Fonds spécial :
-
-137 204 115,51 euros ;
-
-Neuf fois le montant des prestations annuelles versées apparaissant au dernier bilan approuvé.
-
-Fonds d'assurance :
-
-30 489 803,45 euros ;
-
-Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan approuvé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-	  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -16309,15 +16137,12 @@ Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan app
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 23
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L424-5 (V)
-	  - Code de l'aviation civile - art. L424-6 (V)
-	  - Code de l'aviation civile - art. R426-16-1 (M)
-	  - Code de l'aviation civile - art. R426-17 (V)
-	  - Code de l'aviation civile - art. R426-19 (M)
+	  - Code de l'aviation civile - art. R426-16-1 (V)
+	  - Code de l'aviation civile - art. R426-19
 
 
 ###### Article R426-27-1
@@ -16343,6 +16168,41 @@ article.
 
 	  - Code de la sécurité sociale. - art. R623-10-3 (V)
 	  - Code de la sécurité sociale. - art. R623-2 (V)
+
+
+###### Article R426-27-2
+
+Le conseil d'administration de la Caisse de retraite du personnel navigant professionnel de l'aviation civile assure le suivi
+de l'équilibre financier du régime dans les conditions prévues à l'article L. 6527-8 selon les modalités suivantes. 
+
+Il détermine chaque année, avant le 30 juin, la valeur des indicateurs de pilotage du régime. Ces indicateurs portent
+notamment sur le niveau de réserves à la date d'évaluation, le niveau de réserves projeté à long terme et les taux de
+couverture des prestations futures par les cotisations futures sur la période au moins égale à l'espérance de vie de la
+génération atteignant l'âge de la retraite et les réserves à un horizon de trente années. 
+
+Le conseil d'administration fait établir, au moins tous les quatre ans, un rapport sur la situation financière du régime par
+un actuaire indépendant. Cette analyse, qui se fonde sur la situation financière du régime à la clôture du dernier exercice,
+vise notamment à mesurer l'impact des décisions prises dans le passé sur les paramètres techniques du régime, en particulier
+la fixation des taux de cotisation et taux d'appel des cotisations, les conditions d'ouverture de droits de la pension et le
+niveau des prestations. Le conseil d'administration de la caisse fixe au moins six mois avant la parution du rapport les
+hypothèses à retenir pour l'élaboration de ce rapport, ainsi que les études de sensibilité pour le calcul des projections
+d'équilibre à long terme du régime, s'agissant notamment de la rentabilité des actifs du régime et des prévisions en matière
+d'évolution du secteur du transport aérien et de la situation économique et ses implications sur la population couverte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 24
+
+	**Cité par**:
+
+	  - Décret n°2011-1500 du 10 novembre 2011 - art. 26 (VD)
+	  - Code de l'aviation civile - art. R426-8 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L6527-8
 
 
 ##### Section 7 : Dispositions transitoires.
@@ -20386,8 +20246,8 @@ Les supports utilisés en violation des dispositions de l'article D. 133-10 ne s
 
 ###### Article D133-14
 
-Les dispositions de la présente section ne s'appliquent pas à l'aviation militaire ni aux escadrilles photographiques de
-l'Institut géographique national.
+Les dispositions de la présente section ne s'appliquent pas à l'aviation militaire ni aux escadrilles photographiques de l'
+Institut national de l'information géographique et forestière. 
 
 Sont fixées par décision conjointe des ministres intéressés les conditions dans lesquelles font usage d'appareils
 photographiques, cinématographiques et de télédétection les fonctionnaires ou agents de l'Etat à bord d'aéronefs d'Etat ou
@@ -20401,12 +20261,11 @@ des aéronefs spécialisés de la direction générale de l'aviation civile.
 
 	**Codifié par**:
 
-	  - Décret n°67-335 1967-03-30
+	  - Décret n°67-335 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°73-420 1973-03-27 art. 1 JORF 5 avril 1973
-	  - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
+	  - Décret n°2011-1371 du 27 octobre 2011 - art. 30 (VD)
 
 
 ##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.
