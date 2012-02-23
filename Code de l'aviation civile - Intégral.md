@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-02-24
 
 # Partie législative
 
@@ -23864,15 +23864,16 @@ d'exploitation de transporteur aérien ou d'autorisation d'exploitation de servi
 Le Conseil supérieur de l'aviation civile peut, lorsqu'il en décide à la majorité, présenter au ministre chargé de l'aviation
 civile toute proposition portant sur des questions intéressant le transport aérien. 
 
-Le ministre chargé de l'aviation civile peut saisir le Conseil supérieur de l'aviation civile de tout avis du Conseil
-national des transports qui intéresse le transport aérien. Il transmet les avis du Conseil supérieur de l'aviation civile au
-Conseil national des transports sur toute question relevant également de la compétence de ce dernier.
+Le ministre chargé de l'aviation civile peut saisir le Conseil supérieur de l'aviation civile de tout avis du   Conseil
+supérieur des transports terrestres et de l'intermodalité qui intéresse le transport aérien. Il transmet les avis du Conseil
+supérieur de l'aviation civile au   Conseil supérieur des transports terrestres et de l'intermodalité sur toute question
+relevant également de la compétence de ce dernier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+	  - Décret n°2012-253 du 21 février 2012 - art. 13
 
 	**Anciens textes**:
 
@@ -23925,9 +23926,9 @@ France et de l'Assemblée des départements de France ;
 
 - un représentant du ministre chargé de l'outre-mer. 
 
-Les représentants des ministres sont nommés sur proposition de chacun d'entre eux. 
+Les représentants des ministres sont nommés sur proposition de chacun d'entre eux ; 
 
-4° Le président du Conseil national des transports ou son représentant ; 
+4° Le président du Conseil supérieur des transports terrestres et de l'intermodalité ;
 
 5° Trois représentants des entreprises de transport aérien désignés après avis des organisations professionnelles
 intéressées ; 
@@ -23952,7 +23953,7 @@ La durée du mandat des membres du Conseil supérieur de l'aviation civile est d
 
 	**Modifié par**:
 
-	  - Décret n°2010-248 du 10 mars 2010 - art. 2
+	  - Décret n°2012-253 du 21 février 2012 - art. 13
 
 	**Anciens textes**:
 
