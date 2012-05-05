@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2012-04-13
+Version Consolidée au 2012-05-06
 
 # Partie législative
 
@@ -2258,28 +2258,33 @@ inscriptions existant sur l'aéronef ou un bulletin certifiant qu'il n'en existe
 
 L'acquéreur d'un aéronef ou de pièces de rechange qui veut se garantir contre les poursuites autorisées par l'article R.
 123-2 est tenu avant la poursuite ou dans le délai de quinzaine de la notification du procès-verbal de saisie, de notifier à
-tous les créanciers inscrits au registre d'immatriculation, au domicile élu par eux dans leurs inscriptions :
+tous les créanciers inscrits au registre d'immatriculation, au domicile élu par eux dans leurs inscriptions : 
 
 1° Un extrait de son titre d'acquisition indiquant la date et la nature du titre, le type de l'aéronef, son numéro de série,
-son numéro dans la série et ses marques d'immatriculation, ainsi que le prix, charges comprises ;
+son numéro dans la série et ses marques d'immatriculation, ainsi que le prix, charges comprises ; 
 
-2° Un état indiquant la date des inscriptions, le nom des créanciers, le montant des créances inscrites ;
+2° Un état indiquant la date des inscriptions, le nom des créanciers, le montant des créances inscrites ; 
 
 3° La déclaration qu'il est prêt à acquitter sur-le-champ les dettes hypothécaires jusqu'à concurrence du prix, sans
-distinction des dettes exigibles ou non ;
+distinction des dettes exigibles ou non ; 
 
-4° Constitution d'un avoué près le tribunal de grande instance dans le ressort duquel se trouve soit l'aéronef, soit son port
-d'attache, soit le lieu où il est immatriculé, ou recours à toute procédure correspondante dans les territoires d'outre-mer.
+4° Constitution d'un avocat près le tribunal de grande instance dans le ressort duquel se trouve soit l'aéronef, soit son
+port d'attache, soit le lieu où il est immatriculé, ou recours à toute procédure correspondante dans les territoires d'outre-
+mer.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-29 1966-01-06 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R123-2 (V)
 
 
 #### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.
@@ -2287,25 +2292,25 @@ d'attache, soit le lieu où il est immatriculé, ou recours à toute procédure 
 ###### Article R123-1
 
 Tout créancier inscrit peut requérir la mise aux enchères de l'aéronef en offrant de porter le prix à un dixième en sus et de
-donner caution pour le paiement du prix et des charges.
+donner caution pour le paiement du prix et des charges. 
 
 La réquisition de mise aux enchères doit être signée du créancier et signifiée à l'acquéreur dans le délai de cinq jours de
 la notification augmenté des délais de distance. Elle contient assignation devant le tribunal de grande instance auprès
-duquel l'acquéreur a constitué avoué, pour voir ordonner qu'il sera procédé aux enchères requises. Dans les territoires
-d'outre-mer, l'assignation sera faite devant l'autorité judiciaire correspondante.
+duquel l'acquéreur a constitué avocat, pour voir ordonner qu'il sera procédé aux enchères requises. Dans les territoires
+d'outre-mer, l'assignation sera faite devant l'autorité judiciaire correspondante. 
 
 La vente aux enchères a lieu à la diligence soit du créancier qui l'a requise soit de l'acquéreur, dans les formes établies
 pour les ventes sur saisies.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°66-29 1966-01-06 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article R123-2
@@ -2445,41 +2450,41 @@ délai de convocation est de quinzaine sans augmentation à raison de la distanc
 
 ###### Article R123-7
 
-Dans le cas où les créanciers ne s' entendraient pas sur la distribution du prix, il sera dressé procès- verbal de leurs
+Dans le cas où les créanciers ne s'entendraient pas sur la distribution du prix, il sera dressé procès-verbal de leurs
 prétentions et contredits. Dans la huitaine, chacun des créanciers doit déposer au greffe du tribunal de grande instance une
-demande de collocation contenant constitution d' avoué avec titres à l' appui. A la requête du plus diligent, les créanciers
-sont, par simple acte d' avoué à avoué, appelés devant le tribunal, qui statue à l' égard de tous, même des créanciers
+demande de collocation contenant constitution d'avocat avec titres à l'appui. A la requête du plus diligent, les créanciers
+sont, par simple acte d'avocat à avocat, appelés devant le tribunal, qui statue à l'égard de tous, même des créanciers
 priviligiés. 
 
-Le jugement est signifié dans les trente jours de sa date, à avoué seulement pour les parties présentes et aux domiciles élus
-pour les parties défaillantes ; le jugement n' est pas susceptible d' opposition. Le délai d' appel est de dix jours à
+Le jugement est signifié dans les trente jours de sa date, à avocat seulement pour les parties présentes et aux domiciles
+élus pour les parties défaillantes ; le jugement n'est pas susceptible d'opposition. Le délai d'appel est de dix jours à
 compter de la signification du jugement sous réserve des dispositions des articles 644 et 645 du code de procédure civile. 
 
-L' acte d' appel contient assignation et énonciation des griefs à peine de nullité. La disposition finale de l' article 762
-du code de procédure civile est appliquée, ainsi que les articles 761, 763 et 764 du même code. Dans les huit jours qui
-suivent l' expiration du délai d' appel et, s' il y a appel, dans les huit jours de la signification de l' arrêt le juge déjà
-désigné dresse l' état des créances colloquées en principal, intérêt et frais. Les intérêts des créances utilement colloquées
-cessent de courir à l' égard de la partie saisie. 
+L'acte d'appel contient assignation et énonciation des griefs à peine de nullité. La disposition finale de l'article 762 du
+code de procédure civile est appliquée, ainsi que les articles 761, 763 et 764 du même code. Dans les huit jours qui suivent
+l'expiration du délai d'appel et, s'il y a appel, dans les huit jours de la signification de l'arrêt le juge déjà désigné
+dresse l'état des créances colloquées en principal, intérêt et frais. Les intérêts des créances utilement colloquées cessent
+de courir à l'égard de la partie saisie. 
 
-Les dépens des contestations ne peuvent être pris sur les deniers à distribuer, sauf les frais de l' avoué le plus ancien. 
+Les dépens des contestations ne peuvent être pris sur les deniers à distribuer, sauf les frais de l'avocat le plus ancien. 
 
-Sur l' ordonnance du juge commis, le greffier du tribunal de grande instance délivre les bordereaux de collocation exécutoire
-contre la Caisse des dépôts et consignations dans les termes de l' article 770 du code de procédure civile (ancien). La même
-ordonnance autorisé la radiation par le fonctionnaire chargé de la tenue du registre d' immatriculation des inscriptions des
+Sur l'ordonnance du juge commis, le greffier du tribunal de grande instance délivre les bordereaux de collocation exécutoire
+contre la Caisse des dépôts et consignations dans les termes de l'article 770 du code de procédure civile (ancien). La même
+ordonnance autorisé la radiation par le fonctionnaire chargé de la tenue du registre d'immatriculation des inscriptions des
 créanciers non colloqués. Il est procédé à cette radiation sur la demande de toute partie intéressée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 770 (Ab)
-	  - Code de procédure civile - art. 644 (V)
-	  - Code de procédure civile - art. 761 (V)
-	  - Code de procédure civile - art. 762 (V)
+	  - Code de procédure civile (1807) - art. 770
+	  - Code de procédure civile - art. 644
+	  - Code de procédure civile - art. 761
+	  - Code de procédure civile - art. 762
 
 
 ###### Article R123-8
