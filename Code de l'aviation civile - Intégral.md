@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-08-25
 
 # Partie législative
 
@@ -3645,7 +3645,7 @@ règles relatives à la redevance pour services rendus, dite redevance de route,
 
 Eurocontrol peut demander au ministre chargé de l'aviation civile d'émettre un état exécutoire pour la redevance de route qui
 est due, augmentée éventuellement des éléments accessoires déterminés par les instances internationales compétentes. Cet état
-exécutoire est confié à l'agent judiciaire du Trésor, qui procède au recouvrement dans les conditions prévues pour les
+exécutoire est confié à l'agent judiciaire de l'Etat, qui procède au recouvrement dans les conditions prévues pour les
 créances de l'Etat, mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur
 la comptabilité publique.
 
@@ -3653,15 +3653,11 @@ la comptabilité publique.
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 80 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 80
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°90-641 du 18 juillet 1990 - art. 1 () JORF 21 juillet 1990
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Liens**:
 
@@ -3670,6 +3666,10 @@ la comptabilité publique.
 	  - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. 2 (Ab)
 	  - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. ANNEXE 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. ANNEXE II, III (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R134-3
@@ -3880,19 +3880,19 @@ qualification pour les personnels navigants.
 ###### Article R134-6
 
 Le recouvrement de la redevance pour services terminaux de la circulation aérienne est assuré selon la réglementation en
-vigueur en matière de créances de l'Etat mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 susvisé.
+vigueur en matière de créances de l'Etat mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 susvisé. 
 
 Sous réserve des dispositions de l'alinéa suivant, le paiement doit être effectué avant la date indiquée sur le titre de
 perception ; cette date ne peut être antérieure au trentième jour qui suit la date d'émission du titre de perception. Une
 majoration de 10 p. 100 de la somme à payer et des intérêts de retard sont appliqués en cas de non-paiement à la date
-précitée.
+précitée. 
 
 Le paiement comptant peut être requis du redevable s'il apparaît que cette procédure est mieux à même de garantir le
-recouvrement de la créance de l'Etat.
+recouvrement de la créance de l'Etat. 
 
 A défaut de paiement, constaté par les agents chargés du recouvrement de la redevance pour services terminaux de la
 circulation aérienne, un état exécutoire pour le montant restant dû en principal, majorations et intérêts liquidés, est émis
-par le ministre chargé de l'aviation civile. Cet état exécutoire est confié à l'agent judiciaire du Trésor.
+par le ministre chargé de l'aviation civile. Cet état exécutoire est confié à l'agent judiciaire de l'Etat. 
 
 Les modalités de perception de la redevance sont précisées par arrêté du ministre chargé des finances et du ministre chargé
 de l'aviation civile.
@@ -3901,20 +3901,20 @@ de l'aviation civile.
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 80 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 80
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°90-221 du 9 mars 1990 - art. 1 () JORF 11 mars 1990
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
 	  - Arrêté du 9 mars 1990 - art. 6 (Ab)
 	  - Arrêté du 16 avril 1996 - art. 6 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R134-7
