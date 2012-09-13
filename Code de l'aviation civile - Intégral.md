@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2012-08-25
+Version Consolidée au 2012-09-14
 
 # Partie législative
 
@@ -21426,9 +21426,10 @@ taux de l'élément variable de cette redevance sont fixés par l'arrêté du 27
 
 ###### Article D224-2
 
-I.-Une commission consultative économique unique est créée pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-Orly. 
+I. - Une commission consultative économique unique est créée pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-
+Orly. 
 
-II.-Les membres de la commission sont nommés pour trois ans par le préfet de région. 
+II. - Les membres de la commission sont nommés pour trois ans par le préfet de région. 
 
 Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile. 
 
@@ -21463,6 +21464,38 @@ Peuvent en outre siéger sans voix délibérative :
 
 - en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence.
 
+III. - Une commission consultative économique est créée pour l'aérodrome de Paris-Le Bourget.
+
+Ses membres sont nommés pour trois ans par le préfet de région.
+
+Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile.
+
+Les autres membres sont nommés sur proposition de l'organisme qu'ils représentent, à raison de :
+
+- quatre représentants de la société Aéroports de Paris ;
+
+- des représentants d'usagers aéronautiques ;
+
+- des représentants d'organisations professionnelles du transport aérien ;
+
+- des représentants des entreprises d'assistance en escale ou de leurs organisations professionnelles.
+
+A l'exception du président, les membres peuvent se faire suppléer aux réunions de la commission par une personne dûment
+mandatée par eux. Ils peuvent également se faire accompagner par des personnes n'ayant pas voix délibérative et dont le
+nombre maximal est fixé dans le règlement intérieur.
+
+Peuvent, en outre, siéger sans voix délibérative :
+
+- le directeur général de l'aviation civile ou son représentant ;
+
+- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+
+- le membre du corps du contrôle général économique et financier compétent pour Aéroports de Paris ;
+
+- les fonctionnaires et militaires responsables sur l'aérodrome des contrôles aux frontières ou de la sûreté ;
+
+- en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21475,7 +21508,7 @@ Peuvent en outre siéger sans voix délibérative :
 
 	**Modifié par**:
 
-	  - Décret n°2012-468 du 10 avril 2012 - art. 2
+	  - Décret n°2012-1045 du 11 septembre 2012 - art. 1
 
 
 ###### Article D224-3
