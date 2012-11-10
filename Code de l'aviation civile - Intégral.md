@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2012-09-14
+Version Consolidée au 2012-11-11
 
 # Partie législative
 
@@ -3646,14 +3646,10 @@ règles relatives à la redevance pour services rendus, dite redevance de route,
 Eurocontrol peut demander au ministre chargé de l'aviation civile d'émettre un état exécutoire pour la redevance de route qui
 est due, augmentée éventuellement des éléments accessoires déterminés par les instances internationales compétentes. Cet état
 exécutoire est confié à l'agent judiciaire de l'Etat, qui procède au recouvrement dans les conditions prévues pour les
-créances de l'Etat, mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur
-la comptabilité publique.
+créances de l'Etat, mentionnées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 80
 
 	**Codifié par**:
 
@@ -3667,9 +3663,13 @@ la comptabilité publique.
 	  - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. ANNEXE 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. ANNEXE II, III (Ab)
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 112
+
 	**Modifié par**:
 
-	  - Décret n°2012-985 du 23 août 2012 - art. 4
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 4
 
 
 ###### Article R134-3
@@ -3880,7 +3880,8 @@ qualification pour les personnels navigants.
 ###### Article R134-6
 
 Le recouvrement de la redevance pour services terminaux de la circulation aérienne est assuré selon la réglementation en
-vigueur en matière de créances de l'Etat mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 susvisé. 
+vigueur en matière de créances de l'Etat mentionnées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique susvisé. 
 
 Sous réserve des dispositions de l'alinéa suivant, le paiement doit être effectué avant la date indiquée sur le titre de
 perception ; cette date ne peut être antérieure au trentième jour qui suit la date d'émission du titre de perception. Une
@@ -3899,10 +3900,6 @@ de l'aviation civile.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 80
-
 	**Codifié par**:
 
 	  - Décret n°67-334 du 30 mars 1967
@@ -3912,9 +3909,13 @@ de l'aviation civile.
 	  - Arrêté du 9 mars 1990 - art. 6 (Ab)
 	  - Arrêté du 16 avril 1996 - art. 6 (VT)
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 112
+
 	**Modifié par**:
 
-	  - Décret n°2012-985 du 23 août 2012 - art. 4
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 4
 
 
 ###### Article R134-7
