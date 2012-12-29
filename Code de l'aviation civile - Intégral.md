@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-12-30
 
 # Partie législative
 
@@ -22322,10 +22322,10 @@ sauvegarde.
 
 ###### Article D242-8
 
-Par dérogation à l'article D. 242-7, le préfet peut autoriser, dans les mêmes zones, des installations et équipements
-concourant à la sécurité de la navigation aérienne et du transport aérien public sous réserve qu'une étude technique
-approuvée par les services de l'aviation civile démontre que la sécurité et la régularité de l'exploitation des aéronefs ne
-sont pas affectées. 
+Par dérogation à l'article D. 242-7, le représentant de l'Etat territorialement compétent peut autoriser, dans les mêmes
+zones, des installations et équipements concourant à la sécurité de la navigation aérienne et du transport aérien public,
+sous réserve qu'une étude technique approuvée par le ministre chargé de l'aviation civile et, le cas échéant, le ministre de
+la défense démontre que la sécurité et la régularité de l'exploitation des aéronefs ne sont pas affectées. 
 
 Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est transmise au maire de la commune concernée.
 
@@ -22343,11 +22343,33 @@ Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est t
 
 	**Modifié par**:
 
-	  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+	  - Décret n°2012-1495 du 27 décembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. D242-7
+	  - Code de l'aviation civile - art. D242-7 (V)
+
+
+###### Article D242-9
+
+Par dérogation à l'article D. 242-7, le représentant de l'Etat territorialement compétent peut autoriser, dans les mêmes
+zones, et pour une durée limitée qu'il précise, des constructions ou installations nécessaires à la conduite de travaux sous
+réserve qu'une étude technique approuvée par le ministre chargé de l'aviation civile et, le cas échéant, le ministre de la
+défense démontre que la sécurité de l'exploitation des aéronefs n'est pas compromise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°67-335 du 30 mars 1967
+
+	**Modifié par**:
+
+	  - Décret n°2012-1495 du 27 décembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. D242-7 (V)
 
 
 ###### Article D242-11
