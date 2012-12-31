@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2012-12-30
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -1863,19 +1863,19 @@ versée en application de l'article L. 426-1.
 
 La cotisation dont le personnel navigant professionnel de l'aéronautique civile est redevable à la caisse de retraites
 instituée en application de l'article L. 426-1 est précomptée sur la rémunération perçue lors de chaque paie par les
-intéressés. Ceux-ci ne peuvent s'opposer à ce prélèvement.
+intéressés. Ceux-ci ne peuvent s'opposer à ce prélèvement. 
 
 Le montant des cotisations précomptées et des cotisations à la charge de l'exploitant doit être versé par ce dernier à la
-caisse de retraites dans les délais fixés par le conseil d'administration de la caisse.
+caisse de retraites dans les délais fixés par le conseil d'administration de la caisse. 
 
 Les versements qui ne sont pas effectués dans le délai ci-dessus prévu sont passibles d'une majoration de retard dont le taux
-est égal à celui en vigueur dans le régime général de la sécurité sociale.
+est égal à celui en vigueur dans le régime général de la sécurité sociale. 
 
-Le paiement des cotisations est garanti pendant un an, à dater de leur exigibilité :
+Le paiement des cotisations est garanti pendant un an, à dater de leur exigibilité : 
 
-a) Par un privilège mobilier qui prend rang concurremment avec celui établi par l'article 2331 (4°) du code civil ;
+a) Par un privilège mobilier qui prend rang concurremment avec celui établi par l'article 2331 (4°) du code civil ; 
 
-b) Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques (1).
+b) Par une hypothèque légale prenant rang du jour de son inscription au fichier immobilier.
 
 **Nota:**
 
@@ -1883,16 +1883,7 @@ Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des disposi
 effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne les deuxième
 et troisième alinéas de l'article L. 426-5 (Fin de vigueur : date indéterminée).
 
-(1) L'ordonnance n° 2010-638, article 13, a modifié l'article L. 426-5 du code de l'aviation civile en remplaçant les mots
-"au bureau des hypothèques" par les mots "au fichier immobilier". Cette mise à jour sera reportée au 1er janvier 2013 (entrée
-en vigueur différée) à l'article L. 6527-10 du code des transports qui a remplacé l'article L. 426-5 du code de l'aviation
-civile.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-333 du 30 mars 1967
 
 	**Cité par**:
 
@@ -1900,22 +1891,10 @@ civile.
 	  - Code de l'aviation civile - art. L427-2 (VT)
 	  - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 13
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
 	**Cite**:
 
-	  - Code civil - art. 2331
-	  - Code de l'aviation civile - art. L426-1
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L6527-10 (VT)
+	  - Code civil - art. 2331 (V)
+	  - Code de l'aviation civile - art. L426-1 (Ab)
 
 
 ## LIVRE V : DISPOSITIONS PARTICULIERES A LA FORMATION AERONAUTIQUE.
@@ -6058,144 +6037,216 @@ modalités en matière de formation préalable à la délivrance de ces titres d
 
 ##### Section 4 : Formation
 
-###### Article R213-10
+###### Article R213-4
 
-I.-L'employeur des personnes visées aux articles R. 213-1-1 (VI), R. 282-6, R. 321-6, R. 321-8 et R. 321-10 s'assure des
-compétences de son personnel dans le domaine de la sûreté du transport aérien requises pour l'exercice des tâches qui lui
-sont confiées. 
+I. - La certification des compétences : 
 
-A cette fin, il met en oeuvre un plan destiné à dispenser au personnel concerné les formations initiales et continues ainsi
-que les entraînements périodiques prévus par les articles susmentionnés. Ce plan et ses mises à jour sont tenus à disposition
-des services compétents de l'Etat. 
+a) Des agents effectuant les tâches mentionnées aux points 11.2.3.1 à 11.2.3.5 de l'annexe au règlement (UE) n° 185/2010 ; 
 
-L'employeur atteste par écrit de la participation de chacun des personnels et, le cas échéant, des personnels intérimaires à
-ces formations et à ces entraînements. Il présente les attestations aux services compétents de l'Etat. 
+b) Des agents supervisant directement ceux mentionnés à l'alinéa précédent ; et 
 
-Ces entraînements et formations sont dispensés par des entreprises ou organismes liés par une convention avec l'Etat. Cette
-convention est signée par le préfet du lieu de l'établissement après instruction des services de l'aviation civile. A Paris,
-la compétence appartient au préfet de police. 
+c) Des instructeurs dispensant les formations définies aux points 11.2.3.1 à 11.2.3.5 ainsi qu'aux points 11.2.4 et 11.2.5 de
+l'annexe au règlement n° 185/2010, 
 
-II.-Le plan comprend notamment : 
+est délivrée par le ministre chargé des transports. 
 
-a) L'identification des structures et des personnes qui, au sein de l'entreprise ou de l'organisme, sont chargées de
-l'élaboration du plan, de son suivi et de sa mise en oeuvre ; 
+La certification est valable sur l'ensemble du territoire national, pour les durées fixées au point 11.3 de l'annexe au
+règlement (UE) n° 185/2010. 
 
-b) Les références et qualifications professionnelles dans le domaine de la sûreté du transport aérien et en matière de
-pédagogie des personnes dispensant les formations et les entraînements ; 
+II. - En cas de non-conformité relevée aux obligations auxquelles les personnes visées au I sont soumises en vertu des normes
+de l'Union européenne et nationales en matière de sûreté ou lorsque celles-ci peuvent constituer, par leurs méthodes de
+travail ou par leur comportement professionnel, un risque pour la sûreté, le ministre chargé des transports peut : 
 
-c) La description des moyens pédagogiques et techniques utilisés, les programmes des formations initiales et continues et des
-entraînements périodiques selon les fonctions exercées par le personnel, répondant aux conditions fixées dans les articles R.
-213-11 et R. 213-12 ; 
+- suspendre ou retirer la certification prévue au I. Sauf en cas d'urgence, la personne concernée est alors préalablement
+avisée de la mesure de suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations
+écrites ou orales. En cas d'urgence, la suspension immédiate peut être prononcée pour une durée maximale d'un mois
+reconductible une fois au cas où les circonstances l'exigent ; 
 
-d) Les modalités d'évaluation collective des formations et des entraînements et les situations dans lesquelles des formations
-et des entraînements complémentaires sont dispensés. 
+- imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée.
+Sauf en cas d'urgence, la personne concernée est alors préalablement avisée de la mesure envisagée et dispose d'un délai de
+dix jours pour présenter ses observations écrites ou orales. 
 
-Toutefois le plan des entreprises unipersonnelles sera limité à la liste et au programme des formations suivies et, pour
-chaque formation, aux références et qualifications professionnelles dans le domaine de la sûreté du transport aérien et en
-matière de pédagogie des personnes dispensant les formations et les entraînements. 
+L'employeur de la personne concernée est tenu informé, dans les meilleurs délais, des mesures prises en vertu des deux
+précédents alinéas. 
 
-III.-Un arrêté du ministre chargé des transports précise : 
+III. - L'employeur des personnes visées aux a, b et c du I s'assure de la certification de leurs compétences pour les tâches
+qui leur sont confiées. 
 
-a) Les informations figurant dans le plan, ainsi que sa structure type ; 
+IV. - L'employeur des personnes : 
 
-b) Les références et les qualifications professionnelles minimales des personnels dispensant les formations et les
-entraînements ; 
+a) Qui effectuent des tâches énumérées aux points 11.2.3.6 à 11.2.3.10 de l'annexe au règlement n° 185/2010 ; 
 
-c) Les informations figurant dans les attestations ; 
+b) Qui supervisent directement celles mentionnées à l'alinéa précédent ; 
 
-d) Les conditions que doivent respecter les entreprises ou organismes assurant les formations et entraînements.
+c) Qui effectuent des tâches énumérées aux points 11.2.5 et 11.2.6 de l'annexe au règlement (UE) n° 185/2010, 
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2012-832 du 29 juin 2012 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2012-833 du 29 juin 2012 - art. 6
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R213-1-1 (V)
-	  - Code de l'aviation civile - art. R213-7 (Ab)
-	  - Code de l'aviation civile - art. R217-1 (V)
-	  - Code de l'aviation civile - art. R217-3 (VT)
-
-
-###### Article R213-11
-
-Sans préjudice des diplômes ou qualifications éventuellement exigés de toute personne employée pour participer à une activité
-de sécurité privée, les formations initiales et continues ainsi que les entraînements périodiques que reçoivent les agents
-mentionnés aux articles R. 282-6 et R. 321-10 répondent à des objectifs pédagogiques et respectent des durées minimales
-définis par un arrêté conjoint des ministres chargés des transports, de l'intérieur, de la défense et des douanes prenant en
-compte les visites ou les vérifications spéciales devant être exercées et les dispositifs techniques de contrôle utilisés.
-Les objectifs pédagogiques fixent les notions, les situations, les techniques et les procédures que l'agent doit maîtriser à
-l'issue de chaque formation ou entraînement.
+s'assure qu'elles ont suivi avec succès une formation conforme aux exigences des paragraphes du point 11.2 de l'annexe au
+règlement (UE) n° 185/2010, correspondant à leur activité. Il atteste par écrit la participation de chacun des personnels à
+ces formations et conserve un dossier individuel de formation au moins pendant toute la durée de leur contrat. Il présente,
+sur leur demande, ces attestations et les dossiers afférents aux services compétents de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Décret n°67-334 du 30 mars 1967
+	  - Arrêté du 4 avril 1996 - art. 11 (V)
+	  - Code de l'aviation civile - art. R213-4-1 (VD)
+	  - Code de l'aviation civile - art. R213-4-3 (VD)
+	  - Code de l'aviation civile - art. R217-3 (V)
+	  - Code de la sécurité intérieure - art. R625-10 (VD)
 
-	**Liens**:
+	**Créé par**:
 
-	  - DEPLACE: Décret n°2012-832 du 29 juin 2012 - art. 4
+	  - Décret n°2012-833 du 29 juin 2012 - art. 1
 
-	**Abrogé par**:
 
-	  - Décret n°2012-833 du 29 juin 2012 - art. 6
+###### Article R213-4-1
+
+Le ministre chargé des transports peut recourir aux organismes placés sous sa tutelle ou agréer des organismes ou
+entreprises, pour une durée maximale de cinq ans, afin qu'ils concourent au processus de certification et délivrent la
+certification prévue à l'article R. 213-4.
+
+En cas de non-conformité relevée aux obligations auxquelles sont soumis ces entreprises ou organismes agréés ou lorsqu'ils
+peuvent constituer, par leurs méthodes de travail, le comportement professionnel de leurs dirigeants ou de leurs agents, un
+risque pour la sûreté, le ministre chargé des transports peut :
+
+- suspendre ou retirer l'agrément. Sauf en cas d'urgence, le titulaire de l'agrément est préalablement avisé de la mesure de
+suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas
+d'urgence, la suspension immédiate de l'agrément peut être prononcée pour une durée maximale d'un mois, reconductible une
+fois au cas où les circonstances l'exigent ;
+
+- imposer des mesures restrictives d'exploitation ou des mesures correctives ou de nature à compenser la non-conformité
+relevée. Sauf en cas d'urgence, l'organisme ou l'entreprise concerné est préalablement avisé de la mesure envisagée et
+dispose d'un délai de dix jours ouvrés pour présenter ses observations écrites ou orales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-833 du 29 juin 2012 - art. 1
 
 	**Cité par**:
 
-	  - Code de l'aviation civile - art. R213-10 (V)
-	  - Code de l'aviation civile - art. R213-7 (Ab)
-	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Arrêté du 24 octobre 2012 - art. 6 (Ab)
+	  - Arrêté du 24 octobre 2012 - art. 7 (Ab)
+	  - Code de l'aviation civile - art. R217-3 (V)
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R282-6
-	  - Code de l'aviation civile - art. R321-10
+	  - Code de l'aviation civile - art. R213-4 (VD)
 
 
-###### Article R213-12
+###### Article R213-4-2
 
-Les formations initiales et continues ainsi que les entraînements périodiques que reçoivent les personnes mentionnées aux
-articles R. 213-1-1 (VI), R. 321-6 et R. 321-8 répondent à des objectifs pédagogiques et respectent des durées minimales
-définis par un arrêté du ministre chargé des transports, compte tenu des fonctions devant être exercées et des compétences
-techniques exigées. Les objectifs pédagogiques fixent les notions, les situations, les techniques et les procédures que la
-personne doit maîtriser à l'issue de chaque formation ou entraînement. Le contenu de ces formations peut être différent selon
-le trafic des plates-formes ou l'existence de circonstances spécifiques locales au regard des objectifs de sûreté des vols et
-des personnes.
+I. - Les organismes ou entreprises faisant appel à des instructeurs qualifiés pour délivrer les formations prévues aux points
+11.2.3.6 à 11.2.3.10 et 11.2.6 maintiennent à jour la liste de ces instructeurs prévue au point 11.5.1 de l'annexe au
+règlement (UE) n° 185/2010. Ils tiennent cette liste à disposition des services compétents de l'Etat. 
+
+II. - Lorsqu'un instructeur qualifié ne respecte pas les normes de sûreté de l'Union européenne et nationales relatives au
+contenu des formations et à leurs conditions de délivrance ou lorsque celui-ci peut constituer, par ses méthodes de travail
+ou par son comportement professionnel, un risque pour la sûreté, le ministre chargé des transports peut : 
+
+- demander le retrait, temporaire ou définitif, de l'instructeur de la liste des instructeurs qualifiés. Sauf en cas
+d'urgence, l'instructeur concerné est alors préalablement avisé de la mesure de suspension ou de retrait envisagée et dispose
+d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas d'urgence, la suspension immédiate peut être
+prononcée pour une durée maximale d'un mois reconductible une fois au cas où les circonstances l'exigent ; 
+
+- imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée.
+Sauf en cas d'urgence, l'instructeur concerné est alors préalablement avisé de la mesure envisagée et dispose d'un délai de
+dix jours pour présenter ses observations écrites ou orales. 
+
+L'employeur de l'instructeur concerné est tenu informé, dans les meilleurs délais, des mesures prises en vertu des deux
+précédents alinéas.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2012-832 du 29 juin 2012 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2012-833 du 29 juin 2012 - art. 6
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R213-1-1 (V)
+	  - Décret n°2012-833 du 29 juin 2012 - art. 1
 
 	**Cité par**:
 
-	  - Code de l'aviation civile - art. R213-10 (V)
-	  - Code de l'aviation civile - art. R213-7 (Ab)
-	  - Code de l'aviation civile - art. R217-1 (V)
+	  - Code de l'aviation civile - art. R217-3 (V)
+
+
+###### Article R213-4-3
+
+Un arrêté pris conjointement par le ministre chargé des transports, le ministre de l'intérieur et le ministre chargé des
+douanes fixe les modalités d'application des articles R. 213-4 à R. 213-4-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-833 du 29 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R213-4 (VD)
+
+
+###### Article R213-4-4
+
+En application du point 11.2.1.3 de l'annexe au règlement (UE) n° 185/2010, le contenu des cours portant sur la sûreté de
+l'aviation civile fait l'objet d'une approbation par le ministre chargé des transports. L'entreprise ou l'organisme ayant
+élaboré le contenu d'un cours fait une demande d'approbation auprès du ministre chargé des transports. Toute évolution
+substantielle du contenu des cours doit être portée à la connaissance du ministre chargé des transports. 
+
+Lorsque le contenu du cours n'est plus conforme aux exigences réglementaires en vigueur, le ministre chargé des transports
+peut : 
+
+- suspendre ou retirer cette approbation. L'entreprise ou l'organisme intéressé est préalablement avisé de la mesure de
+suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales ; 
+
+- imposer des mesures restrictives d'exploitation ou des mesures correctives ou de nature à compenser la non-conformité
+relevée. Sauf en cas d'urgence, l'entreprise ou l'organisme concerné est préalablement avisé de la mesure envisagée et
+dispose d'un délai de dix jours ouvrés pour présenter ses observations écrites ou orales. 
+
+Un arrêté conjoint pris par le ministre chargé des transports, le ministre de l'intérieur et le ministre chargé des douanes
+fixe les modalités d'application du présent article. Il peut prévoir des durées minimales de formation, des méthodes
+pédagogiques et des modalités de vérification de connaissances. 
+
+Un arrêté pris par le ministre chargé des transports fixe les modalités d'approbation du contenu du cours, notamment les
+éléments à transmettre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-833 du 29 juin 2012 - art. 1
+
+
+###### Article R213-4-5
+
+I.-Les personnes citées aux points 11.1.2 de l'annexe du règlement (UE) n° 185/2010 doivent avoir subi avec succès une
+vérification de leurs antécédents comme définie au point 11.1.3 de cette annexe. 
+
+II.-L'employeur des personnes citées aux points 11.1.1 et 11.1.2 de l'annexe au règlement (UE) n° 185/2010 met en œuvre les
+mesures énoncées au point 11.1 de cette annexe. 
+
+III.-En application du point 11.1.5 de l'annexe au règlement (UE) n° 185/2010, l'employeur des personnes citées aux points
+11.1.1 et 11.1.2 de cette annexe qui effectue la vérification des antécédents en atteste le succès auprès des organismes de
+formation avant que ces personnes ne suivent une formation à la sûreté donnant accès à des informations non publiquement
+accessibles. Dans le cas où la personne n'aurait pas d'employeur, l'organisme de formation effectue la vérification des
+antécédents. 
+
+IV.-L'autorisation préalable prévue à l'article L. 612-22 du code de la sécurité intérieure se substitue, le cas échéant, à
+la vérification des antécédents en ce qui concerne la prise en considération du casier judiciaire mentionnée au b du point
+11.1.3 de l'annexe au règlement (UE) n° 185/2010. 
+
+V.-La liste des formations à la sûreté donnant accès à des informations non publiquement accessibles visées au point 11.1.5
+de l'annexe au règlement (UE) n° 185/2010 ainsi que les modalités d'application du présent article sont fixées par un arrêté
+conjoint pris par le ministre chargé des transports, le ministre de l'intérieur et le ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L612-22 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-833 du 29 juin 2012 - art. 1
 
 
 ##### Section 5 : Mise en œuvre des mesures de sûreté
@@ -7406,7 +7457,10 @@ communes dans le domaine de la sûreté de l'aviation civile, de son annexe et d
 Commission en application de son article 4 ; 
 
 f) Des mesures prises par l'autorité administrative compétente en vertu du deuxième alinéa des articles L. 6753-1, L. 6763-5,
-L. 6773-5 et L. 6783-6 du code des transports, 
+L. 6773-5 et L. 6783-6 du code des transports ;
+
+g) Des mesures restrictives d'activité et des mesures correctives ou de nature à compenser une non-conformité relevée prévues
+au II des articles R. 213-4 et R. 213-4-2,  
 
 le préfet peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont
 tirés, après avis de la commission instituée à l'article R. 217-3-3 :
@@ -7415,7 +7469,7 @@ tirés, après avis de la commission instituée à l'article R. 217-3-3 :
 750 euros ;
 
 - soit suspendre l'autorisation ou le titre de circulation prévu aux articles R. 213-3-2 et R. 213-3-3 pour une durée ne
-pouvant pas excéder trente jours. Dans ce cas, il en exige la remise immédiate. 
+pouvant pas excéder trente jours. Dans ce cas, il en exige la remise immédiate ;
 
 Toutefois, l'amende ne peut excéder 150 euros et la durée de la suspension six jours, en cas de défaut de port apparent ou de
 l'utilisation en dehors de leur zone de validité du titre de circulation ou d'une autorisation de circulation de véhicule.
@@ -7431,7 +7485,7 @@ b) Des arrêtés préfectoraux et de leurs mesures particulières d'application 
 
 c) De l'article L. 6341-1 du code des transports, de l'article L. 6342-1 du code des transports, de l'article L. 6342-4 du
 code des transports en ce qu'il prévoit que les agents effectuant des inspections-filtrages et des fouilles de sûreté sont
-agréés, de l'article R. 213-3 et des textes pris pour leur application ; 
+agréés, de l'article R. 213-3, R. 213-4-4 et R. 213-4-5 et des textes pris pour leur application ; 
 
 d) Du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles
 communes dans le domaine de la sûreté de l'aviation civile, de son annexe et des règlements et leurs annexes pris par la
@@ -7442,14 +7496,17 @@ prévues aux IV, V et VI de l'article R. 213-2-1 et au II de l'article R. 213-2-
 
 f) De l'article R. 213-5-1 et des textes pris pour son application ; 
 
-g) Des articles R. 213-10, R. 213-11 et R. 213-12 et des textes pris pour leur application ; 
+g) Des mesures restrictives d'activité et des mesures correctives ou de nature à compenser une non-conformité relevée prévues
+au II des articles R. 213-4 et R. 213-4-2 et à l'article R. 213-4-1 ; 
 
 h) Des mesures prises par l'autorité administrative compétente en vertu du deuxième alinéa des articles L. 6753-1, L. 6763-5,
-L. 6773-5 et L. 6783-6 du code des transports, 
+L. 6773-5 et L. 6783-6 du code des transports ;
+
+i) Des III et IV de l'article R. 213-4, et du I de l'article R. 213-4-2,  
 
 le préfet peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont
 tirés, après avis de la commission instituée à l'article R. 217-3-3, prononcer à l'encontre de la personne morale responsable
-une amende administrative d'un montant maximal de 7 500 euros. 
+une amende administrative d'un montant maximal de 7 500 euros ;
 
 Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation des documents exigibles par la
 réglementation. Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à
@@ -7470,31 +7527,23 @@ de mesure.
 
 	**Modifié par**:
 
-	  - Décret n°2012-832 du 29 juin 2012 - art. 9
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R213-1-1 (V)
-	  - Code de l'aviation civile - art. R213-1-2 (V)
-	  - Code de l'aviation civile - art. R213-1-5 (V)
-	  - Code de l'aviation civile - art. R213-10 (VT)
-	  - Code de l'aviation civile - art. R213-3 (V)
-	  - Code de l'aviation civile - art. R213-3-2 (V)
-	  - Code de l'aviation civile - art. R213-3-3 (V)
-	  - Code de l'aviation civile - art. R213-5-1 (V)
-	  - Code des transports - art. L6341-1
-	  - Code des transports - art. L6342-1
-	  - Code des transports - art. L6342-4
-	  - Code des transports - art. L6753-1 (V)
-	  - Code des transports - art. L6763-5 (V)
-	  - Code des transports - art. L6773-5
-	  - Code des transports - art. L6783-6
+	  - Décret n°2012-833 du 29 juin 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R217-3-2 (V)
 	  - Code de l'aviation civile - art. R217-3-3 (V)
 	  - Code de l'aviation civile - art. R217-3-4 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L6341-1
+	  - Code des transports - art. L6342-1
+	  - Code des transports - art. L6342-4
+	  - Code des transports - art. L6753-1
+	  - Code des transports - art. L6763-5
+	  - Code des transports - art. L6773-5
+	  - Code des transports - art. L6783-6
 
 
 ###### Article R217-3-1
@@ -21427,10 +21476,9 @@ taux de l'élément variable de cette redevance sont fixés par l'arrêté du 27
 
 ###### Article D224-2
 
-I. - Une commission consultative économique unique est créée pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-
-Orly. 
+I.-Une commission consultative économique unique est créée pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-Orly. 
 
-II. - Les membres de la commission sont nommés pour trois ans par le préfet de région. 
+II.-Les membres de la commission sont nommés pour trois ans par le préfet de région. 
 
 Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile. 
 
@@ -21459,17 +21507,17 @@ Peuvent en outre siéger sans voix délibérative :
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le membre du corps du contrôle général économique et financier compétent pour Aéroports de Paris ;
+- le        contrôleur budgétaire compétent pour Aéroports de Paris ;
 
 - les fonctionnaires et militaires responsables sur les aérodromes des contrôles aux frontières ou de la sûreté ;
 
-- en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence.
+- en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence. 
 
-III. - Une commission consultative économique est créée pour l'aérodrome de Paris-Le Bourget.
+III.-Une commission consultative économique est créée pour l'aérodrome de Paris-Le Bourget. 
 
-Ses membres sont nommés pour trois ans par le préfet de région.
+Ses membres sont nommés pour trois ans par le préfet de région. 
 
-Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile.
+Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile. 
 
 Les autres membres sont nommés sur proposition de l'organisme qu'ils représentent, à raison de :
 
@@ -21479,11 +21527,11 @@ Les autres membres sont nommés sur proposition de l'organisme qu'ils représent
 
 - des représentants d'organisations professionnelles du transport aérien ;
 
-- des représentants des entreprises d'assistance en escale ou de leurs organisations professionnelles.
+- des représentants des entreprises d'assistance en escale ou de leurs organisations professionnelles. 
 
 A l'exception du président, les membres peuvent se faire suppléer aux réunions de la commission par une personne dûment
 mandatée par eux. Ils peuvent également se faire accompagner par des personnes n'ayant pas voix délibérative et dont le
-nombre maximal est fixé dans le règlement intérieur.
+nombre maximal est fixé dans le règlement intérieur. 
 
 Peuvent, en outre, siéger sans voix délibérative :
 
@@ -21491,7 +21539,7 @@ Peuvent, en outre, siéger sans voix délibérative :
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le membre du corps du contrôle général économique et financier compétent pour Aéroports de Paris ;
+- le        contrôleur budgétaire compétent pour Aéroports de Paris ;
 
 - les fonctionnaires et militaires responsables sur l'aérodrome des contrôles aux frontières ou de la sûreté ;
 
@@ -21509,7 +21557,7 @@ Peuvent, en outre, siéger sans voix délibérative :
 
 	**Modifié par**:
 
-	  - Décret n°2012-1045 du 11 septembre 2012 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D224-3
