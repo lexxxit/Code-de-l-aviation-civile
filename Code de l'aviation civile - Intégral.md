@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2013-01-02
+Version Consolidée au 2013-01-12
 
 # Partie législative
 
@@ -10866,6 +10866,20 @@ d'embarquement.
 	**Créé par**:
 
 	  - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+
+
+###### Article R322-7
+
+Les compagnies aériennes effectuant des transports à destination des zones du territoire national où la vaccination
+antiamarile est obligatoire vérifient, avant l'embarquement, que les voyageurs sont régulièrement autorisés à atterrir au
+point d'arrivée et aux escales prévues et sont à cet égard en possession d'un certificat de vaccination antiamarile ou d'un
+certificat de contre-indication médicale à cette vaccination.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-30 du 9 janvier 2013 - art. 4
 
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.
