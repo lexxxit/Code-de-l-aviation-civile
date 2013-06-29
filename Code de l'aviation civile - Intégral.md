@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2013-03-23
+Version Consolidée au 2013-06-30
 
 # Partie législative
 
@@ -16701,19 +16701,19 @@ faire la déclaration sans délai au service de police ou de gendarmerie le plus
 ###### Article R722-2
 
 Sur proposition du directeur du BEA, le ministre chargé de l'aviation civile arrête la liste des incidents qui, outre les
-accidents, doivent être portés à la connaissance du service. Cette liste comprend au moins les incidents graves figurant en
-annexe à la directive 94/56/CE du Conseil du 24 novembre 1994 établissant les principes fondamentaux régissant les enquêtes
-sur les accidents et les incidents dans l'aviation civile. Elle est publiée au Journal officiel de la République française.
+accidents, doivent être portés à la connaissance du service. Cette liste comprend au moins les incidents graves mentionnés à
+titre d'exemples en annexe au règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les
+enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+	  - Décret n°2013-565 du 26 juin 2013 - art. 3
 
 	**Cité par**:
 
@@ -16721,63 +16721,53 @@ sur les accidents et les incidents dans l'aviation civile. Elle est publiée au 
 	  - Code de l'aviation civile - art. R722-4 (V)
 	  - Code de l'aviation civile - art. R722-5 (V)
 
-	**Cite**:
-
-	  - Directive 94-56 1994-11-21
-
 
 ###### Article R722-3
 
-Le commandant de bord d'un aéronef visé au II de l'article L. 711-1 et effectuant un vol dans l'espace aérien français
-déclare sans retard à l'organisme de la circulation aérienne avec lequel il est en contact ou, à défaut, au responsable de
-l'aérodrome le plus proche tout accident ou tout incident mentionné dans la liste prévue à l'article R. 722-2, impliquant son
-aéronef et constaté par lui.
-
-Dans le cas où le commandant de bord est empêché de faire cette déclaration ou lorsque l'accident ou l'incident est survenu
-hors de l'espace aérien français à un aéronef immatriculé en France ou exploité par une personne physique ou morale ayant en
-France son principal établissement ou son siège statutaire, la déclaration est faite sans retard au BEA par l'exploitant de
-l'aéronef, le président de l'aéro-club dont dépend l'aéronef ou le propriétaire de l'aéronef.
-
-Dans les entreprises ou organismes ayant organisé et mis en oeuvre des procédures agréées par le BEA pour garantir la
-préservation et la bonne transmission des informations, la déclaration prévue au premier alinéa peut être transmise par
-l'employeur au BEA.
+Tout exploitant qui a en France son siège ou son principal établissement et qui exploite un aéronef autre que ceux visés à
+l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles
+communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne ou, à défaut, tout
+commandant de bord d'un tel aéronef informe sans retard le BEA de tout accident ou incident d'aviation civile survenu à cet
+aéronef et mentionné dans la liste prévue à l'article R. 722-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+	  - Décret n°2013-565 du 26 juin 2013 - art. 3
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-1 (M)
-	  - Code de l'aviation civile - art. R722-2 (M)
+	  - Code de l'aviation civile - art. R722-2
 
 
 ###### Article R722-4
 
-Les agents chargés du contrôle ou de l'information de la circulation aérienne générale qui constatent ou sont informés d'un
-accident ou d'un incident mentionné dans la liste prévue à l'article R. 722-2 en informent le BEA selon les modalités fixées
-par arrêté du ministre chargé de l'aviation civile, pris sur proposition du directeur du BEA. Ils prennent les dispositions
-de nature à préserver les informations pouvant être utiles à une enquête technique.
+Tout prestataire de services civils de navigation aérienne au sens du 4 de l'article 2 du règlement (CE) n° 549/2004 du
+Parlement européen et du Conseil du 10 mars 2004 fixant le cadre pour la réalisation du Ciel unique européen qui constate
+qu'un accident ou un incident d'aviation civile mentionné dans la liste prévue à l'article R. 722-2 est survenu, qui en est
+informé ou qui est impliqué dans sa survenance, en informe sans retard le BEA. Les modalités de cette information sont fixées
+par l'accord préalable prévu au 3 de l'article 12 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20
+octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la
+directive 94/56 CE.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+	  - Décret n°2013-565 du 26 juin 2013 - art. 3
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R722-2 (M)
+	  - Code de l'aviation civile - art. R722-2
 
 
 ###### Article R722-5
@@ -16987,6 +16977,16 @@ l'article R. 722-1 est puni de l'amende prévue pour les contraventions de 2e cl
 
 	  - Code de l'aviation civile - art. R722-1 (V)
 
+
+## LIVRE VII : ENQUETE DE SECURITE RELATIVE AUX ACCIDENTS OU INCIDENTS
+
+### TITRE Ier : DISPOSITIONS GENERALES.
+
+### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS
+
+### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.
+
+### TITRE IV : DISPOSITIONS PENALES.
 
 # Partie réglementaire - Décrets simples
 
