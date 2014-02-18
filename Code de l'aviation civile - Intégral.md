@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2013-06-30
+Version Consolidée au 2014-02-19
 
 # Partie législative
 
@@ -16379,7 +16379,7 @@ correspondante.
 	  - Code de l'aviation civile - art. R611-3 (V)
 
 
-## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION
+## LIVRE VII : ENQUETE DE SECURITE RELATIVE AUX ACCIDENTS OU INCIDENTS
 
 ### TITRE Ier : DISPOSITIONS GENERALES.
 
@@ -16977,16 +16977,6 @@ l'article R. 722-1 est puni de l'amende prévue pour les contraventions de 2e cl
 
 	  - Code de l'aviation civile - art. R722-1 (V)
 
-
-## LIVRE VII : ENQUETE DE SECURITE RELATIVE AUX ACCIDENTS OU INCIDENTS
-
-### TITRE Ier : DISPOSITIONS GENERALES.
-
-### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS
-
-### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.
-
-### TITRE IV : DISPOSITIONS PENALES.
 
 # Partie réglementaire - Décrets simples
 
@@ -23174,18 +23164,18 @@ projets de loi et de règlement, les projets de texte communautaire et les proje
 d'exploitation de transporteur aérien ou d'autorisation d'exploitation de services aériens. 
 
 Le Conseil supérieur de l'aviation civile peut, lorsqu'il en décide à la majorité, présenter au ministre chargé de l'aviation
-civile toute proposition portant sur des questions intéressant le transport aérien. 
+civile toute proposition portant sur des questions intéressant le transport aérien.
 
-Le ministre chargé de l'aviation civile peut saisir le Conseil supérieur de l'aviation civile de tout avis du   Conseil
-supérieur des transports terrestres et de l'intermodalité qui intéresse le transport aérien. Il transmet les avis du Conseil
-supérieur de l'aviation civile au   Conseil supérieur des transports terrestres et de l'intermodalité sur toute question
-relevant également de la compétence de ce dernier.
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-253 du 21 février 2012 - art. 13
+	  - Décret n°2014-132 du 17 février 2014 - art. 30
 
 	**Anciens textes**:
 
@@ -23240,7 +23230,7 @@ France et de l'Assemblée des départements de France ;
 
 Les représentants des ministres sont nommés sur proposition de chacun d'entre eux ; 
 
-4° Le président du Conseil supérieur des transports terrestres et de l'intermodalité ;
+4° (Abrogé) ;
 
 5° Trois représentants des entreprises de transport aérien désignés après avis des organisations professionnelles
 intéressées ; 
@@ -23261,11 +23251,16 @@ chargé de l'aviation civile.
 
 La durée du mandat des membres du Conseil supérieur de l'aviation civile est de cinq ans.
 
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil supérieur de l'aviation civile est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-253 du 21 février 2012 - art. 13
+	  - Décret n°2014-132 du 17 février 2014 - art. 30
 
 	**Anciens textes**:
 
