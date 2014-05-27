@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-05-28
 
 # Partie législative
 
@@ -16383,63 +16383,6 @@ correspondante.
 
 ### TITRE Ier : DISPOSITIONS GENERALES.
 
-###### Article R711-1
-
-L'organisme permanent spécialisé chargé, en application des articles L. 711-1 et L. 711-2, de procéder aux enquêtes
-techniques relatives aux accidents ou incidents dans l'aviation civile est un service à compétence nationale placé auprès du
-vice-président du conseil général des ponts et chaussées, qui a pour nom : "Bureau d'enquêtes et d'analyses pour la sécurité
-de l'aviation civile" et pour sigle "BEA".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-	**Cité par**:
-
-	  - Décret n°2007-1572 du 6 novembre 2007 - art. 3 (V)
-	  - Décret n°2008-680 du 9 juillet 2008 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. R1621-1 (V)
-	  - Code des transports - art. R1621-5 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-1
-	  - Code de l'aviation civile - art. L711-2
-
-
-###### Article R711-2
-
-Le BEA propose au ministre chargé de l'aviation civile la réglementation relative à la préservation des éléments de l'enquête
-technique ainsi qu'à l'utilisation générale des enregistreurs de bord.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-
 ###### Article R711-3
 
 Le BEA comporte un secrétariat général, des départements et des divisions. Il comprend une unité chargée de la communication.
@@ -16455,66 +16398,11 @@ Le BEA comporte un secrétariat général, des départements et des divisions. I
 	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
-###### Article R711-4
-
-Le directeur du BEA est nommé, pour une durée de sept ans, par arrêté du ministre chargé de l'aviation civile, sur la
-proposition du vice-président du conseil général des ponts et chaussées formulée après avis du bureau de ce conseil, parmi
-les fonctionnaires de l'Etat de catégorie A ayant au moins vingt ans d'expérience professionnelle dans des domaines de
-l'aviation civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. R1621-6 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-
 ###### Article R711-5
 
-Le BEA comprend des enquêteurs techniques et des agents techniques ou administratifs, qui sont des fonctionnaires affectés
-après avis du directeur du BEA, ou, à défaut, des agents contractuels recrutés après avis de ce dernier conformément aux
-dispositions législatives et réglementaires en vigueur.
-
-Les enquêteurs techniques sont désignés parmi les fonctionnaires de catégorie A ou les agents contractuels de même niveau.
-Sur la proposition du directeur du BEA, ils sont commissionnés par le ministre chargé de l'aviation civile sous réserve de
-n'avoir subi aucune condamnation incompatible avec l'exercice de leur fonction. Le commissionnement des enquêteurs techniques
-peut leur être retiré dans l'intérêt du service selon la même procédure.
-
-Le BEA peut faire appel à des experts, qui peuvent appartenir à des organismes homologues d'Etats membres de l'organisation
-de l'aviation civile internationale. Les experts sont soumis au secret professionnel dans les mêmes conditions que les agents
-du BEA.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-
-###### Article R711-6
-
-Les enquêteurs de première information prévus à l'article L. 711-3 sont agréés par le directeur du BEA, sur la proposition
-des chefs des services déconcentrés de l'aviation civile dont ils dépendent, parmi les fonctionnaires des corps techniques de
-l'aviation civile ayant accompli au moins trois années de services effectifs dans leur corps après leur titularisation.
-
-Le directeur du BEA peut également agréer en qualité d'enquêteurs de première information des agents techniques de son
-service.
+Le BEA comprend des agents techniques ou administratifs, qui sont des fonctionnaires affectés après avis du directeur du BEA,
+ou, à défaut, des agents contractuels recrutés après avis de ce dernier conformément aux dispositions législatives et
+réglementaires en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -16522,46 +16410,19 @@ service.
 
 	  - Décret n°67-334 du 30 mars 1967
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R1621-7 (V)
+	  - Code des transports - art. R1621-8 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-	**Abrogé par**:
-
 	  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-3
 
 
 ###### Article R711-7
 
-Le directeur du BEA dirige l'action du BEA. Il a autorité sur tous les personnels. Il détermine l'organisation particulière
-de celui-ci.
-
-Il est l'ordonnateur secondaire des recettes et des dépenses du service.
-
-Il peut donner par décisions expresses délégation aux fonctionnaires et agents relevant de son autorité pour signer tous
-actes, décisions, contrats, conventions et avenants, ainsi que tous bons de commande et pièces comptables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-
-###### Article R711-8
-
-Le directeur du BEA fixe le champ d'investigation et les méthodes de chaque enquête technique au regard des objectifs fixés à
-l'article L. 711-1.
-
-Il désigne l'enquêteur technique chargé d'en assurer l'organisation, la conduite et le contrôle.
+Il détermine l'organisation particulière de celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -16569,21 +16430,13 @@ Il désigne l'enquêteur technique chargé d'en assurer l'organisation, la condu
 
 	  - Décret n°67-334 du 30 mars 1967
 
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
 	**Nouveaux textes**:
 
-	  - Code des transports - art. R1621-3 (V)
+	  - Code des transports - art. R1621-2 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-1
 
 
 ###### Article R711-9
@@ -16593,65 +16446,9 @@ conditions fixées au IV de l'article L. 711-1.
 
 Il peut accepter la délégation par un Etat étranger de la réalisation de tout ou partie d'une enquête technique.
 
-Il organise la participation française aux enquêtes techniques menées par un Etat étranger et fixe les règles relatives à
-cette participation dans les conditions prévues par les conventions internationales auxquelles la France est partie et par la
-directive 94/56/CE du Conseil du 21 novembre 1994 établissant les principes fondamentaux régissant les enquêtes sur les
-accidents et les incidents dans l'aviation civile. Dans les mêmes conditions, les représentants des Etats concernés par un
-accident ou un incident peuvent participer à l'enquête technique sous le contrôle du BEA.
-
 Lorsqu'il en a connaissance, il informe l'autorité judiciaire compétente de tout accident d'aviation civile survenu en dehors
 du territoire et de l'espace aérien français et ayant entraîné le décès d'une ou de plusieurs personnes de nationalité
 française.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Directive 94-56 1994-11-21
-	  - Code de l'aviation civile - art. L711-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-
-###### Article R711-10
-
-La commission d'enquête prévue à l'article L. 711-2 est présidée par un membre ou un ancien membre de l'inspection générale
-de l'aviation civile.
-
-Elle comprend, outre le président :
-
-- un membre ou un ancien membre du Conseil d'Etat ;
-
-- un membre de la section sécurité et navigation aérienne de l'inspection générale de l'aviation civile ;
-
-- un membre du personnel navigant professionnel de l'aéronautique civile désigné pour sa connaissance du milieu
-professionnel ;
-
-- une personne désignée pour sa connaissance de la conduite des aéronefs ;
-
-- une personne désignée pour sa connaissance de l'exploitation des aéronefs ;
-
-- une personne désignée pour sa connaissance de la construction aéronautique ;
-
-- deux personnes désignées pour leurs compétences particulières en rapport avec le type d'accident, objet de l'enquête.
-
-Les membres de la commission d'enquête sont nommés par arrêté du ministre chargé de l'aviation civile sur la proposition du
-chef de l'inspection générale de l'aviation civile.
-
-La commission d'enquête est tenue informée du déroulement de l'enquête technique. Elle peut proposer au BEA des recherches
-complémentaires. Elle est consultée sur le projet de rapport d'enquête.
-
-Les réunions de la commission d'enquête ne sont pas publiques.
-
-Le directeur du BEA ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions.
-
-L'activité de la commission d'enquête prend fin à la publication du rapport d'enquête.
 
 **Liens relatifs à cet article**
 
@@ -16661,15 +16458,15 @@ L'activité de la commission d'enquête prend fin à la publication du rapport d
 
 	**Modifié par**:
 
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-	**Abrogé par**:
-
 	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-2
+	  - Code de l'aviation civile - art. L711-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R1621-4 (V)
 
 
 ### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS
@@ -16879,38 +16676,10 @@ transports est fixée par arrêté conjoint des deux ministres.
 
 ### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.
 
-###### Article R731-1
+###### Article R731-3
 
-Le directeur du BEA et, le cas échéant, le président de la commission d'enquête, habilités en application du II de l'article
-L. 731-1 à communiquer sur les constatations faites, le déroulement de l'enquête technique et éventuellement ses conclusions
-provisoires, utilisent les moyens qu'ils estiment appropriés tels que communiqués, conférences de presse, entretiens avec des
-journalistes ou insertions d'informations par tout support d'information à distance. Ils peuvent recevoir les victimes
-d'accidents d'aviation civile, leurs familles et leurs associations représentatives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L731-1
-
-
-###### Article R731-2
-
-Les destinataires de recommandations de sécurité mentionnées au I de l'article L. 711-1 font connaître au BEA, dans un délai
-de quatre-vingt-dix jours après leur réception, les suites qu'ils entendent leur donner et, le cas échéant, le délai
-nécessaire à leur mise en oeuvre.
+Ils sont communicables dans les conditions prévues au titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses
+mesures d'amélioration des relations entre l'administration et le public.
 
 **Liens relatifs à cet article**
 
@@ -16918,42 +16687,17 @@ nécessaire à leur mise en oeuvre.
 
 	  - Décret n°67-334 du 30 mars 1967
 
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978
+
 	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
-
-	**Abrogé par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art. 8
 
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-1
-
 	**Nouveaux textes**:
 
-	  - Code des transports - art. R1621-9 (M)
-
-
-###### Article R731-3
-
-Les rapports d'enquête ainsi que les études et les statistiques établies par le BEA sont publics. Ils sont communicables dans
-les conditions prévues au titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
-relations entre l'administration et le public. Ils sont mis à la disposition du public par tout moyen.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Loi n°78-753 1978-07-17
-
-	**Modifié par**:
-
-	  - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
+	  - Code des transports - art. R1621-10 (V)
 
 
 ### TITRE IV : DISPOSITIONS PENALES.
