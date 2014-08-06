@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2014-05-28
+Version Consolidée au 2014-08-07
 
 # Partie législative
 
@@ -4462,48 +4462,55 @@ IV.-L'action publique est éteinte lorsque l'auteur de l'infraction a payé la s
 
 ###### Article R160-1
 
-I. - Le ministre chargé de l'aviation civile peut prononcer une amende administrative à l'encontre d'un transporteur aérien
-ou de tout autre exploitant d'aéronef civil qui :
+I.-Le ministre chargé de l'aviation civile peut prononcer une amende administrative à l'encontre d'un transporteur aérien ou
+de tout autre exploitant d'aéronef civil qui : 
 
 1° Lorsque ceci préjudicie aux activités de l'aéroport ou au trafic aérien, procède sur un aéroport coordonné, de façon
 répétée et intentionnelle, en violation de l'article R. 132-4, à des atterrissages ou à des décollages sans disposer des
 créneaux horaires correspondants, ou à des horaires significativement différents des créneaux horaires qui lui ont été
 attribués à cet effet par le coordonnateur de l'aéroport, ou utilise des créneaux horaires d'une manière significativement
-différente de celle indiquée au moment de l'attribution.
+différente de celle indiquée au moment de l'attribution. 
 
 2° Soit exploite un aéronef en contradiction avec la réglementation relative au retrait d'exploitation des aéronefs
-bruyants ;
+bruyants ; 
 
 3° Soit ne respecte pas les obligations en matière de couverture minimale d'assurance fixées par les dispositions du
 règlement (CE) n° 785/2004 du Parlement européen et du Conseil du 21 avril 2004 relatif aux exigences en matière d'assurance
-applicables aux transporteurs aériens et aux exploitants d'aéronefs.
+applicables aux transporteurs aériens et aux exploitants d'aéronefs ; 
+
+4° Soit dépose un plan de vol mentionnant une exemption de créneau de départ de gestion des courants de trafic aérien
+(créneau de départ ATFM) pour un motif abusif ou, en méconnaissance de l'article 7, paragraphe 1, du règlement (UE) n°
+255/2010 de la Commission du 25 mars 2010 établissant des règles communes relatives à la gestion des courants de trafic
+aérien, dépose plusieurs plans de vol pour un même vol ou dépose un plan de vol qui ne rend pas compte du profil de vol
+prévu. 
 
 Le ministre chargé de l'aviation civile fixe le montant de l'amende en tenant compte du type et de la gravité des manquements
 constatés et, éventuellement, des avantages qui en sont retirés. Ce montant ne peut excéder, par manquement constaté, 1 500
 euros pour une personne physique et 7 500 euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau
-manquement commis dans un délai d'un an à compter du précédent manquement.
+manquement commis dans un délai d'un an à compter du précédent manquement. 
 
 Lorsque ce manquement mentionné au 3° présente un caractère de particulière gravité, le ministre peut, à la place de l'amende
 administrative, prononcer soit le retrait de la licence d'exploitation, soit le refus du droit d'atterrir sur le territoire
-national conformément aux paragraphes 5 et 6 de l'article 8 du règlement précité.
+national conformément aux paragraphes 5 et 6 de l'article 8 du règlement précité. 
 
-II. - Lorsque le titulaire de la licence de maintenance d'aéronefs commet, dans l'exercice ou à l'occasion de l'exercice de
-ses fonctions, une des actions énumérées dans la liste du paragraphe 66 B 500 de l'annexe III (partie 66) au règlement
-mentionné à l'article R. 133-17, le ministre chargé de l'aviation civile peut, compte tenu du type et de la gravité des
-manquements constatés, prononcer à son encontre l'une des sanctions suivantes :
+II.-Lorsque le titulaire de la licence de maintenance d'aéronefs commet, dans l'exercice ou à l'occasion de l'exercice de ses
+fonctions, une des actions énumérées dans la liste du paragraphe 66 B 500 de l'annexe III (partie 66) au règlement mentionné
+à l'article R. 133-17, le ministre chargé de l'aviation civile peut, compte tenu du type et de la gravité des manquements
+constatés, prononcer à son encontre l'une des sanctions suivantes : 
 
-1° L'avertissement ;
+1° L'avertissement ; 
 
-2° La suspension, jusqu'à ce qu'un complément de formation pratique et/ou théorique réalisé dans les conditions fixées par la
-décision de sanction ait été suivi par l'intéressé, de la licence, des catégories et qualifications qui y sont mentionnées ;
+2° La suspension, jusqu'à ce qu'un complément de formation pratique et/ ou théorique réalisé dans les conditions fixées par
+la décision de sanction ait été suivi par l'intéressé, de la licence, des catégories et qualifications qui y sont
+mentionnées ; 
 
-3° Le retrait temporaire avec ou sans sursis de la licence, des qualifications et catégories qui y sont mentionnées ;
+3° Le retrait temporaire avec ou sans sursis de la licence, des qualifications et catégories qui y sont mentionnées ; 
 
 4° Le retrait définitif de la licence, des catégories et qualifications qui y sont indiquées avec interdiction, le cas
 échéant, d'en solliciter de nouveau la délivrance à titre définitif ou pendant une durée déterminée par la décision de
-sanction.
+sanction. 
 
-III. - Le ministre chargé de l'aviation civile peut suspendre à titre conservatoire, dans l'attente de la consultation de la
+III.-Le ministre chargé de l'aviation civile peut suspendre à titre conservatoire, dans l'attente de la consultation de la
 commission mentionnée à l'article R. 160-3, la licence de maintenance d'aéronefs, pour une durée qui ne peut excéder quatre
 mois, s'il estime que les manquements qui ont été portés à sa connaissance sont de nature à mettre gravement en cause la
 sécurité aérienne. Il prononce, après avis de la commission, une décision définitive de sanction avant la fin de la
@@ -4522,11 +4529,7 @@ du 8 juin 2014 (Commission administrative de l'aviation civile).
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-863 du 14 mai 2007 - art. 4 () JORF 15 mai 2007
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cité par**:
 
@@ -4540,45 +4543,53 @@ du 8 juin 2014 (Commission administrative de l'aviation civile).
 	  - Code de l'aviation civile - art. R160-15 (V)
 	  - Code de l'aviation civile - art. R160-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-880 du 1er août 2014 - art. 1
+
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R132-4 (M)
+	  - Code de l'aviation civile - art. R132-4 (V)
 	  - Code de l'aviation civile - art. R133-17 (V)
 	  - Code de l'aviation civile - art. R160-3 (V)
-	  - Code de l'aviation civile R132-4, annexe III, R133-17, R160-3
 
 
 ###### Article R160-2
 
 Les manquements mentionnés à l'article R. 160-1 sont constatés par les fonctionnaires et agents énumérés à l'article L.
-150-13 et font l'objet de procès-verbaux. Ces procès-verbaux sont notifiés dans le délai d'un an à compter de la commission
-des manquements à la ou aux personnes concernées et transmis au ministre chargé de l'aviation civile. La notification indique
-le montant maximal de l'amende ou le degré maximal de la sanction encourue. La ou les personnes concernées sont invitées à
-présenter leurs observations dans un délai d'un mois à compter de cette notification.
+6142-1 du code des transports et font l'objet de procès-verbaux. Ces procès-verbaux sont notifiés dans le délai d'un an à
+compter de la commission des manquements à la ou aux personnes concernées et transmis au ministre chargé de l'aviation
+civile. La notification indique le montant maximal de l'amende ou le degré maximal de la sanction encourue. La ou les
+personnes concernées sont invitées à présenter leurs observations dans un délai d'un mois à compter de cette notification. 
 
 A l'expiration de ce dernier délai et préalablement au prononcé des amendes et sanctions prévues à l'article R. 160-1, le
 ministre chargé de l'aviation civile saisit pour avis la commission mentionnée à l'article R. 160-3. La ou les personnes
-concernées par cette saisine en sont informées.
+concernées par cette saisine en sont informées. 
 
-Les décisions du ministre mentionnées à l'article R. 160-1 sont notifiées à la ou aux personnes concernées.
+Les décisions du ministre mentionnées à l'article R. 160-1 sont notifiées à la ou aux personnes concernées. 
 
 Les amendes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Nota:**
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, la Commission administrative de l'aviation civile est
+renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°2007-863 du 14 mai 2007 - art. 5 () JORF 15 mai 2007
+	  - Décret n°2014-880 du 1er août 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L150-13 (M)
 	  - Code de l'aviation civile - art. R160-1 (M)
 	  - Code de l'aviation civile - art. R160-3 (V)
+	  - Code des transports - art. L6142-1
 
 	**Cité par**:
 
