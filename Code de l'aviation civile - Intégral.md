@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2014-08-07
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -5066,18 +5066,19 @@ Texte de l'article 2 du décret n° 84-617 du 17 juillet 1984, et non l'article 
 ###### Article R211-5
 
 En application de la loi n° 83-630 du 12 juillet 1983 et du décret n° 85-453 du 23 avril 1985 (1), les travaux suivants sont
-précédés d'une enquête publique organisée conformément aux dispositions des chapitres Ier et II dudit décret :
+précédés d'une enquête publique organisée conformément aux dispositions des chapitres Ier et II dudit décret : 
 
 1. Réalisation d'un nouvel aérodrome, à l'exception des aérodromes à usage privé visés à l'article D. 233-1 du présent code
-et des hélistations destinées au transport à la demande.
+et des hélistations destinées au transport à la demande. 
 
-2. Réalisation d'une nouvelle piste à l'intérieur des limites d'un aérodrome soumis à enquête en application du 1 ci-dessus ;
+2. Réalisation d'une nouvelle piste à l'intérieur des limites d'un aérodrome soumis à enquête en application du 1 ci-
+dessus ; 
 
 3. Travaux exécutés en vue du changement de catégorie, au sens des dispositions de l'article R. 222-5 du présent code, d'un
-aérodrome soumis à enquête en application du 1 ci-dessus.
+aérodrome soumis à enquête en application du 1 ci-dessus. 
 
 Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée conformément aux
-dispositions des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+dispositions du chapitre III du titre II du livre Ier du code de l'environnement.
 
 **Nota:**
 
@@ -5090,33 +5091,22 @@ code.
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cite**:
 
-	  - Décret n°85-453 1985-04-23
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-10 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-11 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-12 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-13 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-14 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-15 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-2 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-3 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-4 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-5 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-6 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-7 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-8 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-9 (M)
-	  - Code de l'aviation civile - art. D233-1 (V)
-	  - Code de l'aviation civile - art. R222-5 (V)
-	  - Loi n°1983-07-12
+	  - Loi n°83-630 du 12 juillet 1983
+	  - Décret n°85-453 du 23 avril 1985
+	  - Code de l'aviation civile - art. D233-1
+	  - Code de l'aviation civile - art. R222-5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-453 1985-04-23 art. 39 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1110 du 11 août 2016 - art. 5
 
 
 ###### Article R211-6
@@ -8074,7 +8064,7 @@ travaux aux frais du signataire de la convention.
 
 ###### Article R221-10
 
-Conformément à l'article R. 11-2 du code de l'expropriation pour cause d'utilité publique, les travaux de création et
+Conformément à l'article R. 121-2 du code de l'expropriation pour cause d'utilité publique, les travaux de création et
 d'établissement des aérodromes de catégorie A définis à l'article R. 222-5 du présent code ne peuvent être déclarés d'utilité
 publique que par décret en Conseil d'Etat, même si les conclusions du commissaire-enquêteur ou de la commission d'enquête
 sont favorables.
@@ -8083,15 +8073,15 @@ sont favorables.
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-2 (M)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R121-2 (V)
 	  - Code de l'aviation civile - art. R222-5 (V)
 
 
