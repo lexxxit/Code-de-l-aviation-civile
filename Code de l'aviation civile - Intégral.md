@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-23
 
 # Partie législative
 
@@ -4465,11 +4465,13 @@ IV.-L'action publique est éteinte lorsque l'auteur de l'infraction a payé la s
 I.-Le ministre chargé de l'aviation civile peut prononcer une amende administrative à l'encontre d'un transporteur aérien ou
 de tout autre exploitant d'aéronef civil qui : 
 
-1° Lorsque ceci préjudicie aux activités de l'aéroport ou au trafic aérien, procède sur un aéroport coordonné, de façon
-répétée et intentionnelle, en violation de l'article R. 132-4, à des atterrissages ou à des décollages sans disposer des
-créneaux horaires correspondants, ou à des horaires significativement différents des créneaux horaires qui lui ont été
-attribués à cet effet par le coordonnateur de l'aéroport, ou utilise des créneaux horaires d'une manière significativement
-différente de celle indiquée au moment de l'attribution. 
+1° Procède sur un aéroport coordonné, en violation de l'article R. 132-4 :
+
+- à un atterrissage ou à un décollage sans disposer du créneau horaire correspondant ;
+
+- à des atterrissages ou à des décollages, de façon répétée et intentionnelle, à des horaires significativement différents
+des créneaux horaires qui lui ont été attribués à cet effet par le coordonnateur de l'aéroport ou en utilisant des créneaux
+horaires d'une manière significativement différente de celle indiquée au moment de l'attribution ; 
 
 2° Soit exploite un aéronef en contradiction avec la réglementation relative au retrait d'exploitation des aéronefs
 bruyants ; 
@@ -4482,12 +4484,18 @@ applicables aux transporteurs aériens et aux exploitants d'aéronefs ;
 (créneau de départ ATFM) pour un motif abusif ou, en méconnaissance de l'article 7, paragraphe 1, du règlement (UE) n°
 255/2010 de la Commission du 25 mars 2010 établissant des règles communes relatives à la gestion des courants de trafic
 aérien, dépose plusieurs plans de vol pour un même vol ou dépose un plan de vol qui ne rend pas compte du profil de vol
-prévu. 
+prévu ; 
+
+5° Soit ne dispose pas d'un plan d'aide aux victimes d'accidents de l'aviation civile et à leurs proches tel que prévu par
+l'article 21 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la
+prévention des accidents et des incidents dans l'aviation civile. 
 
 Le ministre chargé de l'aviation civile fixe le montant de l'amende en tenant compte du type et de la gravité des manquements
 constatés et, éventuellement, des avantages qui en sont retirés. Ce montant ne peut excéder, par manquement constaté, 1 500
 euros pour une personne physique et 7 500 euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau
-manquement commis dans un délai d'un an à compter du précédent manquement. 
+manquement commis dans un délai d'un an à compter du jour où la sanction administrative infligée au titre d'un précédent
+manquement de même nature est devenue définitive. Pour l'application du présent alinéa, le manquement constaté s'entend par
+vol. 
 
 Lorsque ce manquement mentionné au 3° présente un caractère de particulière gravité, le ministre peut, à la place de l'amende
 administrative, prononcer soit le retrait de la licence d'exploitation, soit le refus du droit d'atterrir sur le territoire
@@ -4514,7 +4522,20 @@ III.-Le ministre chargé de l'aviation civile peut suspendre à titre conservato
 commission mentionnée à l'article R. 160-3, la licence de maintenance d'aéronefs, pour une durée qui ne peut excéder quatre
 mois, s'il estime que les manquements qui ont été portés à sa connaissance sont de nature à mettre gravement en cause la
 sécurité aérienne. Il prononce, après avis de la commission, une décision définitive de sanction avant la fin de la
-suspension.
+suspension. 
+
+IV.-Le ministre chargé de l'aviation civile peut prononcer des amendes administratives à l'encontre des organismes qui ne
+respectent pas les exigences techniques de sécurité mentionnées à l'article L. 6221-1 du code des transports ou les exigences
+résultant du règlement (UE) n° 376/2014 du Parlement européen et du Conseil du 3 avril 2014 concernant les comptes rendus,
+l'analyse et le suivi d'événements dans l'aviation civile. 
+
+Le ministre chargé de l'aviation civile fixe le montant des amendes en tenant compte du type et de la gravité des manquements
+constatés, du risque pour la sécurité et, éventuellement, des avantages qui en sont retirés. Ce montant ne peut excéder, par
+manquement constaté, 7 500 €. Ce plafond peut être doublé en cas de nouveau manquement commis dans un délai d'un an à compter
+du jour où est devenue définitive la sanction administrative infligée au titre d'un précédent manquement de même nature aux
+exigences techniques de sécurité mentionnées à l'article L. 6221-1 du code des transports ou aux exigences résultant du
+règlement (UE) n° 376/2014 du Parlement européen et du Conseil du 3 avril 2014 concernant les comptes rendus, l'analyse et le
+suivi d'événements dans l'aviation civile.
 
 **Nota:**
 
@@ -4524,6 +4545,9 @@ administrative de l'aviation civile).
 
 Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
 du 8 juin 2014 (Commission administrative de l'aviation civile).
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, la Commission administrative de l'aviation civile est
+renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -4545,13 +4569,14 @@ du 8 juin 2014 (Commission administrative de l'aviation civile).
 
 	**Modifié par**:
 
-	  - Décret n°2014-880 du 1er août 2014 - art. 1
+	  - Décret n°2015-197 du 20 février 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R132-4 (V)
-	  - Code de l'aviation civile - art. R133-17 (V)
-	  - Code de l'aviation civile - art. R160-3 (V)
+	  - Code de l'aviation civile - art. R132-4
+	  - Code de l'aviation civile - art. R133-17
+	  - Code de l'aviation civile - art. R160-3
+	  - Code des transports - art. L6221-1 (V)
 
 
 ###### Article R160-2
@@ -4725,7 +4750,8 @@ La formation " Passagers " comprend :
 1° Deux représentants des transporteurs aériens ou de leurs organisations professionnelles, dont un représentant des
 compagnies non établies en France desservant le territoire national ; 
 
-2° Un représentant des agents de voyages désigné sur proposition du ministre chargé du tourisme ; 
+2° Un représentant des agents de voyages et autres opérateurs de la vente de voyages et de séjours, désigné sur proposition
+du ministre chargé du tourisme ; 
 
 3° Un représentant des exploitants d'aéroports ; 
 
@@ -4740,7 +4766,7 @@ compagnies non établies en France desservant le territoire national ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-90 du 24 janvier 2011 - art. 2
+	  - Décret n°2015-197 du 20 février 2015 - art. 3
 
 	**Cite**:
 
@@ -4799,12 +4825,25 @@ du 8 juin 2014 (Commission administrative de l'aviation civile).
 	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
 
 
+###### Article R160-7-2
+
+Le président de la commission administrative de l'aviation civile ou son suppléant reçoit pour chaque séance de la commission
+une indemnité dont le taux est fixé par arrêté conjoint des ministres chargés de l'aviation civile et du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 4
+
+
 ###### Article R160-8
 
 Afin d'instruire l'affaire dont est saisie la commission, un rapporteur est choisi par le président soit sur une liste de
 personnalités établie par le ministre chargé de l'aviation civile, soit parmi les fonctionnaires appartenant à un corps de
-catégorie A de la direction générale de l'aviation civile ou, pour les manquements relevant des paragraphes 5 et 8. de
-l'article R. 330-20 et commis par des agents de voyages, de la direction du tourisme. 
+catégorie A de la direction générale de l'aviation civile ou, pour les manquements relevant des 5 et 8 de l'article R. 330-20
+et commis par des agents de voyages et autres opérateurs de la vente de voyages et de séjours, du ministère chargé du
+tourisme. 
 
 Le président ou le rapporteur peuvent demander l'audition de toute personne ou la production de toute pièce qu'ils estiment
 utile à l'examen de l'affaire dont la commission a été saisie. 
@@ -4829,7 +4868,7 @@ du 8 juin 2014 (Commission administrative de l'aviation civile).
 
 	**Modifié par**:
 
-	  - Décret n°2008-1445 du 22 décembre 2008 - art. 1
+	  - Décret n°2015-197 du 20 février 2015 - art. 5
 
 	**Cité par**:
 
@@ -4840,7 +4879,7 @@ du 8 juin 2014 (Commission administrative de l'aviation civile).
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R330-20
+	  - Code de l'aviation civile - art. R330-20 (V)
 
 
 ###### Article R160-9
@@ -4983,6 +5022,23 @@ juridiction.
 	  - Code de l'aviation civile - art. R217-5-1 (V)
 	  - Code de l'aviation civile - art. R217-7 (Ab)
 	  - Code de l'aviation civile - art. R330-21 (V)
+
+
+###### Article R160-15
+
+Le ministre chargé de l'aviation civile publie sur le site internet du ministère chargé de l'aviation civile, pendant la
+durée qu'elle indique, l'intégralité ou un extrait de la décision de sanction devenue définitive prise au titre du I et du IV
+de l'article R. 160-1. L'identité des personnes physiques n'est pas divulguée lors de cette publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R160-1
 
 
 ## LIVRE II : AERODROMES.
@@ -7769,20 +7825,31 @@ droits des personnes handicapées et des personnes à mobilité réduite lorsqu'
 Les manquements visés à l'article R. 217-4 sont constatés par les fonctionnaires et agents énumérés à l'article L. 6431-1 du
 code des transports. 
 
-Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10 et R. 160-14 sont applicables.
+Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10 et R. 160-14 sont applicables. 
+
+Pour l'application de l'article R. 160-2 aux manquements mentionnés à l'article R. 217-4, les procès-verbaux sont notifiés à
+la ou aux personnes concernées, dans le délai d'un an à compter de la connaissance des faits constitutifs du manquement par
+l'organisme national chargé de l'application du règlement mentionné à l'article R. 217-4 et transmis au ministre chargé de
+l'aviation civile. 
+
+La connaissance des faits constitutifs du manquement est réputée établie à la date de la mise en demeure, adressée à la ou
+aux personnes concernées, de se conformer aux obligations fixées par le règlement mentionné à l'article R. 217-4. Cette mise
+en demeure est effectuée par l'organisme mentionné à l'alinéa précédent après réception de tous les documents comportant les
+informations pertinentes relatives au manquement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-832 du 29 juin 2012 - art. 10
-
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R160-14 (V)
-	  - Code de l'aviation civile - art. R160-2 (V)
-	  - Code de l'aviation civile - art. R160-8 (V)
-	  - Code de l'aviation civile - art. R217-4 (V)
+	  - Code des transports - art. L6431-1
+	  - Code de l'aviation civile - art. R160-14
+	  - Code de l'aviation civile - art. R160-2
+	  - Code de l'aviation civile - art. R160-8
+	  - Code de l'aviation civile - art. R217-4
+
+	**Modifié par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 7
 
 
 ###### Article R217-4-2
@@ -7790,17 +7857,113 @@ Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10 e
 Le ministre chargé de l'aviation civile, après avis de la commission administrative de l'aviation civile, fixe, s'il y a
 lieu, le montant de l'amende prévue à l'article R. 217-4 en tenant compte de la nature et de la gravité des manquements
 constatés. Ce montant ne peut excéder 7 500 euros par manquement. Ce plafond est doublé en cas de nouveau manquement commis
-dans le délai d'un an à compter du précédent.
+dans le délai d'un an à compter du jour où la sanction administrative infligée au titre d'un précédent manquement de même
+nature est devenue définitive.
+
+Pour l'application du présent article, le manquement constaté s'entend par obligation de l'exploitant d'aérodrome non
+respectée et par personne physique concernée. 
+
+Le ministre chargé de l'aviation civile publie sur le site internet du ministère chargé de l'aviation civile, pendant la
+durée qu'elle indique, l'intégralité ou un extrait de la décision de sanction devenue définitive prise au titre de l'article
+R. 217-4. L'identité des personnes physiques n'est pas divulguée lors de la publication.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 8
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R217-4
+
+
+##### Section 5 : Non-respect des exigences techniques de sécurité
+
+###### Article R217-5
+
+Le ministre chargé de l'aviation civile peut, après consultation de la commission administrative de l'aviation civile prévue
+à l'article R. 160-3, prononcer des amendes administratives à l'encontre des exploitants d'aérodrome et des prestataires de
+services d'assistance en escale qui ne respectent pas les exigences techniques de sécurité auxquelles ils sont soumis soit en
+vertu du règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes
+dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne ainsi que de ses règles de
+mise en œuvre, soit en vertu du règlement (UE) n° 376/2014 du Parlement européen et du Conseil du 3 avril 2014 concernant les
+comptes rendus, l'analyse et le suivi d'événements dans l'aviation civile, soit en vertu des règles nationales prises en
+application du présent code.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2012-832 du 29 juin 2012 - art. 10
+	  - Décret n°2015-197 du 20 février 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R217-4 (V)
+	  - Code de l'aviation civile - art. R160-3
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R217-5-1 (V)
+	  - Code de l'aviation civile - art. R217-5-3 (V)
+
+
+###### Article R217-5-1
+
+Les manquements visés à l'article R. 217-5 sont constatés par les fonctionnaires et agents énumérés à l'article L. 6142-1 du
+code des transports. Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10 et R. 160-14 sont
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L6142-1
+	  - Code de l'aviation civile - art. R160-10
+	  - Code de l'aviation civile - art. R160-14
+	  - Code de l'aviation civile - art. R160-2
+	  - Code de l'aviation civile - art. R160-8
+	  - Code de l'aviation civile - art. R160-9
+	  - Code de l'aviation civile - art. R217-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 9
+
+
+###### Article R217-5-2
+
+Le ministre chargé de l'aviation civile fixe le montant de l'amende en tenant compte du type et de la gravité des manquements
+constatés, du risque pour la sécurité et, éventuellement, des avantages qui en sont retirés. Ce montant ne peut excéder 7 500
+€ par manquement constaté. Ce plafond peut être doublé en cas de nouveau manquement commis dans un délai d'un an à compter du
+jour où est devenue définitive la sanction administrative infligée au titre d'un précédent manquement de même nature aux
+exigences techniques de sécurité prévues par le règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février
+2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité
+aérienne, ainsi que par ses règles de mise en œuvre, aux exigences résultant du règlement (UE) n° 376/2014 du Parlement
+européen et du Conseil du 3 avril 2014 concernant les comptes rendus, l'analyse et le suivi d'événements dans l'aviation
+civile ou aux règles nationales prises en application du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 9
+
+
+###### Article R217-5-3
+
+Le ministre chargé de l'aviation civile publie sur le site internet du ministère chargé de l'aviation civile, pendant la
+durée qu'elle indique, l'intégralité ou un extrait de la décision de sanction devenue définitive prise au titre de l'article
+R. 217-5. L'identité des personnes physiques n'est pas divulguée lors de cette publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 9
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R217-5 (V)
 
 
 ### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.
@@ -11804,16 +11967,18 @@ Le ministre chargé de l'aviation civile peut, après consultation de la commiss
 à l'article R. 160-3, prononcer une amende administrative à l'encontre de la personne physique ou morale qui : 
 
 1. Soit effectue un transport aérien public, sans être titulaire d'une licence d'exploitation de transporteur aérien en cours
-de validité lorsque celle-ci est requise en application de l'article L. 330-1 ; 
+de validité lorsque celle-ci est requise en application des articles L. 6412-2 ou L. 6412-6 du code des transports, ou bien
+participe à l'organisation ou à la commercialisation d'une telle opération de transport aérien public ; 
 
-2. Soit ne respecte pas les obligations de service public imposées conformément aux dispositions de l'article 4 du règlement
-(CEE) n° 2408/92 du 23 juillet 1992 ;
+2. Soit ne respecte pas les obligations de service public imposées conformément aux dispositions de l'article 16 du règlement
+(CE) n° 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour
+l'exploitation de services aériens dans la Communauté ; 
 
-3. Soit effectue un vol ne figurant pas dans un programme d'exploitation autorisé, conformément aux articles L. 330-2 et L.
-330-3 ; 
+3. Soit effectue un vol ne figurant pas dans un programme d'exploitation autorisé, conformément aux articles L. 6412-3 et L.
+6412-4 du code des transports ; 
 
 4. Soit ne respecte pas les dispositions relatives au dépôt et à l'homologation des tarifs prises en application de l'article
-L. 330-8 ; 
+L. 6412-5 du code des transports ; 
 
 5. Soit ne respecte pas les obligations découlant du règlement (CE) n° 2111/2005 du 14 décembre 2005 reprises aux articles R.
 322-3 à R. 322-6, applicables au contrat de transport aérien en matière d'information sur l'identité du transporteur
@@ -11844,6 +12009,9 @@ administrative de l'aviation civile).
 Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
 du 8 juin 2014 (Commission administrative de l'aviation civile).
 
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, la Commission administrative de l'aviation civile est
+renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -11867,40 +12035,58 @@ du 8 juin 2014 (Commission administrative de l'aviation civile).
 	  - Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003
 	  - Code de l'environnement - art. L229-5
 	  - Code de l'environnement - art. R229-37-7
-	  - Code de l'aviation civile - art. L330-1
-	  - Code de l'aviation civile - art. L330-2
-	  - Code de l'aviation civile - art. L330-8
 	  - Code de l'aviation civile - art. R160-3
 	  - Code de l'aviation civile - art. R322-3
 	  - Code de l'aviation civile - art. R330-3
+	  - Code des transports - art. L6412-2 (V)
+	  - Code des transports - art. L6412-3
+	  - Code des transports - art. L6412-4
+	  - Code des transports - art. L6412-5
+	  - Code des transports - art. L6412-6 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2011-90 du 24 janvier 2011 - art. 2
+	  - Décret n°2015-197 du 20 février 2015 - art. 10
 
 
 ###### Article R330-21
 
-Les manquements visés à l'article R. 330-20 sont constatés par les fonctionnaires et agents énumérés à l'article L. 330-10.
+Les manquements visés à l'article R. 330-20 sont constatés par les fonctionnaires et agents énumérés à l'article L. 6431-1 du
+code des transports. 
 
 Les dispositions prévues aux articles R. 160-2, R. 160-8, R. 160-9, R. 160-10, R. 160-14 du livre Ier du présent code
 s'appliquent pour l'ensemble de la procédure d'instruction, le recouvrement des amendes et le recours éventuel contre les
-décisions du ministre.
+décisions du ministre. 
+
+Pour l'application de l'article R. 160-2 aux manquements correspondant aux 5,6 et 8 de l'article R. 330-20, les procès-
+verbaux sont notifiés à la ou aux personnes concernées, dans le délai d'un an à compter de la connaissance des faits
+constitutifs du manquement, par l'organisme national chargé de l'application des règlements concernés et transmis au ministre
+chargé de l'aviation civile. 
+
+La connaissance des faits constitutifs du manquement est réputée établie à la date de la mise en demeure, adressée à la ou
+aux personnes concernées, de se conformer aux obligations fixées par les règlements mentionnés aux 5,6 et 8 de l'article R.
+330-20. Cette mise en demeure est effectuée par l'organisme mentionné à l'alinéa précédent après réception de tous les
+documents comportant les informations pertinentes relatives au manquement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-863 du 14 mai 2007 - art. 7 () JORF 15 mai 2007
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L330-10 (V)
-	  - Code de l'aviation civile - art. R330-20 (M)
+	  - Code des transports - art. L6431-1
+	  - Code de l'aviation civile - art. R160-10
+	  - Code de l'aviation civile - art. R160-14
+	  - Code de l'aviation civile - art. R160-2
+	  - Code de l'aviation civile - art. R160-8
+	  - Code de l'aviation civile - art. R160-9
+	  - Code de l'aviation civile - art. R330-20 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 11
 
 
 ###### Article R330-22
@@ -11909,32 +12095,55 @@ Le ministre chargé de l'aviation civile, après avis de la commission administr
 lieu, le montant de l'amende prévue à l'article R. 330-20 en tenant compte du type et de la gravité des manquements constatés
 et éventuellement des avantages qui en sont tirés. Ce montant ne peut excéder, par manquement constaté, 1 500 euros pour une
 personne physique et 7 500 euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau manquement commis dans
-le délai d'un an à compter du précédent.
+le délai d'un an à compter du jour où la sanction administrative infligée au titre d'un précédent manquement de même nature
+est devenue définitive. 
 
-**Nota:**
+Pour l'application du présent article aux 1 à 9 de l'article R. 330-20, chaque manquement constaté s'entend ainsi qu'il
+suit :
 
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-administrative de l'aviation civile).
+- par vol pour les 1,3 et 7 ;
+
+- pour le 2, par vol ne respectant pas une des obligations de service public, ou par vol n'ayant pas été effectué alors que
+les obligations de service public l'imposaient ;
+
+- par tarif pour le 4 ;
+
+- par obligation du transporteur non respectée et par personne physique concernée pour les 5,6 et 8 ;
+
+- pour le 9, par obligation fixée à l'article R. 229-37-7 du code de l'environnement non respectée par l'exploitant
+d'aéronef.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°67-334 1967-03-30
+	  - Décret n°67-334 du 30 mars 1967
 
 	**Modifié par**:
 
-	  - Décret n°2007-863 du 14 mai 2007 - art. 8 () JORF 15 mai 2007
+	  - Décret n°2015-197 du 20 février 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. R330-20 (M)
+	  - Code de l'environnement - art. R229-37-7
+	  - Code de l'aviation civile - art. R330-20 (V)
 
-	**Liens**:
 
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+###### Article R330-22-1
+
+Le ministre chargé de l'aviation civile publie sur le site internet du ministère chargé de l'aviation civile, pendant la
+durée qu'elle indique, l'intégralité ou un extrait de la décision de sanction devenue définitive prise au titre de l'article
+R. 330-20. L'identité des personnes physiques n'est pas divulguée lors de cette publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-197 du 20 février 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R330-20 (V)
 
 
 ###### Article R330-23
