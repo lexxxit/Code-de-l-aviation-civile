@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2015-12-31
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -7036,12 +7036,13 @@ professionnelles de transporteurs désignées par les transporteurs pour les rep
 Son président est élu par les membres du comité. Tout membre du comité peut se faire représenter par un autre membre qu'il
 mandate à cet effet. Le nombre de mandats que peut détenir un membre n'est pas limité. 
 
-Par dérogation aux articles 11 et 12 du décret n° 2006-672 du 8 juin 2006, le quorum est atteint lorsque le quart au moins
-des membres sont présents ou représentés. Pour le calcul du quorum, les organisations professionnelles sont décomptées en
-fonction du nombre de mandats de représentation qu'elles détiennent. Le nombre des voix de chaque membre est égal au nombre
-des unités de trafic embarqué ou débarqué sur l'aérodrome par ce membre lors de la dernière année civile pour laquelle le
-trafic de l'aérodrome est connu. Les organisations professionnelles auxquelles des transporteurs ont confié le soin de les
-représenter ont un nombre de voix égal à la somme des unités de trafic détenues par chacun de leurs mandants. 
+Par dérogation aux articles R. 133-10 et R. 133-11 du code des relations entre le public et l'administration, le quorum est
+atteint lorsque le quart au moins des membres sont présents ou représentés. Pour le calcul du quorum, les organisations
+professionnelles sont décomptées en fonction du nombre de mandats de représentation qu'elles détiennent. Le nombre des voix
+de chaque membre est égal au nombre des unités de trafic embarqué ou débarqué sur l'aérodrome par ce membre lors de la
+dernière année civile pour laquelle le trafic de l'aérodrome est connu. Les organisations professionnelles auxquelles des
+transporteurs ont confié le soin de les représenter ont un nombre de voix égal à la somme des unités de trafic détenues par
+chacun de leurs mandants. 
 
 Aux fins du présent article, on entend par unité de trafic le nombre entier de milliers de passagers embarqués ou débarqués
 par le transporteur aérien sur l'aérodrome, additionné du nombre entier de centaines de tonnes de fret embarqué à bord
@@ -7073,20 +7074,6 @@ renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°2006-672 du 8 juin 2006 - art. 11 (V)
-	  - Code de l'aviation civile - art. L221-1 (V)
-	  - Code de l'aviation civile - art. L251-2 (V)
-	  - Code de l'aviation civile - art. R216-11 (V)
-	  - Code de l'aviation civile - art. R216-3 (V)
-	  - Code de l'aviation civile - art. R216-5 (V)
-	  - Code de l'aviation civile - art. R216-7 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2009-551 du 19 mai 2009 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
@@ -7094,6 +7081,20 @@ renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 	  - Décret n°2015-622 du 5 juin 2015 - art. (V)
 	  - Code de l'aviation civile - art. D216-1 (V)
 	  - Code de l'aviation civile - art. R216-16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L221-1 (V)
+	  - Code de l'aviation civile - art. L251-2 (V)
+	  - Code de l'aviation civile - art. R216-11 (V)
+	  - Code de l'aviation civile - art. R216-3 (V)
+	  - Code de l'aviation civile - art. R216-5 (V)
+	  - Code de l'aviation civile - art. R216-7 (V)
+	  - Code des relations entre le public et l'adminis... - art. R133-10 (V)
 
 
 ###### Article R216-9
@@ -17278,26 +17279,17 @@ transports est fixée par arrêté conjoint des deux ministres.
 
 ###### Article R731-3
 
-Ils sont communicables dans les conditions prévues au titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses
-mesures d'amélioration des relations entre l'administration et le public.
+Ils sont communicables dans les conditions prévues au livre III du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°67-334 du 30 mars 1967
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
 
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978
-
-	**Modifié par**:
-
-	  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. R1621-10 (V)
+	  - Code des relations entre le public et l'adminis... - art. L300-1 (V)
 
 
 ### TITRE IV : DISPOSITIONS PENALES.
