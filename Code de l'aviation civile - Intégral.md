@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-05-01
 
 # Partie législative
 
@@ -6406,6 +6406,93 @@ concerné.
 	  - Décret n°2012-832 du 29 juin 2012 - art. 5
 
 
+###### Article R213-5-4
+
+Les exploitants d'aérodrome, les entreprises de transport aérien et les personnes morales exploitant un accès privatif à la
+zone de sûreté à accès règlementé, dont la liste est fixée par un arrêté conjoint du ministre chargé des transports et du
+ministre de l'intérieur, procèdent, dans leurs domaines d'activités respectifs, à une évaluation du comportement des
+personnes :
+
+- lors des opérations d'enregistrement réalisées sur l'emprise de l'aérodrome ;
+
+- lors des opérations d'inspection-filtrage ;
+
+- lors des opérations d'embarquement.
+
+L'évaluation du comportement des personnes peut également être mise en œuvre à tout moment sur le côté piste de l'aérodrome.
+
+Les modalités de mise en œuvre du présent article sont fixées par arrêté conjoint du ministre chargé des transports et du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-528 du 27 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R213-5-6 (V)
+	  - Code de l'aviation civile - art. R217-3 (V)
+
+
+###### Article R213-5-5
+
+L'évaluation du comportement des personnes consiste en une observation des personnes, accompagnée éventuellement de
+l'engagement d'une conversation, visant à détecter les personnes susceptibles de présenter un risque pour la sûreté de
+l'aviation civile.
+
+En cas de doute, celles-ci sont soumises, dans les conditions prévues à l'article L. 6342-4 du code des transports, à une
+opération d'inspection-filtrage suivant les méthodes autorisées figurant à la partie A de l'annexe du règlement (CE) n°
+272/2009 de la Commission du 2 avril 2009 modifié complétant les normes de base communes en matière de sûreté de l'aviation
+civile figurant à l'annexe du règlement (CE) n° 300/2008 du Parlement européen et du Conseil.
+
+L'observation peut être faite par l'intermédiaire d'un système de vidéoprotection prévu et mis en œuvre dans les conditions
+fixées par l'article L. 223-2 du code de la sécurité intérieure.
+
+Les modalités de mise en œuvre du présent article sont fixées par arrêté conjoint du ministre chargé des transports et du
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-528 du 27 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-4
+	  - Code de la sécurité intérieure - art. L223-2
+
+
+###### Article R213-5-6
+
+L'évaluation du comportement des personnes mentionnée aux articles R. 213-5-4 et R. 213-5-5 est réalisée par des personnels,
+dénommés agents d'évaluation du comportement, qui répondent aux conditions suivantes : 
+
+1° Détenir l'habilitation prévue à l'article L. 6342-3 du code des transports ; 
+
+2° Avoir suivi avec succès une formation spécifique initiale sanctionnée par la délivrance d'une qualification d'agent
+d'évaluation du comportement ; 
+
+3° Suivre une formation périodique. 
+
+Les conditions d'éligibilité à la formation initiale, le contenu et les modalités des formations requises, les fréquences des
+formations périodiques ainsi que les conditions de délivrance et de retrait de la qualification sont fixés par un arrêté du
+ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-528 du 27 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R213-5-4
+	  - Code des transports - art. L6342-3
+
+
 ##### Section 6 : Opérations d'enlèvement
 
 ###### Article R213-6
@@ -7601,7 +7688,7 @@ communes dans le domaine de la sûreté de l'aviation civile, de son annexe et d
 Commission en application de son article 4 ; 
 
 f) Des mesures prises par l'autorité administrative compétente en vertu du deuxième alinéa des articles L. 6753-1, L. 6763-5,
-L. 6773-5 et L. 6783-6 du code des transports ;
+L. 6773-5 et L. 6783-6 du code des transports ; 
 
 g) Des mesures restrictives d'activité et des mesures correctives ou de nature à compenser une non-conformité relevée prévues
 au II des articles R. 213-4 et R. 213-4-2, 
@@ -7613,7 +7700,7 @@ tirés, après avis de la commission instituée à l'article R. 217-3-3 :
 750 euros ;
 
 - soit suspendre l'autorisation ou le titre de circulation prévu aux articles R. 213-3-2 et R. 213-3-3 pour une durée ne
-pouvant pas excéder trente jours. Dans ce cas, il en exige la remise immédiate ;
+pouvant pas excéder trente jours. Dans ce cas, il en exige la remise immédiate ; 
 
 Toutefois, l'amende ne peut excéder 150 euros et la durée de la suspension six jours, en cas de défaut de port apparent ou de
 l'utilisation en dehors de leur zone de validité du titre de circulation ou d'une autorisation de circulation de véhicule.
@@ -7644,20 +7731,22 @@ g) Des mesures restrictives d'activité et des mesures correctives ou de nature 
 au II des articles R. 213-4 et R. 213-4-2 et à l'article R. 213-4-1 ; 
 
 h) Des mesures prises par l'autorité administrative compétente en vertu du deuxième alinéa des articles L. 6753-1, L. 6763-5,
-L. 6773-5 et L. 6783-6 du code des transports ;
+L. 6773-5 et L. 6783-6 du code des transports ; 
 
 i) Des III et IV de l'article R. 213-4, et du I de l'article R. 213-4-2 ; 
 
 j) Des mesures restrictives d'exploitation ou des mesures correctives ou de nature à compenser la non-conformité relevée,
-prévues au VI de l'article R. 213-7 du code de l'aviation civile,
+prévues au VI de l'article R. 213-7 du code de l'aviation civile, 
+
+k) Des articles R. 213-5-4, R. 213-5-5, R. 213-5-6 et des textes pris pour leur application ; 
 
 le préfet peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont
 tirés, après avis de la commission instituée à l'article R. 217-3-3, prononcer à l'encontre de la personne morale responsable
-une amende administrative d'un montant maximal de 7 500 euros.
+une amende administrative d'un montant maximal de 7 500 euros. 
 
 Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation des documents exigibles par la
 réglementation. Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à
-compter de la notification de la décision du préfet.
+compter de la notification de la décision du préfet. 
 
 III.-En cas de manquement aux obligations relatives au niveau de performance requis par la législation nationale et la
 réglementation de l'Union européenne et nationale, constaté par écrit circonstancié rédigé par un agent de l'Etat, organisme
@@ -7674,16 +7763,23 @@ de mesure.
 
 	**Modifié par**:
 
-	  - Décret n°2015-383 du 3 avril 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R217-3-2 (V)
-	  - Code de l'aviation civile - art. R217-3-3 (V)
-	  - Code de l'aviation civile - art. R217-3-4 (V)
+	  - Décret n°2016-528 du 27 avril 2016 - art. 2
 
 	**Cite**:
 
+	  - Code de l'aviation civile - art. R213-1-1
+	  - Code de l'aviation civile - art. R213-1-5
+	  - Code de l'aviation civile - art. R213-2-1 (V)
+	  - Code de l'aviation civile - art. R213-2-2 (V)
+	  - Code de l'aviation civile - art. R213-3
+	  - Code de l'aviation civile - art. R213-3-2 (V)
+	  - Code de l'aviation civile - art. R213-3-3
+	  - Code de l'aviation civile - art. R213-4
+	  - Code de l'aviation civile - art. R213-4-1 (V)
+	  - Code de l'aviation civile - art. R213-4-2 (V)
+	  - Code de l'aviation civile - art. R213-5-1 (V)
+	  - Code de l'aviation civile - art. R213-5-4 (V)
+	  - Code de l'aviation civile - art. R213-7 (V)
 	  - Code des transports - art. L6341-1
 	  - Code des transports - art. L6342-1
 	  - Code des transports - art. L6342-4
@@ -7691,6 +7787,12 @@ de mesure.
 	  - Code des transports - art. L6763-5
 	  - Code des transports - art. L6773-5
 	  - Code des transports - art. L6783-6
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R217-3-2 (V)
+	  - Code de l'aviation civile - art. R217-3-3 (V)
+	  - Code de l'aviation civile - art. R217-3-4 (V)
 
 
 ###### Article R217-3-1
