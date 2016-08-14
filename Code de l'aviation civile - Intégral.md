@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2016-06-25
+Version Consolidée au 2016-08-15
 
 # Partie législative
 
@@ -5070,78 +5070,26 @@ usage privé.
 
 ###### Article R211-3
 
-Les travaux de création ou d'extension d'infrastructure dont le coût total est supérieur au montant fixé à l'article R. 122-8
-du code de l'environnement donnent lieu à l'établissement préalable de l'étude d'impact définie à l'article 2 du même décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 1967-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R122-8 (M)
-
-
-###### Article R211-4
-
-Lorsqu'ils constituent des grands projets d'infrastructures tels que définis à l'article 3 du décret n° 84-617 du 17 juillet
-1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
-intérieurs, les travaux de création et d'extension d'infrastructures donnent lieu à l'évaluation mentionnée à l'article 5 du
-même décret.
+Les projets qui relèvent du tableau annexé à l'article R. 122-2 du code de l'environnement sont soumis à la réalisation
+préalable d'une évaluation environnementale ou d'un examen au cas par cas en fonction des critères et des seuils précisés
+dans ce tableau et ils sont, le cas échéant, précédés d'une enquête publique dans les conditions définies au titre II du
+livre Ier du même code.
 
 **Nota:**
 
-Texte de l'article 2 du décret n° 84-617 du 17 juillet 1984, et non l'article 3 (Journal officiel du 18 juillet 1984).
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
 
-**Liens relatifs à cet article**
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
 
-	**Codifié par**:
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
 
-	  - Décret n°67-334 1967-03-30
-
-	**Cite**:
-
-	  - Décret n°84-617 1984-07-17 art. 3, 5
-	  - Loi n°82-1153 du 30 décembre 1982
-
-	**Créé par**:
-
-	  - Décret n°84-617 du 17 juillet 1984 - art. 28 () JORF 18 juillet 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1110 du 11 août 2016 - art. 5
-
-
-###### Article R211-5
-
-En application de la loi n° 83-630 du 12 juillet 1983 et du décret n° 85-453 du 23 avril 1985 (1), les travaux suivants sont
-précédés d'une enquête publique organisée conformément aux dispositions des chapitres Ier et II dudit décret : 
-
-1. Réalisation d'un nouvel aérodrome, à l'exception des aérodromes à usage privé visés à l'article D. 233-1 du présent code
-et des hélistations destinées au transport à la demande. 
-
-2. Réalisation d'une nouvelle piste à l'intérieur des limites d'un aérodrome soumis à enquête en application du 1 ci-
-dessus ; 
-
-3. Travaux exécutés en vue du changement de catégorie, au sens des dispositions de l'article R. 222-5 du présent code, d'un
-aérodrome soumis à enquête en application du 1 ci-dessus. 
-
-Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée conformément aux
-dispositions du chapitre III du titre II du livre Ier du code de l'environnement.
-
-**Nota:**
-
-(1) : La loi n° 83-630 du 12 juillet 1983 a été abrogée par l'ordonnance n° 2000-914 du 18 septembre 2000 et ses dispositions
-codifiées sous les articles L. 123-1 à L. 123-16 du code de l'environnement. Le décret n° 85-453 du 23 avril 1985 est abrogé
-par le décret n° 2005-935 du 2 août 2005 ; ses dispositions sont codifiées sous les articles R. 123-1 à R. 123-33 du même
-code.
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -5149,20 +5097,13 @@ code.
 
 	  - Décret n°67-334 du 30 mars 1967
 
-	**Cite**:
-
-	  - Loi n°83-630 du 12 juillet 1983
-	  - Décret n°85-453 du 23 avril 1985
-	  - Code de l'aviation civile - art. D233-1
-	  - Code de l'aviation civile - art. R222-5
-
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-	**Abrogé par**:
-
 	  - Décret n°2016-1110 du 11 août 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R122-2 (V)
 
 
 ###### Article R211-6
