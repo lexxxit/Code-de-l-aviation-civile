@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2016-08-15
+Version Consolidée au 2016-09-01
 
 # Partie législative
 
@@ -20959,41 +20959,6 @@ exercées, du niveau de protection de l'aérodrome où doit s'exercer l'activit�
 
 
 ##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs
-
-###### Article D213-1-7
-
-Le ministre chargé de l'aviation civile et le ministre chargé de la sécurité civile déterminent par arrêté conjoint les
-règles techniques relatives aux produits extincteurs, véhicules et équipements affectés sur un aérodrome au service de
-sauvetage et de lutte contre l'incendie des aéronefs, ainsi que les conditions dans lesquelles il est attesté de la
-conformité de ces divers matériels aux règles techniques en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°67-334 du 30 mars 1967
-
-	**Créé par**:
-
-	  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
-
-	**Cité par**:
-
-	  - Arrêté du 9 janvier 2001 - art. 15 (V)
-	  - Arrêté du 18 janvier 2007 - art. 15 (VT)
-	  - Arrêté du 17 août 2010 - art. 4 (V)
-	  - Arrêté du 12 juillet 2012 - art. (VT)
-	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
-	  - Décret n°2016-1061 du 3 août 2016 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1061 du 3 août 2016 - art. 1
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
-
 
 ###### Article D213-1-8
 
