@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-26
 
 # Partie législative
 
@@ -8463,6 +8463,117 @@ missions.
 	  - Code de l'aviation civile - art. R132-4 (V)
 	  - Code de l'aviation civile - art. R221-13 (V)
 	  - Code de l'aviation civile - art. R221-14 (V)
+
+
+###### Article R221-13
+
+I.-Les missions assurées par le facilitateur d'horaires ou le coordonnateur, conformément au cahier des charges qui lui est
+applicable et au règlement mentionné à l'article R. 221-12, pour les aérodromes qualifiés d'aéroports à facilitation
+d'horaires ou d'aéroports coordonnés donnent lieu au versement d'une redevance pour service rendu. 
+
+II.-La redevance est payée, pour chaque atterrissage, à parts égales par l'exploitant d'aérodrome et par l'exploitant
+d'aéronefs concernés. La part incombant à l'exploitant d'aéronefs est perçue par l'exploitant d'aérodrome pour le compte du
+facilitateur d'horaires ou du coordonnateur. 
+
+III.-Le facilitateur d'horaires ou le coordonnateur de chaque aérodrome concerné établit une proposition de tarif pour la
+redevance, qui tient compte des prévisions d'évolution des charges de fonctionnement et en capital et des produits du
+facilitateur d'horaires ou du coordonnateur, des investissements nécessaires à la réalisation des missions qui lui sont
+confiées et des prévisions d'évolution du trafic sur l'aérodrome concerné. 
+
+Le comité de coordination prévu à l'article 5 du règlement mentionné à l'article R. 221-12 est consulté sur la proposition de
+tarif. 
+
+En cas d'avis favorable du comité, le ministre chargé de l'aviation civile homologue le tarif, après s'être assuré que la
+procédure de consultation du comité a été respectée et que le tarif respecte les règles générales applicables aux redevances
+pour services rendus. Le tarif est réputé homologué à l'expiration d'un délai fixé par l'arrêté mentionné à l'article R.
+221-15. 
+
+En cas d'absence d'avis ou d'avis défavorable du comité, le facilitateur d'horaires ou le coordonnateur de l'aérodrome
+concerné adresse au ministre chargé de l'aviation civile une nouvelle proposition tarifaire, sur laquelle l'avis du comité
+n'est pas recueilli. Le tarif est fixé par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-60 du 23 janvier 2017 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 2017 - art. (V)
+	  - Arrêté du 22 février 2017 - art. 1 (V)
+	  - Arrêté du 22 février 2017 - art. 2 (V)
+	  - Arrêté du 22 février 2017 - art. 3 (V)
+	  - Arrêté du 22 février 2017 - art. 4 (V)
+	  - Code de l'aviation civile - art. R221-14 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R221-12
+	  - Code de l'aviation civile - art. R221-15
+
+
+###### Article R221-14
+
+Par dérogation à l'article R. 221-13, pour les aérodromes qualifiés d'aéroports à facilitation d'horaires ou d'aéroports
+coordonnés dans les situations prévues au paragraphe 6 de l'article 3 du règlement mentionné à l'article R. 221-12, le
+facilitateur d'horaires ou le coordonnateur de l'aérodrome concerné propose le montant global de la redevance pour service
+rendu prévue au I de l'article R. 221-13, en tenant compte, pour la situation concernée, des prévisions d'évolution de ses
+charges de fonctionnement et en capital et de ses produits ainsi que des investissements liés à la réalisation des missions
+qui lui sont confiées. Ce montant est homologué par le ministre chargé de l'aviation civile, qui s'assure qu'il respecte les
+règles générales applicables aux redevances pour services rendus. 
+
+La redevance est payée par l'exploitant d'aérodrome et, pour chaque atterrissage, par les exploitants d'aéronefs qui
+utilisent l'aérodrome pendant la période concernée. La part incombant aux exploitants d'aéronefs est perçue par l'exploitant
+d'aérodrome pour le compte du facilitateur d'horaires ou du coordonnateur. 
+
+Le tarif, pour chaque atterrissage, de la part de la redevance incombant aux exploitants d'aéronefs est fixé de manière
+forfaitaire pour l'ensemble des situations mentionnées au premier alinéa, selon la procédure prévue au III de l'article R.
+221-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-60 du 23 janvier 2017 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 2017 - art. (V)
+	  - Arrêté du 22 février 2017 - art. 1 (V)
+	  - Arrêté du 22 février 2017 - art. 4 (V)
+	  - Arrêté du 22 février 2017 - art. 5 (V)
+	  - Code de l'aviation civile - art. R221-15 (V)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R221-12
+	  - Code de l'aviation civile - art. R221-13
+
+
+###### Article R221-15
+
+Les modalités d'application des articles R. 221-13 et R. 221-14 sont fixées par arrêté du ministre chargé de l'aviation
+civile, notamment :
+
+- la procédure de fixation et de publication des tarifs de la redevance ;
+
+- les informations que le coordonnateur ou le facilitateur d'horaires est tenu de communiquer au ministre chargé de
+l'aviation civile ;
+
+- les modalités de reversement au facilitateur d'horaires ou au coordonnateur de la part de la redevance incombant à
+l'exploitant d'aéronefs perçue par l'exploitant d'aérodrome.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-60 du 23 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R221-13
+	  - Code de l'aviation civile - art. R221-14
 
 
 #### CHAPITRE II : CLASSIFICATION.
